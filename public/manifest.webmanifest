@@ -1,0 +1,16 @@
+{
+  "name": "真题备考 · TOEIC/TOEFL",
+  "short_name": "真题备考",
+  "description": "TOEIC/TOEFL 碎片微练与全真模考，真题突击高分直通车",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

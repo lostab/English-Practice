@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* 视口高度链：html/body/root 100% → 当前可见视口（URL 栏开合自适应）；
+   app-viewport 依次回退 vh → dvh → 100% */
+html, body, #root {
+  height: 100%;
+}
+
+@utility app-viewport {
+  height: 100vh;
+  height: 100dvh;
+  height: 100%;
+}
+
+/* 移动端安全区（iPhone 底部横条等）。
+   注意：不能与 pb-* 同时使用——自定义 utility 生成在内置类之后，
+   无安全区时 env() 解析为 0，会覆盖 pb-* 的 padding。用 max() 合并最小值。 */
+@utility pb-safe {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom, 0px));
+}
+
+/* 顶部安全区（挖孔屏/刘海屏摄像头区域）：与内置 pt-* 冲突时用 max() 兜底 */
+@utility pt-safe {
+  padding-top: max(0.625rem, env(safe-area-inset-top, 0px));
+}

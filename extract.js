@@ -1,0 +1,1 @@
+const data = [`This Friday`,`On Monday`,`Next month`,`Tomorrow`]; process.stdout.write(JSON.stringify(data));
