@@ -1,8 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { usePracticeStore, mockQuestionCount } from './store/practiceStore';
-import type { PracticeSession } from './types';
+import type { PracticeSession, ExamType, Question } from './types';
 import { QUESTIONS } from './data/questions';
-import type { Question } from './data/questions';
 
 // ============ 全屏触发（仅移动端：点击任意地方进入全屏；PC 端不触发） ============
 function requestFullscreen() {
@@ -18,7 +17,7 @@ function requestFullscreen() {
 }
 
 // 计算托业/托福真实折算分
-function calculateScore(exam: ExamType, section: SectionType, correct: number, total: number): { score: number; maxScore: number; level: string } {
+function calculateScore(exam: ExamType, correct: number, total: number): { score: number; maxScore: number; level: string } {
   if (total === 0) return { score: 0, maxScore: exam === 'toeic' ? 495 : 30, level: '未作答' };
   const ratio = correct / total;
   if (exam === 'toeic') {
@@ -63,7 +62,7 @@ function ResultCard({ session }: { session: PracticeSession }) {
   // 模考模式计算真实考试折算分（TOEIC 单项 495 / TOEFL 单项 30）；碎片模式不适用
   const isMock = !session.stats;
   const scoreInfo = isMock
-    ? calculateScore(session.exam, session.section, correct, total)
+    ? calculateScore(session.exam, correct, total)
     : null;
 
   return (
@@ -227,14 +226,12 @@ function ResultCard({ session }: { session: PracticeSession }) {
 function AudioPlayer({ text, audioSrc }: { text: string; audioSrc?: string }) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [progress, setProgress] = useState(0);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
 
   // audioSrc 变化时强制重置播放器（防止旧音频残留）
   useEffect(() => {
     setIsPlaying(false);
-    setProgress(0);
     setCurrentTime(0);
     setDuration(0);
     const audio = audioRef.current;
@@ -263,13 +260,11 @@ function AudioPlayer({ text, audioSrc }: { text: string; audioSrc?: string }) {
     if (audio && audio.duration) {
       setCurrentTime(audio.currentTime);
       setDuration(audio.duration);
-      setProgress((audio.currentTime / audio.duration) * 100);
     }
   };
 
   const onEnded = () => {
     setIsPlaying(false);
-    setProgress(100);
     setCurrentTime(duration);
   };
 
@@ -368,7 +363,7 @@ function QuestionCard({
             </div>
             {question.audio && (
               <div className="mt-2">
-                <AudioPlayer text={question.audio} audioSrc={`/audio/${question.id}.wav?v=3`} />
+                <AudioPlayer text={question.audio} audioSrc={`https://audio.ep.shuxia.site/audio/${question.id}.wav`} />
               </div>
             )}
           </div>
@@ -377,7 +372,7 @@ function QuestionCard({
         {/* 无阅读材料时：音频播放器直接放题目上方 */}
         {!question.passage && question.audio && (
           <div className="mb-3 flex justify-center">
-            <AudioPlayer text={question.audio} audioSrc={`/audio/${question.id}.wav?v=3`} />
+            <AudioPlayer text={question.audio} audioSrc={`https://audio.ep.shuxia.site/audio/${question.id}.wav`} />
           </div>
         )}
 
