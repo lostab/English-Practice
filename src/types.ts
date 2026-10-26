@@ -2,11 +2,24 @@ export type PracticeMode = 'fragment' | 'mock';
 export type ExamType = 'toeic' | 'toefl';
 export type SectionType = 'listening' | 'reading';
 
+export interface Question {
+  id: string;
+  exam: ExamType;
+  section: SectionType;
+  part: number;
+  audio?: string;
+  passage?: string;
+  question: string;
+  options: string[];
+  answer: number;
+  explanation: string;
+}
+
 export interface PracticeSession {
   mode: PracticeMode;
   exam: ExamType;
   section: SectionType;
-  questions: import('../data/questions').Question[];
+  questions: Question[];
   answers: (number | null)[];
   currentIndex: number;
   startTime: number;
@@ -23,5 +36,5 @@ export interface PracticeResult {
   unanswered: number;
   accuracy: number;
   timeUsedSec: number;
-  wrongQuestions: import('../data/questions').Question[];
+  wrongQuestions: Question[];
 }

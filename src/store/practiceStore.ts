@@ -1,7 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import { QUESTIONS } from '../data/questions';
-import type { PracticeMode, ExamType, SectionType, PracticeSession } from '../types';
+import type { PracticeMode, ExamType, SectionType, PracticeSession, Question } from '../types';
 
 interface PracticeStore {
   session: PracticeSession | null;
@@ -61,7 +61,7 @@ function pickQuestions(mode: PracticeMode, exam: ExamType, section: SectionType,
 }
 
 // 碎片单题流：从未用过的题里抽一道新题
-function pickNextQuestion(exam: ExamType, section: SectionType, usedIds: Set<string>): import('../data/questions').Question | null {
+function pickNextQuestion(exam: ExamType, section: SectionType, usedIds: Set<string>): Question | null {
   const pool = QUESTIONS.filter(q => q.exam === exam && q.section === section && !usedIds.has(q.id));
   if (pool.length === 0) return null;
   return pool[Math.floor(Math.random() * pool.length)];

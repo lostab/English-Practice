@@ -3,18 +3,7 @@ import { usePracticeStore, mockQuestionCount } from './store/practiceStore';
 import type { PracticeSession, ExamType, Question } from './types';
 import { QUESTIONS } from './data/questions';
 
-// ============ 全屏触发（仅移动端：点击任意地方进入全屏；PC 端不触发） ============
-function requestFullscreen() {
-  // 仅移动端生效：触屏设备（粗指针）或窄屏。PC 桌面鼠标/键盘直接忽略
-  const isMobile =
-    window.matchMedia('(pointer: coarse)').matches ||
-    window.matchMedia('(max-width: 768px)').matches ||
-    'ontouchstart' in window;
-  if (!isMobile) return;
-  if (!document.fullscreenElement) {
-    document.documentElement.requestFullscreen().catch(() => {});
-  }
-}
+// (已移除全屏触发逻辑)
 
 // 计算托业/托福真实折算分
 function calculateScore(exam: ExamType, correct: number, total: number): { score: number; maxScore: number; level: string } {
@@ -66,8 +55,8 @@ function ResultCard({ session }: { session: PracticeSession }) {
     : null;
 
   return (
-    <div onClick={requestFullscreen} className="app-viewport bg-slate-950 text-slate-100 flex flex-col">
-      {/* 成绩单头部（固定区域：标题 + 极简分数大卡 + 四合一统计卡） */}
+    <div className="app-viewport bg-slate-950 text-slate-100 flex flex-col">
+          {/* 成绩单头部（固定区域：标题 + 极简分数大卡 + 四合一统计卡） */}
       <div className="bg-slate-900/90 backdrop-blur-xl border-b border-slate-800 shadow-2xl relative overflow-hidden shrink-0 pt-safe">
         <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-indigo-500 via-amber-400 to-emerald-400"></div>
         <div className="max-w-2xl lg:max-w-6xl mx-auto px-4 sm:px-6 py-2.5">
@@ -160,7 +149,7 @@ function ResultCard({ session }: { session: PracticeSession }) {
                         className="w-full flex items-center justify-between gap-3 p-4 text-left hover:bg-slate-800/80 transition-colors"
                       >
                         <div className="min-w-0">
-                          <div className="text-xs font-bold text-rose-400 mb-1">❌ 错题 #{idx + 1}</div>
+                          <div className="text-xs font-bold text-rose-400 mb-1">❌ 错题 #{idx + 1} <span className="text-slate-400 font-mono font-normal">({q.id})</span></div>
                           <div className="font-medium text-slate-200 text-sm line-clamp-2">{q.question}</div>
                         </div>
                         <span className={`text-slate-500 text-xs shrink-0 transition-transform ${isOpen ? 'rotate-180' : ''}`}>
@@ -268,6 +257,51 @@ function AudioPlayer({ text, audioSrc }: { text: string; audioSrc?: string }) {
     setCurrentTime(duration);
   };
 
+  const seekTo = (time: number) => {
+    const audio = audioRef.current;
+    if (audio) {
+      audio.currentTime = time;
+    }
+  };
+
+  // 进度条样式：track（灰色底轨）+ progress（蓝色进度）+ thumb（滑块）
+  const progressStyle: React.CSSProperties = {
+    WebkitAppearance: 'none' as const,
+    width: '100%',
+    height: '6px',
+    borderRadius: '9999px',
+    background: 'linear-gradient(to right, #4f46e5 0%, #4f46e5 ' +
+      (duration ? `${(currentTime / duration) * 100}%` : '0%') + ', #334155 ' +
+      (duration ? `${(currentTime / duration) * 100}%` : '0%') + ', #334155 100%)',
+    outline: 'none',
+  };
+
+  // 格式化听力原文：识别 "角色名: " 前缀，拆分为对话行并高亮角色名（方便阅读）
+  const renderTranscript = (raw: string) => {
+    // 在 "RoleName: " 前分割（支持双词角色名如 "Receiving Staff"）
+    const lines = raw
+      .split(/(?=(?:[A-Z][a-zA-Z]+(?:\s[A-Z][a-zA-Z]+)?):\s)/)
+      .map(l => l.trim())
+      .filter(Boolean);
+    if (lines.length <= 1) return <>{raw}</>;
+    return lines.map((line, i) => {
+      const m = line.match(/^([A-Z][a-zA-Z]+(?:\s[A-Z][a-zA-Z]+)?):\s?(.*)$/s);
+      if (m) {
+        return (
+          <div key={i} className="mb-1 last:mb-0">
+            <span className="font-bold text-indigo-300">{m[1]}</span>
+            <span className="text-indigo-300/60">: </span>
+            <span>{m[2]}</span>
+          </div>
+        );
+      }
+      return <div key={i}>{line}</div>;
+    });
+  };
+
+  // 兼容不同浏览器的滑块样式（thumb 样式通过全局 <style> 定义，因为 input 伪元素无法内联）
+
+
   return (
     <div className="bg-indigo-950/60 border border-indigo-700/40 rounded-2xl p-3 mb-3 w-full">
       <div className="flex flex-wrap items-center justify-between gap-2 mb-2">
@@ -296,28 +330,81 @@ function AudioPlayer({ text, audioSrc }: { text: string; audioSrc?: string }) {
         </div>
       </div>
 
+      {/* 进度条：始终渲染（duration 未加载时显示灰色占位，避免布局抖动） */}
+            <div className="flex items-center gap-2 mb-2">
+              <span className={`text-[10px] text-indigo-400/80 tabular-nums w-8 text-right shrink-0 ${duration > 0 ? '' : 'invisible'}`}>
+                {Math.floor(currentTime)}s
+              </span>
+              <input
+                type="range"
+                min={0}
+                max={duration || 1}
+                step={0.1}
+                value={Math.min(currentTime, duration || 0)}
+                onChange={e => seekTo(parseFloat(e.target.value))}
+                disabled={duration === 0}
+                className={`flex-1 ${duration > 0 ? 'cursor-pointer' : 'cursor-wait opacity-40'}`}
+                style={progressStyle}
+                aria-label="播放进度"
+              />
+              <span className={`text-[10px] text-indigo-400/80 tabular-nums w-8 shrink-0 ${duration > 0 ? '' : 'invisible'}`}>
+                {Math.floor(duration)}s
+              </span>
+            </div>
+
+                  {/* 滑块 thumb 全局样式（input range 的伪元素无法内联） */}
+      <style>{`
+        input[type='range']::-webkit-slider-thumb {
+          -webkit-appearance: none;
+          appearance: none;
+          width: 14px;
+          height: 14px;
+          border-radius: 50%;
+          background: #818cf8;
+          border: 2px solid #ffffff;
+          cursor: pointer;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        input[type='range']::-moz-range-thumb {
+          width: 14px;
+          height: 14px;
+          border-radius: 50%;
+          background: #818cf8;
+          border: 2px solid #ffffff;
+          cursor: pointer;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        input[type='range']::-moz-range-track {
+          height: 6px;
+          border-radius: 9999px;
+          background: #334155;
+        }
+      `}</style>
+
       <details className="group">
         <summary className="cursor-pointer text-[10px] text-indigo-300/70 hover:text-indigo-200 font-medium select-none">
           📄 查看听力原文（答题后再对照）
         </summary>
-        <p className="mt-1.5 text-[11px] text-indigo-200/80 leading-relaxed bg-slate-900/40 rounded-lg p-2 border border-slate-700/40 max-h-24 overflow-y-auto">
-          {text}
-        </p>
+        <div className="mt-1.5 text-[11px] text-indigo-200/80 leading-relaxed bg-slate-900/40 rounded-lg p-2 border border-slate-700/40 max-h-24 overflow-y-auto">
+          {renderTranscript(text)}
+        </div>
       </details>
 
-      {/* 原生 audio 元素 */}
-      {audioSrc && (
-        <audio
-          ref={audioRef}
-          src={audioSrc}
-          preload="auto"
-          onPlay={() => setIsPlaying(true)}
-          onPause={() => setIsPlaying(false)}
-          onEnded={onEnded}
-          onTimeUpdate={onTimeUpdate}
-          onLoadedMetadata={onTimeUpdate}
-        />
-      )}
+      {/* 原生 audio 元素：Safari 不认 24kHz PCM WAV，主源用 AAC/M4A，WAV 兜底 */}
+            {audioSrc && (
+              <audio
+                ref={audioRef}
+                preload="auto"
+                onPlay={() => setIsPlaying(true)}
+                onPause={() => setIsPlaying(false)}
+                onEnded={onEnded}
+                onTimeUpdate={onTimeUpdate}
+                onLoadedMetadata={onTimeUpdate}
+              >
+                <source src={audioSrc.replace(/\.wav$/, '.m4a')} type="audio/mp4" />
+                <source src={audioSrc} type="audio/wav" />
+              </audio>
+            )}
     </div>
   );
 }
@@ -342,7 +429,7 @@ function QuestionCard({
     <div className="bg-slate-900/90 backdrop-blur-xl border border-slate-800 rounded-3xl p-4 sm:p-6 shadow-2xl text-slate-100 h-full flex flex-col overflow-hidden">
       <div className="flex justify-between items-center mb-4">
         <span className="px-3 py-1 bg-indigo-500/15 border border-indigo-500/30 text-indigo-300 rounded-full text-[11px] font-bold tracking-wider uppercase">
-          Question {questionIndex + 1}
+          Question {questionIndex + 1} ({question.id})
         </span>
         <span className="px-3 py-1 bg-slate-800/80 border border-slate-700 text-slate-400 rounded-full text-[11px] font-semibold tracking-widest uppercase">
           {question.exam} · Part {question.part}
@@ -480,8 +567,8 @@ function PracticeView({ session }: { session: PracticeSession }) {
   }, [isFragment]);
 
   return (
-    <div onClick={requestFullscreen} className="app-viewport bg-slate-950 text-slate-100 flex flex-col">
-      {/* 顶栏 */}
+    <div className="app-viewport bg-slate-950 text-slate-100 flex flex-col">
+          {/* 顶栏 */}
       <div className="bg-slate-900/90 backdrop-blur-xl border-b border-slate-800 z-25 shrink-0 flex items-center">
         <div className="max-w-2xl lg:max-w-6xl mx-auto px-4 py-3 w-full flex justify-between items-center text-xs">
           <div className="flex items-center gap-2">
@@ -576,7 +663,7 @@ export default function App() {
   }
 
   return (
-    <div onClick={requestFullscreen} className="app-viewport bg-slate-950 text-slate-100 flex flex-col items-center justify-center p-4 sm:p-6 relative overflow-hidden cursor-pointer md:cursor-default">
+    <div className="app-viewport bg-slate-950 text-slate-100 flex flex-col items-center justify-center p-4 sm:p-6 relative overflow-hidden cursor-pointer md:cursor-default">
       {/* 背景装饰光晕 */}
       <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-indigo-600/15 rounded-full blur-3xl pointer-events-none"></div>
       <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-purple-600/15 rounded-full blur-3xl pointer-events-none"></div>
@@ -598,22 +685,22 @@ export default function App() {
             碎片微练 ∙ 全真模考 ∙ 权威解析，随时随地高效备考。
           </p>
 
-          {/* 统计卡片（仅桌面显示，动态统计） */}
-          <div className="hidden lg:grid grid-cols-4 gap-3">
-            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-3 text-center">
-              <div className="text-xl font-black text-indigo-400">{QUESTIONS.length}</div>
+          {/* 统计卡片（全端显示，移动端两列、桌面四列） */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
+            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-2.5 sm:p-3 text-center">
+              <div className="text-lg sm:text-xl font-black text-indigo-400">{QUESTIONS.length}</div>
               <div className="text-[10px] text-slate-500 font-semibold uppercase mt-0.5">总题库</div>
             </div>
-            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-3 text-center">
-              <div className="text-xl font-black text-amber-400">2</div>
+            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-2.5 sm:p-3 text-center">
+              <div className="text-lg sm:text-xl font-black text-amber-400">2</div>
               <div className="text-[10px] text-slate-500 font-semibold uppercase mt-0.5">考试科目</div>
             </div>
-            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-3 text-center">
-              <div className="text-xl font-black text-emerald-400">{QUESTIONS.filter(q => q.section === 'listening').length}</div>
+            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-2.5 sm:p-3 text-center">
+              <div className="text-lg sm:text-xl font-black text-emerald-400">{QUESTIONS.filter(q => q.section === 'listening').length}</div>
               <div className="text-[10px] text-slate-500 font-semibold uppercase mt-0.5">听力题</div>
             </div>
-            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-3 text-center">
-              <div className="text-xl font-black text-rose-400">{QUESTIONS.filter(q => q.section === 'reading').length}</div>
+            <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-2.5 sm:p-3 text-center">
+              <div className="text-lg sm:text-xl font-black text-rose-400">{QUESTIONS.filter(q => q.section === 'reading').length}</div>
               <div className="text-[10px] text-slate-500 font-semibold uppercase mt-0.5">阅读题</div>
             </div>
           </div>
