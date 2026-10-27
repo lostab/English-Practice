@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg12" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070F"/>
+      <stop offset="0.5" stop-color="#0A1120"/>
+      <stop offset="1" stop-color="#070C1A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FACC15"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="glow12" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg12)"/>
+  <!-- Top accent -->
+  <rect x="0" y="0" width="1280" height="6" fill="url(#gold)"/>
+  <!-- Central quote -->
+  <text x="94" y="240" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">智能家居战争，已从</text>
+  <text x="94" y="310" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">「卖硬件」转向<tspan fill="#FACC15">「卖系统与体验」</tspan></text>
+  <!-- Divider -->
+  <rect x="96" y="356" width="520" height="3" rx="1.5" fill="url(#gold)"/>
+  <!-- Three pillars -->
+  <g transform="translate(96 420)">
+    <!-- Apple -->
+    <rect x="0" y="0" width="350" height="140" rx="14" fill="#0E1830" stroke="#0EA5E9" stroke-width="1.5"/>
+    <text x="24" y="40" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// APPLE</text>
+    <text x="24" y="74" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">系统统一 + 隐私为矛</text>
+    <text x="24" y="104" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">A18 专芯 · HomeView · 三方联盟</text>
+    <!-- Huawei -->
+    <rect x="370" y="0" width="350" height="140" rx="14" fill="#0E1830" stroke="#F59E0B" stroke-width="1.5"/>
+    <text x="394" y="40" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">// HUAWEI</text>
+    <text x="394" y="74" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">空间形态 + 工程渠道为矛</text>
+    <text x="394" y="104" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">S2 空间穿越 · 全屋主机 + PLC</text>
+    <!-- Xiaomi -->
+    <rect x="740" y="0" width="350" height="140" rx="14" fill="#0E1830" stroke="#10B981" stroke-width="1.5"/>
+    <text x="764" y="40" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">// XIAOMI</text>
+    <text x="764" y="74" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">生态广度 + 普及度领跑</text>
+    <text x="764" y="104" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">入门价位 · 自研 Mesh 组网 + 小爱同学</text>
+  </g>
+  <!-- Recommendation matrix -->
+  <g transform="translate(96 600)">
+    <rect x="0" y="0" width="1088" height="80" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="24" y="30" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">// RECOMMENDATION</text>
+    <!-- 3 recommendation boxes -->
+    <rect x="24" y="48" width="330" height="60" rx="10" fill="#0E2440" stroke="#0EA5E9"/>
+    <text x="40" y="74" font-family="Helvetica Neue, sans-serif" font-size="14" font-weight="700" fill="#7DD3FC">高端商务/隐私敏感 → Apple</text>
+    <text x="40" y="96" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">A18 + 端侧隐私 + 系统统一</text>
+    <rect x="370" y="48" width="330" height="60" rx="10" fill="#0E2440" stroke="#F59E0B"/>
+    <text x="386" y="74" font-family="Helvetica Neue, sans-serif" font-size="14" font-weight="700" fill="#FCD34D">全屋装修/鸿蒙生态 → Huawei</text>
+    <text x="386" y="96" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">空间穿越 + 多设备协同 + 国产链</text>
+    <rect x="716" y="48" width="330" height="60" rx="10" fill="#0E2440" stroke="#10B981"/>
+    <text x="732" y="74" font-family="Helvetica Neue, sans-serif" font-size="14" font-weight="700" fill="#6EE7B7">预算有限/米家用户 → Xiaomi</text>
+    <text x="732" y="96" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">入门价位 + 小爱同学 + 自研生态</text>
+  </g>
+  <!-- Data source footer -->
+  <text x="96" y="690" font-family="Arial, sans-serif" font-size="11" fill="#64748B">数据来源：Apple 官方新闻稿与规格页 · 华为 consumer.huawei.com · 小米 mi.com/xiaomi-smartdisplay-11 · 未披露项标注「官方未公布」</text>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="14" fill="#475569">21 / 23</text>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg11" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <filter id="glow11" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg11)"/>
+  <g stroke="#16324D" stroke-width="1" opacity="0.35">
+    <path d="M0 180H1280M0 360H1280M0 540H1280M160 0V720M400 0V720M640 0V720M880 0V720M1120 0V720"/>
+  </g>
+
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// ROADMAP &amp; 战略思考</text>
+  <text x="94" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">产业思考与后续演进路线</text>
+  <rect x="96" y="172" width="260" height="3" rx="1.5" fill="#22D3EE"/>
+
+  <!-- 4 strategy cards -->
+  <g transform="translate(96 230)">
+    <rect x="0" y="0" width="260" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="36" font-family="Consolas, monospace" font-size="28" fill="#22D3EE" filter="url(#glow11)">01</text>
+    <text x="20" y="78" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">系统级竞争</text>
+    <text x="20" y="108" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">卖「家庭操作系统」体验</text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">与隐私承诺</text>
+
+    <rect x="276" y="0" width="260" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="36" font-family="Consolas, monospace" font-size="28" fill="#22D3EE" filter="url(#glow11)">02</text>
+    <text x="20" y="78" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">硬件-软件一体化</text>
+    <text x="20" y="108" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">A18 专芯 + HomeView</text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">不可分割的护城河</text>
+
+    <rect x="552" y="0" width="260" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="36" font-family="Consolas, monospace" font-size="28" fill="#22D3EE" filter="url(#glow11)">03</text>
+    <text x="20" y="78" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">生态同盟而非封闭</text>
+    <text x="20" y="108" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">LG / Schneider / ADT</text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">关键硬件开放合作</text>
+
+    <rect x="828" y="0" width="260" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="36" font-family="Consolas, monospace" font-size="28" fill="#22D3EE" filter="url(#glow11)">04</text>
+    <text x="20" y="78" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">隐私成为核心差异化</text>
+    <text x="20" y="108" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">端侧处理 + Private Cloud Compute</text>
+    <text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">「可信任的家庭 OS」心智</text>
+  </g>
+
+  <!-- Roadmap -->
+  <g transform="translate(96 420)">
+    <text x="0" y="22" font-family="Consolas, monospace" font-size="18" letter-spacing="2" fill="#7DD3FC">// ROADMAP · 演进预测</text>
+    <rect x="0" y="48" width="1088" height="130" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <g>
+      <rect x="20" y="70" width="240" height="88" rx="10" fill="#0E2440" stroke="#1E3A5F"/>
+      <text x="36" y="98" font-family="Consolas, monospace" font-size="15" fill="#22D3EE">2027 Q1</text>
+      <text x="36" y="126" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">HomeOS 2.1</text>
+      <text x="36" y="148" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">跨协议调和</text>
+
+      <rect x="280" y="70" width="240" height="88" rx="10" fill="#0E2440" stroke="#1E3A5F"/>
+      <text x="296" y="98" font-family="Consolas, monospace" font-size="15" fill="#22D3EE">2027 Q2</text>
+      <text x="296" y="126" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">传感器微型化</text>
+      <text x="296" y="148" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">嵌入家电/灯具</text>
+
+      <rect x="540" y="70" width="240" height="88" rx="10" fill="#0E2440" stroke="#1E3A5F"/>
+      <text x="556" y="98" font-family="Consolas, monospace" font-size="15" fill="#22D3EE">2027 Q3</text>
+      <text x="556" y="126" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">Vision Pro 家庭版</text>
+      <text x="556" y="148" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">空间计算进客厅</text>
+
+      <rect x="800" y="70" width="248" height="88" rx="10" fill="#0E2440" stroke="#22D3EE" stroke-width="1.5"/>
+      <text x="816" y="98" font-family="Consolas, monospace" font-size="15" fill="#A5F3FC">2028 Q1</text>
+      <text x="816" y="126" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#A5F3FC">跨平台开放</text>
+      <text x="816" y="148" font-family="Arial, sans-serif" font-size="13" fill="#7DD3FC">安卓/Windows API</text>
+    </g>
+  </g>
+
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">11 / 12</text>
+</svg>

@@ -1,0 +1,353 @@
+[
+  {
+    "id": "toefl-r-252",
+    "passage": "Cognitive dissonance is a psychological phenomenon in which individuals experience mental discomfort when their beliefs, attitudes, or behaviors are in conflict. First identified by Leon Festinger in 1957, the theory suggests that people are motivated to reduce this discomfort by changing their beliefs, justifying their behavior, or dismissing contradictory information. Research has shown that the greater the conflict, the stronger the motivation to resolve it. This concept has been applied in various fields, including marketing, where consumers rationalize purchases that do not meet their expectations, and in organizational psychology, where employees align their attitudes with company policies they initially resisted.",
+    "question": "According to the passage, how do people reduce cognitive dissonance?",
+    "options": [
+      "By changing beliefs, justifying behavior, or dismissing contradictory information",
+      "By seeking out more conflicting information",
+      "By ignoring all psychological theories",
+      "By accepting that discomfort cannot be reduced"
+    ],
+    "answer": 0,
+    "explanation": "文章明确指出 people are motivated to reduce this discomfort by changing their beliefs, justifying their behavior, or dismissing contradictory information，故选A。"
+  },
+  {
+    "id": "toefl-r-253",
+    "passage": "The study of climate change has revealed unprecedented shifts in global weather patterns over the past century. Scientists have documented rising average temperatures, melting polar ice caps, and increasingly frequent extreme weather events such as hurricanes and droughts. These changes are primarily attributed to human activities, particularly the emission of greenhouse gases from fossil fuel combustion and deforestation. While natural factors also influence climate, the overwhelming consensus among researchers indicates that anthropogenic influences are the dominant driver of contemporary environmental transformation.",
+    "question": "What is the primary cause of contemporary climate change according to the passage?",
+    "options": [
+      "Natural factors such as volcanic eruptions",
+      "Human activities like fossil fuel combustion and deforestation",
+      "Government regulations on industrial emissions",
+      "Solar radiation variations"
+    ],
+    "answer": 1,
+    "explanation": "文章指出人类活动，如化石燃料燃烧和森林砍伐，是当代环境转变的主要驱动因素，故选B。"
+  },
+  {
+    "id": "toefl-r-254",
+    "passage": "Quantum computing represents a paradigm shift in information processing, leveraging the principles of superposition and entanglement to perform calculations far beyond the capacity of classical computers. Unlike traditional bits that exist in binary states, quantum bits or qubits can represent both 0 and 1 simultaneously, enabling parallel computation across multiple states. Early prototypes have demonstrated exponential speedups for specific problems such as integer factorization and database search, though practical, error-resistant quantum machines remain years away from widespread deployment.",
+    "question": "Which statement accurately describes quantum computing?",
+    "options": [
+      "It uses classical bits that operate in binary states only",
+      "It leverages superposition and entanglement for parallel computation",
+      "Its development is limited to theoretical models without experimental proof",
+      "It requires no special hardware due to low energy consumption"
+    ],
+    "answer": 1,
+    "explanation": "文章强调量子计算机利用叠加和纠缠实现并行计算，这是经典计算机无法比拟的特性，故选B。"
+  },
+  {
+    "id": "toefl-r-255",
+    "passage": "The ancient city of Petra, located in modern-day Jordan, was carved directly into the red sandstone cliffs over two millennia ago. Originally known as the Siq Al-Masjid, the city flourished as a major trading hub connecting Arabia, Egypt, and the Mediterranean world. Its architectural marvels, such as the Treasury (Al-Khazneh) and the Monastery (Ad-Deir), showcase sophisticated engineering techniques adapted to the harsh desert environment. Today, Petra attracts millions of tourists annually, serving as a testament to human ingenuity and cultural preservation.",
+    "question": "Why was Petra significant historically?",
+    "options": [
+      "Because it was the largest empire in the ancient world",
+      "As a major trading hub connecting diverse regions",
+      "Due to its advanced military fortifications",
+      "For being the birthplace of modern tourism industry"
+    ],
+    "answer": 1,
+    "explanation": "文章指出佩特是古代贸易路线的重要枢纽，连接阿拉伯、埃及和地中海世界，因此具有重要历史意义，故选B。"
+  },
+  {
+    "id": "toefl-r-256",
+    "passage": "In the realm of behavioral economics, the concept of loss aversion explains why individuals often feel the pain of losing money more intensely than the pleasure of gaining equivalent amounts. This bias leads people to make risk-averse choices even when rational analysis would suggest taking risks for higher expected gains. Experimental studies demonstrate that losses loom larger in decision-making, causing investors to hold onto declining stocks too long while selling winners too early. Understanding loss aversion helps policymakers design interventions that encourage more prudent financial behavior.",
+    "question": "What does loss aversion imply about human decision-making?",
+    "options": [
+      "People prefer equal gains over unequal ones",
+      "Individuals are more sensitive to potential losses than gains",
+      "Risk-taking increases when potential rewards are high",
+      "Loss aversion encourages diversification of investments"
+    ],
+    "answer": 1,
+    "explanation": "文章说明损失厌恶导致人们对潜在损失更敏感，从而倾向于风险规避，故选B。"
+  },
+  {
+    "id": "toefl-r-257",
+    "passage": "The human genome project has successfully mapped the complete sequence of human DNA, providing unprecedented insights into genetic variation and disease mechanisms. By sequencing over three billion base pairs, researchers have identified thousands of genes associated with hereditary conditions such as cystic fibrosis, sickle cell anemia, and Huntington's disease. This foundational knowledge enables personalized medicine approaches, allowing doctors to tailor treatments based on individual genetic profiles rather than one-size-fits-all protocols.",
+    "question": "How has the human genome project contributed to medical science?",
+    "options": [
+      "It eliminated the need for clinical trials",
+      "It enabled personalized medicine based on genetic profiles",
+      "It proved that genetics play no role in disease",
+      "It replaced traditional diagnostic methods entirely"
+    ],
+    "answer": 2,
+    "explanation": "文章指出人类基因组计划成功绘制了完整的人类DNA序列，为遗传疾病研究提供了基础，从而推动个性化医疗，故选C。"
+  },
+  {
+    "id": "toefl-r-258",
+    "passage": "The Great Barrier Reef, stretching over 2,300 kilometers along Australia's coast, is the largest coral reef system globally and harbors immense biodiversity. Comprising over 1,900 individual reefs and 90 species of corals, the ecosystem supports thousands of marine species ranging from colorful fish to endangered sea turtles. However, rising ocean temperatures caused by climate change have triggered mass bleaching events, threatening the survival of countless organisms. Conservation efforts now focus on reducing pollution, protecting marine habitats, and implementing sustainable fishing practices to preserve this natural wonder.",
+    "question": "What threat is facing the Great Barrier Reef?",
+    "options": [
+      "Overfishing by commercial industries",
+      "Climate change-induced ocean warming",
+      "Lack of government funding for conservation",
+      "Introduction of invasive land animals"
+    ],
+    "answer": 1,
+    "explanation": "文章指出气候变化引起的海洋温度升高导致大规模白化事件，威胁珊瑚礁生态系统，故选B。"
+  },
+  {
+    "id": "toefl-r-259",
+    "passage": "Artificial intelligence has revolutionized the field of education by enabling adaptive learning platforms that customize instruction to individual student needs. These systems analyze performance data in real time, adjusting difficulty levels and content delivery to optimize engagement and mastery. Teachers benefit from AI-generated insights that highlight areas where students struggle, allowing for targeted intervention. While concerns about privacy and algorithmic bias persist, the overall impact of AI on learning environments remains largely positive.",
+    "question": "What is a key benefit of artificial intelligence in education?",
+    "options": [
+      "It eliminates the need for human teachers",
+      "It provides adaptive learning tailored to individual students",
+      "It reduces the importance of standardized assessments",
+      "It guarantees perfect academic outcomes for all learners"
+    ],
+    "answer": 2,
+    "explanation": "文章强调人工智能在教育中的核心优势是能够根据学生个体需求提供适应性学习平台，故选C。"
+  },
+  {
+    "id": "toefl-r-260",
+    "passage": "The study of linguistics reveals that language evolves through social interaction and cultural transmission. Children acquire their first language by listening to caregivers and imitating sounds, gradually internalizing grammatical rules through exposure. As communities develop, dialects emerge and spread, sometimes diverging significantly from ancestral forms. Modern computational methods now allow researchers to trace linguistic changes across centuries, offering empirical evidence for theories previously based solely on anecdotal observation.",
+    "question": "How does the passage describe language evolution?",
+    "options": [
+      "Language changes only through written records",
+      "Children learn language exclusively from formal classrooms",
+      "Social interaction and cultural transmission drive language evolution",
+      "Linguistic change is irrelevant to modern society"
+    ],
+    "answer": 2,
+    "explanation": "文章指出语言演变是通过社会互动和文化传递发生的，这与儿童通过听取成年人并模仿声音来习得语言一致，故选B。"
+  },
+  {
+    "id": "toefl-r-261",
+    "passage": "Renewable energy technologies, such as solar panels and wind turbines, have seen dramatic cost reductions over the past decade due to technological advancements and economies of scale. Solar photovoltaic cells now convert sunlight into electricity at efficiencies exceeding 20%, making them competitive with fossil fuels in many regions. Wind farms contribute significantly to grid stability through distributed generation, while battery storage solutions address intermittency challenges. Governments worldwide are investing heavily in these sectors to achieve carbon neutrality targets.",
+    "question": "Which technology is highlighted as having experienced cost reductions due to technological advancements?",
+    "options": [
+      "Nuclear fusion reactors",
+      "Solar panels and wind turbines",
+      "Traditional coal-fired power plants",
+      "Hydroelectric dams"
+    ],
+    "answer": 1,
+    "explanation": "文章指出太阳能电池板和风力涡轮机是过去十年成本大幅下降的技术，故选B。"
+  },
+  {
+    "id": "toefl-r-262",
+    "passage": "The concept of entropy in thermodynamics measures the dispersal of energy within a system, reflecting the degree of disorder or randomness. As isolated systems evolve, entropy tends to increase, meaning energy becomes less available for doing useful work. This principle underpins the second law of thermodynamics, which implies that perpetual motion machines of the second kind are impossible. Engineers leverage understanding of entropy to design more efficient engines, refrigerators, and chemical processes that minimize waste heat.",
+    "question": "What does the passage say about entropy?",
+    "options": [
+      "Entropy decreases in closed systems over time",
+      "High entropy indicates lower disorder in a system",
+      "Entropy always increases in isolated systems",
+      "Entropy has no physical significance in physics"
+    ],
+    "answer": 2,
+    "explanation": "文章说明熵总是在孤立系统中增加，反映系统的无序程度，故选C。"
+  },
+  {
+    "id": "toefl-r-263",
+    "passage": "Neuroscience research has uncovered the intricate relationship between brain activity and conscious thought. Functional imaging techniques reveal that specific neural networks activate during problem-solving, emotional regulation, and sensory perception. These findings challenge dualist views of mind-body separation, suggesting that consciousness emerges from complex biological processes. Ongoing studies aim to decode neural correlates of awareness, potentially leading to breakthroughs in treating neurological disorders.",
+    "question": "What conclusion does neuroscience draw about consciousness?",
+    "options": [
+      "Consciousness is purely a product of spiritual forces",
+      "Consciousness arises from complex brain activity",
+      "Consciousness cannot be explained by neuroscience",
+      "Consciousness is unrelated to neural networks"
+    ],
+    "answer": 2,
+    "explanation": "文章指出意识源于复杂的脑活动，支持从神经科学角度解释意识，故选C。"
+  },
+  {
+    "id": "toefl-r-264",
+    "passage": "The economic impact of the pandemic has been profound, disrupting supply chains, altering consumer behavior, and accelerating digital transformation. Industries such as travel, hospitality, and retail faced severe revenue losses, while technology and e-commerce sectors experienced unprecedented growth. Central banks responded with stimulus packages and interest rate cuts to stabilize markets and support employment. Long-term recovery efforts emphasize resilience, sustainability, and the integration of remote work models.",
+    "question": "What effect did the pandemic have on the economy?",
+    "options": [
+      "It uniformly benefited all sectors equally",
+      "It caused severe disruptions across multiple industries",
+      "It led to a permanent decline in global trade",
+      "It had no measurable economic consequences"
+    ],
+    "answer": 1,
+    "explanation": "文章指出疫情造成了供应链中断、消费行为改变和数字化转型，加剧了多个行业的困难，故选B。"
+  },
+  {
+    "id": "toefl-r-265",
+    "passage": "Philosophical debates about free will center on whether human actions are determined by prior causes or possess genuine autonomy. Compatibilism argues that free will is compatible with determinism, defining freedom as the ability to act according to one's desires without external coercion. Conversely, hard determinism maintains that all actions result from causal chains, leaving no room for moral responsibility. Contemporary discussions often incorporate neuroscientific findings about unconscious decision-making to inform these philosophical positions.",
+    "question": "What is compatibilism's stance on free will?",
+    "options": [
+      "Free will contradicts determinism entirely",
+      "Free will is incompatible with any form of causality",
+      "Free will can coexist with determinism if actions align with desires",
+      "Free will is irrelevant to ethical reasoning"
+    ],
+    "answer": 2,
+    "explanation": "文章描述兼容论认为自由意志与决定论可以共存，只要行动符合个人欲望，故选B。"
+  },
+  {
+    "id": "toefl-r-266",
+    "passage": "The study of evolutionary biology reveals how species adapt to changing environments through natural selection. Over generations, traits that enhance survival and reproduction become more prevalent in populations. This process explains the diversity of life on Earth, as different lineages evolve distinct adaptations to their ecological niches. Fossil records and comparative anatomy provide evidence for these gradual transformations, demonstrating that modern species are descendants of ancient ancestors.",
+    "question": "How does natural selection explain biodiversity?",
+    "options": [
+      "Through sudden, rapid mutations",
+      "By increasing genetic diversity within species",
+      "Through gradual adaptation over generations",
+      "By eliminating all competition between species"
+    ],
+    "answer": 2,
+    "explanation": "文章指出自然选择通过世代的渐进适应解释了生物多样性，故选C。"
+  },
+  {
+    "id": "toefl-r-267",
+    "passage": "Urban planning research highlights the importance of walkable neighborhoods in promoting public health and community cohesion. Cities designed with mixed-use zoning, pedestrian-friendly streets, and accessible green spaces encourage physical activity and social interaction. Studies show that residents in such environments experience lower rates of obesity, stress, and social isolation compared to those living in car-dependent suburbs. Policymakers increasingly adopt these principles to create healthier, more livable urban environments.",
+    "question": "What benefit do walkable neighborhoods provide?",
+    "options": [
+      "They reduce traffic congestion only",
+      "They improve public health and community cohesion",
+      "They eliminate the need for public transportation",
+      "They guarantee increased property values regardless of location"
+    ],
+    "answer": 2,
+    "explanation": "文章指出宜步行的城市规划有助于提高公共健康和社区凝聚力，故选C。"
+  },
+  {
+    "id": "toefl-r-268",
+    "passage": "The legal concept of contract law governs agreements between parties, ensuring that obligations are fulfilled and disputes are resolved fairly. Key elements include offer, acceptance, consideration, and mutual intent. Breach of contract occurs when one party fails to perform their agreed-upon duties, triggering remedies such as damages or specific performance. Courts play a crucial role in interpreting contracts and enforcing legal rights, maintaining the integrity of commercial relationships.",
+    "question": "What is required for a valid contract?",
+    "options": [
+      "A written agreement signed by both parties",
+      "Offer, acceptance, consideration, and mutual intent",
+      "Government approval of the agreement terms",
+      "Equal bargaining power between all participants"
+    ],
+    "answer": 2,
+    "explanation": "文章列出了合同法中有效合同所需的要素：要约、接受、对价和共同意图，故选B。"
+  },
+  {
+    "id": "toefl-r-269",
+    "passage": "The Renaissance period marked a revival of classical learning and artistic innovation in Europe from the 14th to 17th centuries. Scholars rediscovered ancient Greek and Roman texts, fostering humanist ideas that emphasized individual potential and secular inquiry. Artists like Leonardo da Vinci combined scientific observation with aesthetic mastery, producing works that influenced subsequent centuries. This intellectual flourishing laid the groundwork for the Scientific Revolution and modern Western culture.",
+    "question": "Which era is characterized by a revival of classical learning and artistic innovation?",
+    "options": [
+      "The Industrial Revolution",
+      "The Enlightenment",
+      "The Renaissance",
+      "The Middle Ages"
+    ],
+    "answer": 2,
+    "explanation": "文章明确指出文艺复兴时期是古典学习和艺术创新的复兴时期，故选C。"
+  },
+  {
+    "id": "toefl-r-270",
+    "passage": "Modern cryptography relies on mathematical algorithms to secure communications in the digital age. Public-key encryption allows users to exchange messages securely without sharing secret keys beforehand, addressing vulnerabilities in symmetric encryption. Hash functions ensure data integrity by generating unique fingerprints for messages, detecting any unauthorized alterations. As cyber threats evolve, cryptographic standards continuously advance to protect privacy and confidentiality online.",
+    "question": "What is the purpose of public-key encryption?",
+    "options": [
+      "To store passwords in plain text",
+      "To enable secure communication without shared secrets",
+      "To compress data for faster transmission",
+      "To authenticate websites without certificates"
+    ],
+    "answer": 1,
+    "explanation": "文章说明公钥加密允许在未共享密钥的情况下进行安全通信，故选A。"
+  },
+  {
+    "id": "toefl-r-271",
+    "passage": "The water cycle describes the continuous movement of water on, above, and below Earth's surface through evaporation, condensation, precipitation, and collection. Solar energy drives evaporation from oceans, lakes, and soil, transforming liquid water into vapor that rises into the atmosphere. As vapor cools, it condenses into clouds, eventually releasing moisture as rain, snow, or hail. This cyclical process redistributes freshwater globally, sustaining ecosystems and human societies alike.",
+    "question": "What is the primary driver of the water cycle?",
+    "options": [
+      "Wind patterns only",
+      "Solar energy heating Earth's surface",
+      "Atmospheric pressure changes",
+      "Human irrigation systems"
+    ],
+    "answer": 1,
+    "explanation": "文章指出太阳能加热地球表面是水循环的主要驱动力，故选A。"
+  },
+  {
+    "id": "toefl-r-272",
+    "passage": "Genetic engineering enables scientists to modify DNA sequences for therapeutic purposes, such as producing insulin for diabetes treatment. CRISPR-Cas9 technology has revolutionized gene editing by allowing precise modifications with minimal off-target effects. Ethical considerations surround applications like germline editing, which raises concerns about unintended consequences for future generations. Regulatory frameworks vary globally, balancing innovation with safety and societal values.",
+    "question": "What application of genetic engineering is mentioned for therapy?",
+    "options": [
+      "Creating new species for agriculture",
+      "Producing insulin for diabetes treatment",
+      "Enhancing human intelligence",
+      "Developing vaccines without biological components"
+    ],
+    "answer": 1,
+    "explanation": "文章提到基因编辑技术如CRISPR用于治疗糖尿病产生胰岛素，故选B。"
+  },
+  {
+    "id": "toefl-r-273",
+    "passage": "The philosophy of ethics examines fundamental questions about right and wrong, duty, and virtue. Utilitarianism advocates maximizing overall happiness, while deontology emphasizes adherence to moral rules regardless of consequences. Virtue ethics focuses on cultivating good character traits. These competing frameworks guide moral reasoning in personal and professional contexts, influencing laws, business practices, and social norms.",
+    "question": "Which ethical framework prioritizes maximizing overall happiness?",
+    "options": [
+      "Deontology",
+      "Virtue ethics",
+      "Utilitarianism",
+      "Ethical relativism"
+    ],
+    "answer": 2,
+    "explanation": "文章指出功利主义主张最大化整体幸福感，故选B。"
+  },
+  {
+    "id": "toefl-r-274",
+    "passage": "Space exploration has expanded humanity's understanding of the universe through missions to Mars, Jupiter's moons, and distant galaxies. Telescopes like Hubble and James Webb capture images revealing exoplanets, black holes, and the cosmic microwave background. Robotic probes explore planetary surfaces, collecting samples and data that inform theories about planetary formation and habitability. Future endeavors aim to establish human presence on the Moon and eventually Mars.",
+    "question": "What is a goal of space exploration mentioned in the passage?",
+    "options": [
+      "To mine asteroids for rare minerals",
+      "To expand human presence on the Moon and Mars",
+      "To eliminate all terrestrial conflicts",
+      "To create artificial gravity on Earth"
+    ],
+    "answer": 2,
+    "explanation": "文章指出未来任务包括在月球和火星建立人类存在，故选C。"
+  },
+  {
+    "id": "toefl-r-275",
+    "passage": "The concept of entropy in statistical mechanics relates microscopic states to thermodynamic properties. At the macroscopic level, entropy quantifies the number of possible configurations of a system. Systems tend toward states with higher multiplicity, meaning more probable arrangements. This statistical interpretation connects microscopic physics to observable phenomena like heat diffusion and irreversibility.",
+    "question": "How does the passage define entropy statistically?",
+    "options": [
+      "As the measure of energy efficiency",
+      "As the number of possible microscopic configurations of a system",
+      "As a constant force in chemical reactions",
+      "As the temperature of a substance"
+    ],
+    "answer": 1,
+    "explanation": "文章说明熵在统计力学中代表系统微观状态的数量，即可能的配置数，故选B。"
+  },
+  {
+    "id": "toefl-r-276",
+    "passage": "Behavioral economics combines insights from psychology and economics to explain deviations from rational choice theory. Concepts like anchoring, framing effects, and loss aversion reveal systematic biases in decision-making. For example, people often rely on initial information (anchoring) when evaluating alternatives, leading to skewed judgments. These findings challenge classical economic assumptions and inform policy design.",
+    "question": "What does behavioral economics study regarding decision-making?",
+    "options": [
+      "Perfect rationality of all economic agents",
+      "Systematic biases in human decision-making",
+      "The impact of religion on market trends",
+      "Mathematical proofs of optimal strategies"
+    ],
+    "answer": 1,
+    "explanation": "文章指出行为经济学研究人类决策中的系统偏差，故选A。"
+  },
+  {
+    "id": "toefl-r-277",
+    "passage": "The study of biomechanics analyzes the mechanical principles underlying human movement and skeletal structure. Researchers use motion capture systems to measure joint angles, muscle activation, and force distribution during activities like walking, running, and lifting. Applications range from sports performance optimization to rehabilitation of injured athletes and design of prosthetic devices.",
+    "question": "What is biomechanics concerned with studying?",
+    "options": [
+      "Chemical composition of proteins",
+      "Mechanical principles of human movement",
+      "Historical evolution of civilizations",
+      "Psychological aspects of exercise"
+    ],
+    "answer": 1,
+    "explanation": "文章说明生物力学研究人体运动和骨骼结构的机械原理，故选B。"
+  },
+  {
+    "id": "toefl-r-278",
+    "passage": "Environmental policy aims to balance economic development with ecological preservation. Strategies include carbon pricing, protected area designation, and sustainable resource management. International agreements like the Paris Accord coordinate global efforts to reduce greenhouse gas emissions. Successful implementation requires collaboration among governments, businesses, and civil society to achieve long-term sustainability goals.",
+    "question": "What is the primary goal of environmental policy?",
+    "options": [
+      "Maximize industrial production regardless of impact",
+      "Balance economic growth with ecological protection",
+      "Eliminate all international cooperation",
+      "Prioritize short-term profits over future generations"
+    ],
+    "answer": 1,
+    "explanation": "文章指出环境政策旨在平衡经济发展与生态保护，故选B。"
+  }
+]

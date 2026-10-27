@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg18" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg18)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// MARKET &amp; ECOSYSTEM SCALE · 市场格局与生态规模</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">生态规模量化：小米唯一披露、苹果华为官方未披露</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="96" y="192" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">口径说明：仅收录厂商官方披露数据；第三方市场调研份额（如 Canalys / IDC）不采用，避免不可核实的数字</text>
+
+<g transform="translate(96 224)">
+<rect x="0" y="0" width="540" height="300" rx="14" fill="#0E2440" stroke="#10B981"/>
+<text x="24" y="36" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">XIAOMI · 官方披露（2025 年度业绩公告）</text>
+<text x="24" y="74" font-family="Arial, sans-serif" font-size="18" fill="#E2E8F0">AIoT 平台已连接 IoT 设备数 · 10.79 亿台</text>
+<text x="24" y="100" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">截至 2025-12-31 · 不含手机/平板/笔记本 · 同比 +19.3%（ir.mi.com）</text>
+<text x="24" y="138" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 拥有 5 件及以上连接设备的用户：2270 万</text>
+<text x="24" y="166" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 小爱同学月活跃用户：1.60 亿（同比 +16.7%）</text>
+<text x="24" y="194" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 2025 全年营收 4573 亿元；IoT 与生活消费产品收入 1232 亿元（+18.3%）</text>
+<text x="24" y="222" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 五代及更多设备家庭户数高速增长，用户粘性持续加深</text>
+<text x="24" y="258" font-family="Arial, sans-serif" font-size="13" fill="#64748B">读法：小米以「连接设备数」作为生态规模核心披露口径，公开且连续可核。</text>
+
+<rect x="560" y="0" width="528" height="300" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="584" y="36" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">APPLE / HUAWEI · 官方口径</text>
+<text x="584" y="80" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Apple：HomeKit / Home App 设备连接数 · 官方未披露</text>
+<text x="584" y="110" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">Apple 未在新闻稿或财报中披露家庭设备连接总量。</text>
+<text x="584" y="146" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Huawei：鸿蒙智联（HarmonyOS Connect）设备总量 · 官方未披露</text>
+<text x="584" y="176" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">华为官网未公布全屋智能设备连接总数；仅有生态伙伴数量等陈述。</text>
+<text x="584" y="212" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 结论：三家口径不同、不可直接横向比较</text>
+<text x="584" y="240" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">小米=硬件连接口径；华为=生态伙伴/方案口径；苹果=平台体验口径。</text>
+<text x="584" y="276" font-family="Arial, sans-serif" font-size="13" fill="#64748B">任何「全球份额 %」数字均出自第三方机构，本报告一律不采用。</text>
+</g>
+
+<rect x="96" y="548" width="1088" height="84" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="578" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 洞察</text>
+<text x="120" y="606" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">小米用「10.79 亿台连接 + 2270 万高粘性家庭」证明生态广度；苹果以 Home Collection 联盟与 Matter 协议补闭环；华为以成套方案深度换规模确定性。</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">15 / 23</text>
+</svg>

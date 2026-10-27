@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-384",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Downtown Artisans Market is returning this December for the holiday shopping season. Local makers will sell handcrafted jewelry, ceramics, home textiles, and wooden toys in the market's main hall. Admission is free for all visitors.",
+      "question": "When will the market be open for shoppers?",
+      "options": [
+        "Only for a single weekend",
+        "For the entire month of December",
+        "Throughout the whole holiday season",
+        "Every weekday in December"
+      ],
+      "answer": 1,
+      "explanation": "公告开头说明 market is returning this December，故选B。"
+    },
+    {
+      "id": "toeic-p7-385",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Maplewood Community Center is offering free swimming lessons for children aged six to twelve every Saturday morning from April through June. Class size is limited to ten children per session. Parents must register their children at the front desk at least one week in advance.",
+      "question": "What should parents do to enroll their children?",
+      "options": [
+        "Submit a medical certificate",
+        "Pay a registration deposit",
+        "Arrive an hour early on Saturday",
+        "Register at the front desk in advance"
+      ],
+      "answer": 3,
+      "explanation": "文中要求 Parents must register their children at the front desk，故选D。"
+    },
+    {
+      "id": "toeic-p7-386",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Nordwind Shipping has announced a new daily cargo service linking the ports of Rotterdam and Helsinki, beginning on the first of next month. Transit time is approximately two days. Regular customers who reserve cargo space before the 20th will qualify for a ten percent rate reduction.",
+      "question": "What benefit can customers receive by reserving early?",
+      "options": [
+        "Faster port clearance",
+        "Complimentary insurance",
+        "A lower freight charge",
+        "Priority loading privileges"
+      ],
+      "answer": 2,
+      "explanation": "文中提到 five percent rate reduction for early reservations，故选C。"
+    },
+    {
+      "id": "toeic-p7-387",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "As part of our annual safety update, all warehouse employees must watch a thirty-minute video on proper lifting techniques by the end of this week. A short quiz will follow. Those who complete the training will receive a safety badge to display on their uniforms. Please see your supervisor if you have not yet completed it.",
+      "question": "What will employees receive after completing the training?",
+      "options": [
+        "A safety badge",
+        "A pay increase",
+        "An extra day off",
+        "A bonus voucher"
+      ],
+      "answer": 0,
+      "explanation": "文中说明 employees will receive a safety badge，故选A。"
+    },
+    {
+      "id": "toeic-p7-388",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Broadview Inn is hosting its annual autumn harvest dinner this Friday evening at seven o'clock in the Grand Pavilion. Tickets are available at the front desk for forty-five dollars per person. The price includes a three-course meal and a glass of locally produced cider. Seating is limited, so we recommend purchasing tickets early.",
+      "question": "What is included in the ticket price?",
+      "options": [
+        "A free hotel room upgrade",
+        "A three-course meal and cider",
+        "A discount on lunch the next day",
+        "A complimentary gift basket"
+      ],
+      "answer": 1,
+      "explanation": "文中说明 ticket price includes a three-course meal and a glass of cider，故选B。"
+    },
+    {
+      "id": "toeic-p7-389",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Riverside Bank will close its downtown branch at 1:00 P.M. on Friday, June 30 for staff training. Normal services will resume on Monday. Customers who need to complete transactions that afternoon may visit our branch on Lakeside Avenue or use the mobile banking application for everyday banking needs.",
+      "question": "Why will the downtown branch close early on June 30?",
+      "options": [
+        "For staff training",
+        "For system upgrades",
+        "For annual inventory",
+        "For building repairs"
+      ],
+      "answer": 0,
+      "explanation": "文中说明 branch closes for staff training，故选A。"
+    },
+    {
+      "id": "toeic-p7-390",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "OneNote Technologies is recruiting a part-time customer support representative to answer incoming calls between 9:00 A.M. and 2:00 P.M., Monday through Friday. Applicants should have strong communication skills and basic computer proficiency. Bilingual candidates, especially those who speak both English and Spanish, are given priority consideration.",
+      "question": "What working hours are required for this position?",
+      "options": [
+        "Weekday evenings",
+        "Weekend afternoons",
+        "Weekday mornings",
+        "Overnight shifts"
+      ],
+      "answer": 2,
+      "explanation": "招聘要求受理 9:00 A.M. 至 2:00 P.M. 时段来电，故选C。"
+    },
+    {
+      "id": "toeic-p7-391",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "City officials are reminding residents that the annual street cleaning program will begin on April 1. On the specified day for each neighborhood, vehicles must be moved from the cleaning route between 7:00 A.M. and 11:00 A.M. Fines of up to ninety dollars will be issued to vehicles left in the restricted zones.",
+      "question": "When must vehicles be moved from the cleaning route?",
+      "options": [
+        "Before sunset the prior day",
+        "After lunch time",
+        "On weekends only",
+        "Between 7 and 11 A.M."
+      ],
+      "answer": 3,
+      "explanation": "文中要求车辆在 7:00 A.M. 到 11:00 A.M. 之间移走，故选D。"
+    },
+    {
+      "id": "toeic-p7-392",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Due to the upcoming public holiday, City Museum will operate on a special schedule next Monday: it will open one hour later than usual, at 10:00 A.M., and close at 5:00 P.M. The café inside the museum will remain open until 6:00 P.M. Please note that exhibition halls are closed for photography on this day.",
+      "question": "What time will the museum open next Monday?",
+      "options": [
+        "10:00 A.M.",
+        "9:00 A.M.",
+        "11:00 A.M.",
+        "12:00 P.M."
+      ],
+      "answer": 0,
+      "explanation": "文中注明 open one hour later at 10:00 A.M.，故选A。"
+    },
+    {
+      "id": "toeic-p7-393",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The management of Silverline Airlines would like to inform passengers that all flights to Osaka will now depart from Terminal 3 effective immediately. Please arrive at the airport at least two hours before your scheduled departure. Passengers requiring assistance may contact our airport service desk, which is located near Gate 12.",
+      "question": "Where will flights to Osaka now depart from?",
+      "options": [
+        "Terminal 3",
+        "Terminal 1",
+        "The north concourse",
+        "Gate 12"
+      ],
+      "answer": 0,
+      "explanation": "文中明确 flights to Osaka will depart from Terminal 3，故选A。"
+    },
+    {
+      "id": "toeic-p7-394",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Starline Office Supplies is pleased to announce a special clearance sale on filing cabinets and desk organizers from Monday through Wednesday. Discounts range from twenty to forty percent, with the largest reductions applied to discontinued colors. Delivery is available for orders placed online, with a small fee for orders under fifty dollars.",
+      "question": "What is true about the clearance sale?",
+      "options": [
+        "It applies only to chairs",
+        "It lasts for three days",
+        "It offers flat discounts",
+        "It requires a membership"
+      ],
+      "answer": 1,
+      "explanation": "文中说明 sale runs Monday through Wednesday 共三天，故选B。"
+    },
+    {
+      "id": "toeic-p7-395",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Attention all employees: the annual staff picnic will be held on Saturday, September 12, at Green Valley Park, starting at noon. Lunch and refreshments will be provided free of charge. Employees are encouraged to bring their families, and games for children will be organized in the afternoon. Please RSVP to the human resources department by September 5.",
+      "question": "By when must employees respond about attending?",
+      "options": [
+        "September 5",
+        "September 12",
+        "The end of August",
+        "The day of the event"
+      ],
+      "answer": 0,
+      "explanation": "文中要求 Please RSVP ... by September 5，故选A。"
+    },
+    {
+      "id": "toeic-p7-396",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Greenway Organic Foods is recalling a batch of its brand of almond butter because of a possible contamination risk. The affected products carry the lot number 7-A-203 and were distributed to stores across the western region. Customers who purchased these items should return them to the place of purchase for a full refund or exchange.",
+      "question": "Why is the product being recalled?",
+      "options": [
+        "An incorrect label",
+        "A packaging violation",
+        "An expired use-by date",
+        "A possible contamination risk"
+      ],
+      "answer": 3,
+      "explanation": "公告说明因 potential contamination 召回产品，故选D。"
+    },
+    {
+      "id": "toeic-p7-397",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Midtown Public Library will be closed on Thursday for a building-wide renovation of its heating system. Visitors are advised that the book drop on the north side of the building will remain open for returns. All overdue fines will be waived for books due on that day. Electronic resources can still be accessed online from home.",
+      "question": "What will happen to books due on the closing day?",
+      "options": [
+        "They must be returned early",
+        "They will be renewed automatically",
+        "Overdue fines will be waived",
+        "A late charge will apply"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 All overdue fines will be waived for that day，故选C。"
+    },
+    {
+      "id": "toeic-p7-398",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Apex Cellular is introducing a new data plan for families this month. The plan offers unlimited talk and text across four lines for a monthly fee of ninety-nine dollars. Each line receives twenty gigabytes of high-speed data. Customers who add a fifth line receive a ten dollar discount on the total monthly cost.",
+      "question": "What is the monthly price for the family plan?",
+      "options": [
+        "$99",
+        "$89",
+        "$109",
+        "$120"
+      ],
+      "answer": 0,
+      "explanation": "文中说明每月费用为 ninety-nine dollars，故选A。"
+    },
+    {
+      "id": "toeic-p7-399",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Unity Fitness Club is launching an outdoor boot camp program at City Park every Tuesday and Thursday evening at 6:30 P.M., beginning next week. The hour-long session is free for members and open to non-members for a fee of twelve dollars per class. Participants should bring a water bottle and comfortable shoes.",
+      "question": "When are the boot camp sessions held?",
+      "options": [
+        "Monday and Friday mornings",
+        "Saturday mornings",
+        "Tuesday and Thursday evenings",
+        "Sunday afternoons"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 boot camp 每周二四晚 6:30 举行，故选C。"
+    },
+    {
+      "id": "toeic-p7-400",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Please be advised that the elevator in the north tower of Westfield Office Center will be out of service for two weeks, starting Monday, for routine maintenance. Employees working on floors above the eighth should use the south tower elevator and cross over on the connecting bridge on the fifth floor. The west stairwell will also be open during this period.",
+      "question": "How can employees above the eighth floor reach their floors?",
+      "options": [
+        "Take the service lift",
+        "Climb the fire escape",
+        "Wait for the main elevator",
+        "Use the south tower elevator"
+      ],
+      "answer": 3,
+      "explanation": "文中要求使用 south tower elevator 到达高层，故选D。"
+    },
+    {
+      "id": "toeic-p7-401",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Clearwater Science Institute will hold its Family Discovery Day this coming Saturday from 10:00 A.M. to 4:00 P.M. Visitors can explore hands-on exhibits, attend a live chemistry show, and enjoy a planetarium presentation. Admission is reduced to half price for children under twelve. Parking is free in the lot behind the main building.",
+      "question": "What is offered at a reduced price for children?",
+      "options": [
+        "Parking passes",
+        "Show reservations",
+        "Admission tickets",
+        "Souvenirs"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 children under twelve 门票半价，故选C。"
+    },
+    {
+      "id": "toeic-p7-402",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Due to a scheduling conflict, the Human Resources Department has moved the orientation session for new employees from May 15 to May 22. The session will still be held in Conference Room B on the second floor, beginning at 9:00 A.M. New hires are asked to bring two forms of identification and arrive fifteen minutes early for registration.",
+      "question": "What date is the orientation now planned for?",
+      "options": [
+        "May 15",
+        "May 22",
+        "May 8",
+        "May 29"
+      ],
+      "answer": 1,
+      "explanation": "通知说明 orientation 改期至 May 22，故选B。"
+    },
+    {
+      "id": "toeic-p7-403",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The executives at Horizon Media would like to congratulate all team members on the successful launch of our new advertising campaign last week. Initial client feedback has been very positive, and viewership numbers have exceeded expectations by 15 percent. Please join us for a celebratory gathering in the fifth-floor lounge this Friday afternoon at 3:30 P.M.",
+      "question": "What is the purpose of the gathering on Friday?",
+      "options": [
+        "To plan next year's budget",
+        "To announce layoffs",
+        "To celebrate the campaign launch",
+        "To review company policy"
+      ],
+      "answer": 2,
+      "explanation": "文中邀大家参加 activity 庆祝 campaign 成功，故选C。"
+    },
+    {
+      "id": "toeic-p7-404",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Olive Tree Café is currently hiring part-time baristas and kitchen assistants for its busy spring season. Successful candidates will be expected to work flexible hours, including weekends and some holidays. Interested individuals should bring a résumé to the café between 2:00 P.M. and 4:00 P.M. on weekdays and ask for the manager.",
+      "question": "When should interested applicants visit the café?",
+      "options": [
+        "Weekdays from 2 to 4 P.M.",
+        "Weekend mornings",
+        "Every afternoon at lunch",
+        "Evenings after closing"
+      ],
+      "answer": 0,
+      "explanation": "招聘广告要求 weekday 下午 2 至 4 点带简历前往，故选A。"
+    },
+    {
+      "id": "toeic-p7-405",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Residents of Fairfield Apartments are reminded that the annual fire safety inspection will take place this Wednesday between 9:00 A.M. and 5:00 P.M. Inspectors will check smoke detectors and fire extinguishers in every unit. Please ensure that a responsible adult is home to grant access. Anyone who will be away during the inspection should contact the management office to schedule a separate appointment.",
+      "question": "What should residents do if they will be away Wednesday?",
+      "options": [
+        "Leave their doors unlocked",
+        "Send a written notice to safety",
+        "Post a sign on the door",
+        "Schedule a separate appointment"
+      ],
+      "answer": 3,
+      "explanation": "通知要求不在家者 contact management office to schedule separate appointment，故选D。"
+    },
+    {
+      "id": "toeic-p7-406",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Northgate Bank is changing its overdraft protection policy effective August 1. Under the new terms, accounts linked to a savings account or credit card will not be assessed overdraft fees. Customers with unlinked accounts will be charged twenty dollars per occurrence. We encourage all customers to review their account settings before the change takes effect.",
+      "question": "What will happen under the new policy?",
+      "options": [
+        "All overdraft fees are eliminated",
+        "Linked accounts avoid overdraft fees",
+        "Interest rates will rise",
+        "Minimum balances will increase"
+      ],
+      "answer": 1,
+      "explanation": "文中说明 linked accounts 不再收取 overdraft fees，故选B。"
+    },
+    {
+      "id": "toeic-p7-407",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Attention tenants: The water supply in Building C will be shut off this Friday from 10:00 P.M. until 6:00 A.M. on Saturday to allow for the replacement of aging pipes. We apologize for the inconvenience and ask that you store an adequate supply of water beforehand. Bathroom facilities on the ground floor near the lobby will remain available during the interruption.",
+      "question": "Until when will the water supply be interrupted?",
+      "options": [
+        "10:00 P.M. Friday",
+        "6:00 A.M. Saturday",
+        "Noon Saturday",
+        "Sunday morning"
+      ],
+      "answer": 1,
+      "explanation": "文中说明停水将持续到周六 6:00 A.M.，故选B。"
+    },
+    {
+      "id": "toeic-p7-408",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The TravelSafe Insurance Company has opened a new claims office at 105 Harbor Street to serve policyholders in the downtown area. The office is open Monday through Friday from 8:30 A.M. to 5:00 P.M. Customers are encouraged to use the online claims portal, which operates around the clock and typically processes claims within five business days.",
+      "question": "How long does it typically take to process a claim?",
+      "options": [
+        "One business week",
+        "Two weeks",
+        "Thirty days",
+        "Five business days"
+      ],
+      "answer": 3,
+      "explanation": "文中说在线理赔 typically within five business days，故选D。"
+    },
+    {
+      "id": "toeic-p7-409",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Rainbow Creative Studio is looking for a junior graphic designer to join our growing team. The ideal candidate has a degree in design, two years of relevant experience, and proficiency in Adobe Creative Suite. The position offers a competitive salary, health benefits, and the flexibility to work from home two days each week. Please send your portfolio and résumé to careers@rainbowdesign.com.",
+      "question": "What does the studio use to evaluate applicants?",
+      "options": [
+        "A portfolio and résumé",
+        "A written design test",
+        "A phone interview only",
+        "A referral letter"
+      ],
+      "answer": 0,
+      "explanation": "招聘要求将 portfolio and résumé 发送至指定邮箱，故选A。"
+    },
+    {
+      "id": "toeic-p7-410",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Warm greetings call to all members: the Lakeside Tennis Club courts will be resurfaced beginning October 1. During the renovation, which is expected to last approximately three weeks, the courts will be closed to the public. Members may use the courts at Sunset Tennis Center during this period by presenting their membership cards.",
+      "question": "Where may members play while the courts are being renovated?",
+      "options": [
+        "At the community park",
+        "At a nearby school",
+        "At the club annex",
+        "At Sunset Tennis Center"
+      ],
+      "answer": 3,
+      "explanation": "文中说明会员可到 Sunset Tennis Center 使用场地，故选D。"
+    },
+    {
+      "id": "toeic-p7-411",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The City Guardian newspaper is offering a six-month digital subscription at a promotional price of forty-nine dollars, a savings of 30 percent off the regular rate. Subscribers enjoy unlimited online access to daily news, exclusive weekly features, and a mobile app with offline reading. The promotion ends on the last day of this month, so do not delay.",
+      "question": "What does the subscription promotion include?",
+      "options": [
+        "A printed weekend edition",
+        "Unlimited online news access",
+        "A free advertising feature",
+        "A complimentary e-reader"
+      ],
+      "answer": 1,
+      "explanation": "促销说明订阅含 unlimited online access to daily news，故选B。"
+    },
+    {
+      "id": "toeic-p7-412",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Please mark your calendars: the annual shareholders' meeting of Meridian Retail Group will take place at the Grand Hall Convention Center on Thursday, June 18, starting at 10:00 A.M. Registration begins at 9:00 A.M. Shareholders should bring a valid photo ID to verify their attendance. A live webcast of the meeting will also be available on our website.",
+      "question": "What time does registration begin?",
+      "options": [
+        "10:00 A.M.",
+        "8:30 A.M.",
+        "9:00 A.M.",
+        "Noon"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 Registration begins at 9:00 A.M.，故选C。"
+    },
+    {
+      "id": "toeic-p7-413",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "All department managers are asked to submit their quarterly budget reports to the finance office no later than Friday, July 2, by 5:00 P.M. Reports should follow the standard template and include actual spending figures for the previous quarter. Any questions regarding the reporting guidelines should be directed to Angela Chen in the finance division, extension 214.",
+      "question": "Who should managers contact about reporting questions?",
+      "options": [
+        "Angela Chen in finance",
+        "The operations supervisor",
+        "The IT help desk",
+        "The personnel office"
+      ],
+      "answer": 0,
+      "explanation": "通知说明有关报告问题联系 Angela Chen，故选A。"
+    },
+    {
+      "id": "toeic-p7-414",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Sunrise Farms Cooperative is offering its members a discounted price on bulk orders of tomatoes and corn during the harvest season. Members who order at least fifty kilograms receive the wholesale rate. Orders must be placed online by noon on Monday to guarantee same-day pickup from the distribution center on Highway 9.",
+      "question": "What must members do to receive the wholesale rate?",
+      "options": [
+        "Pick up at a market stall",
+        "Pay by credit card",
+        "Order at least fifty kilograms",
+        "Join the premium plan"
+      ],
+      "answer": 2,
+      "explanation": "文中说明达到至少五十公斤即可享批发价，故选C。"
+    },
+    {
+      "id": "toeic-p7-415",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Harborline Ferry is pleased to announce extended weekend service starting this month. The last ferry departing from Northport Pier will now leave at 10:00 P.M. on Fridays and Saturdays instead of 8:00 P.M. Round-trip tickets purchased online before noon receive a five percent discount. Food and beverage service is available on all weekend sailings.",
+      "question": "What change is being made to weekend ferry service?",
+      "options": [
+        "Earlier arrival times",
+        "Higher ticket prices",
+        "Fewer daily trips",
+        "Later departure times"
+      ],
+      "answer": 3,
+      "explanation": "文中说明末班轮渡由 8:00 P.M.延长至 10:00 P.M.，故选D。"
+    },
+    {
+      "id": "toeic-p7-416",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The City Council has approved funds for the construction of a new pedestrian bridge across Cedar Creek. The project, which is expected to take eighteen months, will begin in the spring. The bridge will connect Riverside Park with the university district and will include dedicated bicycle lanes. Construction is scheduled to be completed by the end of next year.",
+      "question": "What will the new bridge connect?",
+      "options": [
+        "Two highway exits",
+        "A park and a university district",
+        "Two commercial centers",
+        "A station and a mall"
+      ],
+      "answer": 1,
+      "explanation": "文中说明桥将连接 Riverside Park 与 university district，故选B。"
+    },
+    {
+      "id": "toeic-p7-417",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Metro Health Clinics is extending its evening hours at the downtown location during the month of July. Walk-in appointments will be available until 8:00 P.M., Monday through Friday, instead of the usual 5:00 P.M. closing time. Patients are advised to arrive no later than 7:30 P.M. to be seen. Routine checkups and vaccinations will be offered during the extended hours.",
+      "question": "What services will be offered during extended evening hours?",
+      "options": [
+        "Only emergency care",
+        "Prescription renewals and x-rays",
+        "Routine checkups and vaccinations",
+        "Physical therapy sessions"
+      ],
+      "answer": 2,
+      "explanation": "文中说明晚间延时段提供 routine checkups and vaccinations，故选C。"
+    },
+    {
+      "id": "toeic-p7-418",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To all interns joining our summer program: your first-day orientation will be held on Tuesday, June 3, in the main auditorium. The orientation begins at 9:00 A.M. and will last approximately three hours. Following lunch, you will be paired with your department mentors for a tour of your assigned work areas. Please dress in business casual attire.",
+      "question": "What will happen after lunch on the first day?",
+      "options": [
+        "A tour with department mentors",
+        "A skills assessment test",
+        "A welcome speech by the CEO",
+        "A team-building activity"
+      ],
+      "answer": 0,
+      "explanation": "文中说明午饭后由 mentor 带领参观工作区，故选A。"
+    },
+    {
+      "id": "toeic-p7-419",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The management of Bluebird Hotels would like to thank all employees for their outstanding contributions to our successful summer season. Guest satisfaction scores reached an all-time high of 4.8 out of 5. In recognition of your hard work, the company will offer each employee a complimentary two-night stay at any participating Bluebird property before the end of the year.",
+      "question": "What will employees receive in appreciation of their work?",
+      "options": [
+        "A cash bonus",
+        "Extra vacation days",
+        "A free two-night hotel stay",
+        "A gift certificate"
+      ],
+      "answer": 2,
+      "explanation": "公告说明员工获赠 complimentary two-night stay at Bluebird property，故选C。"
+    },
+    {
+      "id": "toeic-p7-420",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Excelsior Manufacturing is alerting customers that its customer service telephone line will be unavailable this Saturday from 8:00 A.M. to noon for system maintenance. During this time, customers who need assistance can reach our support team through the live chat on our website or by sending an email. Service will continue to be offered as normal after noon.",
+      "question": "How can customers get support Saturday morning?",
+      "options": [
+        "Visit the local office",
+        "Call the toll-free number",
+        "Send a postal letter",
+        "Use live chat or email"
+      ],
+      "answer": 3,
+      "explanation": "文中说明维护期间可通过 live chat 或 email 联系客服，故选D。"
+    },
+    {
+      "id": "toeic-p7-421",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Westfield Arts Center is proud to present its annual student gallery exhibition, opening this Friday evening at 6:00 P.M. The exhibition will feature paintings, photography, and sculptural works created by students at the center throughout the year. All pieces on display are available for purchase, with a portion of the proceeds going toward art scholarships.",
+      "question": "Where will the proceeds from art sales go?",
+      "options": [
+        "To the city museum",
+        "To art scholarships",
+        "To student field trips",
+        "To new studio equipment"
+      ],
+      "answer": 1,
+      "explanation": "文中说明部分收入将用于 art scholarships，故选B。"
+    },
+    {
+      "id": "toeic-p7-422",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "All associates are reminded that the office will close one hour earlier than usual on Wednesday, November 25, the day before the Thanksgiving holiday. Please ensure that all urgent tasks are completed and that your workstations are turned off before leaving. Any unfinished work can be resumed when the office reopens on Monday, November 30.",
+      "question": "Why will the office close early on November 25?",
+      "options": [
+        "For annual inventory",
+        "Because of the Thanksgiving holiday",
+        "For staff training",
+        "For a maintenance inspection"
+      ],
+      "answer": 1,
+      "explanation": "文中说明因感恩节前夜而提前下班，故选B。"
+    },
+    {
+      "id": "toeic-p7-423",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The association is launching a monthly networking breakfast for local business owners at the Community Business Center. The first event will be held on the second Tuesday of each month, beginning in January, from 7:30 A.M. to 9:00 A.M. Attendees are invited to share business cards and discuss partnership opportunities over a continental breakfast. Advance registration is required through the association's website.",
+      "question": "How must people register for the breakfast?",
+      "options": [
+        "By visiting the community office",
+        "Over the telephone",
+        "At the door on the event day",
+        "Through the association's website"
+      ],
+      "answer": 3,
+      "explanation": "内文说明须通过协会网站提前报名，故选D。"
+    }
+  ]
+}

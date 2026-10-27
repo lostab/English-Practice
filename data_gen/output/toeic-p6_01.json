@@ -1,0 +1,548 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p6-111",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "MEMORANDUM\nTo: All Staff\nFrom: Human Resources\nSubject: Updated Vacation Policy\n\nEffective January 1, employees may carry forward up to 5 days of unused vacation into the following year. Requests for carryover must be submitted in writing to HR by December 15. Any request received after that date will automatically be denied. Please note that this policy applies only to full-time employees.",
+      "question": "What is the maximum number of vacation days employees can carry forward?",
+      "options": [
+        "Up to 5 days",
+        "Up to 7 days",
+        "Up to 10 days",
+        "Up to 3 days"
+      ],
+      "answer": 0,
+      "explanation": "备忘录规定员工最多可将5天未休年假结转至下一年（carry forward up to 5 days of unused vacation），故选A。"
+    },
+    {
+      "id": "toeic-p6-112",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Department Heads\nFrom: Procurement Office\nSubject: Second-Quarter Supply Orders\n\nAll department heads must submit their office supply requisitions for the second quarter by March 20. Orders placed after this date will not be processed until the following quarter. Please make sure that every requisition form has been approved by your director before submission to avoid processing delays.  Approvals must include the director's signature for processing.",
+      "question": "By what date must supply requisitions be submitted?",
+      "options": [
+        "By May 1",
+        "By March 31",
+        "By March 20",
+        "By April 15"
+      ],
+      "answer": 2,
+      "explanation": "采购处要求各部门须在3月20日前提交请购单（submit... by March 20），故选C。"
+    },
+    {
+      "id": "toeic-p6-113",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Shipping Delay Notice\n\nDue to severe weather at our regional distribution center, deliveries scheduled for this week will be delayed by approximately two business days. Customers with urgent orders should contact our customer service hotline to arrange alternative pickup at the local branch. Normal delivery schedules will resume next Monday. We apologize for the inconvenience. Affected customers will be notified by email with revised delivery dates.",
+      "question": "Why are this week's deliveries being delayed?",
+      "options": [
+        "A vehicle shortage",
+        "A staffing shortage",
+        "Severe weather",
+        "A billing error"
+      ],
+      "answer": 2,
+      "explanation": "通知称因区域配送中心遭遇恶劣天气，本周交货推迟约两个工作日（due to severe weather），故选C。"
+    },
+    {
+      "id": "toeic-p6-114",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Traveling Employees\nFrom: Finance Department\nSubject: Travel Expense Reports\n\nUnder the updated company policy, all travel expense reports must be submitted to the Finance Department within 30 business days of the trip's completion. Reports received after this period will not be reimbursed. Please attach original receipts for all expenses and obtain your manager's signature before submission.  Expense reports missing receipts will not be considered.",
+      "question": "Within how many business days must expense reports be submitted?",
+      "options": [
+        "10 business days",
+        "5 business days",
+        "15 business days",
+        "30 business days"
+      ],
+      "answer": 3,
+      "explanation": "财务部规定费用报告须在行程结束后30个工作日内提交（within 30 business days），故选D。"
+    },
+    {
+      "id": "toeic-p6-115",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Announcement: Product Launch Event\n\nWe are pleased to announce that the launch event for our new wireless speaker will be held at the Riverside Convention Center on Friday, May 24. Doors open at 10:00 A.M., and the main presentation begins at 11:00 A.M. Media representatives and retail partners have been invited. Employees from the marketing and sales departments are expected to attend.",
+      "question": "Where will the product launch event be held?",
+      "options": [
+        "At the Riverside Convention Center",
+        "At the corporate headquarters",
+        "At the Grand Hotel ballroom",
+        "At the city exhibition hall"
+      ],
+      "answer": 0,
+      "explanation": "公告明确新品发布活动将在河滨会展中心举行（at the Riverside Convention Center），故选A。"
+    },
+    {
+      "id": "toeic-p6-116",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Customer Service Update\n\nEffective next month, customers may return unused merchandise within 45 days of the original purchase date for a full refund. Items must be in their original packaging with the receipt. Online purchases can also be returned at any of our retail stores free of charge. This policy does not apply to clearance items. We appreciate your understanding and thank you for shopping with us.",
+      "question": "How many days do customers have to return merchandise?",
+      "options": [
+        "90 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "answer": 2,
+      "explanation": "客服公告指出顾客可在购买后45天内退货获全额退款（within 45 days of the original purchase date），故选C。"
+    },
+    {
+      "id": "toeic-p6-117",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Trade Show Schedule\n\nOur company will exhibit at the National Office Technology Trade Show next month. The exhibition hall opens at 10:00 A.M. each day and closes at 6:00 P.M. Booth staff should arrive no later than 9:30 A.M. to prepare product displays. A staff meeting will be held each morning at 9:45 A.M. behind the booth area.  The staff meeting will cover logistics and safety reminders.",
+      "question": "What time does the exhibition hall open each day?",
+      "options": [
+        "8:00 A.M.",
+        "9:00 A.M.",
+        "10:00 A.M.",
+        "11:00 A.M."
+      ],
+      "answer": 2,
+      "explanation": "展会日程写明展馆每天上午10点开放（opens at 10:00 A.M. each day），故选C。"
+    },
+    {
+      "id": "toeic-p6-118",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Parking Garage Notice\n\nBeginning November 1, all vehicles parked in the employee garage must display the new electronic permit sticker. The current paper hangtags will no longer be valid. Please visit the security office on the basement level to collect your sticker. Employees who fail to display the new sticker may receive a parking fine. The stickers are free of charge and can be obtained at any time during business hours.",
+      "question": "What must employees display on their vehicles starting November 1?",
+      "options": [
+        "A paper hangtag",
+        "A company logo sticker",
+        "An inspection certificate",
+        "An electronic permit sticker"
+      ],
+      "answer": 3,
+      "explanation": "通知要求自11月1日起车辆须展示新的电子停车证贴纸（display the new electronic permit sticker），故选D。"
+    },
+    {
+      "id": "toeic-p6-119",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Staff\nFrom: Information Technology\nSubject: Email System Upgrade\n\nThe company email system will be upgraded this Saturday night from 10:00 P.M. to 2:00 A.M. During this period, email access will be temporarily unavailable. All messages will be preserved, and the system will resume normal operation on Sunday morning. Please save important documents before leaving the office on Friday.",
+      "question": "What will happen on Saturday night?",
+      "options": [
+        "The email system will be upgraded",
+        "The office will be closed",
+        "The power will be shut off",
+        "The printers will be replaced"
+      ],
+      "answer": 0,
+      "explanation": "IT部门通知电子邮件系统将于周六夜间升级（email system will be upgraded this Saturday night），故选A。"
+    },
+    {
+      "id": "toeic-p6-120",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: Accounting Staff\nFrom: Controller's Office\nSubject: Year-End Closing Schedule\n\nAll invoices received after December 20 will be processed in the new fiscal year. Please ensure that outstanding purchase orders are settled before the year-end closing on December 22. The accounting system will be unavailable from December 23 through January 2 for the annual audit. Thank you for your cooperation during this busy period.",
+      "question": "What happens to invoices received after December 20?",
+      "options": [
+        "They are marked urgent",
+        "They are discounted",
+        "They are processed in the new fiscal year",
+        "They are returned to vendors"
+      ],
+      "answer": 2,
+      "explanation": "财务处通知12月20日后收到的发票将在新财年处理（processed in the new fiscal year），故选C。"
+    },
+    {
+      "id": "toeic-p6-121",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Recruitment Fair Announcement\n\nMeridian Bank will hold its annual recruitment fair on Saturday, October 14, at the City Convention Hall. Positions are available in retail banking, credit analysis, and customer relations. Interested applicants should bring several copies of their resumes and be prepared for on-site interviews. Registration for the event is free and can be completed on our website.  Parking is available in the lot across the street.",
+      "question": "What should interested applicants bring to the fair?",
+      "options": [
+        "Passport photographs",
+        "Letters of recommendation",
+        "Several copies of their resumes",
+        "Certified transcripts"
+      ],
+      "answer": 2,
+      "explanation": "招聘会公告要求应聘者携带多份简历（bring several copies of their resumes），故选C。"
+    },
+    {
+      "id": "toeic-p6-122",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Hotel Service Memo\n\nDue to the upcoming renovation of the main lobby, hotel guests are asked to use the side entrance from March 5 until April 20. The front desk has been temporarily relocated to the second floor meeting room. Valet parking services will continue to operate as usual. We sincerely apologize for any inconvenience during the renovation period.  New signage has been posted to direct foot traffic.",
+      "question": "Where has the front desk been temporarily relocated?",
+      "options": [
+        "To the main entrance hall",
+        "To the restaurant area",
+        "To the basement lounge",
+        "To the second floor meeting room"
+      ],
+      "answer": 3,
+      "explanation": "酒店通知前台已临时迁至二楼会议室（relocated to the second floor meeting room），故选D。"
+    },
+    {
+      "id": "toeic-p6-123",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Notice from Shipping Department\n\nAll packages weighing more than 20 kilograms must be sent through the freight carrier rather than the express courier service. This change takes effect immediately. Please update your shipping records accordingly and notify the warehouse staff of the new procedure. The freight carrier offers discounted rates for bulk shipments, so overall costs are expected to decrease.",
+      "question": "What is the weight limit for packages sent by express courier?",
+      "options": [
+        "10 kilograms",
+        "15 kilograms",
+        "20 kilograms",
+        "25 kilograms"
+      ],
+      "answer": 2,
+      "explanation": "货运部通知超过20公斤的包裹须改走货运承运商（more than 20 kilograms），故选C。"
+    },
+    {
+      "id": "toeic-p6-124",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Employees\nFrom: Benefits Office\nSubject: Annual Health Screening\n\nFree annual health screenings will be offered to all full-time employees on the first three Tuesdays of June. Screenings include blood pressure checks, cholesterol tests, and vision examinations. Appointments must be scheduled through the employee health portal. Walk-in visits will only be accepted if there are cancellations. Employees with questions about eligibility may contact the benefits office directly.",
+      "question": "When will the free health screenings be offered?",
+      "options": [
+        "Every weekend in July",
+        "The last week of August",
+        "Every Friday in May",
+        "The first three Tuesdays of June"
+      ],
+      "answer": 3,
+      "explanation": "福利办公室通知免费体检安排在6月的前三个周二（first three Tuesdays of June），故选D。"
+    },
+    {
+      "id": "toeic-p6-125",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Warehouse Relocation Update\n\nOur regional warehouse will be relocated to a larger facility in the industrial park next month. The move is scheduled to take place over the weekend of June 15-16, and normal operations will resume on Monday morning. During the move, online orders will be fulfilled from our backup distribution center. Delivery times may be extended by one day during this period.",
+      "question": "When will the warehouse move take place?",
+      "options": [
+        "In early July",
+        "During the winter holidays",
+        "On a weekday in May",
+        "Over the weekend of June 15-16"
+      ],
+      "answer": 3,
+      "explanation": "仓库搬迁定于6月15-16日周末进行（over the weekend of June 15-16），故选D。"
+    },
+    {
+      "id": "toeic-p6-126",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: Sales Representatives\nFrom: Regional Sales Manager\nSubject: Client Presentation Materials\n\nPlease note that all client presentation materials must be uploaded to the shared drive by Friday at noon. The materials will be reviewed by the regional office before they are distributed to clients. Presentations that are submitted late will not be eligible for the quarterly sales award. Contact the marketing department if you need template files.",
+      "question": "What is the deadline for uploading presentation materials?",
+      "options": [
+        "Friday at noon",
+        "Monday at 9:00 A.M.",
+        "Thursday at 5:00 P.M.",
+        "The end of the month"
+      ],
+      "answer": 0,
+      "explanation": "区域销售经理要求周五中午前上传演示材料（by Friday at noon），故选A。"
+    },
+    {
+      "id": "toeic-p6-127",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Notice to Residents\n\nWater service in the Maple Court apartment complex will be interrupted on Wednesday, July 10, from 9:00 A.M. to 3:00 P.M. for scheduled pipe maintenance. Residents are advised to store sufficient water beforehand. The maintenance crew will work to restore service as quickly as possible. We thank you for your patience and apologize for the inconvenience.  Repairs are expected to be completed within two hours.",
+      "question": "What is the reason for the water service interruption?",
+      "options": [
+        "A billing issue",
+        "An emergency repair",
+        "A major storm",
+        "Scheduled pipe maintenance"
+      ],
+      "answer": 3,
+      "explanation": "通知说明供水中断因计划中的管道维护（scheduled pipe maintenance），故选D。"
+    },
+    {
+      "id": "toeic-p6-128",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Press Release\n\nGreenField Energy announced today that it has completed construction of its new solar power facility in the southern region. The facility, which began operations on October 1, will generate enough electricity to power approximately 30,000 homes. The project created 400 local jobs during construction and will employ 60 permanent staff for maintenance and operations. The facility is part of the company's plan to expand renewable energy capacity nationwide.",
+      "question": "When did the new solar power facility begin operations?",
+      "options": [
+        "On November 1",
+        "On December 1",
+        "On September 1",
+        "On October 1"
+      ],
+      "answer": 3,
+      "explanation": "新闻稿指出新太阳能设施已于10月1日开始运营（began operations on October 1），故选D。"
+    },
+    {
+      "id": "toeic-p6-129",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Department Heads\nFrom: Purchasing Manager\nSubject: Annual Supplier Contracts\n\nWe are currently reviewing proposals from suppliers for next year's contracts. All departments must submit their supply requirements by Monday, February 24. Any department that fails to provide its needs list by the deadline will be required to use the standard catalog items provided by the approved vendors.  Departments failing to submit will be charged standard rates.",
+      "question": "By what date must departments submit their supply requirements?",
+      "options": [
+        "Monday, February 24",
+        "Monday, March 2",
+        "Friday, February 21",
+        "Monday, February 17"
+      ],
+      "answer": 0,
+      "explanation": "采购经理要求各部门在2月24日前提交需求（by Monday, February 24），故选A。"
+    },
+    {
+      "id": "toeic-p6-130",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Conference Registration Update\n\nEarly bird registration for the annual marketing conference closes next Friday. After that date, the registration fee will increase from $250 to $350. The conference will be held April 15-17 in Chicago. Speakers include industry leaders from Google and Microsoft. Online registration is available through the conference website. Group discounts are available for teams of five or more.",
+      "question": "What will happen after early bird registration closes?",
+      "options": [
+        "The fee will increase",
+        "Speakers will leave",
+        "The location will change",
+        "Registration will be canceled"
+      ],
+      "answer": 0,
+      "explanation": "通知称优惠注册结束后费用将增加（registration fee will increase），故选A。"
+    },
+    {
+      "id": "toeic-p6-131",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Staff\nFrom: Office Management\nSubject: Security Protocol Update\n\nStarting next Monday, all visitors must sign in at the reception desk using the new digital kiosk system. Each visitor will receive a color-coded badge indicating their area access level. The security team will monitor compliance throughout the day. Please report any unauthorized individuals to the front desk immediately.  Compliance checks will occur randomly throughout each shift.",
+      "question": "When will the new visitor sign-in system take effect?",
+      "options": [
+        "Next Monday",
+        "Next Wednesday",
+        "Immediately",
+        "Next Friday"
+      ],
+      "answer": 0,
+      "explanation": "办公室管理通知新签到系统下周一起生效（Starting next Monday），故选A。"
+    },
+    {
+      "id": "toeic-p6-132",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Courier Services Notice\n\nEffective January 15, Express Delivery will discontinue its Saturday delivery service in urban areas. Monday through Friday deliveries will continue as normal. Customers needing weekend delivery can opt for the premium Saturday service at an additional cost of $10 per package. For questions, contact our customer service team at 1-800-COURIER. Please update your shipping preferences if this change affects your business.",
+      "question": "What change will take effect on January 15?",
+      "options": [
+        "Saturday delivery stops",
+        "Prices will decrease",
+        "All services increase",
+        "New urban routes added"
+      ],
+      "answer": 0,
+      "explanation": "公告指出1月15日起取消周六投递服务（discontinue its Saturday delivery service），故选A。"
+    },
+    {
+      "id": "toeic-p6-133",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Inventory Management Update\n\nThe warehouse inventory count for Product Code 8452 has been adjusted from 1,500 units to 1,320 units. This discrepancy occurred because 180 units were shipped out but not properly recorded in the system on December 18. All departments are asked to review their December usage reports for accuracy before the end of this week.  Updated reports should include all departmental codes.",
+      "question": "How many units were shipped but not recorded?",
+      "options": [
+        "150 units",
+        "180 units",
+        "200 units",
+        "220 units"
+      ],
+      "answer": 1,
+      "explanation": "库存报告指出180件产品发出但未记录（180 units were shipped out but not properly recorded），故选B。"
+    },
+    {
+      "id": "toeic-p6-134",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: International Sales Team\nFrom: Export Manager\nSubject: Documentation Requirements\n\nBeginning with the March billing cycle, all international shipments must include a completed customs declaration form and proof of insurance certificate. Shipments without proper documentation will be returned to the warehouse and may incur additional handling fees. Please coordinate with the logistics department to ensure your paperwork is in order.",
+      "question": "What documents are required for international shipments beginning March?",
+      "options": [
+        "Only a bill of lading",
+        "A customs declaration and proof of insurance",
+        "An export license",
+        "A commercial invoice"
+      ],
+      "answer": 1,
+      "explanation": "出口经理要求国际货件须附海关声明表和保险证明（customs declaration form and proof of insurance certificate），故选B。"
+    },
+    {
+      "id": "toeic-p6-135",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Training Session Cancellation\n\nThe advanced Excel workshop scheduled for Tuesday, November 5, has been canceled due to low enrollment. Registered participants have been notified by email and may transfer their registration to the next available session on November 19 or receive a full refund. We apologize for any inconvenience and look forward to seeing you in a future training session.",
+      "question": "Why was the Excel workshop canceled?",
+      "options": [
+        "The instructor became ill",
+        "Low enrollment",
+        "The venue was unavailable",
+        "The materials were delayed"
+      ],
+      "answer": 1,
+      "explanation": "通知称Excel培训因报名人数不足而取消（canceled due to low enrollment），故选B。"
+    },
+    {
+      "id": "toeic-p6-136",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Construction Project Notice\n\nDue to ongoing construction at the main entrance, the employee entrance on Maple Street will remain the primary access point until December 30. Deliveries will be directed to the loading dock on the north side of the building. All visitors are advised to use the Maple Street entrance and register with security upon arrival.  Parking permits must be displayed on the driver's side mirror.",
+      "question": "Which entrance will remain the primary access point?",
+      "options": [
+        "The main entrance",
+        "The Maple Street entrance",
+        "The north loading dock",
+        "The service entrance"
+      ],
+      "answer": 1,
+      "explanation": "公告说明枫树街入口将一直作为主要入口（entrance on Maple Street will remain the primary access point），故选B。"
+    },
+    {
+      "id": "toeic-p6-137",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Staff\nFrom: Training Department\nSubject: Leadership Workshop\n\nThe leadership workshop scheduled for March 12 has been moved to a larger venue and will now take place in Auditorium A from 1:00 P.M. to 5:00 P.M. Lunch will not be provided, but coffee and light snacks will be available in the lobby. All participants should bring their workshop materials and confirm attendance through the online registration system by March 5.",
+      "question": "What is the new location of the leadership workshop?",
+      "options": [
+        "Conference Room B",
+        "Auditorium A",
+        "The training center",
+        "The boardroom"
+      ],
+      "answer": 1,
+      "explanation": "培训部通知领导力研讨会改在A礼堂举行（take place in Auditorium A），故选B。"
+    },
+    {
+      "id": "toeic-p6-138",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Office Relocation Reminder\n\nAll employees moving to the new building must label their boxes with their name, department, and floor number. Moving crews will begin transporting boxes on the evening of March 28 and continue through the weekend. Items that are not labeled will be placed in the storage room and will not be delivered until the following week.  Unlabeled items will not be moved by the moving crew.",
+      "question": "When will moving crews begin transporting boxes?",
+      "options": [
+        "On the morning of March 28",
+        "On the evening of March 28",
+        "On the following Monday",
+        "During the holiday weekend"
+      ],
+      "answer": 1,
+      "explanation": "搬迁提醒说明搬运人员于3月28日晚开始搬运（on the evening of March 28），故选B。"
+    },
+    {
+      "id": "toeic-p6-139",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Customers\nFrom: BrightClean Laundry Services\nSubject: Holiday Schedule\n\nOur branches will close early at 5:00 P.M. on December 24 and will remain closed on December 25 for the holiday. Normal business hours will resume on December 26. Orders placed before noon on December 23 will be ready for pickup before the holiday. We wish all of our customers a happy holiday season.",
+      "question": "What time will branches close on December 24?",
+      "options": [
+        "At 3:00 P.M.",
+        "At 4:00 P.M.",
+        "At 5:00 P.M.",
+        "At 6:00 P.M."
+      ],
+      "answer": 2,
+      "explanation": "通知说明12月24日门店下午5点提前打烊（close early at 5:00 P.M. on December 24），故选C。"
+    },
+    {
+      "id": "toeic-p6-140",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Warehouse Safety Bulletin\n\nTo reduce the risk of workplace accidents, all warehouse employees are now required to wear steel-toe safety boots while on duty. The company will provide a footwear allowance of $60 per year to each employee. Employees who arrive without proper footwear will be asked to use the equipment room and may lose working time.  The allowance will be credited to payroll each quarter.",
+      "question": "What will the company provide to warehouse employees?",
+      "options": [
+        "Free lunch every day",
+        "A footwear allowance of $60 per year",
+        "A transportation subsidy",
+        "Paid parking near the site"
+      ],
+      "answer": 1,
+      "explanation": "安全通报称公司每年提供60美元鞋靴补贴（footwear allowance of $60 per year），故选B。"
+    },
+    {
+      "id": "toeic-p6-141",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Managers\nFrom: Human Resources\nSubject: Performance Review Schedule\n\nThe annual performance reviews will begin on November 4 and must be completed by November 22. Each manager should schedule a one-hour meeting with every direct report and submit the completed evaluation forms to HR by November 25. Please ensure that the review calendar is confirmed with your team this week.",
+      "question": "By what date must completed evaluation forms be submitted to HR?",
+      "options": [
+        "November 4",
+        "November 15",
+        "November 22",
+        "November 25"
+      ],
+      "answer": 3,
+      "explanation": "人力资源部要求绩效评估表须在11月25日前提交（submit... by November 25），故选D。"
+    },
+    {
+      "id": "toeic-p6-142",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Branch Relocation Announcement\n\nOur downtown branch will move to a new location at 45 Main Street, Suite 300, effective June 1. The new office offers twice the floor space and is located near the central train station. All telephone numbers and email addresses will remain unchanged. Please update your records and direct all future correspondence to the new address.  Please allow two business days for address changes to process.",
+      "question": "What is the new address of the downtown branch?",
+      "options": [
+        "45 Main Street, Suite 300",
+        "12 River Road",
+        "78 Park Avenue",
+        "99 Central Square"
+      ],
+      "answer": 0,
+      "explanation": "公告指出市中心分行迁至主街45号300室（45 Main Street, Suite 300），故选A。"
+    },
+    {
+      "id": "toeic-p6-143",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: Event Participants\nFrom: Conference Organizers\nSubject: Name Badge Pickup\n\nAll conference name badges and welcome packets must be picked up at the registration desk on the second floor of the convention center. The registration desk will be open from 7:30 A.M. to 6:00 P.M. on the first day of the conference. Please bring a government-issued photo ID with you to verify your registration.",
+      "question": "What must participants bring to pick up their name badges?",
+      "options": [
+        "A printed ticket",
+        "A government-issued photo ID",
+        "A business card",
+        "A confirmation letter"
+      ],
+      "answer": 1,
+      "explanation": "会务组要求领取胸牌须携带政府签发的带照片证件（bring a government-issued photo ID），故选B。"
+    },
+    {
+      "id": "toeic-p6-144",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Notice: Software License Renewal\n\nAs part of our annual software audit, all departments must confirm the number of active user licenses for design software by Friday. The license renewal fee for next year will be based on the confirmed user counts. Departments with unused licenses are encouraged to reduce their counts to lower overall costs. Please contact the IT department if you need a license usage report.",
+      "question": "Why must departments confirm their license counts by Friday?",
+      "options": [
+        "To cancel all software subscriptions",
+        "To determine the renewal fee for next year",
+        "To install new software",
+        "To identify unauthorized users"
+      ],
+      "answer": 1,
+      "explanation": "通知称续费金额将根据确认的用户数量确定（renewal fee will be based on the confirmed user counts），故选B。"
+    }
+  ]
+}

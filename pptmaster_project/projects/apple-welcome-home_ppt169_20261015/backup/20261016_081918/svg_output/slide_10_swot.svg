@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg10" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <filter id="glow10" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg10)"/>
+  <g stroke="#16324D" stroke-width="1" opacity="0.35">
+    <path d="M0 180H1280M0 360H1280M0 540H1280M160 0V720M400 0V720M640 0V720M880 0V720M1120 0V720"/>
+  </g>
+
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="18" letter-spacing="4" fill="#22D3EE">// SOLUTION SWOT · 解决方案优劣势</text>
+  <text x="94" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">整体解决方案优劣势全景</text>
+  <rect x="96" y="172" width="260" height="3" rx="1.5" fill="#22D3EE"/>
+
+  <!-- SWOT matrix: 2x2 per vendor, condensed -->
+  <!-- Apple row (S/W) -->
+  <g transform="translate(60 220)">
+    <!-- Apple header -->
+    <rect x="0" y="0" width="560" height="44" rx="10" fill="#0E2440" stroke="#0EA5E9"/>
+    <text x="28" y="30" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#7DD3FC">Apple · HomeView 方案</text>
+    <rect x="40" y="60" width="240" height="150" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="92" font-family="Consolas, monospace" font-size="14" fill="#A3E635">优势</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· A18 + Secure Exclaves 隐私硬件隔离</text>
+    <text x="20" y="144" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 6 人识别 + 内容隔离，家庭共享最佳</text>
+    <text x="20" y="168" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 协议层最全：Wi-Fi 6E / Thread / Matter</text>
+    <text x="20" y="192" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 系统统一体验生态完整</text>
+    <rect x="320" y="60" width="240" height="150" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="92" font-family="Consolas, monospace" font-size="14" fill="#E96A68">劣势</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· $299 定价高于竞品，普及受限</text>
+    <text x="20" y="144" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 仅限 Apple 生态，无 Android</text>
+    <text x="20" y="168" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· EU 不售 · Siri AI 仅英语起步</text>
+    <text x="20" y="192" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 摄像头/麦克风数据要求配对 iPhone</text>
+  </g>
+
+  <!-- Huawei row -->
+  <g transform="translate(60 440)">
+    <rect x="0" y="0" width="560" height="44" rx="10" fill="#0E2440" stroke="#F59E0B"/>
+    <text x="28" y="30" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#FCD34D">Huawei · 全屋智能方案</text>
+    <rect x="40" y="60" width="240" height="150" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="92" font-family="Consolas, monospace" font-size="14" fill="#A3E635">优势</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 可墙可桌可手持 空间穿越</text>
+    <text x="20" y="144" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 挂墙自动识别空间切换界面</text>
+    <text x="20" y="168" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 小艺全双工语音 + 可视可说</text>
+    <text x="20" y="192" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 鸿蒙智家 全屋主机+PLC 方案成熟</text>
+    <rect x="320" y="60" width="240" height="150" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="92" font-family="Consolas, monospace" font-size="14" fill="#E96A68">劣势</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 芯片/RAM/协议官方未公布</text>
+    <text x="20" y="144" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 面向工程渠道，C 端可得性低</text>
+    <text x="20" y="168" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 海外生态支持有限</text>
+    <text x="20" y="192" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 开发者生态待完善</text>
+  </g>
+
+  <!-- Xiaomi row (right side) -->
+  <g transform="translate(660 220)">
+    <rect x="0" y="0" width="560" height="44" rx="10" fill="#0E2440" stroke="#10B981"/>
+    <text x="28" y="30" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#6EE7B7">Xiaomi · 米家智能方案</text>
+    <rect x="40" y="60" width="240" height="150" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="92" font-family="Consolas, monospace" font-size="14" fill="#A3E635">优势</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 海量智能设备 + 红外家电库</text>
+    <text x="20" y="144" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 8核 + 6GB · Mesh 2.0 本地中枢</text>
+    <text x="20" y="168" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 价格最亲民（入门价位）</text>
+    <text x="20" y="192" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 超级小爱 + 中文场景理解最深</text>
+    <rect x="320" y="60" width="240" height="150" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="92" font-family="Consolas, monospace" font-size="14" fill="#E96A68">劣势</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 芯片型号官方未公布</text>
+    <text x="20" y="144" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 无线无 6GHz · 无 PoE</text>
+    <text x="20" y="168" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 电池未公布 · 需持续供电</text>
+    <text x="20" y="192" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 高端产品线缺乏</text>
+  </g>
+
+  <!-- Bottom takeaway -->
+  <rect x="96" y="650" width="1088" height="48" rx="12" fill="#0E1830" stroke="#1E3A5F" opacity="0.8"/>
+  <text x="124" y="664" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" fill="#E2E8F0">结论：Apple 优在系统统一+隐私架构；Huawei 优在空间形态+全屋工程；Xiaomi 优在生态广度+性价比——三方各有优劣，无绝对胜者</text>
+
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">10 / 12</text>
+</svg>

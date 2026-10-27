@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg6" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg6)"/>
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// HOMEVIEW DEEP-DIVE · 硬件与隐私全栈拆解</text>
+  <text x="94" y="145" font-family="Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#F8FAFC">Apple HomeView：规格全拆解（以官方 specs 页为准）</text>
+  <rect x="96" y="165" width="640" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="192" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：apple.com/apple-homeview/specs/ + 官方新闻稿 · 未披露项一律标注「官方未公布」</text>
+  <!-- Left: device + key highlights -->
+  <g transform="translate(96 220)">
+    <rect x="0" y="0" width="430" height="430" rx="20" fill="#0E1830" stroke="#1E3A5F"/>
+    <image href="../images/hv_color.jpg" x="16" y="16" width="398" height="96" preserveAspectRatio="xMidYMid slice"/>
+    <text x="28" y="138" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">HOME VIEW · $299 · 11.13 开售</text>
+    <text x="28" y="160" font-family="Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700" fill="#E2E8F0">四色可选 · 桌面版 + 壁挂版</text>
+
+    <rect x="20" y="178" width="390" height="56" rx="10" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="36" y="198" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">7" LIQUID RETINA · IPS</text>
+    <text x="36" y="220" font-family="Arial, sans-serif" font-size="13" fill="#E2E8F0">1088×1088 @220ppi · 500 nits峰值 / 0.3 nits最低</text>
+
+    <rect x="20" y="242" width="390" height="56" rx="10" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="36" y="262" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">A18 CHIP · 3NM</text>
+    <text x="36" y="284" font-family="Arial, sans-serif" font-size="13" fill="#E2E8F0">Secure Exclaves 隔离音视频数据 · OS/Apple 均不可访问</text>
+
+    <rect x="20" y="306" width="390" height="56" rx="10" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="36" y="326" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">PRIVACY STACK</text>
+    <text x="36" y="348" font-family="Arial, sans-serif" font-size="13" fill="#E2E8F0">端侧处理 + Private Cloud Compute（不存储、不可访问）</text>
+
+    <rect x="20" y="370" width="390" height="56" rx="10" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="36" y="390" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">MULTIUSER · 6人</text>
+    <text x="36" y="412" font-family="Arial, sans-serif" font-size="13" fill="#E2E8F0">人脸识别切换个人主屏 · 内容仅本人可见</text>
+  </g>
+  <!-- Right: spec table -->
+  <g transform="translate(556 220)">
+    <rect x="0" y="0" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="27" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">屏幕</text>
+    <text x="150" y="27" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">7" Liquid Retina · IPS LED 背光 · 1088×1088 · 220ppi</text>
+    <rect x="0" y="48" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="75" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">芯片</text>
+    <text x="150" y="75" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">A18（3nm制程，官方未公布核心/NPU参数）</text>
+    <rect x="0" y="96" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="123" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">摄像头</text>
+    <text x="150" y="123" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">12MP Center Stage · f/2.4 · FaceTime</text>
+    <rect x="0" y="144" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="171" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">音频</text>
+    <text x="150" y="171" font-family="Helvetica Neue, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">2×全频 + 下射低音 + 2×被动辐射 · 空间音频 · 4麦阵</text>
+    <rect x="0" y="192" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="219" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">无线</text>
+    <text x="150" y="219" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Wi-Fi 6E (802.11ax) MIMO · 蓝牙 6.0 · Thread · 双频</text>
+    <rect x="0" y="240" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="267" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">传感器</text>
+    <text x="150" y="267" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">环境光 · 温湿度 · 加速度计（硬规格确认）</text>
+    <rect x="0" y="288" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="315" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">接口</text>
+    <text x="150" y="315" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">USB-C ×1 · 随附 1.5m 线 + 30W 适配器</text>
+    <rect x="0" y="336" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="363" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">壁挂</text>
+    <text x="150" y="363" font-family="Helvetica Neue, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">Schneider 壁挂配件：USB-C / AC / PoE 三款</text>
+    <rect x="0" y="384" width="628" height="40" rx="8" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="411" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">系统</text>
+    <text x="150" y="411" font-family="Helvetica Neue, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">HomeView 软件 27.2（Siri AI beta）· 需 iOS/iPadOS 27.2+ 配对</text>
+  </g>
+  <!-- Bottom takeaway -->
+  <rect x="96" y="640" width="1088" height="52" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+  <text x="124" y="660" font-family="Helvetica Neue, Arial, sans-serif" font-size="15" fill="#E2E8F0"><tspan fill="#22D3EE">■</tspan> 核心卖点：<tspan fill="#7DD3FC">A18 + Secure Exclaves</tspan>（音视频隔离）+ <tspan fill="#7DD3FC">Private Cloud Compute</tspan> —— 连 Apple 都无法访问的隐私架构</text>
+  <text x="124" y="682" font-family="Arial, sans-serif" font-size="13" fill="#64748B">官方未公布：RAM / 存储 / CPU核心数 / NPU TOPS / 电池 —— 本页不填任何猜测值</text>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">06 / 23</text>
+</svg>

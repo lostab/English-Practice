@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-544",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To: All Team Members  From: Project Office  Subject: Quarterly Review Meeting\nWe will hold the quarterly project review on Tuesday, June 5, from 2:00 to 4:00 p.m. in Conference Room B. Please bring your progress reports and be prepared to discuss any budget issues. A light lunch will be served beforehand at 1:30 p.m. in the cafeteria. If you cannot attend, notify Ms. Chen by Friday. Please send your slides to the meeting coordinator by Monday. A projector and Wi-Fi access will be available in the room for all presentations.",
+      "question": "What time will the progress reports be discussed?",
+      "options": [
+        "At 1:30 p.m.",
+        "From 2:00 to 4:00 p.m.",
+        "On Friday morning",
+        "During the lunch break"
+      ],
+      "answer": 1,
+      "explanation": "会议时间 2:00-4:00 p.m.，期间讨论进度报告。"
+    },
+    {
+      "id": "toeic-p7-545",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "MEMO  To: All Staff  From: Human Resources  Date: December 2  Subject: Year-End Holiday Schedule\nThe office will close for the year-end holidays from December 24 through January 2. All employees are required to use their remaining leave days during this period. Urgent requests will be handled by the emergency contact listed on our website. The office will reopen on Monday, January 3, at 9:00 a.m. Normal operations will resume at that time. Employees who need urgent assistance during the closure may contact the duty manager directly by phone.",
+      "question": "When does the office reopen after the holidays?",
+      "options": [
+        "December 24",
+        "January 2",
+        "December 25",
+        "January 3"
+      ],
+      "answer": 3,
+      "explanation": "通知说办公室 January 3 星期一重新开门。"
+    },
+    {
+      "id": "toeic-p7-546",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Thank you for your order #8842 placed on May 3. Your shipment of 500 laser printer cartridges will be delivered to the main warehouse on May 15. Payment is due within 30 days of delivery. Please review the invoice attached to this email and notify our billing department at billing@corp.com if you notice any errors. We appreciate your business. All cartridges are brand new and come with a six-month guarantee. The warehouse team has been notified of the delivery date and will prepare the receiving area.",
+      "question": "When is payment due for the order?",
+      "options": [
+        "Immediately upon ordering",
+        "On May 15",
+        "Within 30 days of delivery",
+        "Within one week"
+      ],
+      "answer": 2,
+      "explanation": "邮件写明 Payment is due within 30 days of delivery（交货后30天内付款）。"
+    },
+    {
+      "id": "toeic-p7-547",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Delivery Update  From: Swift Freight  To: Receiving Department\nYour shipment, tracking number SF-2017, will arrive at the downtown depot on Thursday at 10:30 a.m. The driver will call the receiving manager when the truck is fifteen minutes away. Please have a loading dock available and a staff member ready to sign for the goods. Call our dispatch office at 555-0199 for any questions. Any items that cannot be signed for will be returned to the depot for re-delivery on the following morning. Please keep the tracking number for your records.",
+      "question": "When should a staff member be ready to sign?",
+      "options": [
+        "At 10:30 a.m. on Thursday",
+        "On Friday morning",
+        "Fifteen minutes after the truck leaves",
+        "At the end of the day"
+      ],
+      "answer": 0,
+      "explanation": "发货通知说明货物周四上午10:30到，届时需员工签收。"
+    },
+    {
+      "id": "toeic-p7-548",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "SUBJECT: Invoice #2215 Reminder  Dear Ms. Wright,\nThis is a reminder that invoice #2215 for the office furniture order has been due since April 10. The total amount of $3,450 remains unpaid. To avoid a late fee, please arrange payment by April 20. Should you have questions about the amount, contact our accounts receivable department at 555-0134. We thank you for your prompt attention. We appreciate your cooperation in settling this matter promptly. Please contact us if you believe the amount listed is incorrect for any reason.",
+      "question": "What will happen if payment is not made by April 20?",
+      "options": [
+        "The order will be cancelled",
+        "A late fee will be applied",
+        "The furniture will be returned",
+        "Delivery will be delayed"
+      ],
+      "answer": 1,
+      "explanation": "到 4月20日 未付款将收取 late fee（滞纳金）。"
+    },
+    {
+      "id": "toeic-p7-549",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "PRESS RELEASE  GreenRoots Launches New Organic Cereal  June 1, 2024\nGreenRoots Foods today introduced its newest product, Sunrise Oats Cereal, at retail stores nationwide. The cereal contains whole grains and no added sugar. A television advertising campaign will begin next month, and customers can find discount coupons in this week's Sunday newspapers. The product is priced at $4.29 per box. The company expects strong demand for the new cereal in the coming months. Additional flavors are planned for release early next year.",
+      "question": "Where are discount coupons for the cereal offered?",
+      "options": [
+        "In Sunday newspapers",
+        "On television",
+        "At retail stores",
+        "On the company website"
+      ],
+      "answer": 0,
+      "explanation": "新闻稿称优惠券在本周日的 Sunday newspapers 中刊出。"
+    },
+    {
+      "id": "toeic-p7-550",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "EXHIBITOR NOTICE  International Tech Fair  Exhibition Center, Hall 3\nExhibitors may begin setting up their booths on the morning of March 10 from 8:00 a.m. to noon. The fair opens to the public at 10:00 a.m. on March 11 and runs until March 13. All exhibitors are required to display their registration badge at all times. For lost badges, visit the registration desk near the main entrance. The registration desk will open at 7:30 a.m. each day of the fair. Exhibitors who have questions may also contact the fair office in advance by phone.",
+      "question": "When may exhibitors set up their booths?",
+      "options": [
+        "On March 11",
+        "On March 13",
+        "On the morning of March 10",
+        "At noon on March 10"
+      ],
+      "answer": 2,
+      "explanation": "通知说明参展商 3月10日上午8点至中午可布置展位。"
+    },
+    {
+      "id": "toeic-p7-551",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Dear Mr. Honda,  Thank you for contacting us about the damaged lamp you received. We are sorry for the inconvenience. To resolve this issue, please email us a photo of the damage within five business days. Once we receive it, a replacement will be shipped to you free of charge within two weeks. We value your satisfaction and look forward to serving you again. Please include your order number and your full shipping address in your message. Our team aims to reply to all emails within one business day.",
+      "question": "What must Mr. Honda do to get a replacement?",
+      "options": [
+        "Return the lamp by mail",
+        "Call the store manager",
+        "Visit the main office",
+        "Send a photo of the damage"
+      ],
+      "answer": 3,
+      "explanation": "客服要求先寄破损照片，确认后免费补发。"
+    },
+    {
+      "id": "toeic-p7-552",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "NOTICE TO EMPLOYEES  Subject: Parking Garage Maintenance  June 5\nThe parking garage adjacent to the main building will be closed for cleaning and maintenance from Saturday morning through Sunday evening. Employees are advised to use the temporary parking area behind Building C during this period. Shuttle service will run every ten minutes between the two locations. The garage reopens Monday at 6:00 a.m. We thank you for your cooperation and apologize for any inconvenience. Signage will be posted at all entrances to guide drivers to the alternate lot.",
+      "question": "Where can employees park during the garage closure?",
+      "options": [
+        "Behind Building C",
+        "In the main garage",
+        "On the street",
+        "In the basement"
+      ],
+      "answer": 0,
+      "explanation": "通知建议维护期间改用 C 栋后方的临时停车场。"
+    },
+    {
+      "id": "toeic-p7-553",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "JOB VACANCY  Position: Sales Representative  Location: Portland Branch  Start Date: Immediately\nWe are seeking a motivated sales representative with at least two years of experience in the technology sector. The candidate should have strong communication skills and a valid driver's license. The position offers a competitive salary and health benefits. Please submit your resume and cover letter to careers@orbtech.com by Friday. Only shortlisted candidates will be contacted for an interview. We thank all applicants for their interest in joining our growing team.",
+      "question": "What qualification is required for the position?",
+      "options": [
+        "Two years of technology sales experience",
+        "A college degree in marketing",
+        "Five years of management experience",
+        "Fluency in two languages"
+      ],
+      "answer": 0,
+      "explanation": "招聘要求 at least two years of experience in the technology sector。"
+    },
+    {
+      "id": "toeic-p7-554",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Departments  FROM: Administration Office  SUBJECT: Office Supply Orders\nAll office supply requests must now be submitted through the online ordering system rather than by email. Orders placed before noon will be delivered the next business day. Please note that recycled paper and printer cartridges are available at a reduced price this month. Contact supplies@awex.com for assistance with the new system. Please direct any questions about the new process to the administration office. We appreciate everyone's cooperation in this transition.",
+      "question": "When will orders placed before noon be delivered?",
+      "options": [
+        "Within the hour",
+        "The next business day",
+        "The following week",
+        "On the first of the month"
+      ],
+      "answer": 1,
+      "explanation": "行政通知称午前下单次一工作日送达。"
+    },
+    {
+      "id": "toeic-p7-555",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Invitation to Annual Company Picnic  Saturday, July 15, Riverside Park, 11:00 a.m.-3:00 p.m.\nAll employees and their families are warmly invited to this year's picnic at Riverside Park. Lunch and refreshments will be provided, and games and activities will be organized for children. Please register your attendance by July 8 so we can order the correct amount of food. Transportation is not provided, but free parking is available at the park entrance. In case of rain, the event will be moved to the indoor pavilion on the east side of the park. Families are encouraged to bring sunscreen and hats.",
+      "question": "What should employees do by July 8?",
+      "options": [
+        "Register their attendance",
+        "Bring their own lunch",
+        "Reserve a parking spot",
+        "Arrange for transportation"
+      ],
+      "answer": 0,
+      "explanation": "邀请函要求 7月8日前报名以便准备食物。"
+    },
+    {
+      "id": "toeic-p7-556",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To: All Employees  From: Information Technology  Subject: Email System Upgrade\nWe will upgrade our email system this weekend, beginning Friday at 6:00 p.m. and finishing Sunday at midnight. During this time, email service will be unavailable. Please save any drafts you are working on before Friday afternoon. For urgent messages during the outage, call the IT help desk at extension 2211. We apologize for any inconvenience this short interruption may cause. Please plan your work accordingly and save your files in advance.",
+      "question": "When will the email system be unavailable?",
+      "options": [
+        "On weekdays only",
+        "For one hour on Friday",
+        "From Monday to Friday",
+        "From Friday evening to Sunday"
+      ],
+      "answer": 3,
+      "explanation": "IT 通知邮件系统周五晚6点至周日午夜升级不可用。"
+    },
+    {
+      "id": "toeic-p7-557",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TRAINING SEMINAR  Customer Service Excellence  Room 201, Main Hall\nA half-day seminar on customer service will be held on Monday, September 9, from 9:00 a.m. to 1:00 p.m. Attendance is mandatory for all front-desk staff. The seminar will cover handling difficult customers and improving response times. Certificates will be issued to participants who complete the full session. Please arrive fifteen minutes early for registration. Seats are limited, so please register with the training office by September 2. Managers are asked to ensure their staff members attend the full session.",
+      "question": "What will participants receive for completing the seminar?",
+      "options": [
+        "A cash bonus",
+        "A company discount",
+        "A certificate",
+        "A free lunch"
+      ],
+      "answer": 2,
+      "explanation": "说明完成全程课程将获发 certificates（结业证书）。"
+    },
+    {
+      "id": "toeic-p7-558",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "FLIGHT DELAY NOTICE  Flight JL-206  Destination: Osaka  Scheduled Departure: 8:35 a.m.\nDue to heavy fog at the destination airport, flight JL-206 to Osaka has been delayed. Passengers should recheck the departure time at the information desk after 7:00 a.m. Those with connecting flights in Osaka will be rebooked at no extra charge. For assistance, please proceed to counter 12 in Terminal 2. Free refreshments will be provided in the waiting area near gate 12. We thank all passengers for their patience during this delay.",
+      "question": "Why was flight JL-206 delayed?",
+      "options": [
+        "Heavy fog at the destination",
+        "A technical problem",
+        "A security alert",
+        "Bad weather en route"
+      ],
+      "answer": 0,
+      "explanation": "延误原因是目的地机场 heavy fog（浓雾）。"
+    },
+    {
+      "id": "toeic-p7-559",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "SAFETY REMINDER  All Laboratory Staff\nDue to the recent flu season, we remind all laboratory staff to wear gloves and masks when handling samples. Hand sanitizer stations have been installed near every entrance. If you develop a fever, please report to the clinic immediately and do not enter the laboratory. Annual vaccinations will be available next Tuesday free of charge in Room 5. Please follow the posted hygiene guidelines and wash your hands regularly. Your cooperation helps keep everyone in the building healthy and safe.",
+      "question": "What should staff do if they develop a fever?",
+      "options": [
+        "Continue working normally",
+        "Wear extra protective gear",
+        "Report to the clinic immediately",
+        "Work from home"
+      ],
+      "answer": 2,
+      "explanation": "安全提醒发现发烧应立即到诊所报告，勿进入实验室。"
+    },
+    {
+      "id": "toeic-p7-560",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "PRESS ANNOUNCEMENT  First National Bank Opens New Branch\nFirst National Bank is pleased to announce the opening of its new branch on Oak Street on November 20. The branch will offer full banking services, including checking accounts, loans, and foreign currency exchange, from 9:00 a.m. to 5:00 p.m. Monday through Friday. To celebrate the opening, new account holders will receive a bonus of $50. The branch manager, Ms. Tanaka, will attend the opening ceremony at 10:00 a.m. Light refreshments will be served to all visitors on opening day.",
+      "question": "When does the new branch open to customers?",
+      "options": [
+        "On Oak Street tomorrow",
+        "Next month",
+        "Before 9:00 a.m. today",
+        "On November 20"
+      ],
+      "answer": 3,
+      "explanation": "公告称新支行将于11月20日营业。"
+    },
+    {
+      "id": "toeic-p7-561",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Members  FROM: City Fitness Club  SUBJECT: Summer Hours  May 1\nStarting next Monday, the fitness center will extend its hours to 6:00 a.m.-11:00 p.m. to accommodate summer schedules. The pool and sauna will remain open until 10:30 p.m. A limit of four guest passes per member per month applies, and passes must be requested at the front desk. There will be no changes to the group class schedule. Members who have questions about the new summer hours may ask at the front desk. We look forward to seeing you at the club this summer.",
+      "question": "What is the limit on guest passes?",
+      "options": [
+        "Two per week",
+        "Ten per year",
+        "Four per month",
+        "Unlimited"
+      ],
+      "answer": 2,
+      "explanation": "俱乐部规定每位会员每月限 4 张 guest passes（访客卡）。"
+    },
+    {
+      "id": "toeic-p7-562",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Dear Valued Customers,\nBeginning July 1, the Blue Bay Restaurant will open at 11:00 a.m. instead of noon and will remain open until 11:00 p.m. on weekends. Sunday brunch will now be served until 2:00 p.m. Reservations for our popular Thursday seafood night must be made at least two days in advance by calling 555-0317. Thank you for your continued support. We hope the extended hours will make it more convenient for you to visit. Please note that the kitchen closes thirty minutes before the restaurant does.",
+      "question": "What change takes effect on July 1?",
+      "options": [
+        "Thursday is a new menu day",
+        "The restaurant opens one hour earlier",
+        "The restaurant closes at midnight",
+        "Sunday brunch is discontinued"
+      ],
+      "answer": 1,
+      "explanation": "通知7月1日起餐厅改为11点开门，比原来早1小时。"
+    },
+    {
+      "id": "toeic-p7-563",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To: Mr. Adler  Subject: Warranty Registration\nThank you for purchasing the Ultrafast Blender. To activate your one-year warranty, please complete the online registration form within fourteen days of purchase. The warranty covers manufacturing defects but does not include normal wear and tear. Keep your receipt, as you will need it if you make a claim. Registration also enters you into a monthly prize draw. If you have any questions about the registration process, please visit our website. Thank you for choosing our products and services.",
+      "question": "Within how many days should the warranty be registered?",
+      "options": [
+        "Thirty",
+        "Seven",
+        "Fourteen",
+        "Ninety"
+      ],
+      "answer": 2,
+      "explanation": "邮件要求购买后14天内完成保修在线注册。"
+    },
+    {
+      "id": "toeic-p7-564",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "CONFERENCE RESERVATION CONFIRMATION  Reservations Department, Harbor View Hotel\nDear Ms. Nguyen, this email confirms your booking for two rooms from June 18 to June 20 for the regional sales conference. Rooms are reserved under confirmation number HV-8892. The rate is $129 per night per room, which includes breakfast. Please present your confirmation number at check-in. To cancel, you must notify us by June 15. Please note that the check-in time at the hotel is 3:00 p.m. Complimentary Wi-Fi is available throughout the hotel for all guests.",
+      "question": "What is included in the room rate of $129?",
+      "options": [
+        "Breakfast",
+        "Airport transfer",
+        "Parking",
+        "Conference fees"
+      ],
+      "answer": 0,
+      "explanation": "预订确认单说明房价含早餐 breakfast。"
+    },
+    {
+      "id": "toeic-p7-565",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "SERVICE APPOINTMENT  Handy Fix Repair Services  Appointment #4401\nYour refrigerator repair has been scheduled for Tuesday, April 8, between 1:00 and 4:00 p.m. Please ensure that someone over eighteen is at home during the appointment. If the technician cannot complete the repair, a follow-up visit will be arranged at no additional cost. A service fee of $60 applies to all home visits and is payable on arrival. The technician will call thirty minutes before arrival. Please make sure any pets are kept in a separate room during the visit.",
+      "question": "What is required during the repair appointment?",
+      "options": [
+        "The owner must call first",
+        "Payment must be made later",
+        "The kitchen must be empty",
+        "An adult must be at home"
+      ],
+      "answer": 3,
+      "explanation": "预约需时家中须有年满18岁的成人。"
+    },
+    {
+      "id": "toeic-p7-566",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "NEWS REPORT  ToyMaker Recalls Clown Dolls  January 12\nToyMaker announced today a voluntary recall of its Bright Clown Doll due to a small part that may detach and present a choking hazard to young children. The recalled dolls carry lot number K720 and were sold since October. Customers may return the product to any ToyMaker store for a full refund or a replacement doll. Parents are urged to check the lot number on the packaging. Customers who purchased the affected product should stop using it immediately. The company apologizes for any concern this recall may cause.",
+      "question": "How can customers obtain a refund for the recalled doll?",
+      "options": [
+        "Mail the receipt to headquarters",
+        "Return it to any ToyMaker store",
+        "Contact the supplier directly",
+        "Bring it to a hospital"
+      ],
+      "answer": 1,
+      "explanation": "召回报道称可到任何 ToyMaker 门店退货退款。"
+    },
+    {
+      "id": "toeic-p7-567",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To: Mr. Park  From: Cargo Claims Department  Subject: Shipment SC-118 Claims\nWe received your claim regarding shipment SC-118, in which two glass vases arrived cracked. Please complete the attached damage report and return it within seven days. Evidence of the damage, such as the original packing, must be retained until our inspector visits. Once verified, a full refund will be issued within thirty days of the inspection. Please direct any questions about the claims process to our customer service line. We will keep you informed of the inspection schedule.",
+      "question": "What must accompany the completed damage report?",
+      "options": [
+        "A sales receipt",
+        "Evidence of the damage",
+        "A written apology",
+        "A replacement order"
+      ],
+      "answer": 1,
+      "explanation": "索赔部要求损坏证据如原包装保留至检查员查看。"
+    },
+    {
+      "id": "toeic-p7-568",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "LIBRARY MEMBERSHIP NOTICE  Downtown Public Library\nWe are pleased to announce extended borrowing privileges for all members. Effective immediately, books may be kept for three weeks instead of two, and the renewal limit is now two times. An overdue fine of $0.50 per day per item applies. To renew online, log into your account or use the self-service kiosk on the first floor. Members must present their library card when checking out items. Please return all borrowed materials on time to avoid fines.",
+      "question": "What is the new borrowing period for books?",
+      "options": [
+        "Two weeks",
+        "One month",
+        "Five days",
+        "Three weeks"
+      ],
+      "answer": 3,
+      "explanation": "通知宣布借书期限由两周延长为三周。"
+    },
+    {
+      "id": "toeic-p7-569",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Residents of Maple Avenue  FROM: City Power Company  SUBJECT: Planned Power Outage\nElectricity on Maple Avenue will be interrupted on Wednesday from 2:00 to 6:00 p.m. for scheduled line maintenance. Please turn off sensitive electronic equipment before the outage begins. Emergency generators will be available at the neighborhood community center. For questions, call our service line at 555-0420, which is open twenty-four hours a day. We recommend unplugging computers and other equipment to protect them during the interruption. Thank you for your patience and understanding.",
+      "question": "For what reason is the power being cut off?",
+      "options": [
+        "Scheduled line maintenance",
+        "Severe weather",
+        "A system failure",
+        "Construction in the area"
+      ],
+      "answer": 0,
+      "explanation": "通知说明停电是为 scheduled line maintenance（例行线路检修）。"
+    },
+    {
+      "id": "toeic-p7-570",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Department  FROM: Facilities Office  DATE: March 4  SUBJECT: Office Relocation\nDue to the renovation of the third floor, the marketing department will move to the fifth floor, Rooms 501-503, over the weekend of March 9. Packing boxes will be delivered on Thursday, and staff should label all boxes with their names. Move-out inspection of the old office will take place on Monday at 9:00 a.m. Contact Meera at extension 3321 with questions. Please label all boxes clearly and keep an inventory list for reference. Staff will receive their new office keys on Friday afternoon.",
+      "question": "When will the move-out inspection take place?",
+      "options": [
+        "Thursday afternoon",
+        "March 9",
+        "Friday at noon",
+        "Monday at 9:00 a.m."
+      ],
+      "answer": 3,
+      "explanation": "通知旧办公室搬离检查安排在周一上午9点。"
+    },
+    {
+      "id": "toeic-p7-571",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "COMMUNITY FUNDRAISER  Help Clean Our River  Sunday, May 20, City Park\nJoin our volunteer team to clean up trash along the riverside from 9:00 a.m. to noon. Gloves, bags, and refreshments will be provided free of charge. Children under fourteen must be accompanied by an adult. Volunteers are asked to register online by Friday so we can prepare enough supplies. Let's work together to keep our river beautiful! Please wear comfortable clothing and bring your own water bottle. The city will provide gloves, bags, and light refreshments for all participants.",
+      "question": "What is provided to volunteers free of charge?",
+      "options": [
+        "Uniforms and boots",
+        "Gloves, bags, and refreshments",
+        "Transport and meals",
+        "Medical insurance"
+      ],
+      "answer": 1,
+      "explanation": "募捐活动声明免费提供手套、袋子和茶点。"
+    },
+    {
+      "id": "toeic-p7-572",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "CITY LIGHT HOTEL  Service Request Form  Guest: Room 812\nThank you for your request for an extra pillow and a morning wake-up call at 6:30 a.m. Both have been confirmed for today. Please note that room service is available only until 10:00 p.m. If you require laundry service, it must be submitted by 9:00 a.m. for same-day return. Press 0 on your phone to reach the front desk anytime. For any additional requests, please contact the front desk by pressing 0. We hope you enjoy your stay at our hotel.",
+      "question": "Until what time is room service available?",
+      "options": [
+        "6:30 a.m.",
+        "9:00 a.m.",
+        "10:00 p.m.",
+        "Midnight"
+      ],
+      "answer": 2,
+      "explanation": "酒店确认单显示客房服务仅营业至晚10点。"
+    },
+    {
+      "id": "toeic-p7-573",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Building Tenants  FROM: Building Management  SUBJECT: Updated Parking Rules\nEffective next week, visitor parking will be limited to three hours. Tenants must register all long-term vehicles with the front desk and display a parking permit. Vehicles parked without a permit or in reserved spaces will be towed at the owner's expense. Overnight parking remains prohibited in the visitor area. Please direct questions to management office Room 100. Please do not park in spaces marked for visitors if you are a tenant. Thank you for your cooperation in keeping the building safe and orderly.",
+      "question": "To park long-term, what must tenants do?",
+      "options": [
+        "Register their vehicles and display a permit",
+        "Pay a daily fee at the entrance",
+        "Park in the visitor area",
+        "Request a special pass weekly"
+      ],
+      "answer": 0,
+      "explanation": "管理规定长期停放车辆须登记并出示停车证。"
+    },
+    {
+      "id": "toeic-p7-574",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Dear Mr. Cole,  Here is the schedule we confirmed for your visit tomorrow: I will meet you at the airport arrivals gate at 9:45 a.m. From there we will drive to the head office for a 10:30 meeting. Lunch has been reserved at the Grand Hotel at noon, followed by a tour of the production site at 2:00 p.m. Your return flight departs at 6:15 p.m. Please let us know if you need any changes to the schedule. We look forward to welcoming you and hope your visit goes smoothly.",
+      "question": "Where will the 2:00 p.m. tour take place?",
+      "options": [
+        "The head office",
+        "The Grand Hotel",
+        "The production site",
+        "The airport"
+      ],
+      "answer": 2,
+      "explanation": "日程表下午2点为 production site（生产基地）参观。"
+    },
+    {
+      "id": "toeic-p7-575",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "SECURITY ALERT  Dear Account Holder,\nYour online banking account shows several log-in attempts from an unrecognized device on May 6. To protect your account, please verify the activity by logging in and reviewing recent transactions within 48 hours. If you did not perform these attempts, change your password immediately and call 555-0098. Do not share your password with anyone. If you recognize the device, you may simply confirm it as trusted. Additional security questions may be required when you log in.",
+      "question": "What should the customer do within 48 hours?",
+      "options": [
+        "Close their account",
+        "Visit a branch in person",
+        "Mail a verification form",
+        "Review recent transactions"
+      ],
+      "answer": 3,
+      "explanation": "银行提醒48小时内登录核对近期交易，防异常登录。"
+    },
+    {
+      "id": "toeic-p7-576",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "OFFICIAL NOTICE  Bad Weather Closure  February 28\nDue to the approaching snowstorm, the corporate office will close at 3:00 p.m. today and remain closed tomorrow. Employees should complete urgent tasks and shut down their computers before leaving. The emergency phone line will operate around the clock for critical matters. Staff who can work from home should connect remotely. The office is expected to reopen on March 2. Please monitor weather updates on our website and local news. Safety of our employees remains our highest priority at all times.",
+      "question": "When is the office expected to reopen?",
+      "options": [
+        "Tomorrow morning",
+        "March 2",
+        "February 28",
+        "March 5"
+      ],
+      "answer": 1,
+      "explanation": "通知预计3月2日恢复正常上班。"
+    },
+    {
+      "id": "toeic-p7-577",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "CLINIC APPOINTMENT REMINDER  Medical Laboratory Services\nThis is to remind you that your blood test appointment is scheduled for Thursday, July 25, at 8:30 a.m. Please fast for twelve hours before your test and drink water to stay hydrated. Bring your identification card and your insurance information. Arrive at the wing entrance fifteen minutes early for registration. To reschedule, call 555-0061 at least one day in advance. Please remember to bring your identification and insurance card. Results will be available online within three business days after the test.",
+      "question": "How long before the test should the patient fast?",
+      "options": [
+        "Six hours",
+        "One full day",
+        "Twelve hours",
+        "Two hours"
+      ],
+      "answer": 2,
+      "explanation": "预约提醒要求验血前空腹12小时。"
+    },
+    {
+      "id": "toeic-p7-578",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "ANNUAL POLICY NOTICE  SafeGuard Auto Insurance  Policy #A5672\nWe are pleased to inform you that your auto insurance policy has been renewed for another year, effective April 1. Your monthly premium of $82 will remain unchanged for this term. A no-claim discount of 10% will be applied to your premium in August. If your address or vehicle has changed, please update your information by March 25 to avoid missing mail. You can also update your information through our mobile app. We thank you for being a valued customer of SafeGuard Insurance.",
+      "question": "What change will happen to the premium in August?",
+      "options": [
+        "A 10% no-claim discount will apply",
+        "It will increase by $82",
+        "It will double",
+        "A late fee will be added"
+      ],
+      "answer": 0,
+      "explanation": "保单通知称8月起将享10%的无事故折扣。"
+    },
+    {
+      "id": "toeic-p7-579",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Dear Guests,  We are delighted to announce that the Sun Garden Restaurant will introduce its new summer menu starting June 10. The menu features lighter dishes, including fresh salads and grilled seafood, priced from $8 to $22. A special four-course tasting dinner will be offered every Friday evening at $35 per person. Reservations are recommended and can be made by calling 555-0102. Reservations for the tasting dinner are strongly advised due to limited seating. We look forward to serving you this summer.",
+      "question": "When does the summer menu begin?",
+      "options": [
+        "Every Friday evening",
+        "August 1",
+        "June 10",
+        "June 1"
+      ],
+      "answer": 2,
+      "explanation": "餐厅公告夏季菜单自6月10日推出。"
+    },
+    {
+      "id": "toeic-p7-580",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Warehouse Staff  FROM: Operations Department  SUBJECT: Warehouse Relocation\nDue to the expansion of the downtown site, our inventory will move to the new regional warehouse on Industrial Road. The move takes place from July 1 to July 5, during which ordering will be temporarily suspended. All staff are asked to help label and pack inventory starting this week. Protocols for the new location will be distributed at Friday's staff meeting. New shelving and loading equipment have already been installed at the new site. Staff will receive training on the new equipment on July 8.",
+      "question": "When will ordering be temporarily suspended?",
+      "options": [
+        "This week",
+        "On Friday",
+        "From now on",
+        "From July 1 to July 5"
+      ],
+      "answer": 3,
+      "explanation": "运务通知7月1-5日搬迁期间暂停下单。"
+    },
+    {
+      "id": "toeic-p7-581",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "We would like to hear from you!  Complete our 5-minute customer satisfaction survey and help us improve our services. Participants will be entered into a drawing for a free dinner for two at the Grand Plaza Hotel. To take part, scan the QR code below or visit www.surveysite.com. The survey closes on August 31, and winners will be contacted by email in September. Your responses are anonymous and will be used only for internal improvements. Thank you for taking the time to share your feedback with us.",
+      "question": "What will one participant receive from the drawing?",
+      "options": [
+        "A five-minute voucher",
+        "A free dinner for two",
+        "A hotel room",
+        "A discount coupon"
+      ],
+      "answer": 1,
+      "explanation": "调查说明参与者有机会获得双人晚餐大奖。"
+    },
+    {
+      "id": "toeic-p7-582",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "City Arts Theater  TICKET PURCHASE CONFIRMATION  Order #CT-2051\nThank you for your order for two tickets to the ballet performance on Saturday, October 12, at 7:30 p.m. Your tickets will be held at the box office and may be collected 30 minutes before the show. Please note that latecomers will only be admitted during breaks. Exchanges are allowed up to 24 hours before the performance; refunds are not available. Please bring your order confirmation and a valid photo ID when collecting your tickets. We look forward to seeing you at the performance.",
+      "question": "By when must tickets be exchanged?",
+      "options": [
+        "30 minutes before the show",
+        "24 hours before the performance",
+        "On the day of the show",
+        "A week before"
+      ],
+      "answer": 1,
+      "explanation": "剧院规定演出前24小时可换票，且不设退款。"
+    },
+    {
+      "id": "toeic-p7-583",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "FALL SCHEDULE  City Community Sports Center\nOur new fall schedule takes effect on September 4. Swimming classes will be offered every Tuesday and Thursday evening from 6:00 to 7:30 p.m. A new morning yoga class has been added on Saturdays at 9:00 a.m. Membership fees remain unchanged for current members through December, after which the monthly rate will rise by $5. Register online or at the front desk. Class sizes are limited, so early registration is recommended. Please contact the front desk if you need assistance with the registration process.",
+      "question": "What new class has been added on Saturdays?",
+      "options": [
+        "Evening swimming",
+        "Cycling class",
+        "Zumba fitness",
+        "Morning yoga"
+      ],
+      "answer": 3,
+      "explanation": "秋季课表新增周六早9点的上午瑜伽课。"
+    }
+  ]
+}

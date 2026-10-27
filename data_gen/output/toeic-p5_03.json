@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p5-539",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The quarterly report has been delayed ______ the server outage.",
+      "options": [
+        "during",
+        "due to",
+        "despite",
+        "unless"
+      ],
+      "answer": 1,
+      "explanation": "due to 表原因，后接名词短语，表示“由于”。"
+    },
+    {
+      "id": "toeic-p5-540",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The marketing team conducted a comprehensive survey to gauge ______ satisfaction.",
+      "options": [
+        "client",
+        "client's",
+        "clients",
+        "clients'"
+      ],
+      "answer": 3,
+      "explanation": "复数名词所有格 clients' 修饰名词 satisfaction。"
+    },
+    {
+      "id": "toeic-p5-541",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Clients who wish to upgrade their software subscription can do so ______ contacting support.",
+      "options": [
+        "by",
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": 0,
+      "explanation": "by doing sth. 表示“通过……方式”。"
+    },
+    {
+      "id": "toeic-p5-542",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The newly opened branch office has performed ______ than expected in its first quarter.",
+      "options": [
+        "good",
+        "well",
+        "better",
+        "best"
+      ],
+      "answer": 2,
+      "explanation": "than 提示用比较级 better。"
+    },
+    {
+      "id": "toeic-p5-543",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Ms. Alvarez will assume the role of director ______ Mr. Vance retires next month.",
+      "options": [
+        "when",
+        "during",
+        "while",
+        "until"
+      ],
+      "answer": 0,
+      "explanation": "引导时间状语从句用连词 when。"
+    },
+    {
+      "id": "toeic-p5-544",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "All employees are required to wear their identification badges ______ on company premises.",
+      "options": [
+        "never",
+        "always",
+        "seldom",
+        "ever"
+      ],
+      "answer": 1,
+      "explanation": "副词 always 表示“总是”。"
+    },
+    {
+      "id": "toeic-p5-545",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The factory manager inspected the production line to ensure safety standards ______ strictly followed.",
+      "options": [
+        "is",
+        "was",
+        "are",
+        "has been"
+      ],
+      "answer": 2,
+      "explanation": "主语 standards 为复数，且陈述客观规定用 are。"
+    },
+    {
+      "id": "toeic-p5-546",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Please review the attached contract thoroughly before signing and returning ______ to our office.",
+      "options": [
+        "them",
+        "its",
+        "itself",
+        "it"
+      ],
+      "answer": 3,
+      "explanation": "指代单数名词 contract 用宾格代词 it。"
+    },
+    {
+      "id": "toeic-p5-547",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The company’s quarterly profits rose steadily ______ a slight drop in consumer spending.",
+      "options": [
+        "despite",
+        "because",
+        "whereas",
+        "unless"
+      ],
+      "answer": 0,
+      "explanation": "despite 为介词，表让步“尽管”。"
+    },
+    {
+      "id": "toeic-p5-548",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "To improve operational efficiency, the executives decided to ______ the internal workflow.",
+      "options": [
+        "streamlines",
+        "streamline",
+        "streamlined",
+        "streamlining"
+      ],
+      "answer": 1,
+      "explanation": "to 不定式后接动词原形 streamline。"
+    },
+    {
+      "id": "toeic-p5-549",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Applicants for the senior accountant position must possess ______ in financial auditing.",
+      "options": [
+        "experienced",
+        "experiencing",
+        "experience",
+        "experiential"
+      ],
+      "answer": 2,
+      "explanation": "possess 及物动词后接名词 experience（经验）。"
+    },
+    {
+      "id": "toeic-p5-550",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The board of directors will vote on the proposed merger ______ tomorrow's meeting.",
+      "options": [
+        "on",
+        "in",
+        "by",
+        "at"
+      ],
+      "answer": 3,
+      "explanation": "在特定会议上用介词 at（at the meeting）。"
+    },
+    {
+      "id": "toeic-p5-551",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Attendees are encouraged to arrive early ______ they can secure seating near the stage.",
+      "options": [
+        "so that",
+        "even though",
+        "in case",
+        "as if"
+      ],
+      "answer": 0,
+      "explanation": "引导目的状语从句用 so that（以便于）。"
+    },
+    {
+      "id": "toeic-p5-552",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Ms. Henderson is ______ for coordinating international shipments and customs clearance.",
+      "options": [
+        "responsibility",
+        "responsible",
+        "responsibly",
+        "responsibilities"
+      ],
+      "answer": 1,
+      "explanation": "be responsible for 固定搭配“负责……”。"
+    },
+    {
+      "id": "toeic-p5-553",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The updated software package includes several features designed to protect user data ______ unauthorized access.",
+      "options": [
+        "with",
+        "to",
+        "from",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "protect ... from ... 意为“保护……免受……”。"
+    },
+    {
+      "id": "toeic-p5-554",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The human resources department announced that ______ applicants will be notified by email.",
+      "options": [
+        "qualification",
+        "qualifying",
+        "qualify",
+        "qualified"
+      ],
+      "answer": 3,
+      "explanation": "形容词 qualified 修饰名词 applicants（合格的申请人）。"
+    },
+    {
+      "id": "toeic-p5-555",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Mr. Tanaka has been working at the Tokyo branch ______ over ten years.",
+      "options": [
+        "for",
+        "since",
+        "during",
+        "from"
+      ],
+      "answer": 0,
+      "explanation": "for 后接时间段，用于完成时态。"
+    },
+    {
+      "id": "toeic-p5-556",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The printer in the second-floor office is currently out of order, so please use ______ on the third floor.",
+      "options": [
+        "it",
+        "one",
+        "that",
+        "this"
+      ],
+      "answer": 1,
+      "explanation": "泛指同类可数单数名词用代词 one。"
+    },
+    {
+      "id": "toeic-p5-557",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "To ensure timely delivery, please submit your order forms ______ than Friday.",
+      "options": [
+        "not later",
+        "latest",
+        "no later",
+        "later"
+      ],
+      "answer": 2,
+      "explanation": "no later than 意为“不迟于……”。"
+    },
+    {
+      "id": "toeic-p5-558",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The CEO emphasized that teamwork is ______ to the success of our global projects.",
+      "options": [
+        "vitally",
+        "vitality",
+        "vitalize",
+        "vital"
+      ],
+      "answer": 3,
+      "explanation": "be 动词后作表语用形容词 vital。"
+    },
+    {
+      "id": "toeic-p5-559",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Mr. Harris ______ the presentation before the clients arrived at the boardroom.",
+      "options": [
+        "had finished",
+        "finishes",
+        "finished",
+        "has finished"
+      ],
+      "answer": 0,
+      "explanation": "过去的过去用过去完成时 had finished。"
+    },
+    {
+      "id": "toeic-p5-560",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The maintenance crew will inspect the elevators ______ this weekend.",
+      "options": [
+        "among",
+        "throughout",
+        "between",
+        "inside"
+      ],
+      "answer": 1,
+      "explanation": "throughout 表示“在……期间/遍及”。"
+    },
+    {
+      "id": "toeic-p5-561",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Feedback from our focus groups indicates that customers prefer eco-friendly packaging ______ traditional plastic.",
+      "options": [
+        "over",
+        "than",
+        "to",
+        "from"
+      ],
+      "answer": 2,
+      "explanation": "prefer A to B 意为“比起 B 更喜欢 A”。"
+    },
+    {
+      "id": "toeic-p5-562",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The financial advisor recommended diversifying our investment portfolio to minimize potential ______.",
+      "options": [
+        "riskily",
+        "risky",
+        "riskiness",
+        "risks"
+      ],
+      "answer": 3,
+      "explanation": "minimize 后接复数名词 risks（风险）。"
+    },
+    {
+      "id": "toeic-p5-563",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ the workshop was challenging, the participants gained valuable project management skills.",
+      "options": [
+        "Although",
+        "However",
+        "Because",
+        "Despite"
+      ],
+      "answer": 0,
+      "explanation": "引导让步状语从句用连词 Although。"
+    },
+    {
+      "id": "toeic-p5-564",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "All participants must register ______ for the annual leadership seminar by Friday.",
+      "options": [
+        "onlined",
+        "online",
+        "online's",
+        "onlines"
+      ],
+      "answer": 1,
+      "explanation": "修饰动词 register 用副词 online。"
+    },
+    {
+      "id": "toeic-p5-565",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The research division has made significant progress ______ developing renewable energy sources.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "with"
+      ],
+      "answer": 2,
+      "explanation": "make progress in sth. 意为“在……方面取得进展”。"
+    },
+    {
+      "id": "toeic-p5-566",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Ms. Lopez spoke ______ about the company’s expansion plans during the press conference.",
+      "options": [
+        "confident",
+        "confidence",
+        "confidential",
+        "confidently"
+      ],
+      "answer": 3,
+      "explanation": "修饰动词 spoke 用副词 confidently。"
+    },
+    {
+      "id": "toeic-p5-567",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The store manager agreed to ______ a full refund for the defective merchandise.",
+      "options": [
+        "issue",
+        "issuing",
+        "issued",
+        "issues"
+      ],
+      "answer": 0,
+      "explanation": "agree to do sth. 中 to 后接动词原形 issue。"
+    },
+    {
+      "id": "toeic-p5-568",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "To access the restricted archives, employees must enter their secure ______.",
+      "options": [
+        "password",
+        "passwords",
+        "password's",
+        "passwords'"
+      ],
+      "answer": 1,
+      "explanation": "复数名词 passwords 表示密码。"
+    },
+    {
+      "id": "toeic-p5-569",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The seminar on effective communication will be held in conference room B ______ 9:00 AM.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "具体时刻前用介词 at。"
+    },
+    {
+      "id": "toeic-p5-570",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Our logistics team is currently evaluating several shipping vendors to reduce transportation ______.",
+      "options": [
+        "costly",
+        "costing",
+        "costless",
+        "costs"
+      ],
+      "answer": 3,
+      "explanation": "reduce 后接复数名词 costs（成本）。"
+    },
+    {
+      "id": "toeic-p5-571",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ you encounter any technical issues during the installation, please contact IT support.",
+      "options": [
+        "Should",
+        "Had",
+        "Were",
+        "Did"
+      ],
+      "answer": 0,
+      "explanation": "条件句倒装省略 if：Should you encounter ..."
+    },
+    {
+      "id": "toeic-p5-572",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The promotion campaign generated an ______ number of inquiries from prospective buyers.",
+      "options": [
+        "unprecedentedly",
+        "unprecedented",
+        "unprecedent",
+        "unprecedentedness"
+      ],
+      "answer": 1,
+      "explanation": "形容词 unprecedented 修饰名词 number。"
+    },
+    {
+      "id": "toeic-p5-573",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Mr. Harris decided to postpone his business trip ______ the severe weather warnings.",
+      "options": [
+        "because",
+        "while",
+        "due to",
+        "unless"
+      ],
+      "answer": 2,
+      "explanation": "due to 后接名词短语表示“由于”。"
+    },
+    {
+      "id": "toeic-p5-574",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The company offers competitive salaries as well as comprehensive health ______ for all full-time staff.",
+      "options": [
+        "beneficial",
+        "beneficiary",
+        "benefited",
+        "benefits"
+      ],
+      "answer": 3,
+      "explanation": "health benefits 意为“健康福利”。"
+    },
+    {
+      "id": "toeic-p5-575",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Staff members are reminded to lock their computer screens ______ they leave their desks.",
+      "options": [
+        "whenever",
+        "whatever",
+        "wherever",
+        "however"
+      ],
+      "answer": 0,
+      "explanation": "引导时间状语从句“每当……时”用 whenever。"
+    },
+    {
+      "id": "toeic-p5-576",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The accounting department requires all travel reimbursement forms to be ______ by receipts.",
+      "options": [
+        "accompanying",
+        "accompanied",
+        "accompany",
+        "accompanies"
+      ],
+      "answer": 1,
+      "explanation": "be accompanied by 意为“随附……”。"
+    },
+    {
+      "id": "toeic-p5-577",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Please submit your completed application form ______ email to the personnel department.",
+      "options": [
+        "with",
+        "through",
+        "by",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "by email 意为“通过电子邮件”。"
+    }
+  ]
+}

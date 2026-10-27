@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-424",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Hillside Hotel is proud to announce the opening of its new rooftop restaurant, The Skyline, this Friday. Located on the twelfth floor, the restaurant offers panoramic views of the entire city and a seasonal menu prepared by award-winning chef Marco Bellini. The menu changes monthly to feature the freshest local ingredients from nearby farms. Guests can enjoy sunset dining on the open-air terrace during the warmer months. Advanced reservations are recommended for weekend evenings, as tables in the popular dining room tend to fill up quickly.",
+      "question": "What is recommended for weekend evenings?",
+      "options": [
+        "Wearing formal evening attire",
+        "Making reservations",
+        "Arriving early at noon",
+        "Booking an overnight room"
+      ],
+      "answer": 1,
+      "explanation": "公告结尾指出 Advanced reservations are recommended for weekend evenings，故选A。"
+    },
+    {
+      "id": "toeic-p7-425",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To all employees of Apex Logistics: please be advised that the company will be relocating its corporate headquarters to 458 Grand Avenue effective November 1. All regular business operations will be suspended on Friday, October 31 so that office furniture, computers, and files can be moved safely to the new building. Normal working hours will resume at the new location on Monday, November 3, and the front desk will be staffed as usual from 9:00 A.M. Updated directions and parking information for the new building are available on the staff intranet.",
+      "question": "When will regular business operations be suspended?",
+      "options": [
+        "On November 3",
+        "On November 5",
+        "On November 1",
+        "On October 31"
+      ],
+      "answer": 3,
+      "explanation": "文中注明 operations will be suspended on Friday, October 31，故选A。"
+    },
+    {
+      "id": "toeic-p7-426",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The IT department will perform scheduled maintenance on the company's internal accounting software this Saturday from 10:00 P.M. until 2:00 A.M. the following morning. During this four-hour window, access to financial records and the invoicing tools will be temporarily unavailable to all staff members in every department. We strongly advise employees to save any open work and log out of the system beforehand. If you experience any issues after the maintenance is complete, please contact the help desk on Monday morning.",
+      "question": "What will happen during the maintenance window?",
+      "options": [
+        "Financial records will be inaccessible",
+        "The office network will be removed",
+        "Office computers will be replaced",
+        "Employee passwords must be reset"
+      ],
+      "answer": 0,
+      "explanation": "文中说明维护期间 financial records will be temporarily unavailable，故选A。"
+    },
+    {
+      "id": "toeic-p7-427",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Early bird registration for the annual Pacific Marketing Conference is now open and will remain available until March 15. Attendees who register before this deadline will receive a 20 percent discount on the standard admission fee, which is normally two hundred fifty dollars per person. The conference will feature keynote speeches, breakout sessions, and networking receptions over three full days in June at the downtown convention center. To sign up, please visit our official website at www.pacificmarketing2027.com and complete the online registration form.",
+      "question": "What benefit is offered to early registrants?",
+      "options": [
+        "A reserved front-row seat",
+        "A complimentary printed program",
+        "Access to private workshops",
+        "A discounted admission fee"
+      ],
+      "answer": 3,
+      "explanation": "文中说明早鸟注册可享 20 percent discount on the standard admission fee，故选A。"
+    },
+    {
+      "id": "toeic-p7-428",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Starting next month, the Oakridge Public Library will extend its Tuesday evening hours until 9:00 P.M. to better accommodate working professionals and students who cannot easily visit during regular daytime hours. In addition, the maximum number of books that a single cardholder may check out at one time has been increased from five to ten titles. The library also reminds patrons that overdue fines can now be paid online through the library website rather than in person at the circulation desk, which will shorten waiting times.",
+      "question": "Why are the library's Tuesday hours being extended?",
+      "options": [
+        "To prepare for a summer program",
+        "To celebrate the library anniversary",
+        "To reduce weekend crowding",
+        "To accommodate working professionals"
+      ],
+      "answer": 3,
+      "explanation": "文中说明延长周二晚间开放时间是为了 accommodate working professionals，故选A。"
+    },
+    {
+      "id": "toeic-p7-429",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Get active this spring with Metro Fitness Club! Sign up for an annual membership before the end of April and pay no initiation fee. Members enjoy 24-hour access to state-of-the-art exercise equipment, complimentary group yoga classes, free initial consultations with professional personal trainers, and discounts on nutrition supplements sold in the club store. A valid photo identification card is required at registration, and all new members must attend a short orientation session with our friendly staff before using the facilities.",
+      "question": "What is waived for memberships signed up before the end of April?",
+      "options": [
+        "The guest pass charge",
+        "The monthly locker rental",
+        "The initiation fee",
+        "The cancellation penalty"
+      ],
+      "answer": 2,
+      "explanation": "广告说明四月底前入会 pay no initiation fee，故选A。"
+    },
+    {
+      "id": "toeic-p7-430",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Thank you for shopping at Greenfield Electronics. We value your feedback and invite you to complete a brief three-minute survey about your recent in-store experience, including the helpfulness of our sales associates and the availability of products on display. As a token of our appreciation, participants who finish the survey will receive a coupon code for 15 percent off their next online purchase. The code will be emailed to you within 24 hours and remains valid for 30 days from the date it is issued to you.",
+      "question": "What do survey participants receive as a thank-you?",
+      "options": [
+        "A free electronic accessory",
+        "A complimentary product catalog",
+        "A discount coupon for online shopping",
+        "A gift card valid in stores"
+      ],
+      "answer": 2,
+      "explanation": "文中说明完成问卷可获得 15 percent off 的优惠码，故选A。"
+    },
+    {
+      "id": "toeic-p7-431",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "This notice is being sent to all department managers. Human Resources is hosting a mandatory workshop on workplace safety on Thursday afternoon in Conference Room B on the second floor. All department supervisors are required to attend so that they can review the updated compliance protocols and the new emergency evacuation procedures for each floor. The workshop will last approximately two hours, and refreshments will be provided during the short break. Please confirm your attendance with the HR office by Wednesday.",
+      "question": "Who must attend the workplace safety workshop?",
+      "options": [
+        "All newly hired employees",
+        "Department supervisors",
+        "External safety inspectors",
+        "The building maintenance crew"
+      ],
+      "answer": 1,
+      "explanation": "文中标明 All department supervisors are required to attend，故选A。"
+    },
+    {
+      "id": "toeic-p7-432",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "BrightHome Appliances has announced a voluntary recall of the model HX-500 coffee maker due to a potential electrical defect that may pose a fire risk in rare cases. Customers who purchased this item are asked to stop using it immediately, unplug the unit, and return it to the place of purchase for a full refund of the original price. No receipt is required for the return. For questions about the recall, customers may call our toll-free customer service line or visit the product recall section of our website.",
+      "question": "What are owners of the recalled coffee maker asked to do?",
+      "options": [
+        "Return it for a full refund",
+        "Contact a technician for repair",
+        "Register it for a warranty",
+        "Exchange it for a newer model"
+      ],
+      "answer": 0,
+      "explanation": "公告要求 return it to the place of purchase for a full refund，故选A。"
+    },
+    {
+      "id": "toeic-p7-433",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Please be advised that the main employee cafeteria on the second floor will be closed for remodeling from July 10 through July 21, with work scheduled to finish during the weekend of July 22. During this period, temporary food trucks will be parked outside the north entrance of the building, and the vending machines in the lobby will be fully stocked with snacks and beverages. We apologize for any inconvenience and thank you for your patience while we improve your dining experience.",
+      "question": "Where can employees buy food while the cafeteria is closed?",
+      "options": [
+        "At the nearby grocery store",
+        "By ordering takeout delivery",
+        "From the reception lobby cafe",
+        "From temporary food trucks outside"
+      ],
+      "answer": 3,
+      "explanation": "文中说明 temporary food trucks will be parked outside the north entrance，故选A。"
+    },
+    {
+      "id": "toeic-p7-434",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "City Readers Bookstore is thrilled to host renowned novelist Clara Vance for a special book reading and signing event this Saturday at 2:00 P.M. Ms. Vance will read excerpts from her latest novel and answer questions from the audience. Seating in the events area is limited and will be available on a first-come, first-served basis, so attendees are encouraged to arrive at least fifteen minutes early. Copies of the new novel will be on sale at the register, and Ms. Vance will happily sign books purchased at the event.",
+      "question": "How is seating allocated for the book event?",
+      "options": [
+        "Reserved for club members",
+        "By raffle at the door",
+        "By advance reservation only",
+        "First-come, first-served"
+      ],
+      "answer": 3,
+      "explanation": "文中指出 Seating will be available on a first-come, first-served basis，故选A。"
+    },
+    {
+      "id": "toeic-p7-435",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Metropolis Art Museum invites the public to the grand opening of its new photography exhibit, titled 'Capturing Light,' on Friday evening at 7:00 P.M. in the east wing gallery. Admission for the opening night gala is free for museum members and twenty dollars for non-members, with all proceeds supporting future exhibitions and educational programs. Guests will be treated to complimentary refreshments served in the grand lobby, and the exhibit's featured photographers will be present to discuss their work throughout the evening.",
+      "question": "What is the admission price for museum members on opening night?",
+      "options": [
+        "It is free for members",
+        "Fifteen dollars per person",
+        "Ten dollars per person",
+        "Twenty dollars per person"
+      ],
+      "answer": 0,
+      "explanation": "文中指出入场费 free for museum members，故选A。"
+    },
+    {
+      "id": "toeic-p7-436",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Metro Transit announces that Bus Route 14 will operate on an adjusted weekend schedule starting on May 5. Due to scheduled road repairs on Oak Street, buses will bypass the Central Library stop and use a temporary detour via Pine Avenue for approximately six weeks. Passengers who normally board at the Central Library are advised to use the temporary stop on the corner of Pine Avenue and Third Street during this period. Signage will be posted at all affected stops to guide riders.",
+      "question": "Why is Bus Route 14 using a temporary detour?",
+      "options": [
+        "Road repairs on Oak Street",
+        "The annual street festival",
+        "Low weekend passenger volume",
+        "A new pedestrian zone downtown"
+      ],
+      "answer": 0,
+      "explanation": "文中说明 Due to scheduled road repairs on Oak Street，故选A。"
+    },
+    {
+      "id": "toeic-p7-437",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The north section of the underground parking garage will be closed for routine cleaning and repainting on Wednesday between 8:00 A.M. and 3:00 P.M. so that the maintenance crews can work safely and efficiently. Permit holders who normally park in this zone are requested to use the open-air surface lot located behind Building C during the closure. Access to the south and east sections of the garage will not be affected at any time. We apologize for any inconvenience and appreciate your cooperation.",
+      "question": "Where should affected permit holders park during the closure?",
+      "options": [
+        "Along the main entrance driveway",
+        "At the neighboring shopping center",
+        "In the surface lot behind Building C",
+        "On the upper garage levels"
+      ],
+      "answer": 2,
+      "explanation": "文中要求受影响者 use the open-air surface lot behind Building C，故选A。"
+    },
+    {
+      "id": "toeic-p7-438",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "All departments must submit their monthly stationery and printer ink requests to the procurement office by the close of business on Thursday. Please use the standard request form, which is available on the company intranet, and remember to include the department code and the approximate quantities needed for the coming month. Orders submitted after this deadline will be deferred to the following month's procurement cycle, so early submission is strongly encouraged in order to avoid unnecessary delays in receiving your supplies on time.",
+      "question": "What is the deadline for submitting supply requests?",
+      "options": [
+        "Friday morning",
+        "Monday at noon",
+        "Thursday evening",
+        "The end of the month"
+      ],
+      "answer": 2,
+      "explanation": "文中指出 requests 须 by the close of business on Thursday 提交，故选A。"
+    },
+    {
+      "id": "toeic-p7-439",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Stay informed on the latest industry trends by subscribing to Global Business Quarterly, a trusted publication that is read by executives and analysts worldwide. New subscribers who sign up today for a digital annual subscription will receive an exclusive report on international trade forecasts at no additional charge whatsoever. The report, which normally sells for ninety-nine dollars, covers emerging markets, currency trends, and supply chain outlooks for the coming year. The subscription includes twelve monthly issues delivered directly to your email inbox each month.",
+      "question": "What bonus do new digital subscribers receive?",
+      "options": [
+        "A customized leather portfolio",
+        "A printed hardbound edition",
+        "An exclusive trade forecast report",
+        "Free admission to annual summits"
+      ],
+      "answer": 2,
+      "explanation": "文中提到新订户 will receive an exclusive report on international trade forecasts，故选A。"
+    },
+    {
+      "id": "toeic-p7-440",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The IT Helpdesk walk-in support counter in Room 102 will close at 4:00 P.M. on Friday for staff inventory checks and year-end equipment audits. Remote assistance via email and telephone will remain fully operational until our standard closing time of 6:00 P.M. Employees experiencing urgent technical issues after 4:00 P.M. are encouraged to submit a ticket through the online support portal, where they can track the status of their request. Normal walk-in hours will resume on Monday morning at 8:00 A.M.",
+      "question": "What service remains available until 6:00 P.M. on Friday?",
+      "options": [
+        "New employee equipment setup",
+        "Hardware replacement service",
+        "Remote assistance by email and phone",
+        "Walk-in support at the counter"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 Remote assistance via email and telephone will remain available until 6:00 P.M.，故选A。"
+    },
+    {
+      "id": "toeic-p7-441",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Harbor View Bistro, a popular waterfront restaurant located near the old pier, is currently seeking experienced evening servers to join our growing hospitality team. Candidates must possess strong customer service skills, a professional appearance, and reliable weekend availability, as the restaurant is busiest on Friday and Saturday nights throughout the summer season. Previous experience in a full-service dining establishment is preferred but is not strictly required for the position. Interested applicants should submit their resumes and a brief cover letter via email to careers@harborviewbistro.com by the end of this month.",
+      "question": "How should interested applicants apply for the position?",
+      "options": [
+        "By visiting the restaurant in person",
+        "By filling out an online form",
+        "By calling the manager directly",
+        "By emailing their resumes"
+      ],
+      "answer": 3,
+      "explanation": "文中说明 applicants should submit their resumes via email，故选A。"
+    },
+    {
+      "id": "toeic-p7-442",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Smile Bright Dental reminds all patients that appointments must be canceled or rescheduled at least twenty-four hours in advance to allow other patients to use the time slot. Failure to notify our office within this timeframe may result in a late cancellation fee of thirty dollars being applied to your account. Please note that this fee cannot be covered by insurance. If you need to change an appointment, you may call our front desk during business hours or use the patient portal on our website at any time.",
+      "question": "What is the penalty for canceling an appointment too late?",
+      "options": [
+        "An increased exam charge",
+        "A required in-person visit",
+        "Loss of future booking rights",
+        "A fee of thirty dollars"
+      ],
+      "answer": 3,
+      "explanation": "文中指出晚取消可能产生 a late cancellation fee of thirty dollars，故选A。"
+    },
+    {
+      "id": "toeic-p7-443",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Registration for the autumn watercolor painting workshop at Westside Community Center opens on Monday at 9:00 A.M., and classes begin the following week. The eight-week course is taught by local artist Sandra Lee, whose work has been exhibited in galleries across the region, and is limited to twelve participants to ensure that each student receives individualized instruction. All basic materials are provided for the first session, and students are asked to bring their own brushes and a water container from the second week onward.",
+      "question": "Why is enrollment in the workshop limited to twelve participants?",
+      "options": [
+        "To ensure individualized instruction",
+        "To match the available materials",
+        "To comply with fire safety rules",
+        "To stay within the studio budget"
+      ],
+      "answer": 0,
+      "explanation": "文中解释限额 to ensure that each student receives individualized instruction，故选A。"
+    },
+    {
+      "id": "toeic-p7-444",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "As part of our corporate wellness initiative, free biometric health screenings will be offered in the wellness room on the third floor next Tuesday from 9:00 A.M. to 4:00 P.M. The screening measures blood pressure, cholesterol, and blood glucose levels, and takes approximately fifteen minutes to complete. Employees can sign up for a convenient time slot through the internal HR portal, and walk-ins will be accommodated as space allows. Results are confidential and will be discussed privately with a qualified nurse.",
+      "question": "How can employees schedule a health screening?",
+      "options": [
+        "By calling the front desk",
+        "Through the internal HR portal",
+        "By emailing the medical nurse",
+        "By signing up at the reception"
+      ],
+      "answer": 1,
+      "explanation": "文中指出 Employees can sign up for a time slot through the internal HR portal，故选A。"
+    },
+    {
+      "id": "toeic-p7-445",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "This memo is to remind all staff members of our standard expense report policy. All travel expense reports for trips taken during the previous month must be submitted to the accounting department by the fifth business day of the current month. Receipts must be attached for any single expense exceeding twenty-five dollars, and meal reimbursements are limited to forty dollars per day for domestic travel. Reports submitted after the deadline may be delayed in processing, so please plan accordingly to ensure that your reimbursement arrives in a timely manner.",
+      "question": "For which expenses must receipts be attached?",
+      "options": [
+        "Any single expense over $25",
+        "All transportation bookings",
+        "Every listed meal item",
+        "Hotel lodging costs only"
+      ],
+      "answer": 0,
+      "explanation": "文中规定 Receipts must be attached for any single expense exceeding twenty-five dollars，故选A。"
+    },
+    {
+      "id": "toeic-p7-446",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "To support our ongoing environmental sustainability goals, all staff members are requested to turn off office lights, desktop computers, and monitors when leaving their workstations at the end of the day. Simple actions like these help the company reduce unnecessary energy consumption and lower our overall carbon footprint. Additionally, staff are encouraged to print only when necessary and to place paper that has been used on one side in the recycling trays provided near each printer. Thank you for helping us build a greener workplace for everyone.",
+      "question": "What are employees asked to do before leaving work?",
+      "options": [
+        "Unplug all kitchen appliances",
+        "Lower the window blinds fully",
+        "Lock filing cabinets securely",
+        "Turn off lights and computers"
+      ],
+      "answer": 3,
+      "explanation": "文中要求员工 turn off office lights, desktop computers, and monitors，故选A。"
+    },
+    {
+      "id": "toeic-p7-447",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Management reminds all residents of Oak Creek Apartments that balcony storage is strictly restricted to outdoor furniture and potted plants. Bicycles, cardboard boxes, and construction materials are prohibited on balconies for both safety and aesthetic reasons, and any unit found to be in violation may receive a written warning from the management office. Residents are also reminded that barbecue grills may not be used on balconies under any circumstances at any time. If you have questions about these rules, please contact the management office during regular business hours.",
+      "question": "What is permitted to be stored on apartment balconies?",
+      "options": [
+        "Bicycles and sports equipment",
+        "Cardboard moving boxes",
+        "Outdoor furniture and potted plants",
+        "Household tools and supplies"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 balcony storage is restricted to outdoor furniture and potted plants，故选A。"
+    },
+    {
+      "id": "toeic-p7-448",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "NovaTech is inviting enthusiastic volunteer testers to evaluate the beta version of our upcoming mobile productivity application, which is scheduled for public release early next year. Testers will explore new features such as offline document editing, smart scheduling, and voice note recording, and will be asked to report any bugs or usability issues they encounter. Participants will receive a complimentary one-year license of the final software upon submitting a detailed feedback report before the testing period concludes at the end of November.",
+      "question": "What do beta testers receive after submitting their feedback?",
+      "options": [
+        "A cash reward of fifty dollars",
+        "A free one-year software license",
+        "An invitation to the company gala",
+        "A branded hardware accessory"
+      ],
+      "answer": 1,
+      "explanation": "文中说明参与者将 receive a complimentary one-year license upon submitting feedback，故选A。"
+    },
+    {
+      "id": "toeic-p7-449",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The annual community charity gala, organized by the Riverside Foundation, will take place at the Grand Ballroom on the evening of Saturday, November 12, beginning at 7:00 P.M. The evening will feature a three-course dinner, live music from a local jazz quartet, and a silent auction with items donated by area businesses. All ticket proceeds will directly support youth education and after-school tutoring programs in our community. Formal attire is requested, and tables of ten can be reserved through the foundation office.",
+      "question": "Where will this year's charity gala be held?",
+      "options": [
+        "At the Riverfront Park Pavilion",
+        "At the Grand Ballroom",
+        "At the Horizon Hotel Auditorium",
+        "At the City Community Center"
+      ],
+      "answer": 1,
+      "explanation": "文中说明 gala 将 take place at the Grand Ballroom，故选A。"
+    },
+    {
+      "id": "toeic-p7-450",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Global Language Institute is launching new evening conversational Spanish courses starting on October 2. Classes meet twice a week on Tuesdays and Thursdays from 6:30 P.M. to 8:00 P.M. and are taught by experienced native-speaking instructors who use a communicative teaching approach. Enrollment is open to adults of all proficiency levels, from complete beginners to intermediate learners, and class sizes are limited to fifteen students in order to maximize speaking practice for each participant. A free placement assessment can be scheduled at the institute's front desk at any time.",
+      "question": "On which days do the Spanish classes meet?",
+      "options": [
+        "Mondays and Wednesdays",
+        "Saturdays and Sundays",
+        "Tuesdays and Thursdays",
+        "Wednesdays and Fridays"
+      ],
+      "answer": 2,
+      "explanation": "文中说明 classes meet twice a week on Tuesdays and Thursdays，故选A。"
+    },
+    {
+      "id": "toeic-p7-451",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Rent a midsize sedan with Horizon Car Rental this weekend and receive a complimentary GPS navigation system upgrade for your entire trip. This promotion is valid at all participating downtown and airport branch locations through Sunday evening, and it applies to rentals of two days or longer. Simply mention the promotional code HORIZON2027 when making your reservation, either online through our website or by calling our reservation line directly. A valid driver's license and a major credit card are required at the time of vehicle pickup.",
+      "question": "What complimentary upgrade is offered this weekend?",
+      "options": [
+        "Unlimited mileage coverage",
+        "A GPS navigation system",
+        "A larger vehicle model",
+        "Collision damage waiver"
+      ],
+      "answer": 1,
+      "explanation": "文中说明租车可 receive a complimentary GPS navigation system upgrade，故选A。"
+    },
+    {
+      "id": "toeic-p7-452",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "All employees whose security identification badges expire before the end of June must visit the security office on the ground floor to have their photos retaken and their credentials renewed. The deadline for badge renewal is May 15, and employees who miss this date may be unable to access secure areas of the building until their new badges are issued. Please bring your current badge and a government-issued photo identification when you visit the security office. The renewal process takes approximately ten minutes.",
+      "question": "By what date must security badges be renewed?",
+      "options": [
+        "June 30",
+        "May 15",
+        "June 1",
+        "May 30"
+      ],
+      "answer": 1,
+      "explanation": "文中规定 The deadline for badge renewal is May 15，故选A。"
+    },
+    {
+      "id": "toeic-p7-453",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Swift Express courier service announces an update to our same-day pickup schedule. Same-day parcel pickup requests must be submitted online by 11:00 A.M. to guarantee collection on that business day. Requests received after this morning cutoff time will be scheduled for collection on the following business day. Our couriers are available for deliveries across the metropolitan area, and live tracking information is provided by text message once your parcel is in transit. The standard delivery fee applies for all same-day services.",
+      "question": "What is the cutoff time for same-day parcel pickup?",
+      "options": [
+        "11:00 A.M.",
+        "10:00 A.M.",
+        "12:00 P.M.",
+        "1:00 P.M."
+      ],
+      "answer": 0,
+      "explanation": "文中规定同天取件须 submitted online by 11:00 A.M.，故选A。"
+    },
+    {
+      "id": "toeic-p7-454",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Please note that the color copy machine on the third floor will be out of service on Tuesday morning for routine roller replacement and thorough internal cleaning. Staff members who require color printing during this time are encouraged to use the device located on the fourth floor near the conference rooms, which supports the same paper sizes and finishing options as the third-floor machine. If you experience any problems with the fourth-floor device, please contact the facilities department at extension 340 for assistance.",
+      "question": "Where is the alternative color copy machine located?",
+      "options": [
+        "On the second floor",
+        "On the fourth floor",
+        "By the reception desk",
+        "In the basement mailroom"
+      ],
+      "answer": 1,
+      "explanation": "文中建议 the device located on the fourth floor，故选A。"
+    },
+    {
+      "id": "toeic-p7-455",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Grand Luxe Hotel is excited to unveil its newly renovated spa and wellness center, located on the lower level of the main building next to the indoor swimming pool. The facility features private treatment rooms, a steam room, and a comfortable relaxation lounge where guests can enjoy complimentary herbal teas. During opening week, hotel guests who book any facial treatment will receive a complimentary twenty-minute massage consultation with one of our licensed professional therapists. Advance reservations are strongly recommended, as appointment slots are filling up quickly.",
+      "question": "Where is the newly renovated spa located?",
+      "options": [
+        "On the lower level",
+        "On the rooftop terrace",
+        "By the outdoor pool",
+        "In the executive tower"
+      ],
+      "answer": 0,
+      "explanation": "文中说明 spa 位于 on the lower level of the main building，故选A。"
+    },
+    {
+      "id": "toeic-p7-456",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Valley Community Bank is pleased to announce that its downtown branch will begin operating with extended Saturday hours from 9:00 A.M. to 1:00 P.M. starting on May 1. This change is intended to give customers more convenient access to teller services and financial consultations on the weekend. ATM and online banking services remain available twenty-four hours a day, seven days a week, for all customers. Anyone with questions about the new schedule may contact the branch manager during regular business hours by phone or email.",
+      "question": "What are the new Saturday operating hours for the downtown branch?",
+      "options": [
+        "9:00 A.M. to 5:00 P.M.",
+        "10:00 A.M. to 2:00 P.M.",
+        "8:00 A.M. to 12:00 P.M.",
+        "9:00 A.M. to 1:00 P.M."
+      ],
+      "answer": 3,
+      "explanation": "文中说明周六营业时间为 9:00 A.M. to 1:00 P.M.，故选A。"
+    },
+    {
+      "id": "toeic-p7-457",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Financial Dimensions is hosting a half-day seminar on corporate tax planning for small business owners on Thursday, October 15, at the City Convention Center. The seminar covers deductible expenses, retirement plan options, and year-end tax strategies, and includes a question-and-answer session with certified accountants. Registration for the event includes workshop materials, a networking lunch, and parking validation for the convention center garage. Seats are limited, and early registration is strongly encouraged, as the previous seminar sold out within two weeks.",
+      "question": "What is included in the seminar registration?",
+      "options": [
+        "A complimentary hotel stay",
+        "A private one-on-one consultation",
+        "Workshop materials, lunch, and parking",
+        "Free accounting software licenses"
+      ],
+      "answer": 2,
+      "explanation": "文中列出注册含 workshop materials、networking lunch 与 parking validation，故选A。"
+    },
+    {
+      "id": "toeic-p7-458",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Members of the Heritage Museum who renew their annual membership before their current expiration date will receive two complimentary guest passes, each valid for entry to any special exhibition during the coming year. Renewal notices have already been sent by email with secure renewal links, and members may also renew in person at the membership desk in the main lobby. The early renewal offer applies to all membership levels without exception. Please note that the guest passes are non-transferable and can be used only once each.",
+      "question": "What do members receive for renewing before their expiration date?",
+      "options": [
+        "An invitation to the annual gala",
+        "A free museum catalog book",
+        "Two guest passes for exhibitions",
+        "A parking garage discount pass"
+      ],
+      "answer": 2,
+      "explanation": "文中说明早续会员可 receive two complimentary guest passes，故选A。"
+    },
+    {
+      "id": "toeic-p7-459",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The Grandview Hotel is pleased to introduce its new weekend brunch buffet, served every Saturday and Sunday from 10:00 A.M. until 2:00 P.M. in the Garden Terrace restaurant. The buffet features a wide selection of freshly baked pastries, made-to-order omelets, seasonal fruits, and regional specialties prepared by our executive chef. Guests can enjoy the buffet for twenty-nine dollars per adult, with children under ten dining at half price. Reservations are recommended, and the buffet is particularly popular with families on Sunday mornings.",
+      "question": "When is the weekend brunch buffet served?",
+      "options": [
+        "Saturday and Sunday mornings",
+        "Sunday evenings only",
+        "Every weekday morning",
+        "Friday and Saturday nights"
+      ],
+      "answer": 0,
+      "explanation": "文中说明 buffet 在 every Saturday and Sunday from 10:00 A.M. until 2:00 P.M.，故选A。"
+    },
+    {
+      "id": "toeic-p7-460",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "The City Chamber of Commerce is accepting nominations for its annual Business of the Year Award, which honors a local company that has demonstrated outstanding community involvement and ethical business practices over the past twelve months. Nominations may be submitted by any resident or business owner in the city, and self-nominations are welcome. The winner will be announced at the chamber's annual dinner in March and will receive a commemorative plaque as well as a feature article in the local business journal. Submissions must be received by January 31.",
+      "question": "What does the winner of the Business of the Year Award receive?",
+      "options": [
+        "An exclusive vendor contract",
+        "A free office renovation",
+        "A monetary prize of $5,000",
+        "A plaque and a journal feature"
+      ],
+      "answer": 3,
+      "explanation": "文中说明获奖者将 receive a commemorative plaque and a feature article，故选A。"
+    },
+    {
+      "id": "toeic-p7-461",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Central Office Supplies is holding its end-of-season clearance sale in all store locations this week, with savings of up to 40 percent on desks, chairs, filing cabinets, and paper products. The sale applies to in-stock items only, and quantities are limited, so customers are encouraged to shop early. Special financing is available on purchases over three hundred dollars, and free delivery is offered for orders over one hundred fifty dollars within the city. The sale ends this Sunday at closing time.",
+      "question": "What is the delivery requirement during the clearance sale?",
+      "options": [
+        "Any purchase over $50",
+        "Orders over $150 within the city",
+        "Only desk and chair orders",
+        "Orders over $300 with financing"
+      ],
+      "answer": 1,
+      "explanation": "文中说明订单超 $150 且市内即可免费配送，故选A。"
+    },
+    {
+      "id": "toeic-p7-462",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Nexus Co-working Hub provides its members with high-speed fiber-optic internet, unlimited gourmet coffee and tea, 24-hour secure keycard access, and free printing services of up to fifty pages per month. The hub also offers reservable meeting rooms, private phone booths, and regular networking events for professionals from a variety of industries. Membership plans are flexible, with options ranging from daily passes to monthly dedicated desks. Interested professionals are invited to book a complimentary tour of the facility at any time.",
+      "question": "How many free pages of printing are included in membership?",
+      "options": [
+        "Twenty-five pages per month",
+        "Fifty pages per month",
+        "An unlimited number of pages",
+        "One hundred pages per month"
+      ],
+      "answer": 1,
+      "explanation": "文中说明含 free printing services of up to fifty pages per month，故选A。"
+    },
+    {
+      "id": "toeic-p7-463",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Starting next month, Apex Retailers will offer free standard ground shipping on all online orders totaling fifty dollars or more. Previously, the minimum purchase required for free shipping was seventy-five dollars, and customers frequently requested a lower threshold in their feedback surveys. The new policy applies to all product categories, including electronics, home goods, and clothing, but it does exclude oversized furniture items. Orders below the fifty-dollar minimum will continue to be charged the standard shipping fee of six dollars and ninety-nine cents.",
+      "question": "What is the new minimum purchase amount for free shipping?",
+      "options": [
+        "Fifty dollars",
+        "One hundred dollars",
+        "Twenty-five dollars",
+        "Seventy-five dollars"
+      ],
+      "answer": 0,
+      "explanation": "文中说明 orders totaling fifty dollars or more 可享免运费，故选A。"
+    }
+  ]
+}

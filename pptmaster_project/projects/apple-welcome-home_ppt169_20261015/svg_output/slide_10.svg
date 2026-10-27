@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg10" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg10)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// VOICE ASSISTANTS · 语音助手生态对比</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">三大 AI 助手：Siri AI vs. 小艺 vs. 小爱同学</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+
+<g transform="translate(96 220)">
+<rect x="0" y="0" width="350" height="360" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+<text x="20" y="34" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">SIRI AI · 苹果</text>
+<text x="20" y="68" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 核心能力：广博世界知识 · 屏幕上下文感知 · 跨应用行动</text>
+<text x="20" y="104" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 个人语境：联动配对设备（iPhone/iPad）中的日历、备忘录与信息</text>
+<text x="20" y="140" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 多用户：面容识别识别人脸，自动切换个人专属主屏与日程</text>
+<text x="20" y="176" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 隐私保障：Secure Exclaves 硬件隔离 + 私有云计算云端处理</text>
+<text x="20" y="212" font-family="Arial, sans-serif" font-size="13" fill="#F87171">当前局限：发布时仅支持英语（beta），暂未覆盖中国大陆与 EU</text>
+
+<rect x="370" y="0" width="350" height="360" rx="14" fill="#0E1830" stroke="#F59E0B"/>
+<text x="390" y="34" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">小艺智慧语音 · 华为</text>
+<text x="390" y="68" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 核心能力：免提语音交互 · 连续对话 · 场景引擎一键触发</text>
+<text x="390" y="104" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 分布式流转：打通鸿蒙智家设备，实现跨端算力与能力共享</text>
+<text x="390" y="140" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 可视对讲：联动智能门锁/门铃，门口画面语音一呼即达</text>
+<text x="390" y="176" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 场景联动：离家/回家/睡眠等专业场景自然语言控制</text>
+<text x="390" y="212" font-family="Consolas, monospace" font-size="13" fill="#A3E635">优势：中文理解深刻，与华为全屋智能深度闭环</text>
+
+<rect x="740" y="0" width="350" height="360" rx="14" fill="#0E1830" stroke="#10B981"/>
+<text x="760" y="34" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">小爱同学 · 小米</text>
+<text x="760" y="68" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 核心能力：全双工语音交互 · 多轮连续对话 · 屏幕联动反馈</text>
+<text x="760" y="104" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 生态控制：直连米家 10.79 亿台已连接设备，品类覆盖最广</text>
+<text x="760" y="140" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 视听娱乐：语音点播视频/音乐，与四单元音腔硬件完美配合</text>
+<text x="760" y="176" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 跨端互联：人车家全生态语音流转，接入大模型持续进化</text>
+<text x="760" y="212" font-family="Consolas, monospace" font-size="13" fill="#A3E635">优势：月活 1.6 亿，生态链设备兼容度行业第一</text>
+</g>
+
+<rect x="96" y="610" width="1088" height="50" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="640" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">对比结论：苹果强调「端云结合的隐私安全与个人语境」；华为专注「中文成套场景与分布式协同」；小米依靠「海量设备连接与日常高频交互」</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">10 / 23</text>
+</svg>

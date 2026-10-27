@@ -1,0 +1,32 @@
+{
+ "prefix": "toeic-l",
+ "start": "toeic-l-054",
+ "end": "toeic-l-075",
+ "count": 22,
+ "ids": [
+  "toeic-l-054",
+  "toeic-l-055",
+  "toeic-l-056",
+  "toeic-l-057",
+  "toeic-l-058",
+  "toeic-l-059",
+  "toeic-l-060",
+  "toeic-l-061",
+  "toeic-l-062",
+  "toeic-l-063",
+  "toeic-l-064",
+  "toeic-l-065",
+  "toeic-l-066",
+  "toeic-l-067",
+  "toeic-l-068",
+  "toeic-l-069",
+  "toeic-l-070",
+  "toeic-l-071",
+  "toeic-l-072",
+  "toeic-l-073",
+  "toeic-l-074",
+  "toeic-l-075"
+ ],
+ "file": "batches/toeic-l_01.json",
+ "out": "output/toeic-l_01.json"
+}

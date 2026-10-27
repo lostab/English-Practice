@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs><linearGradient id="bg05" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/>
+  </linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#bg05)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// WELCOME HOME · 2026.10.13 · 四线发布</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">Welcome Home 发布会：四款新品重构家庭智能</text>
+  <rect x="96" y="160" width="520" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="190" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">来源：Apple Newsroom 官方新闻稿（2026-10-13）· 定价均为官方披露</text>
+
+  <g transform="translate(96 220)">
+    <rect x="0" y="0" width="258" height="188" rx="14" fill="#0E2440" stroke="#22D3EE" stroke-width="1.5"/>
+    <text x="16" y="28" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">新品 · 中枢</text>
+    <text x="16" y="56" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#A5F3FC">HomeView</text>
+    <text x="16" y="84" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">7" 方形触控屏 · A18 · Siri AI</text>
+    <text x="16" y="108" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">12MP Center Stage · 空间音频</text>
+    <text x="16" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">Secure Exclaves 隐私隔离</text>
+    <text x="16" y="166" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC">$299 起 · 11.13</text>
+
+    <rect x="276" y="0" width="258" height="188" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="292" y="28" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">更新 · 娱乐中枢</text>
+    <text x="292" y="56" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">Apple TV 4K</text>
+    <text x="292" y="84" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">A19 · CPU +50% · GPU 2×</text>
+    <text x="292" y="108" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">Wi-Fi 7 · 三麦远场 Siri</text>
+    <text x="292" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">四 HomePod 环绕声</text>
+    <text x="292" y="166" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC">$299 · 11.13</text>
+
+    <rect x="552" y="0" width="258" height="188" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="568" y="28" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">更新 · 音频</text>
+    <text x="568" y="56" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">HomePod mini 2</text>
+    <text x="568" y="84" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">S10 · 计算音频</text>
+    <text x="568" y="108" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">Sound Glow · 5 新色</text>
+    <text x="568" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">家庭中枢 · 多房间音频</text>
+    <text x="568" y="166" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC">$149 · 10.30</text>
+
+    <rect x="828" y="0" width="258" height="188" rx="14" fill="#0E1830" stroke="#A3E635"/>
+    <text x="844" y="28" font-family="Consolas, monospace" font-size="13" fill="#A3E635">合作 · 配件生态</text>
+    <text x="844" y="56" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">Home Collection</text>
+    <text x="844" y="84" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">LG + Schneider 首批</text>
+    <text x="844" y="108" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">摄像头/温控/门锁/门铃</text>
+    <text x="844" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">端到端加密 · 12 月起</text>
+    <text x="844" y="166" font-family="Consolas, monospace" font-size="13" fill="#A3E635">Works with Home + Matter</text>
+
+    <rect x="0" y="204" width="1086" height="176" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="24" y="238" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">一套中枢 + 三条产品线：矩阵成形</text>
+    <text x="24" y="268" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· HomeView = 家庭信息流中枢（看 / 想 / 听：屏幕 + 摄像头 + 扬声器 + Siri AI）</text>
+    <text x="24" y="294" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Apple TV 4K = 客厅娱乐 + 家庭中枢备份；HomePod mini 2 = 全屋音频 + 语音入口</text>
+    <text x="24" y="320" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Home Collection 联合 LG / Schneider 补齐安防 + 温控 + 门锁，全部支持 Matter</text>
+    <text x="24" y="352" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">· 注意（官方口径）：HomeView 暂不覆盖中国大陆及 EU；Siri AI 仅英语起步（beta，HomeView software 27.2）</text>
+  </g>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">05 / 23</text>
+</svg>

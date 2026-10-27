@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-504",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees FROM: Facilities Department DATE: October 13 SUBJ: Water Supply Interruption The water supply to the south wing will be interrupted on Thursday from 9:00 a.m. to 3:00 p.m. for emergency pipe repairs. This maintenance work is necessary to prevent further leaks and ensure the integrity of the building plumbing. Please use the water fountains located in the north wing as an alternative source during the outage. The repair crew expects to complete all work by 3:00 p.m., and normal service should resume shortly after. We apologize for any inconvenience and appreciate your cooperation.",
+      "question": "Why will the water supply be interrupted?",
+      "options": [
+        "For emergency pipe repairs",
+        "To install new water fountains",
+        "For routine cleaning",
+        "Due to a holiday schedule"
+      ],
+      "answer": 0,
+      "explanation": "通知明确说明停水原因为 emergency pipe repairs（紧急管道维修）。"
+    },
+    {
+      "id": "toeic-p7-505",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees FROM: Facilities Department DATE: October 13 SUBJ: Water Supply Interruption The water supply to the south wing will be interrupted on Thursday from 9:00 a.m. to 3:00 p.m. for emergency pipe repairs. This maintenance work is necessary to prevent further leaks and ensure the integrity of the building plumbing. Please use the water fountains located in the north wing as an alternative source during the outage. The repair crew expects to complete all work by 3:00 p.m., and normal service should resume shortly after. We apologize for any inconvenience and appreciate your cooperation.",
+      "question": "What should employees use during the outage?",
+      "options": [
+        "Portable water tanks",
+        "Bottled water from cafeteria",
+        "The south wing water supply",
+        "The north wing water fountains"
+      ],
+      "answer": 3,
+      "explanation": "通知建议使用 north wing 的 water fountains（北翼饮水机）作为替代。"
+    },
+    {
+      "id": "toeic-p7-506",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees FROM: Facilities Department DATE: October 13 SUBJ: Water Supply Interruption The water supply to the south wing will be interrupted on Thursday from 9:00 a.m. to 3:00 p.m. for emergency pipe repairs. This maintenance work is necessary to prevent further leaks and ensure the integrity of the building plumbing. Please use the water fountains located in the north wing as an alternative source during the outage. The repair crew expects to complete all work by 3:00 p.m., and normal service should resume shortly after. We apologize for any inconvenience and appreciate your cooperation.",
+      "question": "When will the water outage begin?",
+      "options": [
+        "Thursday at 3:00 p.m.",
+        "Friday at 9:00 a.m.",
+        "Thursday at 9:00 a.m.",
+        "Wednesday at 9:00 a.m."
+      ],
+      "answer": 2,
+      "explanation": "通知写明中断时间为 Thursday 上午 9:00 至下午 3:00。"
+    },
+    {
+      "id": "toeic-p7-507",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees FROM: Facilities Department DATE: October 13 SUBJ: Water Supply Interruption The water supply to the south wing will be interrupted on Thursday from 9:00 a.m. to 3:00 p.m. for emergency pipe repairs. This maintenance work is necessary to prevent further leaks and ensure the integrity of the building plumbing. Please use the water fountains located in the north wing as an alternative source during the outage. The repair crew expects to complete all work by 3:00 p.m., and normal service should resume shortly after. We apologize for any inconvenience and appreciate your cooperation.",
+      "question": "When will normal water service resume?",
+      "options": [
+        "Immediately at 9:00 a.m.",
+        "By Thursday noon",
+        "After the 3:00 p.m. repairs",
+        "On the following Monday"
+      ],
+      "answer": 2,
+      "explanation": "通知称维修于下午 3:00 完成后正常服务将很快恢复。"
+    },
+    {
+      "id": "toeic-p7-508",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team FROM: Project Manager DATE: November 5 SUBJ: Weekly Team Meeting Postponed Due to client presentations, our weekly team meeting originally scheduled for this Friday has been postponed to Tuesday, November 12. Please review the new agenda items in your inbox by Monday. All team members must submit their progress reports before Monday noon so that we can prepare an updated agenda. The postponement is necessary due to unexpected client feedback that requires additional preparation time. Your cooperation in reviewing the revised materials is greatly appreciated, and we thank you for your flexibility.",
+      "question": "When has the weekly meeting been rescheduled to?",
+      "options": [
+        "Monday, November 11",
+        "Wednesday, November 13",
+        "Tuesday, November 12",
+        "Thursday, November 14"
+      ],
+      "answer": 2,
+      "explanation": "通知明确写明会议推迟至 Tuesday, November 12。"
+    },
+    {
+      "id": "toeic-p7-509",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team FROM: Project Manager DATE: November 5 SUBJ: Weekly Team Meeting Postponed Due to client presentations, our weekly team meeting originally scheduled for this Friday has been postponed to Tuesday, November 12. Please review the new agenda items in your inbox by Monday. All team members must submit their progress reports before Monday noon so that we can prepare an updated agenda. The postponement is necessary due to unexpected client feedback that requires additional preparation time. Your cooperation in reviewing the revised materials is greatly appreciated, and we thank you for your flexibility.",
+      "question": "Why was the meeting rescheduled?",
+      "options": [
+        "Due to client presentations",
+        "For annual performance review",
+        "Because the manager is sick",
+        "For a company retreat"
+      ],
+      "answer": 0,
+      "explanation": "通知说明改期原因是 client presentations 及客户反馈。"
+    },
+    {
+      "id": "toeic-p7-510",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team FROM: Project Manager DATE: November 5 SUBJ: Weekly Team Meeting Postponed Due to client presentations, our weekly team meeting originally scheduled for this Friday has been postponed to Tuesday, November 12. Please review the new agenda items in your inbox by Monday. All team members must submit their progress reports before Monday noon so that we can prepare an updated agenda. The postponement is necessary due to unexpected client feedback that requires additional preparation time. Your cooperation in reviewing the revised materials is greatly appreciated, and we thank you for your flexibility.",
+      "question": "By when must team members submit their reports?",
+      "options": [
+        "By Wednesday noon",
+        "By Thursday noon",
+        "By Friday noon",
+        "By Monday noon"
+      ],
+      "answer": 3,
+      "explanation": "通知要求 All team members 在 Monday noon 前提交报告。"
+    },
+    {
+      "id": "toeic-p7-511",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team FROM: Project Manager DATE: November 5 SUBJ: Weekly Team Meeting Postponed Due to client presentations, our weekly team meeting originally scheduled for this Friday has been postponed to Tuesday, November 12. Please review the new agenda items in your inbox by Monday. All team members must submit their progress reports before Monday noon so that we can prepare an updated agenda. The postponement is necessary due to unexpected client feedback that requires additional preparation time. Your cooperation in reviewing the revised materials is greatly appreciated, and we thank you for your flexibility.",
+      "question": "What must employees do before the meeting?",
+      "options": [
+        "Submit their progress reports",
+        "Cancel their Friday appointments",
+        "Attend a training session",
+        "Reserve the conference room"
+      ],
+      "answer": 0,
+      "explanation": "通知要求员工在 Monday noon 前提交 progress reports。"
+    },
+    {
+      "id": "toeic-p7-512",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: CFO FROM: Marketing Director DATE: September 28 SUBJ: Q4 Marketing Budget Request To support our year-end product launch, we request approval of $250,000 for Q4 marketing activities. This funding will cover digital advertising campaigns targeting key demographics, participation in two major trade shows, and promotional materials such as brochures and online advertisements. The projected return on investment exceeds three dollars for every dollar spent, based on previous quarter performance metrics. Management approval is required so that we can allocate resources effectively and ensure we meet our sales targets for the upcoming fiscal period. Please review the detailed proposal attached and provide your decision by the end of this month.",
+      "question": "How much budget is being requested?",
+      "options": [
+        "$250,000",
+        "$300,000",
+        "$200,000",
+        "$180,000"
+      ],
+      "answer": 0,
+      "explanation": "通知明确写明申请 $250,000 用于 Q4 营销活动。"
+    },
+    {
+      "id": "toeic-p7-513",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: CFO FROM: Marketing Director DATE: September 28 SUBJ: Q4 Marketing Budget Request To support our year-end product launch, we request approval of $250,000 for Q4 marketing activities. This funding will cover digital advertising campaigns targeting key demographics, participation in two major trade shows, and promotional materials such as brochures and online advertisements. The projected return on investment exceeds three dollars for every dollar spent, based on previous quarter performance metrics. Management approval is required so that we can allocate resources effectively and ensure we meet our sales targets for the upcoming fiscal period. Please review the detailed proposal attached and provide your decision by the end of this month.",
+      "question": "What items are covered by the budget?",
+      "options": [
+        "Travel and training expenses",
+        "Office renovation costs",
+        "Digital ads, trade shows, materials",
+        "Employee bonus payments"
+      ],
+      "answer": 2,
+      "explanation": "预算涵盖 digital advertising、trade shows 和 promotional materials。"
+    },
+    {
+      "id": "toeic-p7-514",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: CFO FROM: Marketing Director DATE: September 28 SUBJ: Q4 Marketing Budget Request To support our year-end product launch, we request approval of $250,000 for Q4 marketing activities. This funding will cover digital advertising campaigns targeting key demographics, participation in two major trade shows, and promotional materials such as brochures and online advertisements. The projected return on investment exceeds three dollars for every dollar spent, based on previous quarter performance metrics. Management approval is required so that we can allocate resources effectively and ensure we meet our sales targets for the upcoming fiscal period. Please review the detailed proposal attached and provide your decision by the end of this month.",
+      "question": "What is the projected ROI?",
+      "options": [
+        "Two dollars per dollar",
+        "Two and a half dollars",
+        "Three dollars per dollar",
+        "Four dollars per dollar"
+      ],
+      "answer": 2,
+      "explanation": "通知称预计投资回报率为每美元投入回报三美元。"
+    },
+    {
+      "id": "toeic-p7-515",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: CFO FROM: Marketing Director DATE: September 28 SUBJ: Q4 Marketing Budget Request To support our year-end product launch, we request approval of $250,000 for Q4 marketing activities. This funding will cover digital advertising campaigns targeting key demographics, participation in two major trade shows, and promotional materials such as brochures and online advertisements. The projected return on investment exceeds three dollars for every dollar spent, based on previous quarter performance metrics. Management approval is required so that we can allocate resources effectively and ensure we meet our sales targets for the upcoming fiscal period. Please review the detailed proposal attached and provide your decision by the end of this month.",
+      "question": "What should the CFO do next?",
+      "options": [
+        "Ignore the attached proposal",
+        "Meet with all staff members",
+        "Review and decide by month end",
+        "Postpone the product launch"
+      ],
+      "answer": 2,
+      "explanation": "通知请 CFO 审阅附件并提出本月底的决策。"
+    },
+    {
+      "id": "toeic-p7-516",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff FROM: HR Department DATE: December 10 SUBJ: Office Christmas Closure Our office will be closed from December 24th through January 2nd for the winter holiday season. During this period, no work will be accepted in the main building, and all departments will operate remotely or on reduced hours as needed. Emergency matters should be directed to department heads directly for urgent coordination and assistance. Regular operations will resume on January 3rd with a phased return to full capacity across all teams. We wish everyone a joyful holiday season and sincerely thank you for your continued dedication to our organization throughout the year.",
+      "question": "When will the office reopen after the holiday?",
+      "options": [
+        "January 3rd",
+        "January 5th",
+        "January 10th",
+        "January 15th"
+      ],
+      "answer": 0,
+      "explanation": "通知明确写明 1 月 3 日恢复正常运营。"
+    },
+    {
+      "id": "toeic-p7-517",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff FROM: HR Department DATE: December 10 SUBJ: Office Christmas Closure Our office will be closed from December 24th through January 2nd for the winter holiday season. During this period, no work will be accepted in the main building, and all departments will operate remotely or on reduced hours as needed. Emergency matters should be directed to department heads directly for urgent coordination and assistance. Regular operations will resume on January 3rd with a phased return to full capacity across all teams. We wish everyone a joyful holiday season and sincerely thank you for your continued dedication to our organization throughout the year.",
+      "question": "Who should employees contact for emergencies?",
+      "options": [
+        "The security guard",
+        "The front desk receptionist",
+        "The IT Help Desk",
+        "Department heads directly"
+      ],
+      "answer": 3,
+      "explanation": "通知要求紧急事项直接联系 department heads。"
+    },
+    {
+      "id": "toeic-p7-518",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff FROM: HR Department DATE: December 10 SUBJ: Office Christmas Closure Our office will be closed from December 24th through January 2nd for the winter holiday season. During this period, no work will be accepted in the main building, and all departments will operate remotely or on reduced hours as needed. Emergency matters should be directed to department heads directly for urgent coordination and assistance. Regular operations will resume on January 3rd with a phased return to full capacity across all teams. We wish everyone a joyful holiday season and sincerely thank you for your continued dedication to our organization throughout the year.",
+      "question": "How will the office reopen in January?",
+      "options": [
+        "Only by remote access",
+        "Starting January 15th",
+        "All teams at once",
+        "With a phased return"
+      ],
+      "answer": 3,
+      "explanation": "通知说明将以 phased return（分批）方式恢复运营。"
+    },
+    {
+      "id": "toeic-p7-519",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff FROM: HR Department DATE: December 10 SUBJ: Office Christmas Closure Our office will be closed from December 24th through January 2nd for the winter holiday season. During this period, no work will be accepted in the main building, and all departments will operate remotely or on reduced hours as needed. Emergency matters should be directed to department heads directly for urgent coordination and assistance. Regular operations will resume on January 3rd with a phased return to full capacity across all teams. We wish everyone a joyful holiday season and sincerely thank you for your continued dedication to our organization throughout the year.",
+      "question": "What is the main purpose of this notice?",
+      "options": [
+        "To announce new hiring plans",
+        "To request budget approval",
+        "To inform about holiday closure",
+        "To update security procedures"
+      ],
+      "answer": 2,
+      "explanation": "通知主旨是告知全体员工圣诞节期间的关闭安排。"
+    },
+    {
+      "id": "toeic-p7-520",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounts Payable FROM: Purchasing Manager DATE: August 20 SUBJ: Updated Payment Terms with Supplier Effective September 1st, our payment terms with TechSupply Inc. change from net 30 to net 45 days. This adjustment reflects their improved delivery reliability and enhanced quality standards that we have observed over the past six months. By extending the payment window, we aim to strengthen our partnership with this important supplier while maintaining operational efficiency. All future invoices will clearly reflect the new terms, and accounts payable should adjust their processing schedules accordingly to avoid any billing discrepancies. This change takes effect on September 1st, giving everyone ample time to transition smoothly without disruption.",
+      "question": "What is the new payment term with the supplier?",
+      "options": [
+        "Net 60 days",
+        "Net 90 days",
+        "Net 30 days",
+        "Net 45 days"
+      ],
+      "answer": 3,
+      "explanation": "通知说明付款条款变更为 net 45 天。"
+    },
+    {
+      "id": "toeic-p7-521",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounts Payable FROM: Purchasing Manager DATE: August 20 SUBJ: Updated Payment Terms with Supplier Effective September 1st, our payment terms with TechSupply Inc. change from net 30 to net 45 days. This adjustment reflects their improved delivery reliability and enhanced quality standards that we have observed over the past six months. By extending the payment window, we aim to strengthen our partnership with this important supplier while maintaining operational efficiency. All future invoices will clearly reflect the new terms, and accounts payable should adjust their processing schedules accordingly to avoid any billing discrepancies. This change takes effect on September 1st, giving everyone ample time to transition smoothly without disruption.",
+      "question": "When does the new payment term take effect?",
+      "options": [
+        "October 1st",
+        "November 1st",
+        "August 20th",
+        "September 1st"
+      ],
+      "answer": 3,
+      "explanation": "通知明确写明 9 月 1 日生效。"
+    },
+    {
+      "id": "toeic-p7-522",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounts Payable FROM: Purchasing Manager DATE: August 20 SUBJ: Updated Payment Terms with Supplier Effective September 1st, our payment terms with TechSupply Inc. change from net 30 to net 45 days. This adjustment reflects their improved delivery reliability and enhanced quality standards that we have observed over the past six months. By extending the payment window, we aim to strengthen our partnership with this important supplier while maintaining operational efficiency. All future invoices will clearly reflect the new terms, and accounts payable should adjust their processing schedules accordingly to avoid any billing discrepancies. This change takes effect on September 1st, giving everyone ample time to transition smoothly without disruption.",
+      "question": "Why were the payment terms extended?",
+      "options": [
+        "Because of a lawsuit settlement",
+        "To match competitor pricing",
+        "To reduce company revenue",
+        "Due to delivery and quality improvements"
+      ],
+      "answer": 3,
+      "explanation": "调整基于供应商交付可靠性和质量标准的改善。"
+    },
+    {
+      "id": "toeic-p7-523",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounts Payable FROM: Purchasing Manager DATE: August 20 SUBJ: Updated Payment Terms with Supplier Effective September 1st, our payment terms with TechSupply Inc. change from net 30 to net 45 days. This adjustment reflects their improved delivery reliability and enhanced quality standards that we have observed over the past six months. By extending the payment window, we aim to strengthen our partnership with this important supplier while maintaining operational efficiency. All future invoices will clearly reflect the new terms, and accounts payable should adjust their processing schedules accordingly to avoid any billing discrepancies. This change takes effect on September 1st, giving everyone ample time to transition smoothly without disruption.",
+      "question": "What should accounts payable do about this change?",
+      "options": [
+        "Close the supplier account",
+        "File a formal complaint",
+        "Ignore the change until December",
+        "Adjust their processing schedules"
+      ],
+      "answer": 3,
+      "explanation": "通知请应付账款部门相应调整处理流程。"
+    },
+    {
+      "id": "toeic-p7-524",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Remote Employees FROM: IT Security DATE: July 15 SUBJ: New Remote Access Security Policy Starting August 1st, all remote access requires multi-factor authentication using authenticator apps on your company mobile device. VPN connections must use corporate devices only, and existing passwords must be replaced with stronger credentials that include at least twelve characters with special symbols. These enhanced measures are implemented to protect sensitive company data and to comply with increasingly strict industry security regulations. Training sessions will be held next week to guide employees through the new protocols step by step. Non-compliance with these policies may result in restricted access privileges until remediation is complete.",
+      "question": "What is required for remote access?",
+      "options": [
+        "Multi-factor authentication",
+        "Use of personal computers",
+        "A physical security badge",
+        "An annual security course"
+      ],
+      "answer": 0,
+      "explanation": "通知要求远程访问必须使用多因素认证。"
+    },
+    {
+      "id": "toeic-p7-525",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Remote Employees FROM: IT Security DATE: July 15 SUBJ: New Remote Access Security Policy Starting August 1st, all remote access requires multi-factor authentication using authenticator apps on your company mobile device. VPN connections must use corporate devices only, and existing passwords must be replaced with stronger credentials that include at least twelve characters with special symbols. These enhanced measures are implemented to protect sensitive company data and to comply with increasingly strict industry security regulations. Training sessions will be held next week to guide employees through the new protocols step by step. Non-compliance with these policies may result in restricted access privileges until remediation is complete.",
+      "question": "Which devices are allowed for VPN access?",
+      "options": [
+        "Personal laptops only",
+        "Company phones only",
+        "Corporate devices only",
+        "Any internet-connected device"
+      ],
+      "answer": 2,
+      "explanation": "通知规定 VPN 连接只能使用公司设备。"
+    },
+    {
+      "id": "toeic-p7-526",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Remote Employees FROM: IT Security DATE: July 15 SUBJ: New Remote Access Security Policy Starting August 1st, all remote access requires multi-factor authentication using authenticator apps on your company mobile device. VPN connections must use corporate devices only, and existing passwords must be replaced with stronger credentials that include at least twelve characters with special symbols. These enhanced measures are implemented to protect sensitive company data and to comply with increasingly strict industry security regulations. Training sessions will be held next week to guide employees through the new protocols step by step. Non-compliance with these policies may result in restricted access privileges until remediation is complete.",
+      "question": "What happens if policies are not followed?",
+      "options": [
+        "Termination of employment",
+        "No consequences whatsoever",
+        "Fine of $500",
+        "Access privileges may be restricted"
+      ],
+      "answer": 3,
+      "explanation": "违规可能导致访问权限被限制直到整改完成。"
+    },
+    {
+      "id": "toeic-p7-527",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Remote Employees FROM: IT Security DATE: July 15 SUBJ: New Remote Access Security Policy Starting August 1st, all remote access requires multi-factor authentication using authenticator apps on your company mobile device. VPN connections must use corporate devices only, and existing passwords must be replaced with stronger credentials that include at least twelve characters with special symbols. These enhanced measures are implemented to protect sensitive company data and to comply with increasingly strict industry security regulations. Training sessions will be held next week to guide employees through the new protocols step by step. Non-compliance with these policies may result in restricted access privileges until remediation is complete.",
+      "question": "When will the new policy take effect?",
+      "options": [
+        "September 1st",
+        "October 1st",
+        "July 15th",
+        "August 1st"
+      ],
+      "answer": 3,
+      "explanation": "通知写明新政策自 8 月 1 日起施行。"
+    },
+    {
+      "id": "toeic-p7-528",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: New Hires FROM: HR Training DATE: June 12 SUBJ: New Employee Orientation Schedule Orientation sessions begin July 5th and will run weekly through the end of August. Each session covers important company history, core policies, and departmental overviews designed to integrate newcomers into our organizational culture. Lunch and educational materials will be provided at each session at no cost. Managers are encouraged to assign new employees to their teams by June 30th to facilitate a smooth transition. For any questions regarding the orientation program or scheduling conflicts, please contact the HR training coordinator at hr-training@company.com for assistance.",
+      "question": "When do orientation sessions begin?",
+      "options": [
+        "July 5th",
+        "July 10th",
+        "July 15th",
+        "August 1st"
+      ],
+      "answer": 0,
+      "explanation": "通知明确写明 orientation 于 7 月 5 日开始。"
+    },
+    {
+      "id": "toeic-p7-529",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: New Hires FROM: HR Training DATE: June 12 SUBJ: New Employee Orientation Schedule Orientation sessions begin July 5th and will run weekly through the end of August. Each session covers important company history, core policies, and departmental overviews designed to integrate newcomers into our organizational culture. Lunch and educational materials will be provided at each session at no cost. Managers are encouraged to assign new employees to their teams by June 30th to facilitate a smooth transition. For any questions regarding the orientation program or scheduling conflicts, please contact the HR training coordinator at hr-training@company.com for assistance.",
+      "question": "How often are the orientation sessions held?",
+      "options": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Annually"
+      ],
+      "answer": 1,
+      "explanation": "通知说明 sessions 每周举行（weekly）。"
+    },
+    {
+      "id": "toeic-p7-530",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: New Hires FROM: HR Training DATE: June 12 SUBJ: New Employee Orientation Schedule Orientation sessions begin July 5th and will run weekly through the end of August. Each session covers important company history, core policies, and departmental overviews designed to integrate newcomers into our organizational culture. Lunch and educational materials will be provided at each session at no cost. Managers are encouraged to assign new employees to their teams by June 30th to facilitate a smooth transition. For any questions regarding the orientation program or scheduling conflicts, please contact the HR training coordinator at hr-training@company.com for assistance.",
+      "question": "Who should managers contact for questions?",
+      "options": [
+        "The IT help desk",
+        "The HR training coordinator",
+        "The CEO directly",
+        "The finance department"
+      ],
+      "answer": 1,
+      "explanation": "问题需联系 HR training coordinator（hr-training@company.com）。"
+    },
+    {
+      "id": "toeic-p7-531",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: New Hires FROM: HR Training DATE: June 12 SUBJ: New Employee Orientation Schedule Orientation sessions begin July 5th and will run weekly through the end of August. Each session covers important company history, core policies, and departmental overviews designed to integrate newcomers into our organizational culture. Lunch and educational materials will be provided at each session at no cost. Managers are encouraged to assign new employees to their teams by June 30th to facilitate a smooth transition. For any questions regarding the orientation program or scheduling conflicts, please contact the HR training coordinator at hr-training@company.com for assistance.",
+      "question": "What is covered in each session?",
+      "options": [
+        "Company history and policies",
+        "Salary negotiation tips",
+        "Software engineering training",
+        "Marketing campaign planning"
+      ],
+      "answer": 0,
+      "explanation": "课程内容包括公司历史、核心政策及部门介绍。"
+    },
+    {
+      "id": "toeic-p7-532",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Product Development FROM: Project Lead DATE: May 8 SUBJ: Product Launch Delay Notification Due to unforeseen supply chain disruptions, our second quarter product launch will be delayed to early July. This extension impacts all distribution channels and marketing campaigns planned for the second quarter. We are actively securing alternative suppliers and will provide biweekly status updates to all stakeholders. Customers will be notified directly about the revised timeline to minimize confusion and maintain transparency. We sincerely apologize for the inconvenience caused by these unforeseen circumstances and remain fully committed to delivering a successful product release.",
+      "question": "Why was the launch delayed?",
+      "options": [
+        "Supply chain disruptions",
+        "Internal team conflict",
+        "A regulatory approval delay",
+        "A marketing strategy change"
+      ],
+      "answer": 0,
+      "explanation": "通知明确说明原因是 supply chain disruptions（供应链中断）。"
+    },
+    {
+      "id": "toeic-p7-533",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Product Development FROM: Project Lead DATE: May 8 SUBJ: Product Launch Delay Notification Due to unforeseen supply chain disruptions, our second quarter product launch will be delayed to early July. This extension impacts all distribution channels and marketing campaigns planned for the second quarter. We are actively securing alternative suppliers and will provide biweekly status updates to all stakeholders. Customers will be notified directly about the revised timeline to minimize confusion and maintain transparency. We sincerely apologize for the inconvenience caused by these unforeseen circumstances and remain fully committed to delivering a successful product release.",
+      "question": "When will the product launch occur instead?",
+      "options": [
+        "Mid-May",
+        "Late June",
+        "Early July",
+        "Mid-August"
+      ],
+      "answer": 2,
+      "explanation": "通知将发布日期改至 early July（7 月初）。"
+    },
+    {
+      "id": "toeic-p7-534",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Product Development FROM: Project Lead DATE: May 8 SUBJ: Product Launch Delay Notification Due to unforeseen supply chain disruptions, our second quarter product launch will be delayed to early July. This extension impacts all distribution channels and marketing campaigns planned for the second quarter. We are actively securing alternative suppliers and will provide biweekly status updates to all stakeholders. Customers will be notified directly about the revised timeline to minimize confusion and maintain transparency. We sincerely apologize for the inconvenience caused by these unforeseen circumstances and remain fully committed to delivering a successful product release.",
+      "question": "How often will status updates be provided?",
+      "options": [
+        "Daily",
+        "Weekly",
+        "Biweekly",
+        "Monthly"
+      ],
+      "answer": 2,
+      "explanation": "通知说明每两周提供一次状态更新（biweekly）。"
+    },
+    {
+      "id": "toeic-p7-535",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Product Development FROM: Project Lead DATE: May 8 SUBJ: Product Launch Delay Notification Due to unforeseen supply chain disruptions, our second quarter product launch will be delayed to early July. This extension impacts all distribution channels and marketing campaigns planned for the second quarter. We are actively securing alternative suppliers and will provide biweekly status updates to all stakeholders. Customers will be notified directly about the revised timeline to minimize confusion and maintain transparency. We sincerely apologize for the inconvenience caused by these unforeseen circumstances and remain fully committed to delivering a successful product release.",
+      "question": "What are stakeholders told to expect?",
+      "options": [
+        "Immediate product refund",
+        "Biweekly status updates",
+        "A company restructuring",
+        "Reduced product pricing"
+      ],
+      "answer": 1,
+      "explanation": "利益相关者将每两周收到一次状态更新。"
+    },
+    {
+      "id": "toeic-p7-536",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team FROM: Regional Manager DATE: March 15 SUBJ: New Sales Targets Announcement Effective immediately, our regional sales targets for the second half of the year have been revised upward by fifteen percent. This adjustment reflects strong market demand and positive feedback from our recent customer surveys. All team members should update their quarterly projections accordingly and schedule individual coaching sessions with their supervisors by next Friday. The additional revenue will support expanded hiring and improved employee benefits across the entire organization. We are confident in our teams ability to achieve these ambitious goals with continued dedication and teamwork.",
+      "question": "By how much were sales targets increased?",
+      "options": [
+        "Ten percent",
+        "Fifteen percent",
+        "Twenty percent",
+        "Twenty-five percent"
+      ],
+      "answer": 1,
+      "explanation": "通知说明目标上调百分之十五（fifteen percent）。"
+    },
+    {
+      "id": "toeic-p7-537",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team FROM: Regional Manager DATE: March 15 SUBJ: New Sales Targets Announcement Effective immediately, our regional sales targets for the second half of the year have been revised upward by fifteen percent. This adjustment reflects strong market demand and positive feedback from our recent customer surveys. All team members should update their quarterly projections accordingly and schedule individual coaching sessions with their supervisors by next Friday. The additional revenue will support expanded hiring and improved employee benefits across the entire organization. We are confident in our teams ability to achieve these ambitious goals with continued dedication and teamwork.",
+      "question": "What should team members do next Friday?",
+      "options": [
+        "Submit resignation letters",
+        "Schedule coaching sessions",
+        "Attend a training workshop",
+        "Take a paid vacation"
+      ],
+      "answer": 1,
+      "explanation": "员工须在 next Friday 前预约辅导会议（coaching sessions）。"
+    },
+    {
+      "id": "toeic-p7-538",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team FROM: Regional Manager DATE: March 15 SUBJ: New Sales Targets Announcement Effective immediately, our regional sales targets for the second half of the year have been revised upward by fifteen percent. This adjustment reflects strong market demand and positive feedback from our recent customer surveys. All team members should update their quarterly projections accordingly and schedule individual coaching sessions with their supervisors by next Friday. The additional revenue will support expanded hiring and improved employee benefits across the entire organization. We are confident in our teams ability to achieve these ambitious goals with continued dedication and teamwork.",
+      "question": "What will the additional revenue support?",
+      "options": [
+        "Office relocation costs",
+        "Expanded hiring and benefits",
+        "Executive bonus payments",
+        "Debt reduction initiatives"
+      ],
+      "answer": 1,
+      "explanation": "额外收入将用于扩招和提升员工福利。"
+    },
+    {
+      "id": "toeic-p7-539",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team FROM: Regional Manager DATE: March 15 SUBJ: New Sales Targets Announcement Effective immediately, our regional sales targets for the second half of the year have been revised upward by fifteen percent. This adjustment reflects strong market demand and positive feedback from our recent customer surveys. All team members should update their quarterly projections accordingly and schedule individual coaching sessions with their supervisors by next Friday. The additional revenue will support expanded hiring and improved employee benefits across the entire organization. We are confident in our teams ability to achieve these ambitious goals with continued dedication and teamwork.",
+      "question": "What motivated the target increase?",
+      "options": [
+        "Competitor price cuts",
+        "Strong market demand and customer feedback",
+        "Management salary increases",
+        "A legal settlement payment"
+      ],
+      "answer": 1,
+      "explanation": "调整基于强劲市场需求和客户正面反馈。"
+    },
+    {
+      "id": "toeic-p7-540",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Department FROM: Network Administrator DATE: April 22 SUBJ: Scheduled Server Maintenance Notification All company servers will undergo scheduled maintenance this coming Saturday from 2:00 a.m. to 6:00 a.m. During this window, internal systems including email, file sharing, and project management tools will be temporarily unavailable. Please save all work and log off before 1:30 a.m. to prevent data loss or corruption. The upgrade will improve system performance and add new security features that protect sensitive company information. We appreciate your patience during this brief interruption, and regular service will resume promptly after the maintenance completes.",
+      "question": "When will the server maintenance occur?",
+      "options": [
+        "Saturday 2:00 a.m. to 6:00 a.m.",
+        "Sunday 2:00 a.m. to 6:00 a.m.",
+        "Saturday 6:00 a.m. to 10:00 a.m.",
+        "Friday 10:00 p.m. to 2:00 a.m."
+      ],
+      "answer": 0,
+      "explanation": "通知明确维护时间为周六凌晨 2:00 至 6:00。"
+    },
+    {
+      "id": "toeic-p7-541",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Department FROM: Network Administrator DATE: April 22 SUBJ: Scheduled Server Maintenance Notification All company servers will undergo scheduled maintenance this coming Saturday from 2:00 a.m. to 6:00 a.m. During this window, internal systems including email, file sharing, and project management tools will be temporarily unavailable. Please save all work and log off before 1:30 a.m. to prevent data loss or corruption. The upgrade will improve system performance and add new security features that protect sensitive company information. We appreciate your patience during this brief interruption, and regular service will resume promptly after the maintenance completes.",
+      "question": "Why should employees log off before 1:30 a.m.?",
+      "options": [
+        "To attend a training session",
+        "To prevent data loss or corruption",
+        "To download a software update",
+        "To join a video conference"
+      ],
+      "answer": 1,
+      "explanation": "为避免数据丢失或损坏（data loss or corruption）。"
+    },
+    {
+      "id": "toeic-p7-542",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Department FROM: Network Administrator DATE: April 22 SUBJ: Scheduled Server Maintenance Notification All company servers will undergo scheduled maintenance this coming Saturday from 2:00 a.m. to 6:00 a.m. During this window, internal systems including email, file sharing, and project management tools will be temporarily unavailable. Please save all work and log off before 1:30 a.m. to prevent data loss or corruption. The upgrade will improve system performance and add new security features that protect sensitive company information. We appreciate your patience during this brief interruption, and regular service will resume promptly after the maintenance completes.",
+      "question": "Which systems will be unavailable?",
+      "options": [
+        "Public website only",
+        "Email, file sharing, project tools",
+        "Customer service phone lines",
+        "External vendor portals"
+      ],
+      "answer": 1,
+      "explanation": "email、file sharing 和 project management tools 暂时不可用。"
+    },
+    {
+      "id": "toeic-p7-543",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Department FROM: Network Administrator DATE: April 22 SUBJ: Scheduled Server Maintenance Notification All company servers will undergo scheduled maintenance this coming Saturday from 2:00 a.m. to 6:00 a.m. During this window, internal systems including email, file sharing, and project management tools will be temporarily unavailable. Please save all work and log off before 1:30 a.m. to prevent data loss or corruption. The upgrade will improve system performance and add new security features that protect sensitive company information. We appreciate your patience during this brief interruption, and regular service will resume promptly after the maintenance completes.",
+      "question": "What benefit will the upgrade provide?",
+      "options": [
+        "Free parking spots",
+        "Improved performance and security",
+        "Extended office hours",
+        "New office furniture"
+      ],
+      "answer": 1,
+      "explanation": "升级将改善性能并增加安全功能（security features）。"
+    }
+  ]
+}

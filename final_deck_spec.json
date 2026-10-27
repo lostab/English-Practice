@@ -1,0 +1,411 @@
+{
+  "slide_size": "16:9",
+  "slides": [
+    {
+      "layout": "title",
+      "title": "Apple 'Welcome Home' 2026 智能家居竞品洞察报告",
+      "subtitle": "Apple vs Huawei vs Xiaomi: 生态、产品与战略深度复盘 | 2026.10.13 发布会实录",
+      "background": "0F172A"
+    },
+    {
+      "layout": "title_content",
+      "title": "1. 历代苹果智能家居发布会总览",
+      "background": "F8FAFC",
+      "footer": "Apple Smart Home Evolution",
+      "bullets": [
+        {
+          "text": "2014 WWDC: HomeKit 首次亮相，苹果首次提出统一智能家居安全框架与协议标准",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2016 WWDC: Home app 全面上线（iOS 10），HomeKit 认证大幅扩展，首批认证配件发布",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2020 秋季发布会: HomePod mini 首发（$99），入口级智能音箱确立价格锚点与音频生态",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2020 WWDC: Home app 重设计（iOS 14），引入自动化建议与 Siri 快捷指令协同",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2022 WWDC: Matter 1.0 正式发布，与 Google、Amazon、华为等打破壁垒实现跨品牌互联",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2024 WWDC: Home app / iOS 18 增强，Siri 语义理解升级，音频多房间无缝共享",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2025 WWDC: homeOS 预览，苹果宣布将家庭独立操作系统纳入核心生态",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "2026.10.13: 'Welcome home' 专场 — HomeView 中枢、Apple TV 4K Gen4、HomePod mini Gen2 三款新品发布",
+          "size": 15,
+          "color": "1E293B"
+        }
+      ]
+    },
+    {
+      "layout": "title_content",
+      "title": "2. 本次发布会主题、概要及核心亮点",
+      "background": "F8FAFC",
+      "footer": "Welcome Home Event Summary",
+      "bullets": [
+        {
+          "text": "发布主题: 'Welcome home'（欢迎回家），官方定档 2026 年 10 月 13 日，于纽约举行特殊媒体体验日",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "核心战略转向: 苹果首次将智能家居从 iPhone/Mac 的'附属配角'推向发布会绝对核心叙事地位",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "三大重磅新品: ① HomeView（首款带屏智能家居中枢）；② 第 4 代 Apple TV 4K；③ 第 2 代 HomePod mini",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "重大生态合作: 推出 'Apple Home Collection' 联名产品线（携手 LG 与 Schneider Electric），并官宣 ADT 专业安装服务",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "区域限制说明: 由于 Siri AI 在欧盟暂未获批，HomeView 首发暂不登陆欧盟市场，苹果正积极与欧盟协商",
+          "size": 15,
+          "color": "1E293B"
+        }
+      ]
+    },
+    {
+      "layout": "two_content",
+      "title": "3-1. HomeView —— 苹果首款带屏智能家居中枢",
+      "background": "F8FAFC",
+      "footer": "HomeView Technical Specs",
+      "bullets": [
+        {
+          "text": "显示规格: 7 英寸 Liquid Retina 触控屏（1088x1088px, 220 ppi），支持 True Tone，亮度 500 nits 至 0.3 nits（史上最低夜间亮度）",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "核心性能: 搭载 A18 芯片，深度集成 Apple Intelligence 与全新 Siri AI，支持端侧及云端混合 AI 处理",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "交互与视讯: 前置 12MP Center Stage 摄像头，支持动态人物居中构图的 FaceTime 视频通话及手势/面部识别解锁",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "拾音与音频: 四阵列远场麦克风（支持声音识别如烟雾/一氧化碳警报），球形扬声器底座支持杜比全景声 Spatial Audio",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "网络连接: Wi-Fi 6E、Bluetooth 6.0、Thread 协议，原生支持 Matter 联动",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "形态与定价: 提供桌面版（带半球扬声器底座，2.1 磅）与壁挂版（0.63 磅），售价均为 $299（约合人民币 2150 元）",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "发售日期: 2026年10月13日 开放预购，11月13日正式发货"
+        }
+      ]
+    },
+    {
+      "layout": "two_content",
+      "title": "3-2. Apple TV 4K (第4代) & HomePod mini (第2代)",
+      "background": "F8FAFC",
+      "footer": "Apple TV & HomePod mini",
+      "bullets": [
+        {
+          "text": "Apple TV 4K 第 4 代: 搭载 A19 芯片，8GB/12GB 内存，标配 128GB 存储，引入 Wi-Fi 7、蓝牙 6.0 与 Thread，售价 $299",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "机型赋能: 2021 年及之后的旧款 Apple TV 4K 亦可通过软件更新同步获得 Apple Intelligence 与 Siri AI 支持，Siri Remote 向下兼容",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "HomePod mini 第 2 代: 升级 S10 芯片（与 Apple Watch S10 同款），首个支持 AI Siri 的音箱线产品，售价 $149",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "声学与组网: 支持 4 台组网实现四声道环绕音效，新增粉色、绿色、蓝色多彩外观，全面支持 Wi-Fi 7 与 Matter，Siri AI 稍后通过软件更新开放",
+          "size": 14,
+          "color": "1E293B"
+        }
+      ]
+    },
+    {
+      "layout": "title_content",
+      "title": "3-3. 苹果生态合作: Home Collection 与 ADT 服务",
+      "background": "F8FAFC",
+      "footer": "Apple Ecosystem Partnerships",
+      "bullets": [
+        {
+          "text": "Apple Home Collection 联盟: 苹果与 LG、Schneider Electric 深度合作，推出联合定制的高端智能家居配件矩阵",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "LG 联合产品: 视讯门铃 ($249.95)、户外防水摄像机 ($399.95)、户内摄像机 ($199.95)、UWB 智能门锁 ($349.95)、智能恒温器 ($199.95)",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "Schneider Electric 联合产品: 智能恒温器 ($199.95) 与高精度温湿度/房间传感器 ($39.95)，支持 iCloud+ HomeKit Secure Video",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "ADT 专业安装合作: 苹果零售店（Apple Store）引入 ADT 技师，为美国用户提供全屋智能设备上门专业安装与布线服务，另收费，2026年秋季上线",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "壁挂支架生态: 推出 Schneider 专用支架（USB-C 座 $59.95、交流有线座 $79.95、PoE 网线有线座 $129.95）",
+          "size": 15,
+          "color": "1E293B"
+        }
+      ]
+    },
+    {
+      "layout": "two_content",
+      "title": "3-4. 竞品对比: 华为全屋智能产品矩阵",
+      "background": "F8FAFC",
+      "footer": "Huawei Smart Home Specs",
+      "bullets": [
+        {
+          "text": "智能中控屏 S2: 10.4 英寸 FHD+ 触控屏（1920x1200），行业首创'可墙可桌可手持'三形态，27N 强磁吸附底座，挂墙自动识别空间",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "AI 语音: 小艺管家，5米远场拾音，全双工连续对话、支持打断与插话、方言识别及模糊意图理解（覆盖华为鸿蒙智家高频设备）",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "分层交互体系: 一级(空间全屋)、二级(子系统控制)、三级(单品精细调控)，覆盖照明/遮阳/空调/新风/影音/家电/家具 7 大子系统",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "智能中控屏 MINI: 4 英寸（2499元），免布线/不插电随处贴，NFC 一碰导入场景，一键切换 AB 模式",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "智能主机系列: 主机 X2 Pro 搭载麒麟 9020 芯片（¥24999），支持 128 个设备节点，本地中枢毫秒级响应；主机 SE/Lite 定位中小户型（¥3999起）",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "价格带: S2 中控屏 ¥3999~¥7399 区间，MINI ¥2499，主机系列 ¥3999~¥24999"
+        }
+      ]
+    },
+    {
+      "layout": "two_content",
+      "title": "3-5. 竞品对比: 小米全屋智能产品矩阵",
+      "background": "F8FAFC",
+      "footer": "Xiaomi Smart Home Specs",
+      "bullets": [
+        {
+          "text": "智能家庭屏全系矩阵: 覆盖 6 英寸、Pro 8 英寸（¥699，AI 大模型，内置电池，触控+语音双模）、10.1 英寸、11 英寸及 27 英寸 Max（闺蜜机，3999元，1080P屏）",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "超级小爱 2.0: 深度融合小米澎湃 OS 4，具备跨应用编排、自思考、自规划与执行能力，真正实现一句话控制全屋",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "智能中控屏 Max (中央网关): 蓝牙 Mesh 2.0, 本地自动化联动, ms 级响应，作为全屋中枢协调所有智能设备",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "价格带: Pro 8 ¥699 / 10/11 价位递进 / Max 27 3999元 / 中控屏系列 ¥699~¥3999",
+          "size": 14,
+          "color": "1E293B"
+        },
+        {
+          "text": "生态优势: 米家 App, 蓝牙 Mesh 1.0/2.0, Zigbee 3.0, 全球最大规模 IoT 消费生态，性价比极高"
+        }
+      ]
+    },
+    {
+      "layout": "two_content",
+      "title": "4. 三方核心规格与定位深度对比矩阵",
+      "background": "F8FAFC",
+      "footer": "Comparative Matrix",
+      "tables": [
+        {
+          "rows": [
+            [
+              "对比维度",
+              "Apple HomeView",
+              "华为全屋智能 S2",
+              "Xiaomi 智能屏 Pro 8"
+            ],
+            [
+              "屏幕与形态",
+              "7寸正方 (1088x1088), 桌/壁挂",
+              "10.4寸 FHD+ (1920x1200), 墙/桌/手持",
+              "8寸 (触控+电池便携)"
+            ],
+            [
+              "分辨率",
+              "1088x1088, 220 ppi",
+              "1920x1200",
+              "未公开 (约 1200p 推测)"
+            ],
+            [
+              "亮度",
+              "500 nits / 0.3 nits",
+              "未公开",
+              "未公开"
+            ],
+            [
+              "核心处理器",
+              "A18 + Apple Intelligence",
+              "未公开官方披露 (主机X2Pro配麒麟9020)",
+              "AI 大模型 (超级小爱)"
+            ],
+            [
+              "交互与AI",
+              "Siri AI (个人上下文感知)",
+              "小艺管家 (全双工/方言/模糊意图)",
+              "超级小爱 2.0 (端侧调度)"
+            ],
+            [
+              "摄像头/视讯",
+              "12MP Center Stage 居中",
+              "无 (主打纯控制与语音)",
+              "部分型号支持远程看护"
+            ],
+            [
+              "生态与协议",
+              "Matter, Thread, HomeKit, Wi-Fi 6E",
+              "鸿蒙 HarmonyOS Home, 蓝牙 Mesh",
+              "米家 IoT, 蓝牙 Mesh, Zigbee"
+            ],
+            [
+              "生态伙伴",
+              "LG, Schneider Electric, ADT",
+              "全屋PLC/地产前装深度绑定",
+              "米家海量生态链与数亿设备"
+            ],
+            [
+              "售价与门槛",
+              "$299 (约¥2150) + 专用支架",
+              "¥3999~¥7399 (中控+主机组合)",
+              "¥699 (极致性价比普及)"
+            ],
+            [
+              "发售时间",
+              "2026.10.13 预购",
+              "已上市",
+              "已上市"
+            ],
+            [
+              "地区受限",
+              "EU 不可售 (Siri AI)",
+              "全球多国",
+              "全球多国"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "layout": "title_content",
+      "title": "5. 苹果对智能家居产业的思考与后续演进",
+      "background": "F8FAFC",
+      "footer": "Apple Strategic Thought",
+      "bullets": [
+        {
+          "text": "战略思考: 苹果并非盲目卷硬件参数，而是将智能家居视为 'Apple Intelligence 实体化' 的关键终端延伸",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "隐私与安全边界: 坚持端侧计算与 iCloud+ 隐私加密，多用户面部识别隔离个人数据，这是其区别于国产厂商的核心护城河",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "生态合作演进: 抛弃完全封闭自研，通过 Home Collection 联合 LG/Schneider，借助 ADT 补齐线下服务短板",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "演进路线图 (短期): 2026-2027 年通过软件升级扩展 Siri AI 能力，深化 Matter 协议对第三方智能家居的兼容",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "演进路线图 (中长期): 推动 homeOS 向车载、可穿戴延伸，未来与 Apple Vision Pro 深度融合打造无缝 AR 空间交互",
+          "size": 15,
+          "color": "1E293B"
+        }
+      ]
+    },
+    {
+      "layout": "title_content",
+      "title": "6. 总结: 优势、劣势与综合评判",
+      "background": "F8FAFC",
+      "footer": "Conclusion & Takeaways",
+      "bullets": [
+        {
+          "text": "苹果优势: 顶级的软硬件一体化体验、极高的品牌忠诚度、AI 隐私保护机制及跨设备无缝生态闭环",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "苹果劣势: 价格门槛高（单机$299另加支架）、欧盟地区监管受限、本地化智能家电（如白电、安防）丰富度不及国内",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "对比华为: 华为胜在空间前装PLC稳定性、主机算力与全屋子系统深度打通；苹果胜在全局 AI 隐私与跨端协同生态",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "对比小米: 小米胜在极致性价比、庞大设备基数与米家生态链丰富度；苹果胜在高端工业设计与深度大模型交互质感",
+          "size": 15,
+          "color": "1E293B"
+        },
+        {
+          "text": "最终结论: 苹果的 'Welcome Home' 标志着智能家居从单品控制迈向 AI 原生时代。长远来看，其生态闭环与操作系统独立化将深刻重塑高端智能家居行业标准",
+          "size": 15,
+          "color": "1E293B"
+        }
+      ]
+    }
+  ]
+}

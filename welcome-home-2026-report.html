@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple 'Welcome Home' 2026 Smart Home Insight Report</title>
+    <style>
+        /* Design System: Corporate Memphis + Technical Clarity */
+        :root {
+            --ink: #111827;
+            --ink-mint: #34464a;
+            --ink-subtle: #6b7280;
+            --ink-bolder: #374151;
+            --ink-disabled: #9ca3af;
+
+            --surface: #f9fafb;
+            --surface-muted: #f3f4f6;
+            --surface-2: #e5e7eb;
+
+            --accent: #2563eb;
+            --accent-strong: #1d4ed8;
+            --accent-muted: #93c5fd;
+
+            --success: #10b981;
+            --success-contrast: #065f46;
+
+            --danger: #ef4444;
+            --danger-contrast: #7f1d1d;
+
+            --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+            --shadow-strong: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+
+            font-family: 'Inter', system-ui, sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        * { box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            margin: 0; padding: 0;
+            min-height: 100vh;
+            background: var(--surface);
+            color: var(--ink);
+        }
+
+        /* Typography */
+        h1 { font-size: 2.5rem; font-weight: 800; line-height: 1.2; margin: 0 0 1rem 0; color: var(--ink); }
+        h2 { font-size: 1.75rem; font-weight: 700; line-height: 1.3; margin: 2rem 0 1rem 0; color: var(--ink); }
+        h3 { font-size: 1.25rem; font-weight: 600; line-height: 1.4; margin: 1.5rem 0 0.75rem 0; color: var(--ink); }
+        p { margin: 0 0 1rem 0; color: var(--ink); }
+
+        /* Deck Container */
+        .deck {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            padding: 3rem 1rem;
+            margin-bottom: 3rem;
+            background: linear-gradient(135deg, #f0fdf4 0%, #ffffff 100%);
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+        }
+
+        .hero h1 { max-width: 800px; margin: 0 auto; }
+        .hero .subtitle { color: var(--ink-subtle); font-size: 1rem; margin-top: 0.5rem; }
+
+        /* Slides */
+        .slide {
+            padding: 2rem;
+            margin-bottom: 2rem;
+            background: white;
+            border: 1px solid var(--surface-2);
+            border-radius: 12px;
+            box-shadow: var(--shadow);
+        }
+
+        .slide--featured {
+            border-color: var(--accent);
+            box-shadow: 0 8px 25px -5px rgba(37, 99, 235, 0.1);
+        }
+
+        .slide h2 { color: var(--accent-strong); }
+
+        /* Timeline */
+        .timeline {
+            position: relative;
+            padding: 2rem 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 50%;
+            transform: translateX(-50%);
+            width: 4px;
+            height: 100%;
+            background: var(--accent);
+            border-radius: 2px;
+        }
+
+        .timeline-item {
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+            width: calc(50% - 2rem);
+            padding: 1.5rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: var(--shadow);
+            z-index: 1;
+        }
+
+        .timeline-item:nth-child(odd) { left: calc(50% + 2rem); transform: none; width: calc(50% - 2rem); }
+        .timeline-item:nth-child(even) { left: calc(50% - 2rem - 2rem); transform: translateX(-50%); }
+
+        .year { font-weight: 700; color: var(--accent); font-size: 0.875rem; }
+        .item-title { font-weight: 600; margin: 0.5rem 0; }
+        .item-detail { color: var(--ink-subtle); font-size: 0.875rem; }
+
+        /* Grid Comparisons */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .card {
+            padding: 1.5rem;
+            border: 1px solid var(--surface-2);
+            border-left: 4px solid var(--accent);
+            border-radius: 8px;
+            background: white;
+        }
+
+        .card--apple { border-left-color: #0071e3; }
+        .card--huawei { border-left-color: #000000; }
+        .card--xiaomi { border-left-color: #ff6d00; }
+
+        .card-title {
+            font-weight: 600;
+            margin: 0 0 0.75rem 0;
+            color: var(--ink);
+        }
+
+        /* Comparison Matrix */
+        .matrix {
+            display: grid;
+            grid-template-columns: 150px repeat(3, 1fr);
+            gap: 1px;
+            background: var(--surface-2);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .matrix-row {
+            display: contents;
+        }
+
+        .matrix-cell {
+            padding: 1rem;
+            background: white;
+            font-weight: 500;
+        }
+
+        .matrix-cell--header {
+            background: var(--surface);
+            font-weight: 600;
+            color: var(--ink-bolder);
+            border-bottom: 2px solid var(--surface-2);
+        }
+
+        .matrix-cell--brand {
+            background: var(--surface-muted);
+            font-weight: 600;
+            color: var(--ink-bolder);
+        }
+
+        .pos { color: #10b981; }
+        .neg { color: #ef4444; }
+        .neutral { color: var(--ink-subtle); }
+
+        /* Stats Grid */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 1.5rem;
+            background: var(--surface);
+            border-radius: 8px;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 800;
+            color: var(--accent-strong);
+        }
+
+        .stat-label {
+            font-size: 0.75rem;
+            color: var(--ink-subtle);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Features List */
+        .features {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .features li {
+            padding: 0.75rem 0;
+            border-bottom: 1px solid var(--surface-2);
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+
+        .features li:last-child { border-bottom: none; }
+        .check { 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 24px;
+            height: 24px;
+            background: var(--success);
+            color: white;
+            border-radius: 50%;
+            font-weight: 600;
+            flex-shrink: 0;
+        }
+
+        /* Conclusion Box */
+        .conclusion {
+            background: linear-gradient(135deg, #eff6ff 0%, #ffffff 100%);
+            border-left: 6px solid var(--accent);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .deck { padding: 1rem; }
+            .hero { padding: 2rem 1rem; }
+            .slide { padding: 1.5rem; }
+            .timeline { padding: 1rem 0; }
+            .timeline-item { 
+                width: 100%;
+                left: 0;
+                transform: none;
+                margin-left: 2rem;
+            }
+            h1 { font-size: 1.75rem; }
+            h2 { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="deck">
+        <section class="hero">
+            <h1>Apple 'Welcome Home' 2026 智能家居竞品洞察报告</h1>
+            <p class="subtitle">Apple vs Huawei vs Xiaomi: Ecosystem & Product Analysis | 2026.10.13 发布会</p>
+        </section>
+
+        <section id="history" class="slide">
+            <h2>1. 历代苹果智能家居发布会总览</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="year">2014</div>
+                    <h3 class="item-title">WWDC: HomeKit 首次亮相</h3>
+                    <p class="item-detail">苹果首次提出统一智能家居框架，确立安全协议标准</p>
+                </div>
+                <div class="timeline-item">
+                    <div class="year">2016</div>
+                    <h3 class="item-title">WWDC: Home app 全面上线</h3>
+                    <p class="item-detail">iOS 10 内置，HomeKit 认证大幅扩展，首批认证配件发布</p>
+                </div>
+                <div class="timeline-item">
+                    <div class="year">2020</div>
+                    <h3 class="item-title">秋季发布会: HomePod mini 首发</h3>
+                    <p class="item-detail">$99 入口级智能音箱确立价格锚点</p>
+                </div>
+                <div class="timeline-item">
+                    <div class="year">2022</div>
+                    <h3 class="item-title">WWDC: Matter 1.0 发布</h3>
+                    <p class="item-detail">与 Google/Amazon/LG/华为等跨品牌互联互容</p>
+                </div>
+                <div class="timeline-item">
+                    <div class="year">2025</div>
+                    <h3 class="item-title">WWDC: homeOS 预览</h3>
+                    <p class="item-detail">苹果宣布独立智能家居操作系统</p>
+                </div>
+                <div class="timeline-item">
+                    <div class="year">2026.10</div>
+                    <h3 class="item-title">Welcome Home 专场</h3>
+                    <p class="item-detail">HomeView、Apple TV 4K Gen4、HomePod mini Gen2 全新发布</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="overview" class="slide">
+            <h2>2. 本次发布会概览</h2>
+            <ul class="features">
+                <li><span class="check">✓</span><strong>主题</strong>: Welcome home（欢迎回家） - 10月13日纽约发布</li>
+                <li><strong>三大核心</strong>: HomeView（首款带屏中枢）、Apple TV 4K Gen4、HomePod mini Gen2</li>
+                <li><strong>生态合作</strong>: LG + Schneider Electric + ADT 全联盟</li>
+                <li><strong>区域限制</strong>: EU因Siri AI暂不可售，积极协调中</li>
+            </ul>
+        </section>
+
+        <section id="homeview" class="slide slide--featured">
+            <h2>3-1. HomeView 核心规格</h2>
+            <div class="stats">
+                <div class="stat-item"><div class="stat-value">7"</div><div class="stat-label">屏幕尺寸</div></div>
+                <div class="stat-item"><div class="stat-value">A18</div><div class="stat-label">芯片</div></div>
+                <div class="stat-item"><div class="stat-value">$299</div><div class="stat-label">售价</div></div>
+                <div class="stat-item"><div class="stat-value">$249</div><div class="stat-label">12MP 相机</div></div>
+            </div>
+            <h3 style="margin-top: 2rem;">关键特征</h3>
+            <ul class="features">
+                <li><span class="check">✓</span><strong>显示技术</strong>: 1088×1088 Liquid Retina, 500 nits / 0.3 nits</li>
+                <li><strong>AI 助手</strong>: Siri AI + Apple Intelligence, 个人上下文感知</li>
+                <li><strong>摄像头</strong>: 12MP Center Stage, FaceTime 视频通话</li>
+                <li><strong>音频</strong>: 双喇叭 + Spatial Audio Dolby Atmos, 4 声道组网</li>
+                <li><strong>连接</strong>: Wi-Fi 6E, Bluetooth 6.0, Thread, USB-C 供电</li>
+                <li><strong>形态</strong>: 桌面版 (2.1 磅) / 壁挂版 (0.63 磅)</li>
+            </ul>
+        </section>
+
+        <section id="ecosystem" class="slide">
+            <h2>3-3. Apple Home Collection 生态合作</h2>
+            <h3>LG 产品线 (联名定制)</h3>
+            <div class="stats">
+                <div class="stat-item"><div class="stat-value">$249.95</div><div class="stat-label">门铃</div></div>
+                <div class="stat-item"><div class="stat-value">$399.95</div><div class="stat-label">户外摄像机</div></div>
+                <div class="stat-item"><div class="stat-value">$349.95</div><div class="stat-label">智能门锁</div></div>
+                <div class="stat-item"><div class="stat-value">$199.95</div><div class="stat-label">恒温器</div></div>
+            </div>
+            <h3 style="margin-top: 1.5rem;">Schneider Electric</h3>
+            <ul class="features">
+                <li><span class="check">✓</span>Smart Thermostat ($199.95) + 房间传感器 ($39.95)</li>
+                <li><span class="check">✓</strong>支持 iCloud+ HomeKit Secure Video</li>
+            </ul>
+            <h3 style="margin-top: 1.5rem;">ADT 专业安装</h3>
+            <ul class="features">
+                <li><span class="check">✓</span>美国 Apple Store 零售店提供专业安装服务</li>
+                <li><span class="check">✓</span>覆盖摄像头/门锁/恒温器等，另收费</li>
+            </ul>
+        </section>
+
+        <section id="comparison" class="slide">
+            <h2>4. 三方深度对比矩阵</h2>
+            <div class="matrix">
+                <!-- Header -->
+                <div class="matrix-cell--header">维度</div>
+                <div class="matrix-cell--header">Apple HomeView</div>
+                <div class="matrix-cell--header">Huawei S2</div>
+                <div class="matrix-cell--header">Xiaomi Pro 8</div>
+                
+                <div class="matrix-row"><div class="matrix-cell">屏幕尺寸</div><div class="matrix-cell">7" Liquid Retina</div><div class="matrix-cell">10.4" FHD+</div><div class="matrix-cell">8" 触控屏</div></div>
+                <div class="matrix-row"><div class="matrix-cell">芯片</div><div class="matrix-cell">A18 + AI</div><div class="matrix-cell">未公开 (Hi3861)</div><div class="matrix-cell">AI 大模型</div></div>
+                <div class="matrix-row"><div class="matrix-cell">摄像头</div><div class="matrix-cell" style="color:var(--success);"><strong>12MP Center Stage</strong></div><div class="matrix-cell" style="color:var(--danger);"><strong>无</strong></div><div class="matrix-cell">无/选配</div></div>
+                <div class="matrix-row"><div class="matrix-cell">AI 助手</div><div class="matrix-cell">Siri AI</div><div class="matrix-cell">小艺管家</div><div class="matrix-cell">超级小爱 2.0</div></div>
+                <div class="matrix-row"><div class="matrix-cell">生态</div><div class="matrix-cell">HomeKit + Matter</div><div class="matrix-cell">HarmonyOS</div><div class="matrix-cell">米家生态</div></div>
+                <div class="matrix-row"><div class="matrix-cell">价格</div><div class="matrix-cell"><strong>$299</strong></div><div class="matrix-cell">¥2499+</div><div class="matrix-cell"><strong>¥699</strong></div></div>
+                <div class="matrix-row"><div class="matrix-cell">地区</div><div class="matrix-cell" style="color:var(--danger);"><strong>EU 受限</strong></div><div class="matrix-cell">全球</div><div class="matrix-cell">全球</div></div>
+            </div>
+        </section>
+
+        <section id="strategic" class="slide">
+            <h2>5. 苹果智能家居战略思考</h2>
+            <h3>策略定位</h3>
+            <ul class="features">
+                <li><span class="check">✓</span>将智能家居从 iPhone/Mac 的'配角'提升为**核心叙事**</li>
+                <li><span class="check">✓</span>homeOS 独立化，表明长期生态投入</li>
+                <li><span class="check">✓</span>生态闭环: HomeView ↔ iPhone/iPad/macOS/watchOS 无缝联动</li>
+                <li><span class="check">✓</span>AI + 隐私并重，端侧计算与 iCloud+ 加密</li>
+            </ul>
+            
+            <h3 style="margin-top: 1.5rem;">演进路线图</h3>
+            <div class="stats">
+                <div class="stat-item"><div class="stat-value">2026-27</div><div class="stat-label">短期: Matter 整合</div></div>
+                <div class="stat-item"><div class="stat-value">2028</div><div class="stat-label">中期: 车载延伸</div></div>
+                <div class="stat-item"><div class="stat-value">2030+</div><div class="stat-label">长期: AR 空间交互</div></div>
+            </div>
+        </section>
+
+        <section id="conclusion" class="slide conclusion">
+            <h2>6. 结论与建议</h2>
+            
+            <h3>Apple 优势</h3>
+            <ul class="features">
+                <li><span class="check">✓</span>顶级软硬件一体化，品牌粘性强</li>
+                <li><span class="check">✓</span>隐私保护机制独特，端侧AI处理</li>
+                <li><span class="check">✓</span>跨设备生态闭环完善</li>
+            </ul>
+
+            <h3 style="margin-top: 1.5rem;">Apple 挑战</h3>
+            <ul class="features">
+                <li><span class="check">✗</span>价格门槛高 ($299 + 59~$129 专用座)</li>
+                <li><span class="check">✗</span>EU 市场受 Siri 限制</li>
+                <li><span class="check">✗</span>华为/小米抢占价格战与本地生态</li>
+            </ul>
+
+            <h3 style="margin-top: 1.5rem;">最终判断</h3>
+            <p><strong>Apple 'Welcome Home' 标志着智能家居从单品控制迈向 AI 原生时代。苹果的策略不是追求市场份额，而是完善生态生态壁垒将长期重塑行业标准。</strong></p>
+        </section>
+    </div>
+</body>
+</html>

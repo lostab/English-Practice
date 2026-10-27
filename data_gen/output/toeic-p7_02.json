@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-344",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Facilities Management\nDATE: October 11\nSUBJ: Elevator Maintenance Notice\n\nThe elevators in the west wing will be out of service on Saturday from 8:00 a.m. to 5:00 p.m. for routine maintenance. Please use the east wing elevators or the stairwells during this period. We apologize for any inconvenience this may cause and appreciate your cooperation. Please plan any deliveries or meetings that require elevator access around this scheduled maintenance window. For any questions about this notice, please contact the facilities helpdesk at extension 4101 or submit a ticket through the building portal. We appreciate your patience during the maintenance work.",
+      "question": "When will the west wing elevators be out of service?",
+      "options": [
+        "On Saturday from 8:00 a.m. to 5:00 p.m.",
+        "On Sunday all day",
+        "On Friday afternoon",
+        "Next Monday morning"
+      ],
+      "answer": 0,
+      "explanation": "通知说明西侧电梯停运时间是周六上午8点到下午5点。"
+    },
+    {
+      "id": "toeic-p7-345",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Managers\nFROM: Human Resources\nDATE: November 3\nSUBJ: Annual Performance Reviews\n\nAll annual performance reviews for staff members must be completed and submitted to Human Resources no later than November 30. Managers are encouraged to schedule review meetings with their team members at least one week in advance to allow adequate preparation time. Please ensure that all evaluation forms are signed by both the manager and the employee before submission, as unsigned forms will be returned for correction. Please make sure that all forms are complete and signed before submission. Managers who have questions about the rating criteria should contact the HR office directly. Thank you for your cooperation.",
+      "question": "By what date must the completed review forms be submitted to HR?",
+      "options": [
+        "November 15",
+        "November 30",
+        "December 1",
+        "October 31"
+      ],
+      "answer": 1,
+      "explanation": "通知要求年度绩效评估表最迟于11月30日前提交给人力资源部。"
+    },
+    {
+      "id": "toeic-p7-346",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Office Assistants\nFROM: Purchasing Department\nDATE: January 15\nSUBJ: Printer Paper Restock\n\nDue to unexpected supplier delays, our regular shipment of printer paper will not arrive until next Tuesday. In the meantime, please limit daily printing to essential documents only. If your department is completely out of paper, you may request a temporary pack of 50 sheets from the central supply room on the third floor. All routine orders will resume as normal once the delayed shipment is received. If your department urgently needs paper before the shipment arrives, please visit the central supply room during regular office hours. Thank you for your cooperation during this temporary shortage.",
+      "question": "Why should staff limit their printing for now?",
+      "options": [
+        "The printers are currently broken",
+        "The office is closing early",
+        "The paper shipment is delayed",
+        "Budget limits were recently reached"
+      ],
+      "answer": 2,
+      "explanation": "因供应商延迟，打印纸发货推迟到下周二，故暂时限制打印。"
+    },
+    {
+      "id": "toeic-p7-347",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Shipping and Receiving Staff\nFROM: Logistics Operations\nDATE: February 10\nSUBJ: Warehouse Delivery Schedule Change\n\nPlease note that all incoming freight deliveries for Building B will be redirected to Loading Dock 3 starting on Monday. Dock 1 is currently undergoing pavement repairs and will remain closed for two weeks while the new surface cures. Delivery drivers should be notified of this change in advance to avoid congestion at the warehouse entrance and unnecessary waiting time. If you have questions about the new routing, please contact the logistics supervisor before Monday morning. Thank you for helping us keep deliveries running smoothly during the repair period.",
+      "question": "Where will incoming freight for Building B be delivered starting Monday?",
+      "options": [
+        "Loading Dock 1",
+        "Loading Dock 2",
+        "The main lobby",
+        "Loading Dock 3"
+      ],
+      "answer": 3,
+      "explanation": "通知指出B栋的所有来货将改送至3号卸货码头。"
+    },
+    {
+      "id": "toeic-p7-348",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Accounting Department\nDATE: March 4\nSUBJ: Quarterly Expense Reports\n\nAll employee expense reports for the first quarter must be submitted via the online portal by April 5. Receipts for any single purchase exceeding $25 must be attached digitally, either as a photo or PDF file. Reports submitted after the deadline will not be processed until the following month, which may delay your reimbursement, so please submit early and double check your totals. Please contact the accounting assistant if you have any questions about uploading receipts. We appreciate your timely submissions and attention to the reimbursement guidelines.",
+      "question": "What is required for purchases over $25?",
+      "options": [
+        "A digital receipt must be attached",
+        "Manager approval in writing",
+        "A paper invoice mailed to accounting",
+        "Prior notice to the finance team"
+      ],
+      "answer": 0,
+      "explanation": "规定单笔超过25美元的采购必须附上数字收据。"
+    },
+    {
+      "id": "toeic-p7-349",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team\nFROM: Event Coordinator\nDATE: April 12\nSUBJ: Spring Product Launch Seminar\n\nOur upcoming seminar for the new EcoClean product line will take place on May 18 in Conference Room A. Registration for external guests begins at 9:00 a.m. and will be followed by the keynote speech at 10:00 a.m. A light breakfast will be served during registration. Please review your assigned presentation slides with the design team by this coming Thursday. For those who cannot attend in person, a live stream link will be shared one day before the event. Please confirm your attendance with the event coordinator by Thursday.",
+      "question": "At what time does the keynote speech begin?",
+      "options": [
+        "9:00 a.m.",
+        "10:00 a.m.",
+        "11:30 a.m.",
+        "1:00 p.m."
+      ],
+      "answer": 1,
+      "explanation": "通知说明主旨演讲于上午10点开始，早餐接待安排在签到时段。"
+    },
+    {
+      "id": "toeic-p7-350",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Customer Support Staff\nFROM: Customer Relations\nDATE: May 20\nSUBJ: Extended Hotline Hours\n\nBeginning next month, our customer support telephone hotline will operate from 8:00 a.m. to 8:00 p.m. on weekdays, extending our availability by two hours each evening. This change responds to increased customer requests received after regular business hours. Team leaders will circulate a new shift schedule by Friday afternoon so that staff can sign up for their preferred evening slots. The extended hours will better serve customers in different time zones. Team leaders should ensure that every evening shift is fully staffed and that breaks are scheduled properly.",
+      "question": "By how many hours will the hotline be extended each evening?",
+      "options": [
+        "One hour",
+        "Three hours",
+        "Two hours",
+        "Four hours"
+      ],
+      "answer": 2,
+      "explanation": "公告指出客服热线每个傍晚延长两小时服务时间。"
+    },
+    {
+      "id": "toeic-p7-351",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: IT Department\nDATE: June 8\nSUBJ: Scheduled Network Upgrade\n\nThe internal network and server systems will undergo critical maintenance this Sunday from midnight to 4:00 a.m. During this four-hour maintenance window, access to company email, shared drives, and the intranet will be temporarily unavailable. Please save your work and log off before leaving on Friday evening. Backup systems will run automatically to protect any unsaved data. If you experience connectivity issues after the upgrade, please contact the IT helpdesk for assistance. Backup systems will run automatically to protect any unsaved data during the maintenance window.",
+      "question": "When will the network upgrade take place?",
+      "options": [
+        "Saturday afternoon",
+        "Friday night at 8:00 p.m.",
+        "Next Monday during work hours",
+        "This Sunday from midnight to 4:00 a.m."
+      ],
+      "answer": 3,
+      "explanation": "通知说明网络升级定于本周日午夜至凌晨4点进行。"
+    },
+    {
+      "id": "toeic-p7-352",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Department\nFROM: Travel Management\nDATE: July 14\nSUBJ: Updated Hotel Booking Policy\n\nPlease be reminded that all business travel hotel bookings must now be made through our corporate booking portal rather than third-party websites. The maximum allowable nightly rate for standard rooms is $150. Any booking exceeding this limit requires prior written authorization from your division director, and non-compliant expenses may not be reimbursed by the finance team. Please also keep digital copies of all hotel confirmations and boarding passes for your expense reports. Contact the travel desk if you have any questions about the booking process.",
+      "question": "What is the maximum nightly hotel rate allowed without special approval?",
+      "options": [
+        "$150",
+        "$100",
+        "$125",
+        "$200"
+      ],
+      "answer": 0,
+      "explanation": "政策规定标准客房每晚最高可报销金额为150美元。"
+    },
+    {
+      "id": "toeic-p7-353",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Building Administration\nDATE: August 5\nSUBJ: Parking Permit Renewal\n\nAll staff vehicle parking permits for the main garage expire on August 31. To renew your permit for the upcoming year, please bring your vehicle registration and employee ID badge to the security office on the ground floor. Permits not renewed by the deadline will result in daily visitor parking fees being charged instead of the standard monthly rate. Please submit your renewal documents before the end of the month to avoid the late fee. If you have questions about your permit status, visit the security office on the ground floor during business hours.",
+      "question": "When do current parking permits expire?",
+      "options": [
+        "August 15",
+        "August 31",
+        "September 1",
+        "October 1"
+      ],
+      "answer": 1,
+      "explanation": "通知指出主车库的所有停车证将于8月31日到期。"
+    },
+    {
+      "id": "toeic-p7-354",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: New Hires\nFROM: Training Coordinator\nDATE: September 10\nSUBJ: Safety Compliance Workshop\n\nAll newly hired employees are required to attend a safety compliance workshop in Room 204 on Thursday morning at 9:30 a.m. The session will cover emergency evacuation procedures and workplace ergonomics. Attendance is mandatory, and certificates of completion will be distributed at the end of the workshop. Late arrivals will not be admitted into the session. If you have a scheduling conflict, please notify your supervisor and the training office as soon as possible. We look forward to seeing all new employees at the workshop on Thursday morning.",
+      "question": "Where will the safety compliance workshop be held?",
+      "options": [
+        "Room 302",
+        "The main auditorium",
+        "Room 204",
+        "The cafeteria"
+      ],
+      "answer": 2,
+      "explanation": "通知明确新员工安全培训研讨会在204室举行。"
+    },
+    {
+      "id": "toeic-p7-355",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Staff Association\nFROM: Cafeteria Management\nDATE: October 2\nSUBJ: Cafeteria Renovation Closure\n\nThe employee cafeteria will be closed for remodeling from October 15 through October 22. During this one-week closure, several food trucks will be parked outside the north entrance from 11:30 a.m. to 2:00 p.m. to provide lunch options. Normal cafeteria service will resume on October 23, with an updated breakfast menu. Please plan your meals accordingly during the closure period. We apologize for any inconvenience and thank you for your understanding. Please plan your lunches accordingly and check the food truck schedule posted near the north entrance.",
+      "question": "How long will the cafeteria be closed for remodeling?",
+      "options": [
+        "Three days",
+        "Two weeks",
+        "One month",
+        "One week"
+      ],
+      "answer": 3,
+      "explanation": "通知说明员工食堂将因翻新关闭一周（10月15日至22日）。"
+    },
+    {
+      "id": "toeic-p7-356",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Security Department\nDATE: November 12\nSUBJ: New Visitor Badge Protocol\n\nEffective next Monday, all visitors must be issued a temporary photo ID badge at the front desk before entering the office floors. Hosts are required to escort their visitors at all times while inside the building and return the visitor badge to security upon departure. This updated protocol helps maintain a secure environment for all staff and guests. Please remind your guests to carry their badges visibly at all times. Security staff will conduct random badge checks on office floors, so hosts should confirm visitor badges are worn properly.",
+      "question": "What must hosts do while their visitors are inside the building?",
+      "options": [
+        "Escort them at all times",
+        "Provide them with parking vouchers",
+        "Have them sign a confidentiality agreement",
+        "Wait for them in the lobby"
+      ],
+      "answer": 0,
+      "explanation": "通知规定接待人员必须全程陪同访客并归还访客证。"
+    },
+    {
+      "id": "toeic-p7-357",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Research Team\nFROM: Information Resource Center\nDATE: December 3\nSUBJ: Subscription Database Update\n\nOur subscription to the Global Market Research database will expire at the end of this month. We are currently evaluating whether to renew it or switch to an alternative provider. Please send your feedback regarding the usefulness of this database to the library staff by December 20 so that we can make an informed decision before the contract period ends. Please include specific examples of your projects so that we can evaluate the database fairly. The library staff will review all comments before making a final decision on the subscription.",
+      "question": "By what date should staff send feedback about the database?",
+      "options": [
+        "December 10",
+        "December 20",
+        "December 31",
+        "January 5"
+      ],
+      "answer": 1,
+      "explanation": "通知要求员工于12月20日前把数据库使用反馈发给图书馆。"
+    },
+    {
+      "id": "toeic-p7-358",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Mailroom Services\nDATE: January 18\nSUBJ: Package Pickup Procedure\n\nDue to an increasing volume of personal deliveries, the mailroom can no longer hold oversized packages for more than three business days. Any items unclaimed after three days will be returned to the sender at the shipper's expense. Please ensure that your personal packages are delivered to your home address rather than the office to avoid unnecessary delays. If you are expecting a large delivery, please arrange to collect it promptly upon arrival. For questions about the new procedure, contact the mailroom supervisor during business hours.",
+      "question": "How long will the mailroom hold oversized packages?",
+      "options": [
+        "One business day",
+        "Two business days",
+        "Three business days",
+        "Five business days"
+      ],
+      "answer": 2,
+      "explanation": "邮件室规定超大包裹最多保留三个工作日，逾期退回。"
+    },
+    {
+      "id": "toeic-p7-359",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: HR Wellness Committee\nDATE: February 14\nSUBJ: Annual Health Screening\n\nFree annual health screenings will be offered on site next Wednesday in the ground-floor clinic. Registered nurses will conduct blood pressure checks, cholesterol tests, and general consultations. Appointments are available between 8:00 a.m. and 4:00 p.m. Please sign up on the employee portal by Monday evening to reserve your slot, as space is limited. Please bring your employee ID badge with you to check in at the reception desk on arrival. If you have already booked a time slot, no additional confirmation is required.",
+      "question": "Where will the annual health screenings take place?",
+      "options": [
+        "Conference Room B",
+        "The local hospital",
+        "The executive boardroom",
+        "The ground-floor clinic"
+      ],
+      "answer": 3,
+      "explanation": "通知表明年度免费健康筛查在一楼诊所进行。"
+    },
+    {
+      "id": "toeic-p7-360",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Heads\nFROM: Office Manager\nDATE: March 20\nSUBJ: Ergonomic Chair Requests\n\nThe administration has approved a budget for ergonomic desk chairs for employees requesting them due to medical needs. Department heads should compile a list of interested team members and submit it to the administrative office by April 1. Deliveries and installations will take place during the second week of April. Please include a brief reason for each request in the submission form. Queries regarding the approval process can be directed to the office manager. Please include the medical recommendation letter with your request to speed up the review.",
+      "question": "When must department heads submit their list of requests?",
+      "options": [
+        "April 1",
+        "March 25",
+        "April 15",
+        "May 1"
+      ],
+      "answer": 0,
+      "explanation": "通知要求部门主管在4月1日前把申请名单交给行政办公室。"
+    },
+    {
+      "id": "toeic-p7-361",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Project Managers\nFROM: Operations Director\nDATE: April 8\nSUBJ: Annual Leadership Conference\n\nThe annual leadership conference is scheduled for May 12-14 at the Grand Harbor Hotel. Registration includes access to all keynote sessions, workshops, and networking dinners. Please confirm your attendance by registering on the corporate intranet no later than April 25 so that hotel room reservations can be finalized and flight bookings made early. The conference agenda and speaker biographies are available on the intranet for your review. Please download them early and select the sessions you plan to attend before registering.",
+      "question": "Where is the annual leadership conference taking place?",
+      "options": [
+        "The company headquarters",
+        "The Grand Harbor Hotel",
+        "The City Convention Center",
+        "The Seaside Resort"
+      ],
+      "answer": 1,
+      "explanation": "通知说明年度领导力会议在大港酒店举行。"
+    },
+    {
+      "id": "toeic-p7-362",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Building Maintenance\nDATE: May 5\nSUBJ: Window Cleaning Schedule\n\nExterior window cleaning for the headquarters building will begin on Monday and is expected to last for five days. Workers will be operating scaffolding outside the windows on floors 2 through 6. Please keep your window blinds closed during this period to maintain privacy and ensure smooth cleaning operations. No one should stand near the windows while the work is in progress. Thank you for helping us keep the building clean and safe. Please contact the maintenance office if you notice any issues with the scaffolding or the equipment used by the cleaning crew.",
+      "question": "What are employees asked to do during the window cleaning?",
+      "options": [
+        "Vacate their offices",
+        "Open windows for ventilation",
+        "Keep their window blinds closed",
+        "Remove items near the windows"
+      ],
+      "answer": 2,
+      "explanation": "通知要求员工在外墙清洗期间关闭百叶窗以保护隐私。"
+    },
+    {
+      "id": "toeic-p7-363",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Janitorial Services\nDATE: June 12\nSUBJ: Deep Cleaning of Restrooms\n\nAll restrooms on the fourth and fifth floors will be closed for deep cleaning this Saturday from 7:00 a.m. to 12:00 p.m. Alternative restrooms are available on the third and sixth floors during the cleaning hours. We appreciate your patience as we work to maintain a clean and sanitary environment for everyone in the building. Signs will be posted outside each restroom entrance on the day of the cleaning. Please direct visitors to the alternative facilities on the third or sixth floors if they ask for directions.",
+      "question": "Which restrooms will be closed for deep cleaning on Saturday?",
+      "options": [
+        "First and second floors",
+        "Third and sixth floors",
+        "All restrooms in the building",
+        "Fourth and fifth floors"
+      ],
+      "answer": 3,
+      "explanation": "通知指出星期六四楼和五楼的洗手间关闭进行深度清洁。"
+    },
+    {
+      "id": "toeic-p7-364",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounting Staff\nFROM: IT Helpdesk\nDATE: July 3\nSUBJ: Payroll Software Update\n\nThe payroll management software will be updated to version 4.5 on Friday evening at 8:00 p.m. The update process will take approximately two hours, during which the system will be offline and inaccessible. Please ensure that all payroll entries are saved and that you are logged out of the application before leaving work on Friday to avoid data corruption. The support team will send a confirmation email once the upgrade is complete. Please save all open documents before Friday evening to avoid losing any unsaved data.",
+      "question": "To what version is the payroll software being updated?",
+      "options": [
+        "Version 4.5",
+        "Version 4.0",
+        "Version 5.0",
+        "Version 5.5"
+      ],
+      "answer": 0,
+      "explanation": "通知说明工资管理软件将于周五晚更新至4.5版。"
+    },
+    {
+      "id": "toeic-p7-365",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Event Planning Committee\nFROM: Catering Services\nDATE: August 18\nSUBJ: Annual Gala Menu Selection\n\nThank you for choosing our catering service for your upcoming company gala. We need your final menu selection and guest dietary restrictions submitted by September 2. This will allow our culinary team sufficient time to source fresh ingredients and prepare the necessary portions. Our team will be happy to accommodate special requests if submitted by the deadline. We look forward to working with you on this special event. Please share any additional dietary requirements with the catering team as soon as possible.",
+      "question": "When must the final menu selection be submitted?",
+      "options": [
+        "August 25",
+        "September 2",
+        "September 10",
+        "October 1"
+      ],
+      "answer": 1,
+      "explanation": "餐饮服务要求最迟于9月2日提交最终菜单与饮食禁忌。"
+    },
+    {
+      "id": "toeic-p7-366",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Full-Time Employees\nFROM: Human Resources\nDATE: September 15\nSUBJ: Employee Referral Program Bonus\n\nOur employee referral program bonus has been increased to $500 for any successful hire referred between now and the end of the year. To qualify, ensure that the candidate lists your name on their employment application. The bonus will be paid in two installments: half upon completion of the probationary period and half after six months of employment. Questions about the program can be sent to the HR recruitment team. Please encourage your colleagues to participate before the program ends in December.",
+      "question": "What is the new referral bonus amount for a successful hire?",
+      "options": [
+        "$200",
+        "$350",
+        "$500",
+        "$1,000"
+      ],
+      "answer": 2,
+      "explanation": "通知指出员工推荐奖金已提高到每名成功入职者500美元。"
+    },
+    {
+      "id": "toeic-p7-367",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Wellness Center\nDATE: October 8\nSUBJ: Fitness Center Equipment Maintenance\n\nThe treadmills and weight machines in the employee fitness center will undergo servicing next Tuesday morning. The gym facilities will remain closed until 12:00 p.m. that day. Locker rooms and showers will remain accessible during normal operating hours. Please plan your workout schedule accordingly and avoid the gym building after 10:00 a.m. on that day. If you need access to equipment during the day, please contact the wellness center staff. Thank you for your patience while the machines are being serviced.",
+      "question": "Until what time will the fitness center be closed on Tuesday?",
+      "options": [
+        "10:00 a.m.",
+        "2:00 p.m.",
+        "5:00 p.m.",
+        "12:00 p.m."
+      ],
+      "answer": 3,
+      "explanation": "通知说明健身房周二上午维修，关闭至中午12点。"
+    },
+    {
+      "id": "toeic-p7-368",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Customer Service Representatives\nFROM: Training Department\nDATE: November 4\nSUBJ: Mandatory Online Compliance Module\n\nAll customer service representatives must complete the online data security compliance module by November 25. The course takes approximately 45 minutes to complete and can be accessed through the employee learning portal at any time. Failure to complete the module by the deadline may result in suspension of system access, so please do not wait until the last day. A short quiz at the end of the module will confirm your understanding. Please complete the course on a computer with a stable internet connection.",
+      "question": "How long does it take to complete the online compliance course?",
+      "options": [
+        "About 45 minutes",
+        "About 30 minutes",
+        "About 1 hour",
+        "About 2 hours"
+      ],
+      "answer": 0,
+      "explanation": "通知说明该在线合规课程约需45分钟完成。"
+    },
+    {
+      "id": "toeic-p7-369",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Supervisors\nFROM: Finance Directorate\nDATE: December 1\nSUBJ: Departmental Budget Proposals\n\nDepartment supervisors are requested to submit their draft budget proposals for the upcoming fiscal year by January 10. Financial guidelines and templates have been uploaded to the finance shared folder. A budget review meeting with the CFO is scheduled for January 22. Please use the new template to ensure consistency across departments. Please contact the finance directorate if you have any questions about the new format. We appreciate your timely submissions and careful attention to the guidelines.",
+      "question": "When are draft budget proposals due?",
+      "options": [
+        "January 22",
+        "January 10",
+        "February 1",
+        "February 15"
+      ],
+      "answer": 1,
+      "explanation": "财务部要求各主管于1月10日前提交年度预算草案。"
+    },
+    {
+      "id": "toeic-p7-370",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Facilities Management\nDATE: January 22\nSUBJ: Underground Parking Lighting Upgrade\n\nInstallation of energy-efficient LED lighting in the underground parking garage will take place this weekend. The garage will be closed to all vehicles from Saturday at 6:00 a.m. to Sunday at 6:00 p.m. Employees are advised to use street parking during this period. The new lighting will reduce energy costs and improve visibility for drivers. Please observe the temporary signage and drive carefully around the construction site. Security staff will be available to assist drivers entering the garage at the weekend.",
+      "question": "Where should employees park while the garage is closed?",
+      "options": [
+        "In the adjacent mall lot",
+        "In the north courtyard",
+        "On the street",
+        "On the rooftop deck"
+      ],
+      "answer": 2,
+      "explanation": "通知建议车库关闭期间员工使用街边停车位。"
+    },
+    {
+      "id": "toeic-p7-371",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Human Resources\nDATE: February 18\nSUBJ: Health Insurance Open Enrollment\n\nAnnual open enrollment for employee health insurance benefits begins on March 1 and runs through March 20. If you wish to make changes to your current coverage or add family members, you must submit your election forms via the HR portal during this window. Detailed brochures outlining the plan options have been sent to your work email for review. If you have questions about eligibility, contact the benefits administrator before the enrollment window closes. Brochures are also available at the HR front desk.",
+      "question": "How long does the health insurance open enrollment period last?",
+      "options": [
+        "Ten days",
+        "One month",
+        "Six weeks",
+        "Twenty days"
+      ],
+      "answer": 3,
+      "explanation": "开放注册期从3月1日到3月20日，共二十天。"
+    },
+    {
+      "id": "toeic-p7-372",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Warehouse Staff\nFROM: Inventory Control\nDATE: March 11\nSUBJ: Annual Inventory Audit\n\nThe annual physical inventory count will be conducted on March 28 and 29. To allow staff to accurately scan and verify all stock items, the warehouse will be closed to outgoing shipments on both days. Normal shipping operations will resume promptly on Monday morning, March 30. Please complete any pending stock counts before the warehouse closure begins. Your cooperation during the count is essential to keeping our records accurate. Any discrepancies found will be investigated by the inventory team before the results are finalized.",
+      "question": "When will normal shipping operations resume?",
+      "options": [
+        "March 30",
+        "March 28",
+        "March 29",
+        "April 1"
+      ],
+      "answer": 0,
+      "explanation": "通知说明仓库的发货业务于3月30日星期一恢复正常。"
+    },
+    {
+      "id": "toeic-p7-373",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: IT Security Team\nDATE: April 15\nSUBJ: Mandatory Password Expiration\n\nIn accordance with our updated security policy, all employee network passwords will expire on April 30. You will be prompted to create a new password that includes at least one uppercase letter, one number, and one special character when you log in on or after May 1. Please ensure your new password meets these criteria and is not the same as your old one. Thank you for helping us keep our network secure. If you forget your new password, you can reset it through the self-service portal at any time.",
+      "question": "When do current network passwords expire?",
+      "options": [
+        "April 15",
+        "April 30",
+        "May 1",
+        "May 15"
+      ],
+      "answer": 1,
+      "explanation": "通知明确所有员工的网络密码将于4月30日过期。"
+    },
+    {
+      "id": "toeic-p7-374",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Department\nFROM: Communications Manager\nDATE: May 10\nSUBJ: Monthly Newsletter Submission Deadline\n\nArticles and updates for the upcoming June edition of the corporate newsletter must be submitted to the communications team by May 22. Please keep articles under 500 words and include at least one high-resolution photograph. Late submissions cannot be guaranteed inclusion in the print edition, though they may be published online afterward. Please also confirm that you have permission to use any images you submit. This helps us avoid copyright issues and keeps the newsletter professional.",
+      "question": "What is the maximum word count allowed for newsletter articles?",
+      "options": [
+        "300 words",
+        "750 words",
+        "500 words",
+        "1,000 words"
+      ],
+      "answer": 2,
+      "explanation": "通知要求文章字数控制在500词以内并附高清照片。"
+    },
+    {
+      "id": "toeic-p7-375",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Office Administration\nDATE: June 5\nSUBJ: Summer Casual Dress Code\n\nOur seasonal summer casual dress code goes into effect on June 15 and runs through September 15. During this period, employees may wear business casual attire, including collared shirts, slacks, and neat denim, on Thursdays and Fridays. Client-facing meetings still require standard professional business attire at all times. This policy applies to all staff except those working at client sites. Thank you for dressing professionally during the summer months.",
+      "question": "On which days is summer casual attire permitted?",
+      "options": [
+        "Mondays and Tuesdays",
+        "Wednesdays only",
+        "Every day of the week",
+        "Thursdays and Fridays"
+      ],
+      "answer": 3,
+      "explanation": "通知说明夏季休闲装政策允许员工在周四和周五穿着。"
+    },
+    {
+      "id": "toeic-p7-376",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Representatives\nFROM: Accounting Department\nDATE: July 12\nSUBJ: Travel Expense Receipt Policy\n\nPlease be reminded that all business travel expense reports must include itemized restaurant and taxi receipts. Credit card summary slips alone are no longer acceptable for reimbursement processing. Expense reports lacking itemized documentation will be returned to the submitter for correction, which will delay payment of your claimed amounts. Please note that meal receipts must show the date, amount, and business purpose. Incomplete submissions will be rejected and returned for correction before payment.",
+      "question": "What kind of receipts are now required for travel reimbursement?",
+      "options": [
+        "Itemized receipts",
+        "Credit card summary slips",
+        "Digital bank statements",
+        "Handwritten cash vouchers"
+      ],
+      "answer": 0,
+      "explanation": "会计部要求差旅报销必须附明细列项的餐饮和出租车收据。"
+    },
+    {
+      "id": "toeic-p7-377",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Facilities Management\nDATE: August 14\nSUBJ: HVAC System Replacement\n\nContractors will begin replacing the main air conditioning units on the third floor this coming Saturday. The work will generate moderate noise and require temporary power shutdowns in selected zones. To ensure safety, employees working on the third floor are asked to work remotely or relocate to the second-floor library on Saturday. Please bring your laptop and any materials you need for the day. Thank you for your flexibility during this maintenance work. Please bring your laptop and any materials you need for the day when you relocate on Saturday.",
+      "question": "Where are third-floor employees asked to relocate on Saturday?",
+      "options": [
+        "The executive conference room",
+        "The second-floor library",
+        "The ground-floor cafeteria",
+        "The building lobby"
+      ],
+      "answer": 1,
+      "explanation": "通知建议周六三楼员工在家办公或转移到二楼图书馆。"
+    },
+    {
+      "id": "toeic-p7-378",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Supervisors\nFROM: Human Resources\nDATE: September 3\nSUBJ: New Training Room Reservation Policy\n\nEffective October 1, reservations for the executive training room must be made at least two weeks in advance through the online booking system. Due to high demand, cancellations must be submitted at least 48 hours prior to the scheduled event so that other teams can utilize the space. This change will reduce scheduling conflicts across departments. If you have any questions, contact the HR scheduling desk. Please make sure to book early because the calendar fills quickly during the training season.",
+      "question": "How far in advance must the training room be reserved starting October 1?",
+      "options": [
+        "24 hours",
+        "48 hours",
+        "At least two weeks",
+        "One week"
+      ],
+      "answer": 2,
+      "explanation": "新政策自10月1日起要求培训室至少提前两周预订。"
+    },
+    {
+      "id": "toeic-p7-379",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Office Operations\nDATE: October 15\nSUBJ: Standing Desk Delivery\n\nThe recently ordered standing desks have arrived at our warehouse and will be assembled and delivered to employee workstations next week. Installation will take place in alphabetical order by department name starting Monday morning. Please clear any personal items off your desk before your scheduled installation day. Each team will receive a notification with their exact delivery time. Thank you for your patience while we complete the installation. A confirmation email will be sent to each department once the desks are ready for use.",
+      "question": "How will the order of desk installation be determined?",
+      "options": [
+        "By floor number from the top down",
+        "By the date of the request",
+        "By a random lottery draw",
+        "By department name in alphabetical order"
+      ],
+      "answer": 3,
+      "explanation": "通知说明站立式办公桌将按部门名称字母顺序安装。"
+    },
+    {
+      "id": "toeic-p7-380",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Security Operations\nDATE: November 8\nSUBJ: Replacement of Lost Access Cards\n\nIf you have lost your electronic security access card, please report it immediately to the security office on the ground floor so that the missing card can be deactivated. A replacement card will be issued for a fee of $15, which can be paid by credit card or payroll deduction. Temporary day passes are available at the front desk while you wait. Report lost cards immediately to prevent unauthorized access to secure areas of the building. Please keep your replacement card in a safe place.",
+      "question": "What is the fee to obtain a replacement access card?",
+      "options": [
+        "$15",
+        "$5",
+        "$10",
+        "$20"
+      ],
+      "answer": 0,
+      "explanation": "通知说明补办电子门禁卡需缴纳15美元费用。"
+    },
+    {
+      "id": "toeic-p7-381",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounting Department\nFROM: Chief Financial Officer\nDATE: December 5\nSUBJ: External Financial Audit Preparation\n\nOur annual external financial audit will commence on January 15. All accounting staff should begin organizing ledger records, invoices, and bank statements for the past fiscal year. Please ensure that all documents are properly filed in the secure cabinet by January 10 in preparation for the auditors' arrival. Do not remove any records from the file without authorization. Please direct any questions to the internal audit coordinator. All records must remain in the secure cabinet until the auditors complete their review.",
+      "question": "When will the external financial audit begin?",
+      "options": [
+        "January 10",
+        "January 15",
+        "February 1",
+        "February 15"
+      ],
+      "answer": 1,
+      "explanation": "通知指出年度外部财务审计将于1月15日开始。"
+    },
+    {
+      "id": "toeic-p7-382",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Administrative Services\nDATE: January 10\nSUBJ: New Corporate Courier Partner\n\nBeginning next week, our company will switch to SwiftExpress as our primary corporate courier service for all domestic and international shipments. Please update your shipping address book templates and use the new online dispatch portal for any outbound packages. Pickups will continue to occur daily at 4:00 p.m. from the loading dock. Courier tracking numbers can be generated directly from the new portal. This will speed up the process and reduce the time spent preparing shipments.",
+      "question": "What is the name of the new corporate courier partner?",
+      "options": [
+        "GlobalFreight",
+        "ApexLogistics",
+        "SwiftExpress",
+        "SpeedyDelivery"
+      ],
+      "answer": 2,
+      "explanation": "通知说明公司将改用SwiftExpress作为主要快递服务商。"
+    },
+    {
+      "id": "toeic-p7-383",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: IT and Equipment Support\nDATE: February 5\nSUBJ: Fourth Floor Multifunction Printer Service\n\nThe multifunction printer on the fourth floor is scheduled for emergency drum replacement this Thursday afternoon from 2:00 p.m. to 4:00 p.m. During this maintenance window, please use the printers located on the third or fifth floors for your copying and scanning needs. We apologize for the temporary disruption and have already notified the IT helpdesk. Please plan your printing tasks before or after the two-hour window. The technician will arrive at 2:00 p.m. sharp to begin the work.",
+      "question": "Where are fourth-floor employees advised to print during the maintenance?",
+      "options": [
+        "On the first or second floor",
+        "In the basement mailroom",
+        "In the executive suite",
+        "On the third or fifth floor"
+      ],
+      "answer": 3,
+      "explanation": "通知建议四楼员工在维护期间使用三楼或五楼的打印机。"
+    }
+  ]
+}

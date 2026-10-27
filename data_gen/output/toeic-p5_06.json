@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p5-656",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The quarterly report has been delayed ______ the server outage.",
+      "options": [
+        "during",
+        "due to",
+        "despite",
+        "unless"
+      ],
+      "answer": 1,
+      "explanation": "due to \u8868\u539f\u56e0\uff0c\u540e\u63a5\u540d\u8bcd\u77ed\u8bed\uff0c\u8868\u793a\u201c\u7531\u4e8e\u201d\u4e4b\u610f\u3002"
+    },
+    {
+      "id": "toeic-p5-657",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Neither the manager nor the employees _____ ready for the video conference yet.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "answer": 0,
+      "explanation": "\u201cNeither...nor...\u201d\u4e0e\u6700\u8fd1\u7684\u540d\u8bcd(manager)\u4e00\u81f4\uff0c\u7528is\u3002"
+    },
+    {
+      "id": "toeic-p5-658",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "We need to reschedule the meeting; please let me know your _____ next week.",
+      "options": [
+        "convenience",
+        "availability",
+        "convenient",
+        "conveniently"
+      ],
+      "answer": 1,
+      "explanation": "availability \u4e3a\u53ef\u540d\u8bcd\u5316\u540d\u8bcd\uff0c\u610f\u4e3a\u201c\u7a7a\u95f2\u65f6\u95f4\u201d\uff0c\u7b26\u5408\u8bed\u5883\u3002"
+    },
+    {
+      "id": "toeic-p5-659",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The client asked _____ we could extend the deadline by two weeks.",
+      "options": [
+        "if",
+        "whether",
+        "that",
+        "how"
+      ],
+      "answer": 0,
+      "explanation": "asked if \u5f15\u5bfc\u95f4\u63a5\u7591\u95ee\u53e5\uff0c\u8868\u8fbe\u201c\u8be2\u95ee\u662f\u5426\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-660",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "All participants must submit their feedback _____ Friday at 5 p.m.",
+      "options": [
+        "by",
+        "until",
+        "at",
+        "on"
+      ],
+      "answer": 0,
+      "explanation": "by \u8868\u622a\u6b62\u65f6\u95f4\u201c\u4e0d\u8fdf\u4e8e\u201d\uff0c\u7b26\u5408\u8bed\u5883\u3002"
+    },
+    {
+      "id": "toeic-p5-661",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Sales have increased _____ 20 % compared to last quarter.",
+      "options": [
+        "by",
+        "with",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "increase by 20% \u4e3a\u56fa\u5b9a\u8868\u8fbe\uff0c\u8868\u793a\u589e\u957f\u5e45\u5ea6\u3002"
+    },
+    {
+      "id": "toeic-p5-662",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "By the time the new policy _____ into effect, most departments will have adapted.",
+      "options": [
+        "takes",
+        "will take",
+        "will be taking",
+        "takes"
+      ],
+      "answer": 0,
+      "explanation": "\u201cby the time...\u201d\u5f15\u5bfc\u7684\u4ece\u53e5\u7528\u4e00\u822c\u73b0\u5728\u8868\u793a\u5c06\u6765\u3002"
+    },
+    {
+      "id": "toeic-p5-663",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The proposal, along with several _____ recommendations, was discussed at length.",
+      "options": [
+        "alternative",
+        "alternate",
+        "alternatively",
+        "alternation"
+      ],
+      "answer": 1,
+      "explanation": "alternative \u4e3a\u53ef\u4f5c\u5b9a\u8bed\u7684\u5f62\u5bb9\u8bcd\uff0c\u4fee\u9970 recommendations\u3002"
+    },
+    {
+      "id": "toeic-p5-664",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Had we known about the traffic, we _____ earlier.",
+      "options": [
+        "would arrive",
+        "would have arrived",
+        "would be arriving",
+        "arrived"
+      ],
+      "answer": 1,
+      "explanation": "\u201cHad we known\u201d\u4e3a\u5012\u88c5\u7684\u865a\u62df\u6761\u4ef6\uff0c\u5bf9\u5e94\u201cwould have arrived\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-665",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The budget allocated to marketing this year is _____ that of last year.",
+      "options": [
+        "more than",
+        "as well as",
+        "as much as",
+        "as many as"
+      ],
+      "answer": 2,
+      "explanation": "budget \u4e3a\u4e0d\u53ef\u6570\u540d\u8bcd\uff0c\u642d\u914d as much as \u6bd4\u8f83\u3002"
+    },
+    {
+      "id": "toeic-p5-666",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The package _____ to the warehouse this morning but was signed for by the wrong person.",
+      "options": [
+        "was delivered",
+        "had been delivered",
+        "delivers",
+        "has delivered"
+      ],
+      "answer": 0,
+      "explanation": "was delivered \u4e3a\u4e00\u822c\u8fc7\u53bb\u65f6\uff0c\u7b26\u5408\u6574\u4e2a\u53e5\u5b50\u65f6\u6001\u3002"
+    },
+    {
+      "id": "toeic-p5-667",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "This is the office _____ manager resigned last month.",
+      "options": [
+        "which",
+        "in which",
+        "whose",
+        "where"
+      ],
+      "answer": 3,
+      "explanation": "where \u5f15\u5bfc\u5730\u70b9\u5173\u7cfb\u4ece\u53e5\uff0c\u6307\u201c...\u7684\u529e\u516c\u5ba4\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-668",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "We greatly appreciate _____ assistance you provided during the audit.",
+      "options": [
+        "the",
+        "a",
+        "an",
+        "no article"
+      ],
+      "answer": 0,
+      "explanation": "assistance \u4e3a\u5177\u4f53\u7684\u201c\u5e2e\u52a9\u201d\uff0c\u52a0 the \u5b9a\u51a0\u8bcd\u3002"
+    },
+    {
+      "id": "toeic-p5-669",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "More training opportunities _____ by the HR department next quarter.",
+      "options": [
+        "is being offered",
+        "will be offered",
+        "are being offered",
+        "was offered"
+      ],
+      "answer": 1,
+      "explanation": "opportunities \u4e3a\u590d\u6570\uff0c\u5c06\u6765\u88ab\u52a8\u5c06\u7528 will be offered\u3002"
+    },
+    {
+      "id": "toeic-p5-670",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The new hire must _____ the safety protocols before starting work.",
+      "options": [
+        "be familiar with",
+        "familiarize",
+        "familiar",
+        "familiar with"
+      ],
+      "answer": 1,
+      "explanation": "familiarize \u4f5c\u52a8\u8bcd\u542b\u6709\u4f7f\u5f79\u52a8\u8bcd\u987b+\u4e0d\u5b9a\u5f0f\u7ed3\u6784\u3002"
+    },
+    {
+      "id": "toeic-p5-671",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "_____ of the two candidates _____ been selected for the position.",
+      "options": [
+        "Either...has",
+        "Each...have",
+        "Any...has",
+        "Both...have"
+      ],
+      "answer": 0,
+      "explanation": "Either\uff08\u5355\u6570\uff09\u642d\u914d has\uff0c\u4e0e\u201ceither...or\u201d\u7ed3\u6784\u4e00\u81f4\u3002"
+    },
+    {
+      "id": "toeic-p5-672",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The invoice that you sent _____ differ from the one in our system.",
+      "options": [
+        "appears",
+        "is appearing",
+        "has appeared",
+        "had appeared"
+      ],
+      "answer": 0,
+      "explanation": "appear \u4e3a\u4e00\u822c\u73b0\u5728\u65f6\uff0c\u63cf\u7ed8\u76ee\u524d\u72b6\u6001\u3002"
+    },
+    {
+      "id": "toeic-p5-673",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The team leader suggested _____ discussion _____ after the lunch break.",
+      "options": [
+        "that...be postponed",
+        "for...to postpone",
+        "the...to be postponed",
+        "that...had been postponed"
+      ],
+      "answer": 0,
+      "explanation": "suggest that...be postponed \u4e3a\u865a\u62df\u5efa\u8bae\u7ed3\u6784\u3002"
+    },
+    {
+      "id": "toeic-p5-674",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Our supplier is regarded _____ in the industry.",
+      "options": [
+        "as a leader",
+        "to be a leader",
+        "as the leader",
+        "like a leader"
+      ],
+      "answer": 0,
+      "explanation": "be regarded as \u4e3a\u56fa\u5b9a\u642d\u914d\u3002"
+    },
+    {
+      "id": "toeic-p5-675",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Had the board approved the merger, the company _____ to expand internationally.",
+      "options": [
+        "would be ready",
+        "would have been ready",
+        "was ready",
+        "is ready"
+      ],
+      "answer": 1,
+      "explanation": "\u865a\u62df\u6761\u4ef6\u5012\u88c5\uff0c\u5bf9\u5e94 would have been ready\u3002"
+    },
+    {
+      "id": "toeic-p5-676",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "This model is no longer in production, so it may not be _____ when needed.",
+      "options": [
+        "available",
+        "option",
+        "possibly",
+        "availability"
+      ],
+      "answer": 0,
+      "explanation": "available \u4e3a\u53ef\u53ca\u5f62\u5bb9\u8bcd\uff0c\u4fee\u9970 it \u590d\u5408\u4ee3\u8bcd\u3002"
+    },
+    {
+      "id": "toeic-p5-677",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The consultant _____ the client on how to reduce overhead costs.",
+      "options": [
+        "advised",
+        "advises",
+        "was advising",
+        "had advised"
+      ],
+      "answer": 0,
+      "explanation": "advised \u4e3a\u4e00\u822c\u8fc7\u53bb\u65f6\uff0c\u5339\u914d\u6574\u4e2a\u53e5\u5b50\u3002"
+    },
+    {
+      "id": "toeic-p5-678",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The deadline _____ if you submit the required documents tomorrow.",
+      "options": [
+        "is extended",
+        "will be extended",
+        "extends",
+        "has been extended"
+      ],
+      "answer": 1,
+      "explanation": "\u6761\u4ef6\u53e5\u7528\u5c06\u6765\u65f6\uff0c\u8868\u793a\u201c\u5982\u679c...\u5c06...\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-679",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Not until 2023 _____ the company achieved its sustainability goals.",
+      "options": [
+        "did",
+        "when",
+        "until",
+        "that"
+      ],
+      "answer": 0,
+      "explanation": "\u201cNot until...\u201d\u5f15\u8d77\u7684\u53e5\u5b50\u4f7f\u7528\u90e8\u5206\u5012\u88c5\u3002"
+    },
+    {
+      "id": "toeic-p5-680",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Each of the new employees _____ completed the onboarding process.",
+      "options": [
+        "have",
+        "has",
+        "have been",
+        "has been"
+      ],
+      "answer": 1,
+      "explanation": "Each \u4e3a\u5355\u6570\uff0c\u642d\u914d has \u5b8c\u6210\u3002"
+    },
+    {
+      "id": "toeic-p5-681",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The presentation that _____ yesterday _____ well received.",
+      "options": [
+        "was given...was",
+        "gave...was",
+        "was given...were",
+        "gave...were"
+      ],
+      "answer": 0,
+      "explanation": "that \u662f\u6307 presentation\uff08\u5355\u6570\uff09\uff0c\u5bf9\u5e94 was given...was\u3002"
+    },
+    {
+      "id": "toeic-p5-682",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "We expect more employees _____ by the end of the year.",
+      "options": [
+        "to have been hired",
+        "having been hired",
+        "hired",
+        "to be hired"
+      ],
+      "answer": 0,
+      "explanation": "expect to have been hired \u8868\u8fbe\u671f\u671b\u5728\u5e74\u5e95\u5df2\u5b8c\u6210\u96c7\u4f63\u3002"
+    },
+    {
+      "id": "toeic-p5-683",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "_____ the quarterly targets if the trend continues?",
+      "options": [
+        "Are we likely to meet",
+        "Will we likely meet",
+        "Do we likely meet",
+        "Likely we will meet"
+      ],
+      "answer": 1,
+      "explanation": "Will we likely meet \u4e3a\u5c06\u6765\u7591\u95ee\u5f0f\u5efa\u8bae\u7ed3\u6784\u3002"
+    },
+    {
+      "id": "toeic-p5-684",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The revised contract was signed by all parties, _____ it now awaits final approval.",
+      "options": [
+        "and",
+        "therefore",
+        "however",
+        "so that"
+      ],
+      "answer": 0,
+      "explanation": "and \u8fde\u63a5\u4e24\u4e2a\u5e76\u5217\u53e5\uff0c\u627f\u63a5\u5408\u4e4e\u903b\u8f91\u3002"
+    },
+    {
+      "id": "toeic-p5-685",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "It is essential _____ punctuality in our daily operations.",
+      "options": [
+        "to maintain",
+        "maintaining",
+        "maintained",
+        "that to maintain"
+      ],
+      "answer": 0,
+      "explanation": "It is essential to do sth \u4e3a\u56fa\u5b9a\u7ed3\u6784\u3002"
+    },
+    {
+      "id": "toeic-p5-686",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The marketing team _____ different strategies depending on the campaign goals.",
+      "options": [
+        "adapts",
+        "is adapting",
+        "will adapt",
+        "had adapted"
+      ],
+      "answer": 0,
+      "explanation": "adapts \u4e3a\u4e00\u822c\u73b0\u5728\u65f6\uff0c\u63cf\u7ed8\u60ef\u5e38\u884c\u4e3a\u3002"
+    },
+    {
+      "id": "toeic-p5-687",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The software upgrade will take effect immediately _____ installation.",
+      "options": [
+        "upon",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "upon \u8868\u793a\u201c\u5728\u2026\u4e4b\u65f6\u201d\uff0c\u56fa\u5b9a\u7528\u6cd5\u3002"
+    },
+    {
+      "id": "toeic-p5-688",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "There are too many applicants _____ position for us to review individually.",
+      "options": [
+        "for",
+        "to",
+        "on",
+        "in"
+      ],
+      "answer": 1,
+      "explanation": "to position \u6784\u6210 to \u4e0d\u5b9a\u5f0f\u7ed3\u6784\uff0c\u201c\u5e94\u8058\u8be5\u804c\u4f4d\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-689",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The finance director, _____ department has won several awards, will speak at the summit.",
+      "options": [
+        "whose",
+        "which",
+        "that",
+        "who"
+      ],
+      "answer": 0,
+      "explanation": "whose \u5f15\u5bfc\u5b9a\u8bed\u4ece\u53e5\uff0c\u4fee\u9970\u201c\u90e8\u95e8\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-690",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "More emphasis _____ on employee development than on profit.",
+      "options": [
+        "is laid",
+        "has been laid",
+        "will lay",
+        "lays"
+      ],
+      "answer": 0,
+      "explanation": "is laid \u88ab\u52a8\u8bed\u6001\uff0c\u201c\u653e\u5728\u2026\u4e0a\u201d\u3002"
+    },
+    {
+      "id": "toeic-p5-691",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "I would have attended the seminar _____ not for the urgent client call.",
+      "options": [
+        "if",
+        "unless",
+        "had it been",
+        "but for"
+      ],
+      "answer": 3,
+      "explanation": "but for \u8868\u793a\u201c\u5018\u82e5\u2026\u2026\u5c31\u4e0d\u2026\u2026\u201d\uff0c\u865a\u62df\u6761\u4ef6\u3002"
+    },
+    {
+      "id": "toeic-p5-692",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The CEO stated that _____ the company's policy would remain unchanged.",
+      "options": [
+        "therefore",
+        "however",
+        "nevertheless",
+        "consequently"
+      ],
+      "answer": 0,
+      "explanation": "therefore \u8868\u7ed3\u679c/\u56e0\u6b64\uff0c\u627f\u4e0a\u903b\u8f91\u3002"
+    },
+    {
+      "id": "toeic-p5-693",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "We are looking for someone _____ can handle multiple projects simultaneously.",
+      "options": [
+        "who",
+        "which",
+        "that",
+        "whose"
+      ],
+      "answer": 0,
+      "explanation": "who \u5f15\u5bfc\u4eba\u5b9a\u8bed\u4ece\u53e5\u3002"
+    },
+    {
+      "id": "toeic-p5-694",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The committee, composed of five members, _____ a unanimous decision yesterday.",
+      "options": [
+        "reached",
+        "reaches",
+        "will reach",
+        "has reached"
+      ],
+      "answer": 0,
+      "explanation": "committee \u4f5c\u4e3b\u8bed\uff0creached \u4e3a\u4e00\u822c\u8fc7\u53bb\u65f6\u3002"
+    }
+  ]
+}

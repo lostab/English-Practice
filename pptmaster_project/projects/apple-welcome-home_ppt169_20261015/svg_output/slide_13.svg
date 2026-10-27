@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg13" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg13)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#10B981">// XIAOMI · SMART HOME DISPLAY 11</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">小米智能家庭屏 11 深度拆解：大屏中枢与米家生态链</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#10B981"/>
+<text x="96" y="190" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：mi.com 官方产品页与生态链参数（含 8 核处理器、大内存、四单元立体声）</text>
+
+<g transform="translate(96 220)">
+<rect x="0" y="0" width="540" height="380" rx="14" fill="#0E1830" stroke="#10B981"/>
+<text x="20" y="34" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">// 官方规格与硬件配置（mi.com）</text>
+<text x="20" y="70" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 10.95" IPS 高清大屏 · 分辨率 1920×1200 · 400nit 亮度</text>
+<text x="20" y="100" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 处理器：高性能 8 核处理器（满足流畅触控与多任务）</text>
+<text x="20" y="130" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 内存与存储：6GB 运行内存 + 32GB 存储空间（官方配置）</text>
+<text x="20" y="160" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 摄像头：800 万像素超清摄像头 + 物理隐私遮蔽开关</text>
+<text x="20" y="190" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 音频：后置四单元独立音腔设计 · 立体声环绕声场</text>
+<text x="20" y="220" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 连接协议：Wi-Fi + 蓝牙 + Zigbee（内置网关）+ 米家 Mesh 2.0</text>
+<text x="20" y="256" font-family="Consolas, monospace" font-size="13" fill="#64748B">定位：桌面与壁挂双形态，千元档性价比全屋控制中心。</text>
+
+<rect x="560" y="0" width="528" height="380" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="580" y="34" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">// 产品定位与核心体验（官方口径）</text>
+<text x="580" y="70" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 客厅中枢大屏：一屏掌握全屋千余款米家智能设备状态与控制</text>
+<text x="580" y="100" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 小爱同学：全双工语音交互 · 连续对话 · 屏幕联动反馈</text>
+<text x="580" y="130" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 视频通话与对讲：800万像素配合物理遮蔽，兼顾便捷与隐私</text>
+<text x="580" y="160" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 影音娱乐：支持各大主流视频/音乐平台，四单元音腔音质出色</text>
+<text x="580" y="190" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 开放生态链：完美打通灯光/窗帘/安防/温控/人车家全生态</text>
+<text x="580" y="220" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 部署便捷：无需复杂布线，开箱即用，最适合后装改装市场</text>
+</g>
+
+<rect x="96" y="620" width="1088" height="56" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="648" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">小米定位：以「10.95"大屏 + 8核 + 6GB内存 + 四单元音腔 + 千元级高性价比」席卷大众后装市场，构筑生态连接基石</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">13 / 23</text>
+</svg>

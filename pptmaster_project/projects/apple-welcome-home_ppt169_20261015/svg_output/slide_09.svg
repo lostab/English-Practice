@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg4)"/>
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// HARDWARE DEEP-DIVE · 硬件参数逐层拆解</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">核心芯片、显示屏与感知阵列 - 参数级对比</text>
+  <rect x="96" y="160" width="660" height="3" rx="1.5" fill="#22D3EE"/>
+  <!-- Data source note -->
+  <text x="96" y="190" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">数据来源：Apple 官方新闻稿 · 华为官网 consumer.huawei.com · 小米官网 mi.com/xiaomi-smartdisplay-11</text>
+  <text x="96" y="207" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">标注为「未公布」者均未在品牌官方渠道披露 · 不使用第三方猜测数据</text>
+  <!-- Comparison table -->
+  <g transform="translate(60 218)">
+    <!-- Header row -->
+    <rect x="0" y="0" width="150" height="50" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="75" y="32" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0" text-anchor="middle">参数</text>
+    <rect x="150" y="0" width="320" height="50" rx="10" fill="#0E2440" stroke="#0EA5E9"/>
+    <image href="../images/hv_color.jpg" x="158" y="4" width="304" height="42" preserveAspectRatio="xMidYMid slice"/>
+    <text x="310" y="32" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#7DD3FC" text-anchor="middle">Apple · HomeView</text>
+    <rect x="470" y="0" width="320" height="50" rx="10" fill="#0E1830" stroke="#F59E0B"/>
+    <image href="../images/hw_s2_product.jpg" x="478" y="4" width="304" height="42" preserveAspectRatio="xMidYMid slice"/>
+    <text x="630" y="32" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#FCD34D" text-anchor="middle">Huawei · 中控屏 S2</text>
+    <rect x="790" y="0" width="320" height="50" rx="10" fill="#0E1830" stroke="#10B981"/>
+    <text x="950" y="32" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#6EE7B7" text-anchor="middle">Xiaomi · 家庭屏 11</text>
+    <rect x="1110" y="0" width="2" height="400" fill="#1E3A5F"/>
+
+    <!-- Row 1: Chip -->
+    <rect x="0" y="56" width="150" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="94" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">核心芯片</text>
+    <rect x="150" y="56" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="168" y="84" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#7DD3FC">Apple A18 · 3nm</text>
+    <text x="168" y="108" font-family="Arial, sans-serif" font-size="12" fill="#64748B">官方未公布核心数 / NPU TOPS</text>
+    <rect x="470" y="56" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="488" y="84" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#FCD34D">华为官网未公布</text>
+    <text x="488" y="108" font-family="Arial, sans-serif" font-size="12" fill="#64748B">全屋智能专区未披露芯片型号</text>
+    <rect x="790" y="56" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="808" y="84" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#6EE7B7">8 核处理器</text>
+    <text x="808" y="108" font-family="Arial, sans-serif" font-size="12" fill="#64748B">官方产品页披露</text>
+
+    <!-- Row 2: Display -->
+    <rect x="0" y="128" width="150" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="166" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">显示屏</text>
+    <rect x="150" y="128" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="168" y="156" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#7DD3FC">7" Liquid Retina</text>
+    <text x="168" y="180" font-family="Arial, sans-serif" font-size="12" fill="#64748B">1088×1088 · 220ppi · True Tone</text>
+    <rect x="470" y="128" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="488" y="156" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#FCD34D">10.4" 超高清屏</text>
+    <text x="488" y="180" font-family="Arial, sans-serif" font-size="12" fill="#64748B">1670万色 · 自然色彩调节</text>
+    <rect x="790" y="128" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="808" y="156" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#6EE7B7">10.95" 高清大屏</text>
+    <text x="808" y="180" font-family="Arial, sans-serif" font-size="12" fill="#64748B">1920×1200 · 400nit · 1500:1</text>
+
+    <!-- Row 3: Camera -->
+    <rect x="0" y="200" width="150" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="238" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">摄像头</text>
+    <rect x="150" y="200" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="168" y="228" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#7DD3FC">12MP Center Stage</text>
+    <text x="168" y="252" font-family="Arial, sans-serif" font-size="12" fill="#64748B">f/2.4 · 人物居中 · FaceTime</text>
+    <rect x="470" y="200" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="488" y="228" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#FCD34D">华为官网未公布</text>
+    <text x="488" y="252" font-family="Arial, sans-serif" font-size="12" fill="#64748B">未在官方产品页披露</text>
+    <rect x="790" y="200" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="808" y="228" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#6EE7B7">800 万像素</text>
+    <text x="808" y="252" font-family="Arial, sans-serif" font-size="12" fill="#64748B">物理隐私遮蔽</text>
+
+    <!-- Row 4: Audio -->
+    <rect x="0" y="272" width="150" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="310" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">音频</text>
+    <rect x="150" y="272" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="168" y="300" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#7DD3FC">空间音频</text>
+    <text x="168" y="324" font-family="Arial, sans-serif" font-size="12" fill="#64748B">双全频+低音 · 4×波束成形麦克风</text>
+    <rect x="470" y="272" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="488" y="300" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#FCD34D">华为官网未公布</text>
+    <text x="488" y="324" font-family="Arial, sans-serif" font-size="12" fill="#64748B">未在官方产品页披露音频规格</text>
+    <rect x="790" y="272" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="808" y="300" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#6EE7B7">四单元独立音腔</text>
+    <text x="808" y="324" font-family="Arial, sans-serif" font-size="12" fill="#64748B">立体声 · 环绕声场</text>
+
+    <!-- Row 5: Memory/Storage -->
+    <rect x="0" y="344" width="150" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="382" font-family="Arial, sans-serif" font-size="15" fill="#94A3B8">内存 / 存储</text>
+    <rect x="150" y="344" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="168" y="372" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#7DD3FC">Apple 未公布</text>
+    <text x="168" y="396" font-family="Arial, sans-serif" font-size="12" fill="#64748B">产品页未披露 RAM / ROM</text>
+    <rect x="470" y="344" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="488" y="372" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#FCD34D">华为官网未公布</text>
+    <text x="488" y="396" font-family="Arial, sans-serif" font-size="12" fill="#64748B">未在官方产品页披露</text>
+    <rect x="790" y="344" width="320" height="64" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="808" y="372" font-family="Helvetica Neue, sans-serif" font-size="17" font-weight="600" fill="#6EE7B7">6GB + 32GB</text>
+    <text x="808" y="396" font-family="Arial, sans-serif" font-size="12" fill="#64748B">官方产品页披露</text>
+  </g>
+  <!-- Bottom summary -->
+  <rect x="96" y="628" width="1088" height="44" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+  <text x="124" y="654" font-family="Helvetica Neue, Arial, sans-serif" font-size="16" fill="#E2E8F0"><tspan fill="#22D3EE">■</tspan> 数据取自各品牌官方产品页与新闻稿；未披露项标注「未公布」，不使用第三方猜测数据</text>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">09 / 23</text>
+</svg>

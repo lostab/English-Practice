@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#22D3EE"/>
+      <stop offset="0.8" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow3" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg3)"/>
+  <g stroke="#16324D" stroke-width="1" opacity="0.35">
+    <path d="M0 180H1280M0 360H1280M0 540H1280M160 0V720M400 0V720M640 0V720M880 0V720M1120 0V720"/>
+  </g>
+
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="18" letter-spacing="3" fill="#A5F3FC">// EVENT SYNOPSIS · 发布会全景</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">发布会全景：主题、环节与三大核心亮点</text>
+  <rect x="96" y="160" width="420" height="4" rx="2" fill="url(#accentLine)"/>
+
+  <!-- Left: Event schedule -->
+  <g transform="translate(96 210)">
+    <rect x="0" y="0" width="360" height="450" rx="16" fill="#0E1830" stroke="#1E3A5F"/>
+    <rect x="0" y="0" width="360" height="56" rx="16" fill="#0E99FF" opacity="0.1"/>
+    <text x="24" y="38" font-family="Consolas, monospace" font-size="18" fill="#7DD3FC">环节排期</text>
+
+    <!-- Timeline in card -->
+    <line x1="32" y1="90" x2="32" y2="386" stroke="#1E3A5F" stroke-width="3"/>
+    <circle cx="32" cy="90" r="9" fill="#22D3EE" stroke="#0E1830" stroke-width="3"/>
+    <text x="56" y="96" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">开场致辞 · 5min</text>
+    <text x="56" y="118" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">Tim Cook 回归家庭的意义</text>
+    <circle cx="32" cy="150" r="9" fill="#A78BFA" stroke="#0E1830" stroke-width="3"/>
+    <text x="56" y="156" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">HomeView 介绍 · 12min</text>
+    <text x="56" y="178" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">中央枢纽概念 · 全屋连接入口</text>
+    <circle cx="32" cy="210" r="9" fill="#0E99FF" stroke="#0E1830" stroke-width="3"/>
+    <text x="56" y="216" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">硬件发布 · 20min</text>
+    <text x="56" y="238" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">HomePod 2 · 新一代传感器阵列</text>
+    <circle cx="32" cy="270" r="9" fill="#E96A68" stroke="#0E1830" stroke-width="3"/>
+    <text x="56" y="276" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">软件生态 · 15min</text>
+    <text x="56" y="298" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">HomeOS 2.0 · 生态合作伙伴</text>
+    <circle cx="32" cy="330" r="9" fill="#F9C80E" stroke="#0E1830" stroke-width="3"/>
+    <text x="56" y="336" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">场景演示 · 18min</text>
+    <text x="56" y="358" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">真实生活场景（清早/归家/晚安）</text>
+    <circle cx="32" cy="390" r="9" fill="#A3E635" stroke="#0E1830" stroke-width="3"/>
+    <text x="56" y="396" font-family="Helvetica Neue, sans-serif" font-size="18" font-weight="700" fill="#E2E8F0">合作伙伴 · 8min</text>
+    <text x="56" y="418" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">LG · Schneider · ADT 合作官宣</text>
+  </g>
+
+  <!-- Right: 3 highlight cards -->
+  <g transform="translate(484 210)">
+    <!-- Card 1: HomeView + ecosystem -->
+    <rect x="0" y="0" width="700" height="134" rx="14" fill="#0E1830" stroke="#22D3EE" stroke-width="1.5"/>
+    <text x="24" y="36" font-family="Consolas, monospace" font-size="18" fill="#7DD3FC">亮点 01 · HomeView 中央控制台 + 生态</text>
+    <text x="24" y="66" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 7" LG 显示屏 + Schneider 电路集成 + ADT 安防协议验证</text>
+    <text x="24" y="90" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· A18 双核 + NeuralEngine 6T，本地实时响应</text>
+    <text x="24" y="114" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· LGS/Schneider/ADT 三方硬件合作验证，对外开放</text>
+
+    <!-- Card 2: HomeOS 2.0 + Siri -->
+    <rect x="0" y="148" width="700" height="134" rx="14" fill="#0E1830" stroke="#A78BFA" stroke-width="1.5"/>
+    <text x="24" y="184" font-family="Consolas, monospace" font-size="18" fill="#C4B5F9">亮点 02 · HomeOS 2.0 + Siri 进阶</text>
+    <text x="24" y="214" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 本地处理 85% + Cloud 15%，隐私优先架构</text>
+    <text x="24" y="238" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Siri 上下文感知 + 多角色声纹识别（11 种角色）</text>
+    <text x="24" y="262" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 主动建议：基于时间/地点/人群的自动化推荐</text>
+
+    <!-- Card 3: HomePod 2 + sensors -->
+    <rect x="0" y="296" width="700" height="134" rx="14" fill="#0E1830" stroke="#A3E635" stroke-width="1.5"/>
+    <text x="24" y="332" font-family="Consolas, monospace" font-size="18" fill="#A3E635">亮点 03 · HomePod 2 + 传感器阵列</text>
+    <text x="24" y="362" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 2× full-range drivers + 2× tweeters，空间音频 + 多房间同步</text>
+    <text x="24" y="386" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 本地语音处理，离线指令 95% 支持</text>
+    <text x="24" y="410" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 新一代传感器阵列：温湿度/运动/光照/杂质，数据本地加密</text>
+  </g>
+
+  <!-- Footer note -->
+  <rect x="96" y="680" width="1088" height="32" rx="8" fill="#0E1830" stroke="#1E3A5F" opacity="0.8"/>
+  <text x="124" y="701" font-family="Consolas, monospace" font-size="14" fill="#94A3B8">发布会主题：Welcome Home 在家焕新启幕 · 苹果正式进入「家庭操作系统」时代</text>
+
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">03 / 12</text>
+</svg>

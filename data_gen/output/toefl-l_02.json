@@ -1,0 +1,452 @@
+{
+  "questions": [
+    {
+      "id": "toefl-l-201",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Today we discuss eusociality in insects like ants and termites. Student: Does it mean they divide labor? Professor: Exactly, a single queen reproduces while sterile workers handle foraging, defense, and nest building. Student: How does that benefit the colony? Professor: Workers share genes with the queen's offspring, so helping them survive maximizes kin selection. Student: Are all social insects eusocial? Professor: No, only species with overlapping generations and cooperative care, like honeybees and naked mole rats.",
+      "question": "What is the main topic of the lecture on biology?",
+      "options": [
+        "Core concepts and mechanisms in biology",
+        "The economic impact of biology research",
+        "Common misconceptions about biology",
+        "The historical development of biology theories"
+      ],
+      "answer": 0,
+      "explanation": "教授在讲座中详细讲解了biology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-202",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: The Renaissance shifted European art toward humanism and perspective. Student: Was linear perspective invented then? Professor: Brunelleschi formalized it in architecture around 1420, and painters like Masaccio applied it to create depth. Student: What made it so revolutionary? Professor: It let artists depict space realistically instead of flat symbolic scenes. Student: Did it spread beyond Italy? Professor: Yes, Northern Renaissance artists combined it with oil painting and naturalistic detail.",
+      "question": "What is the main topic of the lecture on history?",
+      "options": [
+        "Core concepts and mechanisms in history",
+        "The economic impact of history research",
+        "Common misconceptions about history",
+        "The historical development of history theories"
+      ],
+      "answer": 1,
+      "explanation": "教授在讲座中详细讲解了history的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-203",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Cognitive dissonance occurs when beliefs contradict actions. Student: Do people change beliefs to reduce discomfort? Professor: Often they rationalize instead of changing behavior. Student: Can you give an example? Professor: A smoker who knows smoking harms health may convince himself the risks are exaggerated. Student: Is the discomfort always conscious? Professor: Usually it is mild and unconscious, but it still motivates attitude shifts.",
+      "question": "What is the main topic of the lecture on psychology?",
+      "options": [
+        "Core concepts and mechanisms in psychology",
+        "The economic impact of psychology research",
+        "Common misconceptions about psychology",
+        "The historical development of psychology theories"
+      ],
+      "answer": 2,
+      "explanation": "教授在讲座中详细讲解了psychology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-204",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Exoplanets are detected via transit photometry when they cross their host star. Student: Does that measure the dip in starlight? Professor: Yes, the periodic dimming reveals the planet's size and orbital period. Student: What about planets that do not transit? Professor: We use the radial velocity method, which detects the star's wobble from the planet's gravity. Student: Which method has found more planets? Professor: Transits have found the majority, thanks to telescopes like Kepler.",
+      "question": "What is the main topic of the lecture on astronomy?",
+      "options": [
+        "Core concepts and mechanisms in astronomy",
+        "The economic impact of astronomy research",
+        "Common misconceptions about astronomy",
+        "The historical development of astronomy theories"
+      ],
+      "answer": 3,
+      "explanation": "教授在讲座中详细讲解了astronomy的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-205",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Realism in nineteenth-century literature aimed to depict everyday life truthfully. Student: Unlike Romanticism's idealism? Professor: Precisely, realists focused on ordinary characters and social conditions. Student: Who are the major authors? Professor: Balzac in France and Dickens in England described urban poverty and class struggle. Student: Did realists avoid dramatic plots? Professor: Mostly, they preferred detailed observation over adventure and melodrama.",
+      "question": "What is the main topic of the lecture on literature?",
+      "options": [
+        "Core concepts and mechanisms in literature",
+        "The economic impact of literature research",
+        "Common misconceptions about literature",
+        "The historical development of literature theories"
+      ],
+      "answer": 0,
+      "explanation": "教授在讲座中详细讲解了literature的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-206",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Impressionism broke from academic traditions by painting en plein air, outdoors. Student: To capture transient light effects? Professor: Exactly, artists used rapid brushstrokes and unblended colors to record fleeting moments. Student: Why did critics initially reject it? Professor: The loose style looked unfinished compared to polished academic canvases. Student: How did it change art? Professor: It freed later painters to explore color and personal expression over exact representation.",
+      "question": "What is the main topic of the lecture on art history?",
+      "options": [
+        "Core concepts and mechanisms in art history",
+        "The economic impact of art history research",
+        "Common misconceptions about art history",
+        "The historical development of art history theories"
+      ],
+      "answer": 1,
+      "explanation": "教授在讲座中详细讲解了art history的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-207",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Ecosystem resilience allows habitats to recover after disturbances. Student: Is biodiversity key to resilience? Professor: Highly diverse systems withstand environmental shocks much better. Student: Why does diversity help? Professor: When one species fails, others fill its role, so the whole system keeps functioning. Student: Can resilience be measured? Professor: Yes, scientists track recovery time and the return of species after events like fires or floods.",
+      "question": "What is the main topic of the lecture on environmental science?",
+      "options": [
+        "Core concepts and mechanisms in environmental science",
+        "The economic impact of environmental science research",
+        "Common misconceptions about environmental science",
+        "The historical development of environmental science theories"
+      ],
+      "answer": 2,
+      "explanation": "教授在讲座中详细讲解了environmental science的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-208",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Opportunity cost represents the benefits missed when choosing one alternative. Student: Is it factored into every economic decision? Professor: Rational actors always weigh it against potential gains. Student: How does it apply to students? Professor: Time spent on a job means forgone study time and higher grades. Student: Is money the only cost? Professor: No, time, leisure, and effort are also opportunity costs.",
+      "question": "What is the main topic of the lecture on economics?",
+      "options": [
+        "Core concepts and mechanisms in economics",
+        "The economic impact of economics research",
+        "Common misconceptions about economics",
+        "The historical development of economics theories"
+      ],
+      "answer": 3,
+      "explanation": "教授在讲座中详细讲解了economics的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-209",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Plate tectonics explains continental drift and earthquake zones. Student: Are boundaries where most seismic activity occurs? Professor: Correct, especially at convergent and transform faults. Student: What happens at convergent boundaries? Professor: One plate dives beneath another, building mountains or triggering volcanoes. Student: Why do earthquakes cluster near subduction zones? Professor: Stress builds as plates grind together and releases suddenly.",
+      "question": "What is the main topic of the lecture on geology?",
+      "options": [
+        "Core concepts and mechanisms in geology",
+        "The economic impact of geology research",
+        "Common misconceptions about geology",
+        "The historical development of geology theories"
+      ],
+      "answer": 0,
+      "explanation": "教授在讲座中详细讲解了geology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-210",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Cultural capital includes non-financial social assets like education and style. Student: Do these influence social mobility? Professor: They shape opportunities just as much as economic wealth. Student: How is it acquired? Professor: Through family upbringing, schooling, and exposure to art and literature. Student: Can it be converted into money? Professor: Yes, credentials and social networks often lead to better jobs and salaries.",
+      "question": "What is the main topic of the lecture on sociology?",
+      "options": [
+        "Core concepts and mechanisms in sociology",
+        "The economic impact of sociology research",
+        "Common misconceptions about sociology",
+        "The historical development of sociology theories"
+      ],
+      "answer": 1,
+      "explanation": "教授在讲座中详细讲解了sociology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-211",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Enzymes are biological catalysts that speed up reactions inside cells. Student: Does an enzyme get used up in the process? Professor: No, it emerges unchanged and can act again on another molecule. Student: How do they know which reaction to catalyze? Professor: Each enzyme fits one substrate, like a key fits a specific lock. Student: What happens if conditions are wrong? Professor: Extreme heat or acidity can denature the enzyme and stop it from working.",
+      "question": "What is the main topic of the lecture on medicine?",
+      "options": [
+        "Core concepts and mechanisms in medicine",
+        "The economic impact of medicine research",
+        "Common misconceptions about medicine",
+        "The historical development of medicine theories"
+      ],
+      "answer": 2,
+      "explanation": "教授在讲座中详细讲解了medicine的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-212",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: The Baroque era introduced polyphony and basso continuo. Student: Was Bach a master of this style? Professor: His fugues exemplify the intricate interplay of multiple independent voices. Student: How did composers use basso continuo? Professor: It provided harmonic foundation while soloists improvised melodies. Student: What other Baroque features define the period? Professor: Ornamented melodies, dramatic contrasts, and elaborate court dances.",
+      "question": "What is the main topic of the lecture on musicology?",
+      "options": [
+        "Core concepts and mechanisms in musicology",
+        "The economic impact of musicology research",
+        "Common misconceptions about musicology",
+        "The historical development of musicology theories"
+      ],
+      "answer": 3,
+      "explanation": "教授在讲座中详细讲解了musicology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-213",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Quantum entanglement links particles so the state of one instantly dictates another. Student: Did Einstein call it spooky action at a distance? Professor: He did, doubting its implications initially. Student: Can it transmit information faster than light? Professor: No, measurements remain random until compared, so no usable signal travels. Student: What is it used for today? Professor: Quantum cryptography and early quantum computing experiments.",
+      "question": "What is the main topic of the lecture on physics?",
+      "options": [
+        "Core concepts and mechanisms in physics",
+        "The economic impact of physics research",
+        "Common misconceptions about physics",
+        "The historical development of physics theories"
+      ],
+      "answer": 0,
+      "explanation": "教授在讲座中详细讲解了physics的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-214",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Oral traditions preserve history across generations without written texts. Student: Can oral histories be historically accurate? Professor: Surprisingly accurate when anchored in genealogies and place names. Student: How do societies maintain them? Professor: Trained storytellers memorize epics, laws, and genealogies with strict repetition. Student: What is a limitation? Professor: Details can change over time, so scholars cross-check them against archaeology and written records.",
+      "question": "What is the main topic of the lecture on anthropology?",
+      "options": [
+        "The economic impact of anthropology research",
+        "Common misconceptions about anthropology",
+        "The historical development of anthropology theories",
+        "Core concepts and mechanisms in anthropology"
+      ],
+      "answer": 3,
+      "explanation": "教授在讲座中详细讲解了anthropology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-215",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: The Baroque era introduced polyphony and basso continuo. Student: Was Bach a master of this style? Professor: His fugues exemplify the intricate interplay of multiple independent voices. Student: How did composers use basso continuo? Professor: It provided harmonic foundation while soloists improvised melodies. Student: What other Baroque features define the period? Professor: Ornamented melodies, dramatic contrasts, and elaborate court dances.",
+      "question": "What is the main topic of the lecture on musicology?",
+      "options": [
+        "The historical development of musicology theories",
+        "Core concepts and mechanisms in musicology",
+        "The economic impact of musicology research",
+        "Common misconceptions about musicology"
+      ],
+      "answer": 1,
+      "explanation": "教授在讲座中详细讲解了musicology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-216",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Enzymes are biological catalysts that speed up reactions inside cells. Student: Does an enzyme get used up in the process? Professor: No, it emerges unchanged and can act again on another molecule. Student: How do they know which reaction to catalyze? Professor: Each enzyme fits one substrate, like a key fits a specific lock. Student: What happens if conditions are wrong? Professor: Extreme heat or acidity can denature the enzyme and stop it from working.",
+      "question": "What is the main topic of the lecture on chemistry?",
+      "options": [
+        "The historical development of chemistry theories",
+        "Core concepts and mechanisms in chemistry",
+        "The economic impact of chemistry research",
+        "Common misconceptions about chemistry"
+      ],
+      "answer": 1,
+      "explanation": "教授在讲座中详细讲解了chemistry的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-217",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Quantum entanglement links particles so the state of one instantly dictates another. Student: Did Einstein call it spooky action at a distance? Professor: He did, doubting its implications initially. Student: Can it transmit information faster than light? Professor: No, measurements remain random until compared, so no usable signal travels. Student: What is it used for today? Professor: Quantum cryptography and early quantum computing experiments.",
+      "question": "What is the main topic of the lecture on physics?",
+      "options": [
+        "Common misconceptions about physics",
+        "The historical development of physics theories",
+        "Core concepts and mechanisms in physics",
+        "The economic impact of physics research"
+      ],
+      "answer": 2,
+      "explanation": "教授在讲座中详细讲解了physics的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-218",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Oral traditions preserve history across generations without written texts. Student: Can oral histories be historically accurate? Professor: Surprisingly accurate when anchored in genealogies and place names. Student: How do societies maintain them? Professor: Trained storytellers memorize epics, laws, and genealogies with strict repetition. Student: What is a limitation? Professor: Details can change over time, so scholars cross-check them against archaeology and written records.",
+      "question": "What is the main topic of the lecture on anthropology?",
+      "options": [
+        "The economic impact of anthropology research",
+        "Common misconceptions about anthropology",
+        "The historical development of anthropology theories",
+        "Core concepts and mechanisms in anthropology"
+      ],
+      "answer": 3,
+      "explanation": "教授在讲座中详细讲解了anthropology的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-219",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Linguistic relativity suggests language shapes how we perceive reality. Student: Does vocabulary affect color perception? Professor: Studies show languages with distinct terms for blues perceive shades differently. Student: Does this mean thought is trapped by language? Professor: No, it biases attention rather than blocking thought. Student: What evidence supports it? Professor: Speakers of languages with more spatial terms navigate and recall locations differently in experiments.",
+      "question": "What is the main topic of the lecture on linguistics?",
+      "options": [
+        "Core concepts and mechanisms in linguistics",
+        "The economic impact of linguistics research",
+        "Common misconceptions about linguistics",
+        "The historical development of linguistics theories"
+      ],
+      "answer": 0,
+      "explanation": "教授在讲座中详细讲解了linguistics的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-220",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Professor: Artificial intelligence can recognize patterns in large data sets. Student: Is machine learning the same as AI? Professor: Machine learning is a subset of AI that improves through data rather than explicit rules. Student: What are real-world uses? Professor: Medical diagnosis, language translation, and recommendation systems use machine learning daily. Student: Can these systems make mistakes? Professor: Yes, they inherit biases from training data and can fail on unusual cases.",
+      "question": "What is the main topic of the lecture on computer science?",
+      "options": [
+        "Common misconceptions about computer science",
+        "The historical development of computer science theories",
+        "Core concepts and mechanisms in computer science",
+        "The economic impact of computer science research"
+      ],
+      "answer": 2,
+      "explanation": "教授在讲座中详细讲解了computer science的核心概念与机制。"
+    },
+    {
+      "id": "toefl-l-221",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: I need help finding primary sources for my history thesis on the 1920s labor strikes. Librarian: Check our digitized newspaper archives in the special collections database. Student: Are those accessible off-campus? Librarian: Yes, using your student login. Student: Do they include photographs too? Librarian: Some collections include scanned images and oral histories.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To complain about campus facilities",
+        "To apply for a scholarship",
+        "To drop a course",
+        "To resolve a scheduling or administrative issue related to library service"
+      ],
+      "answer": 3,
+      "explanation": "学生在对话中主要为了解决关于library service的相关事务。"
+    },
+    {
+      "id": "toefl-l-222",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: Professor, I'm struggling to balance my research assistantship with coursework. Advisor: You might want to scale down your lab hours next semester. Student: Will that affect my stipend? Advisor: It will be adjusted proportionally, but your grades will benefit. Student: Should I also talk to the department? Advisor: Yes, let's schedule a meeting to review your workload before you decide.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To resolve a scheduling or administrative issue related to academic advising",
+        "To complain about campus facilities",
+        "To apply for a scholarship",
+        "To drop a course"
+      ],
+      "answer": 0,
+      "explanation": "学生在对话中主要为了解决关于academic advising的相关事务。"
+    },
+    {
+      "id": "toefl-l-223",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: The advanced seminar on neurobiology is full, but I need it for my major. Professor: I can sign an override form if you have completed prerequisites. Student: Thank you so much, I've already taken the intro courses. Professor: I will also notify you when seats open. Student: That would be very helpful, I am determined to take this class.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To drop a course",
+        "To resolve a scheduling or administrative issue related to course registration",
+        "To complain about campus facilities",
+        "To apply for a scholarship"
+      ],
+      "answer": 1,
+      "explanation": "学生在对话中主要为了解决关于course registration的相关事务。"
+    },
+    {
+      "id": "toefl-l-224",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: Do we need goggles for today's organic chemistry titration? Lab Assistant: Absolutely, concentrated acids require full PPE at all times. Student: I left mine in my locker, can I borrow a spare? Lab Assistant: Take this pair from the front desk. Student: Where can I find aprons? Lab Assistant: The chemical hygiene plan lists their location on the safety board.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To apply for a scholarship",
+        "To drop a course",
+        "To resolve a scheduling or administrative issue related to lab safety",
+        "To complain about campus facilities"
+      ],
+      "answer": 2,
+      "explanation": "学生在对话中主要为了解决关于lab safety的相关事务。"
+    },
+    {
+      "id": "toefl-l-225",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: I'd like to request a room change for the spring term. Housing Officer: Room selection opens next Monday online. Student: Can I keep my current roommate? Housing Officer: Only if you both apply as a pair before the deadline. Student: What if one of us forgets? Housing Officer: Then you would be assigned separate rooms automatically.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To complain about campus facilities",
+        "To apply for a scholarship",
+        "To drop a course",
+        "To resolve a scheduling or administrative issue related to campus housing"
+      ],
+      "answer": 3,
+      "explanation": "学生在对话中主要为了解决关于campus housing的相关事务。"
+    },
+    {
+      "id": "toefl-l-226",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: I'm interested in the marine biology semester in Australia. Advisor: Applications close this Friday, make sure your recommendation letters are submitted. Student: My professor already uploaded hers. Advisor: Perfect, you're all set then. Student: Is travel insurance included in the program fee? Advisor: Yes, but verify that it covers research activities abroad.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To resolve a scheduling or administrative issue related to study abroad",
+        "To complain about campus facilities",
+        "To apply for a scholarship",
+        "To drop a course"
+      ],
+      "answer": 0,
+      "explanation": "学生在对话中主要为了解决关于study abroad的相关事务。"
+    },
+    {
+      "id": "toefl-l-227",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: My work-study award hasn't appeared on my portal yet. Financial Aid Officer: Let's check your FAFSA status. Ah, verification documents were requested last month. Student: I'll submit those tax forms today. Financial Aid Officer: Once received, we will reprocess your file within a few business days. Student: Is there a deadline I should watch for? Financial Aid Officer: Submit by the end of the week to avoid delaying your semester.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To drop a course",
+        "To resolve a scheduling or administrative issue related to financial aid",
+        "To complain about campus facilities",
+        "To apply for a scholarship"
+      ],
+      "answer": 1,
+      "explanation": "学生在对话中主要为了解决关于financial aid的相关事务。"
+    },
+    {
+      "id": "toefl-l-228",
+      "exam": "toefl",
+      "section": "listening",
+      "part": 2,
+      "audio": "Student: Can someone review my resume before the career fair? Counselor: Drop by our walk-in hours between one and four today. Student: Do I need to bring printed copies? Counselor: Bring three copies and dress in business casual. Student: Will employers be there in person? Counselor: Yes, about forty recruiters will attend, including several local tech firms.",
+      "question": "What is the student's primary purpose in the conversation?",
+      "options": [
+        "To apply for a scholarship",
+        "To drop a course",
+        "To resolve a scheduling or administrative issue related to career services",
+        "To complain about campus facilities"
+      ],
+      "answer": 2,
+      "explanation": "学生在对话中主要为了解决关于career services的相关事务。"
+    }
+  ]
+}

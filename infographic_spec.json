@@ -1,0 +1,109 @@
+{
+  "title": "Apple 'Welcome Home' 2026 Smart Home Event - High Density Competition Analysis",
+  "analysis": {
+    "title": "Apple 'Welcome Home' 2026 Smart Home Event - High Density Competition Analysis",
+    "topic": "infographic",
+    "data_type": "dense-modules",
+    "complexity": "complex",
+    "point_count": 45,
+    "source_language": "zh",
+    "user_language": "en",
+    "main_topic": "Comparative analysis of Apple, Huawei, and Xiaomi smart home products presented at Apple's 'Welcome Home' 2026 event",
+    "learning_objectives": [
+      "Understand the product specifications and positioning of Apple's HomeView smart display compared to competitors",
+      "Analyze the ecosystem partnerships and hardware capabilities of Huawei and Xiaomi smart home products",
+      "Evaluate the pricing strategies and regional availability across all three brands",
+      "Identify the key technological advantages and limitations of each manufacturer's smart home solutions"
+    ],
+    "target_audience": "Tech enthusiasts, smart home comparison analysts, product decision makers",
+    "content_type_analysis": {
+      "data_structure": "comparative_hierarchy",
+      "key_relationships": "brand competition, price positioning, technology differentiation",
+      "visual_opportunities": "spec comparison tables, ecosystem maps, price positioning charts"
+    },
+    "key_data_points": [
+      "HomeView: 7-inch Liquid Retina, A18 chip, $299, November 13, 2026 release",
+      "Apple TV 4K Gen4: A19 chip, 8GB RAM, Wi-Fi 7, $299",
+      "HomePod mini Gen2: S10 chip, quadraphonic sound, $149, new colors",
+      "Huawei S2: 10.4-inch FHD+, 可墙可桌可手持, AI Xiao Yi, ¥3999-¥7999",
+      "Huawei X2 Pro: Kirin 9020, 128 device nodes, ¥24999",
+      "Xiaomi Pro 8: 8-inch, AI Super Little, ¥699, 15000mAh battery"
+    ],
+    "design_instructions": "High-density information layout with multiple comparison matrices, technical specifications tables, and ecosystem relationship visualization. Use clean typography hierarchy and data visualization charts."
+  },
+  "recommended_combinations": [
+    {
+      "layout": "dense-modules",
+      "style": "pop-laboratory",
+      "rationale": "Ideal for high-density technical comparison with multiple data points, specifications, and metrics requiring detailed analysis."
+    },
+    {
+      "layout": "comparison-matrix",
+      "style": "corporate-memphis",
+      "rationale": "Perfect for structured multi-factor comparisons between Apple, Huawei, and Xiaomi across product specs and positioning."
+    },
+    {
+      "layout": "dense-modules",
+      "style": "retro-pop-grid",
+      "rationale": "Modern tech analysis with retro styling emphasizes data density while maintaining visual engagement for tech-savvy audience."
+    }
+  ],
+  "apple_images": [
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_homeview_hero.jpg",
+      "description": "Apple HomeView lineup hero image",
+      "alt": "Apple HomeView product lineup hero shot"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_homeview_kitchen.jpg",
+      "description": "Apple HomeView in modern kitchen setup",
+      "alt": "Apple HomeView displayed in elegant kitchen"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_homepod_mini2_colors.jpg",
+      "description": "Apple HomePod mini 2 color lineup",
+      "alt": "Apple HomePod mini 2 colors display"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_homepod_mini2_connected.jpg",
+      "description": "Apple HomePod mini 2 connected home setup",
+      "alt": "Apple HomePod mini 2 integrated in connected home"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_tv4k_theater.jpg",
+      "description": "Apple TV 4K theater setup",
+      "alt": "Apple TV 4K setup in home theater environment"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_homepod_mini2_home.jpg",
+      "description": "Apple HomePod mini 2 home environment",
+      "alt": "Apple HomePod mini 2 in home environment"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_home_collection_lineup.jpg",
+      "description": "Apple Home Collection product lineup",
+      "alt": "Apple Home Collection product lineup with LG and Schneider"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_home_collection_lifestyle1.jpg",
+      "description": "Apple Home Collection lifestyle image 1",
+      "alt": "Apple Home Collection lifestyle setup"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_home_collection_doorbell.jpg",
+      "description": "Apple Home Collection LG Video Doorbell",
+      "alt": "Apple Home Collection LG Video Doorbell"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_home_collection_lock.jpg",
+      "description": "Apple Home Collection Smart Deadbolt Lock",
+      "alt": "Apple Home Collection Smart Deadbolt Lock"
+    },
+    {
+      "path": "D:/work/Hermes/testprep-app/ppt_assets/apple_home_collection_thermostat.jpg",
+      "description": "Apple Home Collection Schneider Home Thermostat",
+      "alt": "Apple Home Collection Schneider Home Smart Thermostat"
+    }
+  ],
+  "raw_source": "\nApple \"Welcome Home\" 2026 Smart Home Event: Competition Analysis\n\nEvent Overview:\n- Date: October 13, 2026, New York\n- Theme: \"Welcome Home\"\n- Key Products: HomeView (Apple's first smart display), Apple TV 4K Gen4, HomePod mini Gen2\n- Ecosystem Partnerships: LG, Schneider Electric, ADT\n\nApple Product Specifications:\n\nHomeView Smart Display:\n- 7-inch Liquid Retina display (1088x1088, 220 ppi, 500 nits max)\n- A18 chip with Apple Intelligence and Siri AI\n- 12MP Center Stage camera with FaceTime support\n- 4 beamforming microphones for voice recognition\n- Spatial Audio with Dolby Atmos\n- Price: $299\n- Availability: November 13, 2026 (US, Canada, UK, Australia, India, New Zealand)\n\nApple TV 4K Gen4:\n- A19 chip with 8GB/12GB RAM\n- Wi-Fi 7, Bluetooth 6.0, Thread, Ethernet support\n- 128GB storage\n- Siri AI and Apple Intelligence\n- Price: $299\n\nHomePod mini Gen2:\n- S10 chip (same as Apple Watch Series 10)\n- 4-speaker quadraphonic sound\n- New colors: pink, green, blue\n- Siri AI (software update)\n- Price: $149\n\nApple Home Collection Partners:\n- LG: Video Doorbell ($249.95), Floodlight Cam ($399.95), Outdoor Cam ($299.95), Indoor Cam ($199.95), Smart Deadbolt Lock ($349.95), Smart Thermostat ($199.95), Temperature Sensor ($39.95)\n- Schneider Electric: Smart Thermostat ($199.95), Room Sensor ($39.95)\n- ADT: Professional installation services (additional fee)\n\nHuawei Smart Home Products:\n\nSmart Control Panel S2:\n- 10.4-inch FHD+ display (1920x1200)\n- \"可墙可桌可手持\" (can be mounted, placed on desk, or handheld)\n- 450g weight with metal backplate\n- 27N magnetic dock\n- 5 meters far-field voice recognition\n- Supports lighting, shading, AC, fresh air, music, scenes, voice\n- AI voice: Xiao Yi (小艺)\n- Price: Approximately ¥3999-¥7999\n\nSmart Control Panel MINI:\n- 4-inch version (¥2499)\n- NFC scene import (one touch)\n- AI voice integration\n\nSmart Host X2 Pro:\n- Kirin 9020 chip (麒麟 9020)\n- Supports 128 device nodes\n- Price: ¥24,999\n\nXiaomi Smart Home Products:\n\nSmart Family Screen Pro 8:\n- 8-inch AI display (¥699)\n- AI integration (超级小爱)\n- Built-in battery\n\nSmart Family Screen 10:\n- 10.1-inch (mid-range pricing)\n- AI voice assistant\n\nSmart Family Screen 11:\n- 11-inch (premium pricing)\n- Advanced AI features\n\nSmart Family Screen Max 27:\n- 27-inch 1080P (¥3999)\n- Premium large-screen solution\n\nSmart Control Panel Max (Central Gateway):\n- Bluetooth Mesh 2.0\n- Local automation, millisecond-level response\n- Coordinates all smart home devices\n\nComparative Analysis:\n\nDisplay Technology:\n- Apple: 7-inch Liquid Retina with 220 ppi, 500 nits peak brightness\n- Huawei: 10.4-inch FHD+ (1920x1200) \n- Xiaomi: 8-27 inch various options\n\nAI Capabilities:\n- Apple: Apple Intelligence, Siri AI, on-device processing\n- Huawei: Xiao Yi voice, AI scene recognition, cloud processing\n- Xiaomi: Super Little AI (超级小爱), local AI integration\n\nEcosystem Integration:\n- Apple: Seamless iOS/macOS integration, HomeKit\n- Huawei: HarmonyOS integration, MLS ecosystem\n- Xiaomi: Mi Home app, ecosystem expansion\n\nPrice Positioning:\n- Apple: Premium ($299-149)\n- Huawei: Mid-High (¥3999-¥24999)\n- Xiaomi: Competitive (¥699+)\n\nRegional Availability:\n- Apple: Global except EU (due to Siri AI restrictions)\n- Huawei: Strong in domestic market, expanding globally\n- Xiaomi: Global expansion with localized versions\n"
+}

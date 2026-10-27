@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs><linearGradient id="bg04" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/>
+  </linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#bg04)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// STRATEGY · 15-YEAR EVOLUTION</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">战略演进三阶段：从平台奠基到 AI 反攻</text>
+  <rect x="96" y="158" width="300" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="186" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：Apple Newsroom / 官方产品页 · 仅列官方公开宣布节点</text>
+
+  <g transform="translate(96 220)">
+    <rect x="0" y="0" width="350" height="210" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="34" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">01 · 2014-2017</text>
+    <text x="20" y="64" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">平台先行，标准至上</text>
+    <text x="20" y="94" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">iOS 8 集成 HomeKit 框架，确立底层通信标准</text>
+    <text x="20" y="120" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">MFi 认证保障安全，但限制设备丰富度</text>
+    <text x="20" y="152" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">关键节点：2016 首款 HomePod</text>
+    <text x="20" y="176" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">瓶颈：生态扩张缓慢</text>
+
+    <rect x="368" y="0" width="350" height="210" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="388" y="34" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">02 · 2018-2021</text>
+    <text x="388" y="64" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">硬件试水，生态深耕</text>
+    <text x="388" y="94" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">2018 HomePod mini 低价切入 + 加入 Thread Group</text>
+    <text x="388" y="120" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">2020 HomeKit Secure Video 端到端加密</text>
+    <text x="388" y="152" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">关键节点：Thread 贯穿全系</text>
+    <text x="388" y="176" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">瓶颈：用户转化效率待提升</text>
+
+    <rect x="636" y="0" width="350" height="210" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="656" y="34" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">03 · 2022-2026</text>
+    <text x="656" y="64" font-family="Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#A5F3FC">拥抱开放，AI 反攻</text>
+    <text x="656" y="94" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">2022 加入 Matter，打破品牌壁垒</text>
+    <text x="656" y="120" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">2026-10-13 Welcome Home 四线齐发</text>
+    <text x="656" y="152" font-family="Arial, sans-serif" font-size="13" fill="#7DD3FC">跃迁：从「卖硬件」到「卖系统与体验」</text>
+    <text x="656" y="176" font-family="Arial, sans-serif" font-size="13" fill="#7DD3FC">Siri AI + Secure Exclaves + PCC 隐私三角</text>
+
+    <rect x="0" y="230" width="986" height="120" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="24" y="264" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">核心洞察：三个转折点</text>
+    <text x="24" y="294" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">① 从封闭到开放：Matter 加入回应「封闭生态限制丰富度」的批评</text>
+    <text x="24" y="320" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">② 从硬件到系统：HomeView 定义「家庭智能中枢」新品类</text>
+    <text x="24" y="346" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">③ 从云端到端侧：隐私三角是苹果与华为/小米在 AI 路线上最根本的分歧</text>
+  </g>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">04 / 23</text>
+</svg>

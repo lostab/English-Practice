@@ -1,0 +1,420 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p6-179",
+      "passage": "To: All Department Heads\nFrom: Facilities Management\nSubject: Office Relocation Schedule\nDate: October 12\n\nPlease be advised that the relocation of the marketing and human resources departments to the third floor will take place this weekend. Packing boxes have been delivered to your desks. All personal items and files must be securely boxed by Friday at 5:00 P.M. IT staff will disconnect and rehook your desktop computers over the weekend so that everything is operational by Monday morning.",
+      "question": "When must all personal items and files be boxed?",
+      "options": [
+        "By Friday at 5:00 P.M.",
+        "By Saturday morning",
+        "By Sunday evening",
+        "By Monday at 9:00 A.M."
+      ],
+      "answer": 0,
+      "explanation": "通知明确要求所有个人物品和文件必须在周五下午5点前打包（by Friday at 5:00 P.M.）。"
+    },
+    {
+      "id": "toeic-p6-180",
+      "passage": "Notice to All Employees\n\nOur company will upgrade its enterprise resource planning (ERP) software this coming Wednesday evening starting at 8:00 P.M. The system maintenance is expected to take approximately four hours. During this maintenance window, access to financial reports and inventory databases will be temporarily unavailable. Please ensure that you save all ongoing work and log out of the system before leaving the office on Wednesday.",
+      "question": "What will happen during the maintenance window?",
+      "options": [
+        "Office elevators will be closed",
+        "All computers will be replaced",
+        "Employee badges will be updated",
+        "Access to financial reports will be unavailable"
+      ],
+      "answer": 3,
+      "explanation": "公告指出在维护期间财务报告和库存数据库将暂时无法访问（temporarily unavailable）。"
+    },
+    {
+      "id": "toeic-p6-181",
+      "passage": "Dear Staff Members,\n\nWe are pleased to announce a specialized leadership workshop conducted by external consultant Ms. Helen Vance. The session will focus on effective project management and team motivation. It is scheduled for next Thursday from 9:00 A.M. to 12:30 P.M. in Conference Room B. Attendance is mandatory for all senior supervisors. Please confirm your registration with the human resources department no later than Tuesday afternoon.",
+      "question": "Who is required to attend the workshop?",
+      "options": [
+        "All newly hired interns",
+        "All senior supervisors",
+        "Only regional directors",
+        "The finance team"
+      ],
+      "answer": 1,
+      "explanation": "邮件指出所有高级主管必须参加此次研讨会（Attendance is mandatory for all senior supervisors）。"
+    },
+    {
+      "id": "toeic-p6-182",
+      "passage": "To All Staff\n\nStarting from Monday, November 3, the main employee cafeteria on the ground floor will be closed for extensive renovations to improve dining facilities and expand seating capacity. During the three-week closure period, several food trucks will be stationed outside the east entrance during lunch hours. In addition, vending machines in the second-floor breakroom will be restocked daily with fresh sandwiches and salads.",
+      "question": "How long is the cafeteria scheduled to be closed?",
+      "options": [
+        "Three weeks",
+        "One week",
+        "Two weeks",
+        "Four weeks"
+      ],
+      "answer": 0,
+      "explanation": "通知说明食堂关闭三周（three-week closure period）。"
+    },
+    {
+      "id": "toeic-p6-183",
+      "passage": "Memo\n\nTo: Sales Division\nFrom: David Miller, VP of Sales\nSubject: Annual Corporate Retreat\n\nOur annual sales retreat will be held at the Pine Valley Resort from June 15 to June 17. This year's agenda includes strategy planning sessions, team-building outdoor activities, and the annual awards dinner on Saturday night. Transportation will be provided via chartered buses departing from the corporate headquarters parking lot at 8:00 A.M. on Thursday.",
+      "question": "When does the annual awards dinner take place?",
+      "options": [
+        "Thursday night",
+        "Friday night",
+        "Saturday night",
+        "Sunday night"
+      ],
+      "answer": 2,
+      "explanation": "备忘录明确年度颁奖晚宴在周六晚上（Saturday night）举行。"
+    },
+    {
+      "id": "toeic-p6-184",
+      "passage": "Customer Support Update\n\nIn our ongoing effort to enhance client satisfaction, Apex Logistics is updating its return policy effective December 1. Customers will now have up to forty-five days from the original purchase date to return unused merchandise for a full refund, provided that the original receipt and packaging are presented. Online purchases can also be dropped off at any of our retail storefronts free of charge.",
+      "question": "What is the new timeframe for returning merchandise?",
+      "options": [
+        "45 days",
+        "14 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": 0,
+      "explanation": "公告指出顾客现在最多可在原购买日起45天内退货（forty-five days）。"
+    },
+    {
+      "id": "toeic-p6-185",
+      "passage": "Important Notice: Parking Permit Renewal\n\nAll employees who park in the underground parking garage must renew their parking permits by the end of this month. New RFID-enabled stickers will replace the current paper hangtags. Please bring your employee ID badge and vehicle registration form to the security office on the basement level. Failure to display the new sticker starting November 1 may result in vehicle towing at the owner's expense.",
+      "question": "What must employees bring to the security office?",
+      "options": [
+        "A recent utility bill and driver license",
+        "Proof of insurance and company credit card",
+        "Current paper hangtag and parking fee receipt",
+        "Employee ID badge and vehicle registration"
+      ],
+      "answer": 3,
+      "explanation": "通知要求携带员工证和车辆登记表（employee ID badge and vehicle registration form）。"
+    },
+    {
+      "id": "toeic-p6-186",
+      "passage": "Press Release Excerpt\n\nNovaTech Industries announced today the upcoming release of its latest flagship smartphone, the Nova X9. Equipped with an advanced dual-lens camera and an ultra-long-lasting battery, the device is designed for busy professionals on the go. Pre-orders will begin on our official website this Friday, and retail availability in stores nationwide is scheduled for November 18. The X9 also comes with an expanded storage option of up to 512 gigabytes for storing high-resolution photos and videos.",
+      "question": "When do pre-orders for the Nova X9 begin?",
+      "options": [
+        "This Wednesday",
+        "This Friday",
+        "Next Monday",
+        "November 18"
+      ],
+      "answer": 1,
+      "explanation": "新闻稿指出预订将于本周五在官方网站开始（Pre-orders will begin... this Friday）。"
+    },
+    {
+      "id": "toeic-p6-187",
+      "passage": "To: All Office Managers\nFrom: Procurement Department\nSubject: New Office Supply Ordering System\n\nWe are transitioning to a streamlined digital portal for ordering office supplies, effective immediately. The old paper requisition forms will no longer be accepted after Friday. Department administrators have received login credentials via email. If you experience any technical difficulties accessing the portal, please contact the helpdesk at extension 4302.",
+      "question": "What will happen after Friday?",
+      "options": [
+        "Office supplies prices will increase",
+        "The procurement department will close",
+        "Old paper requisition forms will no longer be accepted",
+        "Deliveries will be suspended"
+      ],
+      "answer": 2,
+      "explanation": "备忘录说明周五之后旧的纸质申请表将不再被接受（no longer be accepted after Friday）。"
+    },
+    {
+      "id": "toeic-p6-188",
+      "passage": "Finance Department Memo\n\nAs we approach the final quarter of the fiscal year, all department managers are required to submit their preliminary budget proposals for the upcoming year by November 15. Please ensure that all projected expenditures are itemized and aligned with our corporate growth targets. Financial analysts will review these submissions and schedule individual consultation meetings during the last week of November.",
+      "question": "By what date must preliminary budget proposals be submitted?",
+      "options": [
+        "November 15",
+        "November 1",
+        "November 30",
+        "December 15"
+      ],
+      "answer": 0,
+      "explanation": "备忘录指出各部门经理必须在11月15日前提交初步预算提案（by November 15）。"
+    },
+    {
+      "id": "toeic-p6-189",
+      "passage": "Notice from the Corporate Research Library\n\nPlease note that the library's online database archiving historical market reports will undergo scheduled maintenance on Sunday between 1:00 A.M. and 5:00 A.M. During this four-hour window, researchers will not be able to download PDF documents or run advanced search queries. We apologize for any inconvenience this may cause to your research projects and project deadlines.",
+      "question": "What service will be temporarily unavailable during maintenance?",
+      "options": [
+        "Borrowing physical books",
+        "Registering new library accounts",
+        "Printing documents in the copy room",
+        "Downloading PDF documents from the database"
+      ],
+      "answer": 3,
+      "explanation": "公告指出在此期间研究人员将无法下载PDF文档（not be able to download PDF documents）。"
+    },
+    {
+      "id": "toeic-p6-190",
+      "passage": "Wellness Program Announcement\n\nIn partnership with Metro Health Insurance, our company is offering free annual health screenings for all full-time employees next month. The screenings include blood pressure checks, cholesterol tests, and nutritional consultations. Appointments will take place on the second floor wellness clinic. Sign-up sheets are now available at the reception desk on the main floor. Employees who wish to participate should reserve their preferred time slot early, as the number of available appointments is limited.",
+      "question": "Who is eligible for the free health screenings?",
+      "options": [
+        "Part-time contractors",
+        "Interns only",
+        "All full-time employees",
+        "Retirees"
+      ],
+      "answer": 2,
+      "explanation": "公告说明所有全职员工（all full-time employees）均可享受免费年度健康筛查。"
+    },
+    {
+      "id": "toeic-p6-191",
+      "passage": "To All Traveling Staff\nFrom: Accounting Department\nSubject: Updated Expense Report Guidelines\n\nEffective next month, all employee travel expense reports must be submitted through our new mobile application within ten business days of trip completion. Receipts must be scanned and uploaded directly through the app. Paper receipts will no longer be accepted unless accompanied by a written explanation approved by your regional director.",
+      "question": "Within how many business days must expense reports be submitted?",
+      "options": [
+        "Five business days",
+        "Ten business days",
+        "Fifteen business days",
+        "Thirty business days"
+      ],
+      "answer": 1,
+      "explanation": "通知规定差旅费用报告必须在行程结束后十个工作日内提交（within ten business days）。"
+    },
+    {
+      "id": "toeic-p6-192",
+      "passage": "Building Maintenance Notice\n\nPlease be advised that Elevator Car No. 3 will be taken out of service on Tuesday morning for routine cable inspection and motor calibration. Elevators 1 and 2 will remain fully operational to serve all floors. To minimize congestion during peak morning arrival hours, employees whose offices are on the upper floors are encouraged to arrive slightly earlier than usual.",
+      "question": "Which elevator will be taken out of service?",
+      "options": [
+        "Elevator Car No. 1",
+        "Elevator Car No. 2",
+        "All elevators",
+        "Elevator Car No. 3"
+      ],
+      "answer": 3,
+      "explanation": "通知明确3号电梯（Elevator Car No. 3）将于周二早晨暂停服务。"
+    },
+    {
+      "id": "toeic-p6-193",
+      "passage": "Career Opportunities at Horizon Corp\n\nHorizon Corp will host its annual recruitment fair on Saturday, October 28, at the Grand Convention Center. We are seeking talented professionals in software engineering, digital marketing, and financial analysis. Attendees will have the opportunity to meet department leaders, submit resumes, and participate in on-site preliminary interviews. Registration is free on our corporate website. Popular workshops on interview techniques and career development will also be available on a first-come, first-served basis.",
+      "question": "Where will the recruitment fair be held?",
+      "options": [
+        "At the corporate headquarters",
+        "At the Grand Convention Center",
+        "At the Pine Valley Resort",
+        "At the Metro Hotel"
+      ],
+      "answer": 1,
+      "explanation": "公告指出招聘会在大酒店会议中心（Grand Convention Center）举行。"
+    },
+    {
+      "id": "toeic-p6-194",
+      "passage": "To: Logistics and Warehouse Staff\nFrom: Operations Manager\nSubject: Holiday Shipping Schedule\n\nDue to the upcoming national holiday, warehouse operating hours will be adjusted next week. Normal packing and shipping operations will be suspended on Thursday. However, a skeleton crew will remain on-site to receive incoming freight shipments between 9:00 A.M. and 1:00 P.M. Full shipping operations will resume as usual on Friday morning.",
+      "question": "When will normal packing and shipping operations be suspended?",
+      "options": [
+        "Thursday",
+        "Wednesday",
+        "Friday",
+        "Saturday"
+      ],
+      "answer": 0,
+      "explanation": "备忘录指出常规打包和货运业务在周四暂停（suspended on Thursday）。"
+    },
+    {
+      "id": "toeic-p6-195",
+      "passage": "Note from the Editorial Team\n\nWe are excited to announce a special edition of our quarterly corporate newsletter dedicated to sustainable business practices and green energy initiatives. Department heads and project managers are invited to submit brief articles highlighting their teams' environmental achievements. Submissions should be sent via email to editor@globalsource.com no later than November 10. All submitted articles will be reviewed by the editorial board, and the best contributions will be featured prominently in the publication.",
+      "question": "What is the theme of the special edition newsletter?",
+      "options": [
+        "Financial growth strategies",
+        "Customer satisfaction benchmarks",
+        "Sustainable business practices",
+        "Global market expansion"
+      ],
+      "answer": 2,
+      "explanation": "编辑说明特别版的主题是可持续商业实践（sustainable business practices）。"
+    },
+    {
+      "id": "toeic-p6-196",
+      "passage": "Human Resources Memorandum\n\nAnnual performance reviews for all staff members will commence on November 1. Supervisors should schedule one-on-one evaluation meetings with their direct reports well in advance. Completed review forms, signed by both the supervisor and the employee, must be submitted to the HR office no later than November 20 to ensure timely processing of annual salary adjustments. Employees are reminded to keep copies of all submitted documents for their own records.",
+      "question": "By what date must completed review forms be submitted to HR?",
+      "options": [
+        "November 1",
+        "November 10",
+        "November 30",
+        "November 20"
+      ],
+      "answer": 3,
+      "explanation": "备忘录指出填好的评估表必须在11月20日之前提交给人力资源办公室（no later than November 20）。"
+    },
+    {
+      "id": "toeic-p6-197",
+      "passage": "Security Office Update\n\nTo strengthen building security, all employees and contractors are required to wear their ID badges visibly at all times while on company premises. Visitors must check in at the main lobby reception desk, present a valid government-issued photo ID, and receive a temporary visitor badge before being escorted by their host. These measures take effect immediately. Contractors working on site must also complete a short safety orientation before accessing restricted areas of the building.",
+      "question": "What must visitors present at the reception desk?",
+      "options": [
+        "A business card",
+        "A valid government-issued photo ID",
+        "A letter of introduction",
+        "An employee badge"
+      ],
+      "answer": 1,
+      "explanation": "通知要求访客出示有效的政府签发带照片的身份证件（valid government-issued photo ID）。"
+    },
+    {
+      "id": "toeic-p6-198",
+      "passage": "Customer Feedback Campaign\n\nThank you for choosing Sterling Bank for your financial needs. We value your opinion and invite you to complete a brief online satisfaction survey regarding your recent branch visit. As a token of our appreciation, participants will be entered into a monthly drawing to win a $100 gift card redeemable at participating retail stores. The survey link can be found at the bottom of your transaction receipt.",
+      "question": "What reward can survey participants win?",
+      "options": [
+        "A $100 gift card",
+        "A free checking account",
+        "A discounted loan rate",
+        "Free financial counseling"
+      ],
+      "answer": 0,
+      "explanation": "说明中提到参与者有机会赢得100美元礼品卡（a $100 gift card）。"
+    },
+    {
+      "id": "toeic-p6-199",
+      "passage": "Professional Development Seminar\n\nRegistration is now open for the upcoming seminar on advanced digital marketing strategies, presented by industry expert Claire Bennett. The full-day event will take place at the Metro Conference Center on Friday, December 2. Early-bird registration is available at a discounted rate of $150 until November 15. Standard registration fees apply thereafter. Seating is limited, so early registration is strongly recommended to guarantee a place at this popular event.",
+      "question": "What is the early-bird registration fee?",
+      "options": [
+        "$100",
+        "$200",
+        "$150",
+        "$250"
+      ],
+      "answer": 2,
+      "explanation": "公告指出早鸟注册优惠价为150美元（discounted rate of $150）。"
+    },
+    {
+      "id": "toeic-p6-200",
+      "passage": "Notice to All Staff\n\nPlease be informed that the main copy center printer on the fourth floor is currently undergoing emergency repairs due to a paper feed mechanism failure. Technicians expect the repair to be completed by this afternoon. In the meantime, staff members are encouraged to use the backup network printers located in Room 402 or the copy machine on the third floor.",
+      "question": "Where is the backup network printer located?",
+      "options": [
+        "On the ground floor",
+        "In the cafeteria",
+        "In Conference Room A",
+        "In Room 402"
+      ],
+      "answer": 3,
+      "explanation": "通知说明备用网络打印机位于402房间（Room 402）。"
+    },
+    {
+      "id": "toeic-p6-201",
+      "passage": "Human Resources Policy Update\n\nIn accordance with our updated flexible work guidelines, full-time employees who have completed their probationary period are eligible to apply for up to two days of telecommuting per week. Applications must be submitted through the employee portal and approved by department managers at least two weeks prior to the intended start date. Employees approved for telecommuting are expected to remain reachable by phone and email during regular working hours.",
+      "question": "How many days of telecommuting are eligible per week?",
+      "options": [
+        "Up to one day",
+        "Up to two days",
+        "Up to three days",
+        "Up to five days"
+      ],
+      "answer": 1,
+      "explanation": "政策更新指出每周最多可申请两天远程办公（up to two days of telecommuting per week）。"
+    },
+    {
+      "id": "toeic-p6-202",
+      "passage": "Facilities Department Notice\n\nElectrical maintenance will be conducted in the west wing of the second floor this Saturday. During this time, overhead lighting and electrical outlets in offices 201 through 215 will be temporarily shut off. Contractors will be replacing outdated circuit breakers. We advise all personnel to power down sensitive electronic equipment before leaving on Friday evening. The maintenance crew has scheduled the work to finish by late afternoon, and normal power will be restored before the start of next week.",
+      "question": "Which offices will be affected by the electrical maintenance?",
+      "options": [
+        "Offices 101 through 115",
+        "Offices 301 through 315",
+        "Offices 201 through 215",
+        "All offices in the building"
+      ],
+      "answer": 2,
+      "explanation": "通知说明201至215办公室将受到影响（Offices 201 through 215）。"
+    },
+    {
+      "id": "toeic-p6-203",
+      "passage": "Internal Announcement\n\nThe annual regional sales conference will be hosted in Seattle this year from September 10 to September 12. Keynote presentations will highlight emerging market trends and innovative customer engagement techniques. All regional sales directors are expected to attend and prepare a ten-minute presentation summarizing their quarterly achievements. An opening reception for all attendees will be held at the hotel lobby on the evening of September 10.",
+      "question": "Where will the regional sales conference be hosted?",
+      "options": [
+        "In Seattle",
+        "In Chicago",
+        "In New York",
+        "In Boston"
+      ],
+      "answer": 0,
+      "explanation": "公告明确今年的区域销售会议将在西雅图（Seattle）举办。"
+    },
+    {
+      "id": "toeic-p6-204",
+      "passage": "Public Holiday Closure Notice\n\nOur corporate offices and customer service centers will be closed on Monday, May 26, in observance of Memorial Day. Regular business hours will resume on Tuesday, May 27, at 8:30 A.M. For urgent customer inquiries during the holiday closure, clients are encouraged to visit our online help portal or email support@apexsolutions.com. Our automated phone system will also provide recorded information about branch closures throughout the holiday weekend.",
+      "question": "When will regular business hours resume after the holiday?",
+      "options": [
+        "Monday, May 26",
+        "Tuesday, May 27",
+        "Wednesday, May 28",
+        "Thursday, May 29"
+      ],
+      "answer": 1,
+      "explanation": "通知指出常规营业时间将于5月27日星期二上午8:30恢复（Tuesday, May 27）。"
+    },
+    {
+      "id": "toeic-p6-205",
+      "passage": "Travel Policy Reminder\n\nAll business travel bookings must be made through our designated corporate travel agency, Vantage Travel. Flight reservations should be finalized at least fourteen days in advance to take advantage of corporate discount rates. Requests for exceptions due to urgent client meetings require written approval from the Chief Financial Officer. Employees booking through personal travel websites do so at their own risk and may not be eligible for reimbursement of associated fees.",
+      "question": "How far in advance should flight reservations be finalized?",
+      "options": [
+        "7 days",
+        "14 days",
+        "30 days",
+        "10 days"
+      ],
+      "answer": 3,
+      "explanation": "提醒指出机票预订应至少提前14天完成（at least fourteen days in advance）。"
+    },
+    {
+      "id": "toeic-p6-206",
+      "passage": "Call for Submissions: Employee Spotlight\n\nThe communications team is currently gathering inspiring stories for the upcoming summer issue of our staff newsletter. If you know a colleague who has demonstrated exceptional community service or achieved a remarkable milestone, please submit their profile and a short photograph to newsletter@beaconcorp.com by June 1. Stories selected for publication will celebrate the dedication and achievements of our colleagues across all departments.",
+      "question": "By what date should submissions for the staff newsletter be sent?",
+      "options": [
+        "June 1",
+        "May 15",
+        "June 15",
+        "July 1"
+      ],
+      "answer": 0,
+      "explanation": "通知要求在6月1日前提交（by June 1）。"
+    },
+    {
+      "id": "toeic-p6-207",
+      "passage": "Manufacturing Division Memo\n\nTo ensure adherence to international quality standards, a comprehensive audit of assembly line B will be conducted on Wednesday morning by an independent inspection team. All line operators are requested to ensure that equipment logs and daily maintenance checklists are up to date and readily accessible for review. The results of the audit will be summarized in a report circulated to all division managers by the end of the week.",
+      "question": "When will the audit of assembly line B take place?",
+      "options": [
+        "Monday morning",
+        "Tuesday afternoon",
+        "Wednesday morning",
+        "Thursday afternoon"
+      ],
+      "answer": 2,
+      "explanation": "备忘录说明B装配线的审核将在周三上午进行（Wednesday morning）。"
+    },
+    {
+      "id": "toeic-p6-208",
+      "passage": "IT Security Advisory\n\nAs part of our routine cybersecurity enhancements, all employees are required to update their network login passwords by Friday, November 12. Passwords must be at least ten characters long and contain a combination of uppercase letters, numbers, and special symbols. Accounts that are not updated by the deadline will be temporarily locked. If you have forgotten your current password, please contact the IT helpdesk to arrange a secure reset before the deadline.",
+      "question": "What is the minimum required length for the new passwords?",
+      "options": [
+        "8 characters",
+        "10 characters",
+        "12 characters",
+        "16 characters"
+      ],
+      "answer": 1,
+      "explanation": "安全公告指出密码至少需要10个字符（at least ten characters long）。"
+    },
+    {
+      "id": "toeic-p6-209",
+      "passage": "Internal Memorandum\n\nPlease note that our downtown branch office will be relocating to the new Apex Tower on King Street effective next month. The final day of operations at our current location will be Friday, August 29. The new facility will open for business on Monday, September 1, featuring modern conference rooms and enhanced client reception areas. Landlords at the current building have been notified, and the move-out inspection has already been scheduled.",
+      "question": "What is the final day of operations at the current office location?",
+      "options": [
+        "Friday, August 15",
+        "Monday, September 1",
+        "Friday, September 5",
+        "Friday, August 29"
+      ],
+      "answer": 3,
+      "explanation": "备忘录说明当前地点的最后运营日是8月29日星期五（Friday, August 29）。"
+    },
+    {
+      "id": "toeic-p6-210",
+      "passage": "Quarterly Employee Recognition\n\nWe are thrilled to announce that Sarah Jenkins from the customer relations department has been selected as Employee of the Quarter. Sarah was nominated by her peers for her outstanding dedication, exceptional problem-solving skills, and positive leadership during a period of high call volume. A special luncheon in her honor will be held this Friday in the main dining hall.",
+      "question": "Who nominated Sarah Jenkins for the award?",
+      "options": [
+        "The company president",
+        "External clients",
+        "Her peers",
+        "The human resources director"
+      ],
+      "answer": 2,
+      "explanation": "公告说明Sarah是由她的同事们（her peers）提名的。"
+    }
+  ]
+}

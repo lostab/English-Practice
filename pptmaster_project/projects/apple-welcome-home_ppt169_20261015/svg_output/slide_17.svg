@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg20" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg20)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// SOLUTION &amp; PRICE LANDSCAPE · 解决方案与价格体系</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">全屋智能落地：三室两厅场景 × 三家配置策略</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="96" y="192" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">价格口径：官网在售产品标价可查项 + 「官方未公布」标注；组合价仅为方向性区间，非官方报价</text>
+
+<g transform="translate(96 220)">
+<rect x="0" y="0" width="350" height="340" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+<text x="20" y="34" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">APPLE · 高端方案</text>
+<text x="20" y="66" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 1× HomeView（$299）· 1× Apple TV 4K（$299）· 1×  HomePod mini 2（$149）</text>
+<text x="20" y="98" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· + 认证设备（门锁/摄像头/门铃/温控）按需选配</text>
+<text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 协议：Thread + Matter + Wi-Fi 6E</text>
+<text x="20" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 组合价：$299 起步（中枢三件套），无官方整屋报价</text>
+<text x="20" y="194" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 服务：用户自装 / 第三方认证服务商</text>
+<text x="20" y="232" font-family="Consolas, monospace" font-size="13" fill="#A3E635">定位：体验闭环 + 隐私优先，成本最高</text>
+
+<rect x="370" y="0" width="350" height="340" rx="14" fill="#0E1830" stroke="#F59E0B"/>
+<text x="390" y="34" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">HUAWEI · 成套方案</text>
+<text x="390" y="66" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 全屋智能主机（PLC 网关，官网标价可查）</text>
+<text x="390" y="98" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 中控屏 S2 + 智能面板 + 传感器 + 场景</text>
+<text x="390" y="130" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 协议：PLC 有线 + Wi-Fi / 蓝牙</text>
+<text x="390" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 价格：前装整套以线下门店报价为准</text>
+<text x="390" y="194" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 服务：官方授权门店设计/安装/调试一站式</text>
+<text x="390" y="232" font-family="Consolas, monospace" font-size="13" fill="#A3E635">定位：前装确定性 + 场景深度，最适精装房</text>
+
+<rect x="740" y="0" width="350" height="340" rx="14" fill="#0E1830" stroke="#10B981"/>
+<text x="760" y="34" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">XIAOMI · 高性价比方案</text>
+<text x="760" y="66" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 1× 智能家庭屏 11（官网价可查）· 小爱音箱升级可选</text>
+<text x="760" y="98" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 生态链单品：灯/窗帘/传感器/扫地机按需组合</text>
+<text x="760" y="130" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 协议：Zigbee + 米家 Mesh 2.0 + Wi-Fi/蓝牙 + Matter</text>
+<text x="760" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 价格：单品几十一数百元档，组合丰俭由人</text>
+<text x="760" y="194" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 服务：用户自装为主，生态链渠道覆盖广</text>
+<text x="760" y="232" font-family="Consolas, monospace" font-size="13" fill="#A3E635">定位：入门 + DIY 灵活 + 生态链广度最大</text>
+</g>
+
+<rect x="96" y="586" width="1088" height="72" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="616" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 洞察</text>
+<text x="120" y="642" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">价格是三者最显著的分水岭：苹果「贵但少而精」、华为「前装成套」、小米「丰俭由人」——对应三种完全不同的家庭决策路径。</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">17 / 23</text>
+</svg>

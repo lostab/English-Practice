@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": "toefl-r-264",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The monarch butterfly (Danaus plexippus) undertakes one of the most extraordinary migrations in the animal kingdom. Each autumn, millions of monarchs from eastern North America travel up to 4,800 kilometers to reach oyamel fir forests in central Mexico, where they cluster in dense colonies to overwinter. This migration spans multiple generations: the butterflies that depart in fall are not the same individuals that return north in spring. Rather, successive generations leapfrog northward, each living only a few weeks, until a final \"super generation\" emerges in late summer with a lifespan of up to eight months. Monarchs navigate using a time-compensated sun compass, integrating the sun's position with their circadian clock. Recent studies suggest they may also use a magnetic compass as a backup on overcast days. However, habitat loss, pesticide use, and climate change threaten this phenomenon. The oyamel fir forests are shrinking due to illegal logging, while milkweed — the sole larval host plant — has declined dramatically across the American Midwest due to herbicide-tolerant crops.",
+      "question": "According to the passage, what is the primary reason the monarch migration spans multiple generations?",
+      "options": [
+        "Each generation lives only a few weeks except for the final super generation",
+        "Individual butterflies cannot survive the entire round-trip distance",
+        "The butterflies must stop to reproduce at specific intervals along the route",
+        "Environmental conditions prevent continuous flight across seasons"
+      ],
+      "answer": 0,
+      "explanation": "原文说“successive generations leapfrog northward, each living only a few weeks”，每代仅活数周，故选A。"
+    },
+    {
+      "id": "toefl-r-270",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Dark energy, the mysterious force driving the accelerating expansion of the universe, constitutes approximately 68 percent of the total energy density of the cosmos. Its discovery in 1998 — through observations of distant Type Ia supernovae that appeared dimmer than expected — overturned the prevailing assumption that gravity would gradually slow cosmic expansion. The leading candidate for dark energy is the cosmological constant (Λ), a term Einstein originally introduced into his field equations to allow for a static universe, later calling it his \"greatest blunder.\" In the modern ΛCDM model, the cosmological constant represents the vacuum energy of space itself, exerting negative pressure that pushes galaxies apart. Alternative theories propose dynamic fields such as quintessence, whose energy density evolves over time. Distinguishing between these models requires precise measurements of the expansion history, which missions like the Dark Energy Spectroscopic Instrument (DESI) and the Euclid space telescope aim to provide. Resolving the nature of dark energy remains one of the most profound challenges in modern cosmology.",
+      "question": "What did the 1998 supernova observations reveal about the expansion of the universe?",
+      "options": [
+        "The expansion is slowing down due to gravitational attraction",
+        "The expansion is accelerating, contrary to prior expectations",
+        "The expansion rate has remained constant since the Big Bang",
+        "The expansion occurs in discrete bursts rather than continuously"
+      ],
+      "answer": 1,
+      "explanation": "原文说“gravity would gradually slow cosmic expansion”，观测推翻了膨胀减速的假设，实际在加速，故选B。"
+    },
+    {
+      "id": "toefl-r-271",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Silk Road was not a single thoroughfare but a shifting network of trade routes linking East Asia with the Mediterranean from roughly the second century BCE to the fifteenth century CE. While silk gave the network its name, the routes carried far more: spices, precious metals, glassware, paper, and — crucially — ideas, religions, and technologies. Buddhism traveled from India to China along these routes; papermaking knowledge moved westward from China to the Islamic world and eventually to Europe; and diseases such as the bubonic plague spread with devastating effect. The network flourished under the relative stability of large empires — Han, Kushan, Parthian, Roman — but fragmented when political unity dissolved. Maritime routes eventually supplanted overland trade, offering greater capacity and lower risk. Yet the Silk Road's legacy endures in the cultural and genetic exchanges it facilitated, shaping civilizations across Eurasia in ways that pure economic exchange alone cannot explain.",
+      "question": "Which of the following best describes the author's view of the Silk Road's historical significance?",
+      "options": [
+        "Its primary importance was economic, enabling the trade of luxury goods",
+        "It was less significant than maritime routes that replaced it",
+        "Its cultural and biological exchanges had impacts beyond mere commerce",
+        "Its fragmentation under political instability limited its long-term influence"
+      ],
+      "answer": 2,
+      "explanation": "原文说“the Silk Road's legacy endures in the cultural and genetic exchanges”，其影响超越纯经济交换，故选C。"
+    },
+    {
+      "id": "toefl-r-272",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Behavioral economics challenges the classical assumption that humans are perfectly rational agents who consistently maximize utility. Through controlled experiments, researchers have documented systematic deviations from rationality: loss aversion, where losses loom larger than equivalent gains; the endowment effect, where people value objects more highly simply because they own them; and present bias, the tendency to overvalue immediate rewards at the expense of long-term well-being. These patterns are not random errors but predictable consequences of cognitive architecture shaped by evolution. For instance, loss aversion may have been adaptive in environments where losing resources meant death, while gaining extra resources brought diminishing survival returns. Policymakers now apply these insights through \"nudges\" — subtle changes to choice architecture that steer decisions without restricting freedom. Automatic enrollment in retirement savings plans, which exploits inertia and present bias, has dramatically increased participation rates. Critics argue, however, that nudges may reflect paternalistic assumptions about what constitutes \"better\" choices.",
+      "question": "According to the passage, why might loss aversion have been evolutionarily adaptive?",
+      "options": [
+        "It encouraged risk-taking behavior necessary for survival",
+        "It helped early humans accurately calculate probabilities in uncertain environments",
+        "It promoted fair resource distribution within social groups",
+        "Losing resources posed a greater threat to survival than gaining extra resources provided benefit"
+      ],
+      "answer": 3,
+      "explanation": "原文说“loss aversion may have been adaptive”，因失去资源意味着死亡，故选D。"
+    },
+    {
+      "id": "toefl-r-273",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Japanese aesthetic concept of wabi-sabi embraces imperfection, impermanence, and incompleteness as sources of beauty. Originating in the tea ceremony of the fifteenth and sixteenth centuries, wabi-sabi values asymmetry, roughness, simplicity, and the natural patina that time imparts to objects. A cracked tea bowl repaired with gold lacquer (kintsugi) exemplifies the philosophy: the flaw becomes the focal point, not something to conceal. This worldview contrasts sharply with Western ideals of symmetry, permanence, and flawless execution. In contemporary design, wabi-sabi influences minimalist architecture, ceramics, and even digital interfaces that mimic organic textures. Yet some critics argue that commercialized wabi-sabi — mass-produced \"rustic\" goods sold at premium prices — contradicts the ethos of humble authenticity at the concept's core. True wabi-sabi, they contend, cannot be manufactured; it emerges only through genuine use and the passage of time.",
+      "question": "What does the practice of kintsugi illustrate about wabi-sabi?",
+      "options": [
+        "Flaws should be concealed to preserve an object's original beauty",
+        "Repairing broken objects diminishes their aesthetic value",
+        "Imperfections can become the most beautiful aspect of an object",
+        "Gold lacquer is the only appropriate material for ceramic repair"
+      ],
+      "answer": 2,
+      "explanation": "原文说“the flaw becomes the focal point, not something to conceal”，缺陷成为焦点而非被掩盖，故选C。"
+    }
+  ]
+}

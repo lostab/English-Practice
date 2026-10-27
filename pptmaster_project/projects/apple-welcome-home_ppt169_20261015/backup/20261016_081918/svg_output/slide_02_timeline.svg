@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#22D3EE"/>
+      <stop offset="0.8" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="subtle-grid" width="30" height="30">
+      <path d="M1 0V29M0 1H29" stroke="#1E3A5F" stroke-width="0.5" fill="none" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg2)"/>
+  <rect width="1280" height="720" fill="url(#subtle-grid)"/>
+
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="18" letter-spacing="3" fill="#A5F3FC">// TIMELINE · 2011 — 2026</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">苹果智能家居演进史</text>
+  <rect x="96" y="160" width="320" height="4" rx="1.5" fill="url(#accentLine)"/>
+
+  <!-- Timeline spine -->
+  <line x1="120" y1="400" x2="1160" y2="400" stroke="#1E3A5F" stroke-width="3"/>
+
+  <!-- Node 1: 2011 (Siri) -->
+  <g transform="translate(140 400)">
+    <circle cx="0" cy="0" r="10" fill="#0E1830" stroke="#22D3EE" stroke-width="3"/>
+    <text x="0" y="-24" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC" text-anchor="middle">2011</text>
+    <rect x="-68" y="24" width="136" height="108" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="0" y="52" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0" text-anchor="middle">iPhone 4S</text>
+    <text x="0" y="76" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">Siri 语音首秀</text>
+    <text x="0" y="98" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">语音交互概念引入</text>
+  </g>
+
+  <!-- Node 2: 2014 (HomeKit) -->
+  <g transform="translate(328 400)">
+    <circle cx="0" cy="0" r="10" fill="#0E1830" stroke="#22D3EE" stroke-width="3"/>
+    <text x="0" y="-24" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC" text-anchor="middle">2014</text>
+    <rect x="-68" y="24" width="136" height="108" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="0" y="52" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0" text-anchor="middle">HomeKit</text>
+    <text x="0" y="76" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">统一智能家居</text>
+    <text x="0" y="98" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">通信协议框架</text>
+  </g>
+
+  <!-- Node 3: 2016 (HomePod) -->
+  <g transform="translate(516 400)">
+    <circle cx="0" cy="0" r="10" fill="#0E1830" stroke="#22D3EE" stroke-width="3"/>
+    <text x="0" y="-24" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC" text-anchor="middle">2016</text>
+    <rect x="-68" y="24" width="136" height="108" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="0" y="52" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0" text-anchor="middle">HomePod</text>
+    <text x="0" y="76" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">音频中心 + Siri</text>
+    <text x="0" y="98" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">音频交互入口</text>
+  </g>
+
+  <!-- Node 4: 2018 (HomePod mini) -->
+  <g transform="translate(704 400)">
+    <circle cx="0" cy="0" r="10" fill="#0E1830" stroke="#22D3EE" stroke-width="3"/>
+    <text x="0" y="-24" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC" text-anchor="middle">2018</text>
+    <rect x="-68" y="24" width="136" height="108" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="0" y="52" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0" text-anchor="middle">HomePod mini</text>
+    <text x="0" y="76" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">低价位入口</text>
+    <text x="0" y="98" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">生态普及</text>
+  </g>
+
+  <!-- Node 5: 2023 (Vision Pro) -->
+  <g transform="translate(892 400)">
+    <circle cx="0" cy="0" r="10" fill="#0E1830" stroke="#22D3EE" stroke-width="3"/>
+    <text x="0" y="-24" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#7DD3FC" text-anchor="middle">2023</text>
+    <rect x="-68" y="24" width="136" height="108" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="0" y="52" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0" text-anchor="middle">Vision Pro</text>
+    <text x="0" y="76" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">空间计算入口</text>
+    <text x="0" y="98" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">家居 AR/VR 可能</text>
+  </g>
+
+  <!-- Node 6: 2026 (HomeView) - Highlighted -->
+  <g transform="translate(1080 400)">
+    <circle cx="0" cy="0" r="13" fill="#22D3EE" filter="url(#glow)"/>
+    <text x="0" y="-24" font-family="Consolas, monospace" font-size="18" font-weight="700" fill="#A5F3FC" text-anchor="middle">2026</text>
+    <rect x="-82" y="24" width="164" height="120" rx="10" fill="#0E2440" stroke="#22D3EE" stroke-width="2"/>
+    <text x="0" y="52" font-family="Helvetica Neue, sans-serif" font-size="15" font-weight="700" fill="#A5F3FC" text-anchor="middle">HomeView</text>
+    <text x="0" y="76" font-family="Arial, sans-serif" font-size="13" fill="#7DD3FC" text-anchor="middle">家庭操作系统枢纽</text>
+    <text x="0" y="98" font-family="Arial, sans-serif" font-size="13" fill="#7DD3FC" text-anchor="middle">全屋连接枢纽</text>
+  </g>
+
+  <!-- Bottom takeaway -->
+  <rect x="96" y="600" width="1088" height="72" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+  <text x="124" y="630" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" fill="#E2E8F0">核心洞察：Apple 从「零散硬件」进化为「系统级平台」——HomeView 作为中央枢纽，统一全屋设备控制与数据流</text>
+  <text x="124" y="656" font-family="Helvetica Neue, Arial, sans-serif" font-size="18" fill="#E2E8F0">并通过 A18 芯片 + Secure Exclaves 隐私隔离实现本地高性能处理</text>
+
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">02 / 12</text>
+</svg>

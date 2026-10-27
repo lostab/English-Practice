@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg02" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#05070F"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg02)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// AGENDA · 5 SECTIONS</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">报告目录</text>
+  <rect x="96" y="158" width="200" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="186" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">本报告所有参数均来自 Apple / Huawei / Xiaomi 官方渠道，未经官方披露的指标一律标注「官方未公布」</text>
+
+  <g transform="translate(96 230)">
+    <rect x="0" y="0" width="520" height="86" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="28" y="36" font-family="Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE">01</text>
+    <text x="100" y="34" font-family="Helvetica Neue, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">战略演进回顾</text>
+    <text x="100" y="62" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">苹果智能家居 15 年三阶段跃迁：平台奠基 → 标准开放 → AI 反攻</text>
+
+    <rect x="544" y="0" width="520" height="86" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="572" y="36" font-family="Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE">02</text>
+    <text x="644" y="34" font-family="Helvetica Neue, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">发布会全景解析</text>
+    <text x="644" y="62" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">Welcome Home 四款新品全拆解：HomeView / Apple TV 4K /</text>
+    <text x="644" y="80" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">HomePod mini 2 / Home Collection</text>
+
+    <rect x="0" y="102" width="520" height="86" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="28" y="138" font-family="Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE">03</text>
+    <text x="100" y="136" font-family="Helvetica Neue, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">核心产品对比（4 维度）</text>
+    <text x="100" y="164" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">家庭中枢硬件 / 操作系统与 AI 助手 / 连接协议 / 生态规模</text>
+
+    <rect x="544" y="102" width="520" height="86" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="572" y="138" font-family="Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE">04</text>
+    <text x="644" y="136" font-family="Helvetica Neue, sans-serif" font-size="20" font-weight="700" fill="#E2E8F0">解决方案全景</text>
+    <text x="644" y="164" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">战略定位与价格带 / 隐私与安全架构</text>
+
+    <rect x="0" y="204" width="520" height="86" rx="12" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="28" y="240" font-family="Consolas, monospace" font-size="24" font-weight="700" fill="#7DD3FC">05</text>
+    <text x="100" y="238" font-family="Helvetica Neue, sans-serif" font-size="20" font-weight="700" fill="#A5F3FC">产业思考与未来演进</text>
+    <text x="100" y="266" font-family="Arial, sans-serif" font-size="14" fill="#7DD3FC">三强 SWOT 全景 / 四大趋势预判 / 结论与战略建议</text>
+  </g>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">02 / 23</text>
+</svg>

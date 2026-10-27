@@ -1,0 +1,589 @@
+{
+ "questions": [
+  {
+   "id": "toeic-p5-734",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The quarterly report has been delayed ______ the server outage.",
+   "options": [
+    "due to",
+    "despite",
+    "unless",
+    "during"
+   ],
+   "answer": 0,
+   "explanation": "due to 表原因，后接名词短语，表示“由于”之意。"
+  },
+  {
+   "id": "toeic-p5-735",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "All employees must submit their expense reports ______ Friday afternoon.",
+   "options": [
+    "until",
+    "since",
+    "for",
+    "by"
+   ],
+   "answer": 3,
+   "explanation": "by 表示“不迟于”，截止时间用 by。"
+  },
+  {
+   "id": "toeic-p5-736",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The new software ______ improve team collaboration significantly.",
+   "options": [
+    "expected to",
+    "expects to",
+    "expecting to",
+    "is expected to"
+   ],
+   "answer": 3,
+   "explanation": "be expected to 固定搭配，表示“预期将”。"
+  },
+  {
+   "id": "toeic-p5-737",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Neither the manager nor the assistants ______ available for the meeting.",
+   "options": [
+    "are",
+    "was",
+    "were",
+    "is"
+   ],
+   "answer": 0,
+   "explanation": "neither...nor 就近原则，助词 assistants 复数，用 are。"
+  },
+  {
+   "id": "toeic-p5-738",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The contract ______ by both parties before the deadline.",
+   "options": [
+    "must be signed",
+    "must have signed",
+    "must signing",
+    "must sign"
+   ],
+   "answer": 0,
+   "explanation": "contract 是被签署，需被动语态 must be signed。"
+  },
+  {
+   "id": "toeic-p5-739",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Please ______ the attached document before the presentation.",
+   "options": [
+    "reviewing",
+    "reviewed",
+    "to review",
+    "review"
+   ],
+   "answer": 3,
+   "explanation": "祈使句用动词原形 review。"
+  },
+  {
+   "id": "toeic-p5-740",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The marketing team has ______ the new campaign strategy.",
+   "options": [
+    "finalize",
+    "finalized",
+    "finalizing",
+    "finalizes"
+   ],
+   "answer": 1,
+   "explanation": "has + 过去分词构成现在完成时，用 finalized。"
+  },
+  {
+   "id": "toeic-p5-741",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ the budget was tight, the project was completed on time.",
+   "options": [
+    "Because",
+    "Since",
+    "As",
+    "Although"
+   ],
+   "answer": 3,
+   "explanation": "Although 表让步，“尽管预算紧张，项目仍按时完成”。"
+  },
+  {
+   "id": "toeic-p5-742",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The client requested that the proposal ______ by next Monday.",
+   "options": [
+    "submit",
+    "submitted",
+    "be submitted",
+    "submitting"
+   ],
+   "answer": 2,
+   "explanation": "request that 从句用虚拟语气 be + 过去分词。"
+  },
+  {
+   "id": "toeic-p5-743",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Our new supplier offers ______ competitive pricing than the previous one.",
+   "options": [
+    "most",
+    "much",
+    "many",
+    "more"
+   ],
+   "answer": 3,
+   "explanation": "比较级 more competitive pricing 表示“更具竞争力的定价”。"
+  },
+  {
+   "id": "toeic-p5-744",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The CEO ______ the annual report when the power went out.",
+   "options": [
+    "reviews",
+    "reviewed",
+    "was reviewing",
+    "has reviewed"
+   ],
+   "answer": 2,
+   "explanation": "when 引导时间状语，主句用过去进行时 was reviewing。"
+  },
+  {
+   "id": "toeic-p5-745",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The training session is mandatory ______ all new hires.",
+   "options": [
+    "to",
+    "for",
+    "with",
+    "on"
+   ],
+   "answer": 1,
+   "explanation": "mandatory for sb. 固定搭配，“对……是强制性的”。"
+  },
+  {
+   "id": "toeic-p5-746",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ the new policy takes effect next month, employees should prepare now.",
+   "options": [
+    "Since",
+    "Because",
+    "Given that",
+    "As"
+   ],
+   "answer": 3,
+   "explanation": "As 此处作“随着、随同”，表示伴随情况。"
+  },
+  {
+   "id": "toeic-p5-747",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The team ______ the project ahead of schedule last quarter.",
+   "options": [
+    "completes",
+    "completed",
+    "has completed",
+    "had completed"
+   ],
+   "answer": 1,
+   "explanation": "last quarter 过去时间标志，用一般过去时 completed。"
+  },
+  {
+   "id": "toeic-p5-748",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "We appreciate ______ feedback on the new product design.",
+   "options": [
+    "you",
+    "yours",
+    "yourself",
+    "your"
+   ],
+   "answer": 3,
+   "explanation": "appreciate 后接名词/动名词，your feedback 作宾语。"
+  },
+  {
+   "id": "toeic-p5-749",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The warehouse will be closed ______ inventory counting next week.",
+   "options": [
+    "during",
+    "for",
+    "while",
+    "because"
+   ],
+   "answer": 1,
+   "explanation": "for 表目的，“为了盘点库存”。"
+  },
+  {
+   "id": "toeic-p5-750",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "If the shipment ______ late, we will contact the carrier immediately.",
+   "options": [
+    "arrive",
+    "arrived",
+    "will arrive",
+    "arrives"
+   ],
+   "answer": 3,
+   "explanation": "if 条件状语从句用一般现在时代将来，arrives。"
+  },
+  {
+   "id": "toeic-p5-751",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The director suggested ______ the meeting until Thursday.",
+   "options": [
+    "postpone",
+    "postponing",
+    "to postpone",
+    "postponed"
+   ],
+   "answer": 1,
+   "explanation": "suggest doing 固定搭配，建议“延期”。"
+  },
+  {
+   "id": "toeic-p5-752",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Each of the department heads ______ responsible for the budget review.",
+   "options": [
+    "are",
+    "were",
+    "have been",
+    "is"
+   ],
+   "answer": 3,
+   "explanation": "Each of + 复数名词，谓语用单数 is。"
+  },
+  {
+   "id": "toeic-p5-753",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The report ______ by the analyst before the board meeting.",
+   "options": [
+    "will finish",
+    "will be finished",
+    "finishes",
+    "finished"
+   ],
+   "answer": 1,
+   "explanation": "report 是被完成，将来时被动 will be finished。"
+  },
+  {
+   "id": "toeic-p5-754",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Not only did the sales increase, ______ customer satisfaction improved.",
+   "options": [
+    "also",
+    "so",
+    "but also",
+    "and also"
+   ],
+   "answer": 2,
+   "explanation": "Not only...but also 固定倒装结构，but also 引导后半句。"
+  },
+  {
+   "id": "toeic-p5-755",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The new intern ______ the files alphabetically yesterday.",
+   "options": [
+    "organize",
+    "organized",
+    "organizing",
+    "organizes"
+   ],
+   "answer": 1,
+   "explanation": "yesterday 过去时间，一般过去时 organized。"
+  },
+  {
+   "id": "toeic-p5-756",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "We need to ______ the budget before the fiscal year ends.",
+   "options": [
+    "finalized",
+    "finalizes",
+    "finalize",
+    "finalizing"
+   ],
+   "answer": 2,
+   "explanation": "need to 不定式结构，动词原形 finalize。"
+  },
+  {
+   "id": "toeic-p5-757",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The conference room ______ for the client presentation at 2 PM.",
+   "options": [
+    "reserves",
+    "reserved",
+    "is reserved",
+    "has reserved"
+   ],
+   "answer": 2,
+   "explanation": "room 是被预订，一般现在时被动 is reserved。"
+  },
+  {
+   "id": "toeic-p5-758",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ the project manager approves the plan, we can start next week.",
+   "options": [
+    "Until",
+    "Unless",
+    "Once",
+    "Before"
+   ],
+   "answer": 2,
+   "explanation": "Once 表“一旦……就”，引导时间状语从句。"
+  },
+  {
+   "id": "toeic-p5-759",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The company has decided to ______ its overseas operations.",
+   "options": [
+    "expanded",
+    "expands",
+    "expand",
+    "expanding"
+   ],
+   "answer": 2,
+   "explanation": "decide to do 固定搭配，动词原形 expand。"
+  },
+  {
+   "id": "toeic-p5-760",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "No sooner ______ the email than the phone rang.",
+   "options": [
+    "had I sent",
+    "I had sent",
+    "did I send",
+    "I sent"
+   ],
+   "answer": 0,
+   "explanation": "No sooner...than 倒装，had I sent 过去完成时倒装。"
+  },
+  {
+   "id": "toeic-p5-761",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The financial audit ______ completed by the end of this month.",
+   "options": [
+    "will be",
+    "will have been",
+    "is",
+    "has been"
+   ],
+   "explanation": "将来完成时被动 will have been completed，“将已完成”。",
+   "answer": 1
+  },
+  {
+   "id": "toeic-p5-762",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Please ensure that all data ______ accurately in the system.",
+   "options": [
+    "enter",
+    "enters",
+    "is entered",
+    "entered"
+   ],
+   "answer": 2,
+   "explanation": "ensure that 从句用被动 is entered，data 是被录入。"
+  },
+  {
+   "id": "toeic-p5-763",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The new regulations require all vendors ______ compliance certificates.",
+   "options": [
+    "provide",
+    "provides",
+    "to provide",
+    "provided"
+   ],
+   "answer": 2,
+   "explanation": "require sb. to do 固定搭配，require all vendors to provide。"
+  },
+  {
+   "id": "toeic-p5-764",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ the heavy traffic, the delivery arrived on schedule.",
+   "options": [
+    "Despite",
+    "Because of",
+    "Due to",
+    "Owing to"
+   ],
+   "answer": 0,
+   "explanation": "Despite 表让步，“尽管交通拥堵，送货仍准时到达”。"
+  },
+  {
+   "id": "toeic-p5-765",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The software update ______ installed automatically overnight.",
+   "options": [
+    "will be",
+    "will",
+    "is",
+    "was"
+   ],
+   "answer": 0,
+   "explanation": "update 是被安装，将来时被动 will be installed，省略过去分词。"
+  },
+  {
+   "id": "toeic-p5-766",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The manager asked ______ the report would be ready by Friday.",
+   "options": [
+    "if",
+    "that",
+    "whether",
+    "when"
+   ],
+   "answer": 0,
+   "explanation": "asked if 引导宾语从句，询问“是否”。"
+  },
+  {
+   "id": "toeic-p5-767",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "All staff members are required ______ the safety training seminar.",
+   "options": [
+    "attend",
+    "to attend",
+    "attending",
+    "attended"
+   ],
+   "answer": 1,
+   "explanation": "be required to do 固定搭配，“被要求做某事”。"
+  },
+  {
+   "id": "toeic-p5-768",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The quarterly results were ______ better than expected.",
+   "options": [
+    "considerably",
+    "considerable",
+    "consider",
+    "consideration"
+   ],
+   "answer": 0,
+   "explanation": "修饰比较级 better 用副词 considerably。"
+  },
+  {
+   "id": "toeic-p5-769",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The supplier ______ we contacted last week has agreed to the terms.",
+   "options": [
+    "who",
+    "whom",
+    "which",
+    "whose"
+   ],
+   "answer": 2,
+   "explanation": "先行词 supplier 为物，作宾语，用 which（可省略）。"
+  },
+  {
+   "id": "toeic-p5-770",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The team leader recommended that the project ______ reviewed immediately.",
+   "options": [
+    "be",
+    "is",
+    "was",
+    "will be"
+   ],
+   "answer": 0,
+   "explanation": "recommend that 虚拟语气，be + 过去分词 reviewed。"
+  },
+  {
+   "id": "toeic-p5-771",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "By the time the audit starts, all records ______ organized.",
+   "options": [
+    "will be",
+    "will have been",
+    "are",
+    "have been"
+   ],
+   "answer": 1,
+   "explanation": "By the time...将来完成时被动 will have been organized。"
+  },
+  {
+   "id": "toeic-p5-772",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The new hire demonstrated ______ leadership skills during the crisis.",
+   "options": [
+    "exceptional",
+    "exceptionally",
+    "exception",
+    "except"
+   ],
+   "answer": 0,
+   "explanation": "demonstrated 后接名词作宾语，用形容词 exceptional 修饰 skills。"
+  }
+ ]
+}

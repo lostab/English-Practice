@@ -1,0 +1,548 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p6-145",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Department Heads\nFrom: Human Resources\nSubject: New Dress Code Policy\n\nEffective January 15, the company will implement a new business casual dress code for all employees. Under the updated policy, staff are no longer required to wear suits on a daily basis, but jeans and t-shirts remain prohibited in the workplace. Formal client meetings still require traditional business attire. Please review the attached policy document carefully before returning to the office on January 15, and direct any questions about acceptable clothing to your department manager.\n\nThank you for your cooperation.",
+      "question": "这项着装政策何时生效？",
+      "options": [
+        "1月15日",
+        "2月1日",
+        "3月1日",
+        "新年假期后"
+      ],
+      "answer": 0,
+      "explanation": "邮件标题及正文写明新着装政策自1月15日起生效（Effective January 15）。"
+    },
+    {
+      "id": "toeic-p6-146",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Notice to All Staff\n\nDue to an urgent equipment failure, the main elevator in Building B will be temporarily out of service until further notice. Employees working on floors above the second floor are asked to use the stairwell located at the north end of the hallway during this period. If you have a mobility issue or require assistance, please contact facilities management at extension 4567, and arrangements will be made to accommodate your needs. The maintenance crew expects the repair to be completed by the end of next week.",
+      "question": "有行动不便问题的员工应联系哪个部门？",
+      "options": [
+        "安全部门",
+        "设施管理部门",
+        "人力资源部门",
+        "IT支持"
+      ],
+      "answer": 1,
+      "explanation": "通知建议行动不便的员工拨4567联系设施管理部门协助（contact facilities management at extension 4567）。"
+    },
+    {
+      "id": "toeic-p6-147",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Memo\n\nTo: Sales Team\nFrom: Jennifer Lee, Marketing Director\nDate: March 5\n\nWe are excited to announce that the Spring Product Showcase will be held at the Grand Convention Center from May 10 to May 12. All sales representatives are expected to attend at least one full day of the event, and new product demonstrations will take place each morning. Booth assignments will be distributed next week, and a detailed schedule will be posted on the marketing intranet page. Please prepare your talking points before the first day of the showcase.",
+      "question": "产品展示会将在哪里举行？",
+      "options": [
+        "市中心酒店",
+        "公司总部大厅",
+        "Grand Convention Center",
+        "会展中心南馆"
+      ],
+      "answer": 2,
+      "explanation": "公告明确春季产品展示会在Grand Convention Center举行（will be held at the Grand Convention Center）。"
+    },
+    {
+      "id": "toeic-p6-148",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Dear Customers,\n\nWe regret to inform you that your monthly subscription payment could not be processed because the credit card on file has expired. Please update your billing information by logging into your account and visiting the payment settings page. Your service will continue uninterrupted as long as the update is completed within seven days of this notice; after that period, the account may be placed on hold. If you believe this message was sent in error, please contact our billing department for assistance.",
+      "question": "订阅付款未能处理的原因是什么？",
+      "options": [
+        "银行系统故障",
+        "信用卡余额不足",
+        "账户被冻结",
+        "信用卡已过期"
+      ],
+      "answer": 3,
+      "explanation": "邮件说明付款失败是因档案中的信用卡已过期（the credit card on file has expired）。"
+    },
+    {
+      "id": "toeic-p6-149",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Reminder: Staff Parking\n\nStarting next month, all employees must display a valid parking permit on their vehicle windshield at all times while parked on company property. Unauthorized vehicles parked in the executive lot will be towed at the owner's expense. New permits and replacement passes can be ordered from the security office between 9:00 A.M. and 4:00 P.M. on Tuesdays and Thursdays, and a valid employee ID card is required at the time of pickup. Please contact security if you have questions about eligibility.",
+      "question": "员工何时办理新的停车许可证？",
+      "options": [
+        "周二和周四",
+        "任何工作日",
+        "周一全天",
+        "周三和周五"
+      ],
+      "answer": 0,
+      "explanation": "通知说明新许可证可在周二和周四9点至16点去安保处办理（on Tuesdays and Thursdays）。"
+    },
+    {
+      "id": "toeic-p6-150",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: Project Alpha Team\nFrom: Michael Chang\nSubject: Meeting Rescheduled\n\nThe weekly project status meeting originally scheduled for Tuesday at 2:00 P.M. has been moved to Wednesday at 10:00 A.M. in Conference Room A. The change was made to accommodate the availability of the external consultants, who will now join the session remotely. If you are unable to attend, please send a representative who can provide a progress report on your deliverables. The updated agenda will be circulated later this afternoon.",
+      "question": "会议改到了周几几点？",
+      "options": [
+        "周二下午2点",
+        "周三上午10点",
+        "周三下午2点",
+        "周四上午10点"
+      ],
+      "answer": 1,
+      "explanation": "邮件说明会议改期至周三上午10点在A会议室（moved to Wednesday at 10:00 A.M.）。"
+    },
+    {
+      "id": "toeic-p6-151",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Important Safety Update\n\nFollowing the recent fire drill, building management wants to remind all employees that fire extinguishers are located on every floor near the stairwells. The red exit signs above the doors indicate the nearest emergency escape route and should be followed at all times. Please keep all exit doors clear of boxes, equipment, and other obstructions, and never prop open fire doors. Additional safety instructions are posted on the bulletin board in each breakroom.",
+      "question": "灭火器在哪里可以找到？",
+      "options": [
+        "地下室工具房",
+        "屋顶设备间",
+        "每层楼梯间附近",
+        "每个办公室内"
+      ],
+      "answer": 2,
+      "explanation": "公告指出灭火器位于每层楼梯间附近（located on every floor near the stairwells）。"
+    },
+    {
+      "id": "toeic-p6-152",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Announcement: Company Picnic\n\nWe are pleased to invite all employees and their families to our annual summer picnic. The event will take place on Saturday, July 20, at Riverside Park from 11:00 A.M. to 4:00 P.M., with games and activities planned for children of all ages. Please RSVP by July 10 so that we can arrange food, seating, and refreshments for everyone. Light snacks and beverages will be provided free of charge, and employees are welcome to bring their own picnic blankets.",
+      "question": "野餐活动的 RSVP 截止日期是哪天？",
+      "options": [
+        "7月15日",
+        "7月20日",
+        "7月25日",
+        "7月10日"
+      ],
+      "answer": 3,
+      "explanation": "通知要求员工于7月10日前回复确认（Please RSVP by July 10）。"
+    },
+    {
+      "id": "toeic-p6-153",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Shipping Notification\n\nYour order #45782 has been dispatched and is scheduled to arrive at our distribution center on Friday, April 19. The shipment was sent via overnight express service, so please confirm receipt with the receiving department as soon as it arrives at the dock. If there are any discrepancies between the shipment and the packing list, report them to our customer service team within 48 hours of delivery so that adjustments can be made promptly.",
+      "question": "货物预计何时送达配送中心？",
+      "options": [
+        "4月19日",
+        "4月20日",
+        "4月21日",
+        "4月18日"
+      ],
+      "answer": 0,
+      "explanation": "通知说明订单#45782预计4月19日星期五送达配送中心（arrive on Friday, April 19）。"
+    },
+    {
+      "id": "toeic-p6-154",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Vendor Update: Office Furniture\n\nAfter careful evaluation, our purchasing department has decided to renew the contract with Apex Office Solutions for another two years. The vendor offered a competitive 15 percent discount on bulk orders placed before the end of the quarter, which will help reduce our overall equipment expenditure. All future furniture requests, including chairs, desks, and filing cabinets, must go through the purchasing portal. Please allow additional processing time for custom configurations.",
+      "question": "批量订单的15%折扣适用于何时前的订单？",
+      "options": [
+        "明年年初",
+        "本季度结束前",
+        "下季度开始前",
+        "年底前"
+      ],
+      "answer": 1,
+      "explanation": "通知说明15%批量折扣适用于本季度结束前（before the end of the quarter）下的订单。"
+    },
+    {
+      "id": "toeic-p6-155",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "To: All Research Scientists\nFrom: Dr. Amanda Torres\nSubject: Laboratory Access After Hours\n\nEffective next week, research staff may request overnight laboratory access for critical experiments that cannot be interrupted. Requests must be submitted to the safety office at least 48 hours in advance and approved by your supervisor before access can be arranged. Security badges will be programmed to grant entry between 8:00 P.M. and 6:00 A.M., and all overnight visitors must sign the logbook at the entrance.",
+      "question": "申请夜间实验准入需提前多久提交？",
+      "options": [
+        "24小时",
+        "36小时",
+        "48小时",
+        "72小时"
+      ],
+      "answer": 2,
+      "explanation": "邮件要求夜间实验室准入申请须至少提前48小时提交（at least 48 hours in advance）。"
+    },
+    {
+      "id": "toeic-p6-156",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Travel Policy Reminder\n\nPer the updated travel policy, employees booking domestic flights must choose the airline with the lowest economy fare available on traveldays.com. Hotel accommodations should not exceed $150 per night, and per diem meals are capped at $50 daily for domestic trips. All travel expenses must be submitted within 14 days of returning to the office, along with itemized receipts. Exceptions require written approval from the finance director before booking.",
+      "question": "酒店住宿每晚上限是多少？",
+      "options": [
+        "$200",
+        "$250",
+        "$100",
+        "$150"
+      ],
+      "answer": 3,
+      "explanation": "差旅政策规定酒店每晚不超过150美元（should not exceed $150 per night）。"
+    },
+    {
+      "id": "toeic-p6-157",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Client Meeting Update\n\nThe quarterly review meeting with GlobalTech Industries has been postponed to avoid a scheduling conflict with their board meeting. The new meeting date is confirmed for June 8 at 3:00 P.M. via video conference, and all participants should join from the main conference room. Meeting links and presentation materials will be sent out next week, and the finance team is preparing the updated performance figures. Please notify the clients' assistant of our availability.",
+      "question": "季度审查会议改期到何时举行？",
+      "options": [
+        "6月8日下午3点",
+        "6月8日上午9点",
+        "6月10日下午3点",
+        "6月5日下午3点"
+      ],
+      "answer": 0,
+      "explanation": "邮件说明会议改期至6月8日下午3点以视频方式进行（June 8 at 3:00 P.M.）。"
+    },
+    {
+      "id": "toeic-p6-158",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Breakroom Policy Update\n\nTo maintain a clean and pleasant environment, the breakroom will be restocked with fresh supplies only on Mondays, Wednesdays, and Fridays by the facilities team. Employees are kindly asked to clean up after themselves and to dispose of perishable food items within 24 hours to prevent odors. Recycling bins are now located next to the regular trash cans in every breakroom. Reports of spills or damaged appliances should be directed to the facilities helpdesk.",
+      "question": "休息室用品的补给日是每周的哪几天？",
+      "options": [
+        "周一和周五",
+        "周一、周三、周五",
+        "周二、周四、周六",
+        "每天"
+      ],
+      "answer": 1,
+      "explanation": "公告说明休息室用品仅在每周一、三、五补充（restocked on Mondays, Wednesdays, and Fridays）。"
+    },
+    {
+      "id": "toeic-p6-159",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Confidential: Merger Announcement\n\nThis memo is to inform you that BetaCorp has officially accepted our acquisition offer after several months of negotiations. Employees will receive a detailed transition plan by the end of the week, outlining the timeline and key milestones. Existing benefits and salary structures will remain unchanged for at least six months, and no layoffs are planned in the near term. Please direct all questions to the merger task force rather than discussing details with external parties.",
+      "question": "现有薪资结构将至少保持不变多长时间？",
+      "options": [
+        "直到并购完成",
+        "三个月",
+        "六个月",
+        "一年"
+      ],
+      "answer": 2,
+      "explanation": "备忘录说明现有薪资与福利结构至少六个月不变（unchanged for at least six months）。"
+    },
+    {
+      "id": "toeic-p6-160",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Product Recall Notice\n\nWe have issued a voluntary recall for Model X-200 coffee makers manufactured between January and March due to a potential overheating issue. Customers who purchased the affected model should stop using it immediately and unplug the appliance, then contact customer service to arrange a full refund or replacement. Returns can be processed at any of our retail locations, and shipping labels for mail-in returns are available on our website. We apologize for any inconvenience this may cause.",
+      "question": "受影响产品的生产时间是？",
+      "options": [
+        "2月至4月",
+        "3月至5月",
+        "去年全年",
+        "1月至3月"
+      ],
+      "answer": 3,
+      "explanation": "召回通知说明受影响产品为1月至3月生产（manufactured between January and March）。"
+    },
+    {
+      "id": "toeic-p6-161",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Employee Recognition\n\nWe would like to congratulate David Park for being named Employee of the Quarter. David has consistently exceeded his sales targets for three consecutive quarters and has also mentored several new team members who have since become top performers. His award ceremony will be held at the Friday all-hands meeting, where he will receive a $500 bonus and a certificate of achievement. Please join us in congratulating David on this well-deserved honor.",
+      "question": "大卫获得什么奖励？",
+      "options": [
+        "$500奖金",
+        "额外休假周",
+        "晋升职位",
+        "带薪假期"
+      ],
+      "answer": 0,
+      "explanation": "公告说明大卫将在全体员工会上获500美元奖金（receive a $500 bonus）。"
+    },
+    {
+      "id": "toeic-p6-162",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "System Maintenance Alert\n\nOur customer support portal will undergo scheduled maintenance this Sunday from 2:00 A.M. to 6:00 A.M. to install critical security updates. During this time, the website will be unavailable for login and ticket submission, and the mobile app will also be affected. Please complete any pending requests before the maintenance window begins and save your work frequently. Emergency support will remain available by phone throughout the maintenance period for urgent issues.",
+      "question": "系统维护预计持续多久？",
+      "options": [
+        "三小时",
+        "四小时",
+        "六小时",
+        "两小时"
+      ],
+      "answer": 1,
+      "explanation": "维护通知写明维护从凌晨2点至6点共四小时（from 2:00 A.M. to 6:00 A.M.）。"
+    },
+    {
+      "id": "toeic-p6-163",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Invitation: Industry Conference\n\nYou are cordially invited to attend the Annual FinTech Summit taking place in Singapore from September 5 to September 7. The company will cover all travel, accommodation, and registration expenses for attending staff, subject to the standard budget limits. Please inform the travel coordinator of your attendance preference by August 15 so that flight and hotel bookings can be arranged well in advance. A draft itinerary will be shared once the confirmation is received.",
+      "question": "员工需在何日前确认是否参会？",
+      "options": [
+        "9月1日",
+        "9月5日",
+        "8月15日",
+        "8月30日"
+      ],
+      "answer": 2,
+      "explanation": "邀请函要求员工于8月15日前告知差旅协调员参会意向（inform by August 15）。"
+    },
+    {
+      "id": "toeic-p6-164",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Office Supplies Reorder Notice\n\nThe office manager will place a routine supply order next Monday to restock essential items including printer paper, ink cartridges, and folders. Employees who need specialty items not on the standard list should submit their requests to Sarah in accounting by this Friday. Requests submitted after the deadline will be processed in the following week's order cycle, so please plan ahead if your team depends on particular materials. The full standard supply list is available on the shared drive.",
+      "question": "特殊用品的申请截止日期是哪天？",
+      "options": [
+        "下周三",
+        "下月底",
+        "下周一",
+        "本周五"
+      ],
+      "answer": 3,
+      "explanation": "通知说明非标准特殊用品申请须在本周五前交（submit their requests by this Friday）。"
+    },
+    {
+      "id": "toeic-p6-165",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Cybersecurity Training Reminder\n\nAll employees are required to complete the mandatory cybersecurity awareness training course by the end of the month. This refresher course covers phishing detection, password management, and secure data handling, and it takes roughly forty-five minutes to finish. Completion will be tracked automatically in the learning system, and managers will receive a report listing outstanding employees next week. If you experience technical difficulties accessing the course, contact the IT help desk for support.",
+      "question": "网络安全培训应在何时完成？",
+      "options": [
+        "本月月底前",
+        "下月初",
+        "下个季度",
+        "本周末前"
+      ],
+      "answer": 0,
+      "explanation": "提醒说明网络安全培训须在月底前完成（by the end of the month）。"
+    },
+    {
+      "id": "toeic-p6-166",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Facility Tour Invitation\n\nAn open house day at our headquarters will be held on Saturday, August 17, to welcome potential clients and community partners. Tours will begin at 10:00 A.M. and continue throughout the day, with refreshments served in the main lobby. Guests must register online in advance and present their confirmation email at the front desk for badge pickup. Employees who wish to volunteer as tour guides are encouraged to sign up with the reception team by August 10.",
+      "question": "总部开放日在什么时候举行？",
+      "options": [
+        "8月10日",
+        "8月17日",
+        "9月17日",
+        "8月24日"
+      ],
+      "answer": 1,
+      "explanation": "邀请函写明总部开放日定于8月17日（held on Saturday, August 17）。"
+    },
+    {
+      "id": "toeic-p6-167",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Budget Allocation Update\n\nThe finance department has approved additional funding for the digital transformation initiative to accelerate its rollout. An extra $200,000 has been allocated to upgrade our legacy systems and invest in cloud-based collaboration tools for all departments. Project managers should submit revised timelines and spending plans to the CFO by the end of this month for final approval. Progress reports on the new systems will be presented at the next board meeting.",
+      "question": "数字化转型获得了多少额外资金？",
+      "options": [
+        "$100,000",
+        "$150,000",
+        "$200,000",
+        "$250,000"
+      ],
+      "answer": 2,
+      "explanation": "通知说明数字化转型获得额外20万美元拨款（An extra $200,000）。"
+    },
+    {
+      "id": "toeic-p6-168",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Weekend Event: Charity Run\n\nJoin us for the annual corporate charity run supporting local food banks and community programs. The event takes place on Sunday, October 22, starting at 7:00 A.M. at City Hall Park, where the starting line and registration tents will be set up. Participants can choose between a 5K or 10K route, and both courses are suitable for runners of all fitness levels. Registration fees go directly to the charity, and all runners receive a commemorative T-shirt at the finish line.",
+      "question": "慈善跑步活动在哪里开始？",
+      "options": [
+        "公司停车场",
+        "社区体育中心",
+        "市中心健身房",
+        "城市大厅公园"
+      ],
+      "answer": 3,
+      "explanation": "公告说明慈善跑从City Hall Park（市政厅公园）出发（starting at City Hall Park）。"
+    },
+    {
+      "id": "toeic-p6-169",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Software License Renewal\n\nOur enterprise software licenses will expire on June 30 unless renewed before the end of May, so please take note of this important deadline. The IT team has begun preparing the renewal documentation and will contact department managers for budget confirmation over the next two weeks. Please do not ignore emails from the IT procurement desk regarding this matter, as failure to renew could interrupt access for your entire department. Contact the IT service desk if you need any clarification.",
+      "question": "软件许可在何时到期？",
+      "options": [
+        "6月30日",
+        "7月1日",
+        "6月15日",
+        "5月31日"
+      ],
+      "answer": 0,
+      "explanation": "通知提示软件许可将于6月30日到期（will expire on June 30）。"
+    },
+    {
+      "id": "toeic-p6-170",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Cafeteria Menu Change\n\nStarting Monday, our cafeteria will introduce a new healthy lunch program featuring fresh salads, grilled proteins, and whole-grain options prepared by our in-house chefs. The new menu items will be priced at the same rates as current offerings, so there will be no additional cost to employees. A full menu preview will be available on the cafeteria website for review before the launch date. Feedback forms will be placed on every table for the first two weeks of the program.",
+      "question": "新午餐计划什么时候开始？",
+      "options": [
+        "下个月初",
+        "下周一",
+        "下周二",
+        "本周末"
+      ],
+      "answer": 1,
+      "explanation": "公告说明新健康午餐计划从周一开始推出（Starting Monday）。"
+    },
+    {
+      "id": "toeic-p6-171",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "International Conference Sponsorship\n\nThe board has approved sponsorship of the Global Sustainability Forum to be held next year in Copenhagen, Denmark. Up to three employees per department may apply to attend the three-day event, and priority will be given to staff presenting research or leading delegation work. Applications with supporting materials are due by November 1, and selections will be announced two weeks later. Approved attendees must submit a post-conference report within one month of returning.",
+      "question": "会议申请材料的截止日期是哪天？",
+      "options": [
+        "10月1日",
+        "10月15日",
+        "11月1日",
+        "11月15日"
+      ],
+      "answer": 2,
+      "explanation": "通知说明国际会议申请材料须于11月1日前提交（due by November 1）。"
+    },
+    {
+      "id": "toeic-p6-172",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Parking Enforcement Notice\n\nThe security team has noticed an increase in unauthorized vehicles parked in reserved spots and fire lanes. As of next Monday, violators will receive a warning notice on their windshield, and repeat offenders within 30 days will have their vehicles towed at their own expense. Please display your permit visibly at all times and park only in designated areas. Questions about this policy can be directed to the security office during regular business hours.",
+      "question": "违规停车在30天内第二次被发现会怎样？",
+      "options": [
+        "罚款$100",
+        "口头警告",
+        "书面警告",
+        "车辆被拖走"
+      ],
+      "answer": 3,
+      "explanation": "通知说明30天内重复违规车辆将被拖走且费用自负（repeat offenders within 30 days will be towed）。"
+    },
+    {
+      "id": "toeic-p6-173",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "New Service Offering\n\nWe are pleased to announce that our logistics division will begin offering same-day delivery for orders placed before noon on business days. This premium service is currently available in the Greater Metro area and requires a 20 percent surcharge on the standard shipping fee. Customers can request this option during checkout or by contacting their account manager directly. The service is expected to expand to neighboring cities in the following quarter.",
+      "question": "当日达服务的下单截止时间是？",
+      "options": [
+        "中午12点",
+        "下午2点",
+        "下午5点",
+        "上午9点"
+      ],
+      "answer": 0,
+      "explanation": "公告说明当日达面向中午12点前（before noon）的订单。"
+    },
+    {
+      "id": "toeic-p6-174",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Volunteer Program Launch\n\nThe company is launching a new employee volunteer program that allows staff to take paid time off to support charitable organizations of their choice. Under the program, employees may use up to 16 hours of paid volunteer leave per calendar year, and the time must be approved in advance by the department manager. Program coordinators will host an information session on the third Wednesday of next month to answer questions and provide guidance on eligible organizations.",
+      "question": "员工每年最多可使用多少小时带薪志愿假？",
+      "options": [
+        "12小时",
+        "16小时",
+        "24小时",
+        "8小时"
+      ],
+      "answer": 1,
+      "explanation": "通知说明员工每年最多可用16小时带薪志愿假（up to 16 hours per calendar year）。"
+    },
+    {
+      "id": "toeic-p6-175",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Website Migration Notice\n\nOur customer portal will be relocated to a new domain name on Friday evening as part of a company-wide website upgrade. During the migration window from 11:00 P.M. to 5:00 A.M., the site will be inaccessible, and users may experience brief interruptions in email notifications. Customers will need to update their bookmarks to the new address, which will be published on our social media channels on Thursday. All account information will be transferred automatically without any action required.",
+      "question": "网站迁移窗口在何时开始？",
+      "options": [
+        "周六凌晨5点",
+        "周五上午11点",
+        "周五晚上11点",
+        "周六凌晨1点"
+      ],
+      "answer": 2,
+      "explanation": "通知说明迁移窗口从周五晚11点开始（from 11:00 P.M. on Friday evening）。"
+    },
+    {
+      "id": "toeic-p6-176",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Quarterly Earnings Call\n\nInvestors are invited to join our Q3 earnings conference call on November 14 at 9:00 A.M. Eastern Time to review the company's financial results and business outlook. The webcast will be available live on our investor relations page, and a recorded version will be archived there for 90 days after the event. A transcript of the call will be published alongside the earnings release on the same day. Registration is not required for participation.",
+      "question": "业绩电话会议在何时举行？",
+      "options": [
+        "11月14日下午3点",
+        "11月21日上午9点",
+        "11月7日上午9点",
+        "11月14日上午9点"
+      ],
+      "answer": 3,
+      "explanation": "公告写明业绩电话会议于11月14日上午9点举行（on November 14 at 9:00 A.M.）。"
+    },
+    {
+      "id": "toeic-p6-177",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Data Backup Policy Change\n\nEffective immediately, all departmental servers must run automated backups twice daily instead of once daily to better protect against data loss. The previous backup time was 2:00 A.M.; the new schedule includes an additional 2:00 P.M. backup so that the most recent work is always preserved. IT will send a confirmation email once each department's backup status is verified, and any failures will be reported within the hour. Please contact the help desk if you have questions about the new schedule.",
+      "question": "现在服务器每天备份几次？",
+      "options": [
+        "两次",
+        "三次",
+        "四次",
+        "一次"
+      ],
+      "answer": 0,
+      "explanation": "通知说明服务器改为每日两次自动备份（run automated backups twice daily）。"
+    },
+    {
+      "id": "toeic-p6-178",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 6,
+      "passage": "Product Warranty Extension\n\nDue to extended shipping delays during the holiday season, we are automatically extending the warranty period for all electronics ordered during that time. The new warranty expires one year from the actual delivery date rather than the purchase date, giving customers the full benefit of their coverage. Customers will receive a confirmation email with their updated warranty details within the next two weeks. No action is required on your part, and existing repair appointments remain unaffected.",
+      "question": "延保期从何时开始计算？",
+      "options": [
+        "实际发货日",
+        "实际送达日",
+        "购买日期",
+        "订单日期"
+      ],
+      "answer": 1,
+      "explanation": "公告说明延保期自实际送达日起算一年（one year from the actual delivery date）。"
+    }
+  ]
+}

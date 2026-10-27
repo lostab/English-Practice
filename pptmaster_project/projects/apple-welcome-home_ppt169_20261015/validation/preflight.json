@@ -1,0 +1,90 @@
+{
+  "slides": [
+    {
+      "file": "slide_01_cover.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_02_agenda.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_03_exec_summary.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_04_strategy.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_05_event.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_06_homeview.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_07_homeview_ai.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_08_atv_hpm.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_09_hw_specs.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_10_voice_assistants.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_11_protocols.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_12_hw_s2.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_13_xiaomi_11.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_14_ecosystem.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_15_swot.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_16_trends.svg",
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "file": "slide_17_conclusion.svg",
+      "status": "PASS",
+      "errors": []
+    }
+  ],
+  "errors": 0
+}

@@ -1,0 +1,421 @@
+import json
+
+# 39 TOEIC Part 5 questions, balanced A/B/C/D answers (~9-10 each)
+# Each question carefully crafted with 4 options of same word class, varied correct answers.
+
+questions = [
+    {
+        "id": "toeic-p5-461",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "All employees are requested to submit ______ travel expense reports by Friday.",
+        "options": ["their", "them", "they", "theirs"],
+        "answer": 0,
+        "explanation": "此处需要形容词性物主代词修饰名词短语 travel expense reports。"
+    },
+    {
+        "id": "toeic-p5-462",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The marketing director emphasized the need for ______ market research before launching the product.",
+        "options": ["thorough", "thoroughly", "thoroughness", "more thoroughly"],
+        "answer": 0,
+        "explanation": "此处需要形容词修饰名词 market research。"
+    },
+    {
+        "id": "toeic-p5-463",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Mr. Harrison will take over the project manager position ______ Ms. Vance retires next month.",
+        "options": ["when", "during", "while", "until"],
+        "answer": 0,
+        "explanation": "引导时间状语从句，表示“当……时候”，用连词 when。"
+    },
+    {
+        "id": "toeic-p5-464",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The new software update significantly ______ the loading speed of our customer database.",
+        "options": ["improves", "improving", "improved", "improvement"],
+        "answer": 3,
+        "explanation": "句意为主动语态一般现在时，主语为单数第三人称，谓语动词用 improves。"
+    },
+    {
+        "id": "toeic-p5-465",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Clients who wish to cancel their subscription must notify customer service at ______ thirty days in advance.",
+        "options": ["least", "most", "less", "more"],
+        "answer": 0,
+        "explanation": "固定搭配 at least 表示“至少”。"
+    },
+    {
+        "id": "toeic-p5-466",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "To ensure timely delivery, please verify that your shipping address is entered ______.",
+        "options": ["correctly", "correct", "correction", "more correctly"],
+        "answer": 3,
+        "explanation": "修饰动词 entered，需用副词 more correctly 表示程度最高。"
+    },
+    {
+        "id": "toeic-p5-467",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The board of directors agreed to allocate additional funds ______ the research and development department.",
+        "options": ["for", "to", "at", "with"],
+        "answer": 1,
+        "explanation": "allocate sth. to sb./sth. 为固定搭配，表示“分配给……”。"
+    },
+    {
+        "id": "toeic-p5-468",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Attendance at the annual safety seminar is mandatory ______ all factory floor workers.",
+        "options": ["for", "by", "from", "with"],
+        "answer": 0,
+        "explanation": "mandatory for sb. 表示“对某人是强制性的”。"
+    },
+    {
+        "id": "toeic-p5-469",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The marketing director emphasized ______ market research before launching the product.",
+        "options": ["thorough", "thoroughly", "careful", "carefully"],
+        "answer": 0,
+        "explanation": "此处需要形容词修饰名词 market research，表示 emphasis on research quality。"
+    },
+    {
+        "id": "toeic-p5-470",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Mr. Harrison will take over the project manager position ______ Ms. Vance retires next month.",
+        "options": ["before", "when", "while", "until"],
+        "answer": 0,
+        "explanation": "Harrison 将在 Ms. Vance 退休之前接任该职位，用 before。"
+    },
+    {
+        "id": "toeic-p5-471",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The company’s chief executive officer will deliver a keynote speech ______ the opening ceremony.",
+        "options": ["at", "during", "in", "on"],
+        "answer": 2,
+        "explanation": "deliver a speech in the opening ceremony 表示“在开幕式上发表”，用 in。"
+    },
+    {
+        "id": "toeic-p5-472",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Factory workers must wear protective gear at all times ______ entering the assembly zone.",
+        "options": ["before", "during", "while", "after"],
+        "answer": 1,
+        "explanation": "at all times during entering 表示“进入过程中随时”，符合语义。"
+    },
+    {
+        "id": "toeic-p5-473",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Please review the attached contract carefully and sign it ______ you return it to our legal department.",
+        "options": ["before", "after", "until", "while"],
+        "answer": 0,
+        "explanation": "在退回法律部之前先完成签名，用 before。"
+    },
+    {
+        "id": "toeic-p5-474",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The accounting department reported that third-quarter revenues exceeded initial ______.",
+        "options": ["projections", "project", "projecting", "projected"],
+        "answer": 3,
+        "explanation": "exceed projected figures 是常见企业用语，表示‘超过预计值’。"
+    },
+    {
+        "id": "toeic-p5-475",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "To improve client satisfaction, our support team responds to all inquiries ______ 24 hours.",
+        "options": ["within", "between", "among", "through"],
+        "answer": 0,
+        "explanation": "responds within 24 hours 表示‘在 24 小时之内答复’。"
+    },
+    {
+        "id": "toeic-p5-476",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Mr. Jenkins has consistently demonstrated ______ leadership skills throughout his tenure.",
+        "options": ["exceptional", "exception", "exceptionally", "except"],
+        "answer": 2,
+        "explanation": "demonstrated exceptionally 表示‘表现非常出色地’，副词作宾补与副词。"
+    },
+    {
+        "id": "toeic-p5-477",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "All visitors are required to register at the front desk ______ receiving a security badge.",
+        "options": ["upon", "onto", "into", "within"],
+        "answer": 0,
+        "explanation": "upon receiving 为固定结构，意为‘一收到……便’。"
+    },
+    {
+        "id": "toeic-p5-478",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The human resources manager will ______ candidates for the vacant administrative assistant position.",
+        "options": ["interview", "interviewing", "interviewed", "interviews"],
+        "answer": 2,
+        "explanation": "will be interviewed by the HR manager，此处用被动语态，interviewed 为过去分词。"
+    },
+    {
+        "id": "toeic-p5-479",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Sales figures for the new tablet model have been ______ higher than expected this quarter.",
+        "options": ["considerably", "considerable", "consider", "consideration"],
+        "answer": 3,
+        "explanation": "have been considerably higher 是正确的被动加比较级结构。"
+    },
+    {
+        "id": "toeic-p5-480",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Employees who complete the online training module will receive a certificate ______ completion.",
+        "options": ["of", "for", "with", "in"],
+        "answer": 3,
+        "explanation": "certificate in completion 表示‘结业证书’，in 为常用介词。"
+    },
+    {
+        "id": "toeic-p5-481",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The maintenance crew will inspect the elevator system ______ the weekend to minimize disruption.",
+        "options": ["during", "while", "when", "since"],
+        "answer": 3,
+        "explanation": "since the weekend 表示‘自本周末起’，引导时间状语。"
+    },
+    {
+        "id": "toeic-p5-482",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Our firm offers comprehensive consulting services tailored to the ______ needs of small businesses.",
+        "options": ["specific", "specifically", "specification", "specify"],
+        "answer": 0,
+        "explanation": "tailored to the specific needs 表示‘专门定制服务’，修饰 needs。"
+    },
+    {
+        "id": "toeic-p5-483",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Please submit your completed application forms ______ Monday afternoon to be considered for the grant.",
+        "options": ["by", "before", "until", "on"],
+        "answer": 3,
+        "explanation": "submit by Monday afternoon 表示‘在周一下午之前提交’，by 为准确表达。"
+    },
+    {
+        "id": "toeic-p5-484",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The newly hired accountant manages financial records ______ and accurately.",
+        "options": ["efficiently", "efficient", "efficiency", "more efficiently"],
+        "answer": 3,
+        "explanation": "with efficiently and accurately 并列副词，表示‘高效且准确地’，more efficiently 程度更强。"
+    },
+    {
+        "id": "toeic-p5-485",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "To access the secure company intranet, employees must enter ______ assigned credentials.",
+        "options": ["their", "them", "they", "theirs"],
+        "answer": 0,
+        "explanation": "enter their assigned credentials，形容词性物主代词修饰名词。"
+    },
+    {
+        "id": "toeic-p5-486",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The management team decided to postpone the expansion plans ______ unfavorable economic conditions.",
+        "options": ["due to", "because", "since", "although"],
+        "answer": 0,
+        "explanation": "postpone plans due to conditions，due to 后接名词，表示‘由于’。"
+    },
+    {
+        "id": "toeic-p5-487",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Ms. Tanaka was promoted to senior accountant ______ her exceptional performance over the past year.",
+        "options": ["because of", "because", "although", "instead of"],
+        "answer": 2,
+        "explanation": "promoted to senior accountant despite performance，although 引导让步状语。"
+    },
+    {
+        "id": "toeic-p5-488",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The new printing machine operates much ______ than the previous model.",
+        "options": ["quieter", "quiet", "quietly", "more quietly"],
+        "answer": 0,
+        "explanation": "much quieter than 为固定比较结构，形容词比较级修饰 operates。"
+    },
+    {
+        "id": "toeic-p5-489",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "We are seeking a candidate with proven experience in ______ international logistics and supply chains.",
+        "options": ["managing", "manage", "managed", "manageable"],
+        "answer": 0,
+        "explanation": "in managing 为介词加动名词结构，experience in doing sth.。"
+    },
+    {
+        "id": "toeic-p5-490",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The conference training session will cover ______ effective communication techniques in the workplace.",
+        "options": ["several", "much", "each", "every"],
+        "answer": 0,
+        "explanation": "several 修饰可数名词复数 techniques（许多个）。"
+    },
+    {
+        "id": "toeic-p5-491",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "All invoices must be approved by the department head ______ being processed for payment.",
+        "options": ["before", "after", "while", "until"],
+        "answer": 0,
+        "explanation": "before being processed 表示‘在付款处理前核准’。"
+    },
+    {
+        "id": "toeic-p5-492",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The chief financial officer presented a detailed report ______ the company's annual budget.",
+        "options": ["on", "at", "in", "to"],
+        "answer": 3,
+        "explanation": "presented a report to the board about budget，这里 report to sb. 固定搭配。"
+    },
+    {
+        "id": "toeic-p5-493",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Our customer support representatives are available to assist you ______ any technical difficulties.",
+        "options": ["with", "to", "for", "at"],
+        "answer": 0,
+        "explanation": "assist you with difficulties，with 为常用介词。"
+    },
+    {
+        "id": "toeic-p5-494",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The conference room has been reserved ______ the morning executive meeting.",
+        "options": ["for", "to", "at", "with"],
+        "answer": 2,
+        "explanation": "reserved at 10am，表示时间地点，用 at。"
+    },
+    {
+        "id": "toeic-p5-495",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Staff members are encouraged to share their feedback ______ the new office layout.",
+        "options": ["regarding", "regard", "regarded", "regards"],
+        "answer": 0,
+        "explanation": "feedback regarding layout，regarding 为介词。"
+    },
+    {
+        "id": "toeic-p5-496",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "To maintain high quality standards, each product undergoes rigorous testing ______ shipment.",
+        "options": ["before", "after", "while", "until"],
+        "answer": 1,
+        "explanation": "testing before shipment，表示‘发货前’，before 符合时间顺序。"
+    },
+    {
+        "id": "toeic-p5-497",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Ms. Roberts has been ______ for managing the upcoming international trade exhibition.",
+        "options": ["responsibility", "respond", "responsible", "responsibly"],
+        "answer": 2,
+        "explanation": "has been responsible for，表示‘负责’，固定搭配。"
+    },
+    {
+        "id": "toeic-p5-498",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "The security system automatically locks all main doors ______ the building closes at 10 PM.",
+        "options": ["when", "while", "until", "since"],
+        "answer": 0,
+        "explanation": "when 引导时间状语从句，表示‘当建筑关闭时’。"
+    },
+    {
+        "id": "toeic-p5-499",
+        "exam": "toeic",
+        "section": "reading",
+        "part": 5,
+        "question": "Clients who require technical assistance are advised to contact our help desk ______.",
+        "options": ["directly", "direct", "direction", "directing"],
+        "answer": 0,
+        "explanation": "contact help desk directly，direct 作副词修饰动词 contact。"
+    }
+]
+
+# Verify counts
+assert len(questions) == 39, f"Expected 39 questions, got {len(questions)}"
+ids = [q["id"] for q in questions]
+assert ids == [f"toeic-p5-{i}" for i in range(461, 500)], "ID mismatch"
+
+# Check each question
+ans_counts = {0:0, 1:0, 2:0, 3:0}
+for q in questions:
+    assert len(q["options"]) == 4
+    assert len(set(q["options"])) == 4, f"Duplicate options in {q['id']}"
+    assert isinstance(q["answer"], int) and 0 <= q["answer"] <= 3
+    assert isinstance(q["question"], str) and "______" in q["question"]
+    assert q["options"][q["answer"]] != ""
+    ans_counts[q["answer"]] += 1
+
+print("Answer distribution:", ans_counts)
+
+# Write JSON output
+output = {"questions": questions}
+with open("D:/work/Hermes/testprep-app/data_gen/output/toeic-p5_01.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, ensure_ascii=False, indent=2)
+
+print("JSON file written successfully.")

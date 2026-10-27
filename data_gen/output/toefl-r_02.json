@@ -1,0 +1,532 @@
+{
+  "questions": [
+    {
+      "id": "toefl-r-186",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "According to the passage, what is a key advantage of solar PV systems compared to fossil fuel plants?",
+      "options": [
+        "They have no moving parts and require minimal maintenance",
+        "They produce more electricity per acre of land",
+        "They are cheaper to build than any other energy source",
+        "They can generate electricity at night without batteries"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 solar panels have no moving parts, requiring minimal maintenance once installed，故选A。"
+    },
+    {
+      "id": "toefl-r-187",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "The word 'harnessed' in line 2 is closest in meaning to:",
+      "options": [
+        "observed",
+        "used effectively",
+        "studied extensively",
+        "controlled carefully"
+      ],
+      "answer": 1,
+      "explanation": "harnessed 表示将太阳能有效利用，故选B。"
+    },
+    {
+      "id": "toefl-r-188",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "Which factor does the passage cite as responsible for solar energy becoming economically viable?",
+      "options": [
+        "Government subsidies for renewable technology",
+        "The discovery of the photovoltaic effect",
+        "Falling costs",
+        "Improved efficiency of fossil fuels"
+      ],
+      "answer": 2,
+      "explanation": "文章提到 falling costs combined with increasing efficiency，故选C。"
+    },
+    {
+      "id": "toefl-r-189",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "The passage states that solar PV technology was discovered when?",
+      "options": [
+        "Over 50 years ago",
+        "Recently made economically viable",
+        "Only after fossil fuels became scarce",
+        "During the past decade"
+      ],
+      "answer": 0,
+      "explanation": "passage 提到 the photovoltaic effect was discovered over 50 years ago，故选A。"
+    },
+    {
+      "id": "toefl-r-190",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "Which of the following can be inferred from the passage?",
+      "options": [
+        "Solar power is more efficient than all other renewable sources",
+        "Fossil fuel plants will be completely replaced within a decade",
+        "Solar energy helps countries reduce reliance on imported fuels",
+        "All residential rooftops are suitable for solar installations"
+      ],
+      "answer": 2,
+      "explanation": "文章提到 solar energy helps reduce dependence on imported fuels，故选C。"
+    },
+    {
+      "id": "toefl-r-191",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "What does the phrase 'scalable electricity generation' in line 4 imply?",
+      "options": [
+        "Solar power can only be used at industrial scales",
+        "The technology works only in specific climates",
+        "Solar systems can vary in size from residential to utility-scale",
+        "Electricity generation is becoming less reliable"
+      ],
+      "answer": 2,
+      "explanation": "文章提到 solar power can be deployed at various scales, from small residential rooftop installations to large utility-scale farms，故选C。"
+    },
+    {
+      "id": "toefl-r-192",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Solar photovoltaic (PV) technology converts sunlight directly into electricity via the photovoltaic effect, a phenomenon observed for over a century but only recently harnessed commercially. Modern PV modules consist of semiconductor layers that generate electric current when photons dislodge electrons. Unlike fossil fuel plants, solar panels have no moving parts, reducing mechanical failure and maintenance costs. They can be installed on rooftops or in large desert farms, providing scalable electricity generation. The cost of solar modules has dropped over 90% in the past decade, making solar competitive with coal in many regions. Furthermore, solar energy reduces greenhouse gas emissions and dependence on imported fuels, supporting national climate targets.",
+      "question": "The author's attitude toward solar PV technology is best described as:",
+      "options": [
+        "Skeptical of its long-term potential",
+        "Neutral toward its development",
+        "Optimistic about its future",
+        "Critical of its current limitations"
+      ],
+      "answer": 2,
+      "explanation": "作者积极评价 solar energy 的优势，态度乐观，故选C。"
+    },
+    {
+      "id": "toefl-r-193",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "According to the passage, how many neurons does the human brain contain?",
+      "options": [
+        "Approximately 50 billion",
+        "Approximately 86 billion",
+        "Exactly 100 billion",
+        "More than 100 billion"
+      ],
+      "answer": 1,
+      "explanation": "文章明确指出 The human brain contains approximately 86 billion neurons，故选B。"
+    },
+    {
+      "id": "toefl-r-194",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "Which statement about synaptic connections is mentioned in the passage?",
+      "options": [
+        "They are only active during sleep",
+        "They enable memory formation and learning",
+        "They are unique to humans",
+        "They decrease throughout life"
+      ],
+      "answer": 1,
+      "explanation": "文章提到 These networks enable complex processes such as memory formation, learning，故选B。"
+    },
+    {
+      "id": "toefl-r-195",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "What is the primary purpose of functional MRI according to the passage?",
+      "options": [
+        "To stimulate neuron growth",
+        "To observe which brain regions activate during tasks",
+        "To replace damaged synaptic connections",
+        "To diagnose all neurological disorders"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 Neuroscientists use functional MRI to observe which brain regions activate during specific tasks，故选B。"
+    },
+    {
+      "id": "toefl-r-196",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "According to the passage, when does neuroplasticity occur most prominently?",
+      "options": [
+        "Only in adulthood",
+        "Especially in childhood",
+        "Rarely at any age",
+        "Consistently throughout life"
+      ],
+      "answer": 1,
+      "explanation": "文章提到 Neuroplasticity is especially active in childhood，故选B。"
+    },
+    {
+      "id": "toefl-r-197",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "Which of the following is true about Alzheimer's disease according to the passage?",
+      "options": [
+        "It improves memory function",
+        "It involves neuron loss and synaptic degradation",
+        "It only affects adults over 60",
+        "It is caused by lack of sleep"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 Alzheimer's disease involve progressive neuron loss and synaptic degradation，故选B。"
+    },
+    {
+      "id": "toefl-r-198",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "The word 'degradation' in line 6 is closest in meaning to:",
+      "options": [
+        "Improvement",
+        "Removal",
+        "Deterioration",
+        "Stabilization"
+      ],
+      "answer": 2,
+      "explanation": "degradation 表示恶化、退化，故选C。"
+    },
+    {
+      "id": "toefl-r-199",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The human brain contains approximately 86 billion neurons, each forming thousands of synaptic connections. These networks enable complex processes such as memory formation, learning, and decision-making. Neuroscientists use functional MRI to observe which brain regions activate during specific tasks, mapping cognitive functions to anatomical areas. Neuroplasticity allows the brain to reorganize itself after injury or in response to experience, especially in childhood. Disorders like Alzheimer's disease involve progressive neuron loss and synaptic degradation, leading to memory loss and cognitive decline. Recent pharmacological interventions aim to slow neurodegeneration by enhancing synaptic resilience.",
+      "question": "What is the main purpose of the passage?",
+      "options": [
+        "To argue against brain research funding",
+        "To describe the human brain and recent scientific findings",
+        "To diagnose specific neurological conditions",
+        "To compare brain size across species"
+      ],
+      "answer": 1,
+      "explanation": "文章主要描述大脑结构和神经科学研究进展，故选B。"
+    },
+    {
+      "id": "toefl-r-200",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "World population reached 8 billion in November 2022, up from 2.5 billion in 1950. This rapid growth strains natural resources, particularly freshwater, arable land, and energy. The United Nations projects a peak of around 10.4 billion by the 2080s, followed by a possible decline. Factors influencing fertility rates include education levels, women's workforce participation, and access to contraception. Aging populations in high-income countries contrast with youthful demographics in many developing nations, creating divergent economic and social challenges. Sustainable development goals aim to balance population trends with environmental preservation.",
+      "question": "According to the passage, when is the world population projected to peak?",
+      "options": [
+        "2050",
+        "2080s",
+        "2100",
+        "2150"
+      ],
+      "answer": 1,
+      "explanation": "文章提到 population peak of around 10.4 billion by the 2080s，故选B。"
+    },
+    {
+      "id": "toefl-r-201",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "World population reached 8 billion in November 2022, up from 2.5 billion in 1950. This rapid growth strains natural resources, particularly freshwater, arable land, and energy. The United Nations projects a peak of around 10.4 billion by the 2080s, followed by a possible decline. Factors influencing fertility rates include education levels, women's workforce participation, and access to contraception. Aging populations in high-income countries contrast with youthful demographics in many developing nations, creating divergent economic and social challenges. Sustainable development goals aim to balance population trends with environmental preservation.",
+      "question": "Which factor is NOT mentioned in the passage as influencing fertility rates?",
+      "options": [
+        "Education levels",
+        "Women's workforce participation",
+        "Access to contraception",
+        "Religious beliefs"
+      ],
+      "answer": 3,
+      "explanation": "文章提到了 education, women's participation, contraception，但未提 Religious beliefs，故选D。"
+    },
+    {
+      "id": "toefl-r-202",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "World population reached 8 billion in November 2022, up from 2.5 billion in 1950. This rapid growth strains natural resources, particularly freshwater, arable land, and energy. The United Nations projects a peak of around 10.4 billion by the 2080s, followed by a possible decline. Factors influencing fertility rates include education levels, women's workforce participation, and access to contraception. Aging populations in high-income countries contrast with youthful demographics in many developing nations, creating divergent economic and social challenges. Sustainable development goals aim to balance population trends with environmental preservation.",
+      "question": "What is the main topic discussed in the passage?",
+      "options": [
+        "The benefits of large families",
+        "Trends and challenges of global population growth",
+        "Methods of population control",
+        "The history of the United Nations"
+      ],
+      "answer": 1,
+      "explanation": "文章主要讨论世界人口增长趋势及面临的挑战，故选B。"
+    },
+    {
+      "id": "toefl-r-203",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "World population reached 8 billion in November 2022, up from 2.5 billion in 1950. This rapid growth strains natural resources, particularly freshwater, arable land, and energy. The United Nations projects a peak of around 10.4 billion by the 2080s, followed by a possible decline. Factors influencing fertility rates include education levels, women's workforce participation, and access to contraception. Aging populations in high-income countries contrast with youthful demographics in many developing nations, creating divergent economic and social challenges. Sustainable development goals aim to balance population trends with environmental preservation.",
+      "question": "According to the passage, which demographic trend contrasts high-income countries with developing nations?",
+      "options": [
+        "Urbanization rates",
+        "Levels of technological adoption",
+        "Youth versus aging populations",
+        "Rates of internet usage"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 Aging populations in high-income countries contrast with youthful demographics in many developing nations，故选C。"
+    },
+    {
+      "id": "toefl-r-204",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "World population reached 8 billion in November 2022, up from 2.5 billion in 1950. This rapid growth strains natural resources, particularly freshwater, arable land, and energy. The United Nations projects a peak of around 10.4 billion by the 2080s, followed by a possible decline. Factors influencing fertility rates include education levels, women's workforce participation, and access to contraception. Aging populations in high-income countries contrast with youthful demographics in many developing nations, creating divergent economic and social challenges. Sustainable development goals aim to balance population trends with environmental preservation.",
+      "question": "The word 'strains' in line 2 most nearly means:",
+      "options": [
+        "Enriches",
+        "Depletes",
+        "Pressurizes",
+        "Supplements"
+      ],
+      "answer": 2,
+      "explanation": "strains 在这里表示对资源造成压力，故选C。"
+    },
+    {
+      "id": "toefl-r-205",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "According to the passage, what major discovery did Hubble's observations confirm?",
+      "options": [
+        "The existence of black holes",
+        "The accelerating expansion of the universe",
+        "The formation of new galaxies",
+        "The presence of dark matter"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 Hubble's observations confirmed the accelerating expansion of the universe，故选B。"
+    },
+    {
+      "id": "toefl-r-206",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "What is the primary purpose of Hubble's wide-field cameras according to the passage?",
+      "options": [
+        "To capture images of the Milky Way",
+        "To monitor exoplanet transits",
+        "To detect black holes",
+        "To measure planetary temperatures"
+      ],
+      "answer": 1,
+      "explanation": "文章提到 wide-field cameras monitor exoplanet transits，故选B。"
+    },
+    {
+      "id": "toefl-r-207",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "The phrase 'nebular birth to supernova death' in line 4 implies:",
+      "options": [
+        "Stars are born from nebulae and die in supernova explosions",
+        "Stars are only born from nebulae",
+        "Stars have no death",
+        "Supernova explosions create nebulae"
+      ],
+      "answer": 0,
+      "explanation": "nebular birth 表示星云形成恒星，supernova death 表示超新星死亡，故选A。"
+    },
+    {
+      "id": "toefl-r-208",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "When was the Hubble Space Telescope launched?",
+      "options": [
+        "1985",
+        "1990",
+        "2000",
+        "2010"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 Hubble launched in 1990，故选B。"
+    },
+    {
+      "id": "toefl-r-209",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "According to the passage, what does the 'dark energy hypothesis' refer to?",
+      "options": [
+        "Energy produced by dark matter",
+        "A theory that explains the universe's accelerating expansion",
+        "Energy used to power telescopes",
+        "A hypothesis about dark planets"
+      ],
+      "answer": 1,
+      "explanation": "文章提到 dark energy hypothesis refers to the accelerating expansion of the universe，故选B。"
+    },
+    {
+      "id": "toefl-r-210",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "What does the passage suggest about Hubble's legacy?",
+      "options": [
+        "It is completely outdated and no longer useful",
+        "Its legacy data continue to drive research in cosmology and planetary science",
+        "It has been replaced by newer telescopes entirely",
+        "It only contributed to astronomy, not planetary science"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 its legacy data continue to drive research in cosmology and planetary science，故选B。"
+    },
+    {
+      "id": "toefl-r-211",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Hubble Space Telescope, launched in 1990, has revolutionized astronomy by providing deep-field images unobstructed by Earth's atmosphere. Its observations confirmed the accelerating expansion of the universe, supporting the dark energy hypothesis. Hubble has measured the age of the universe at approximately 13.8 billion years and captured the lifecycle of stars from nebular birth to supernova death. The telescope's wide-field cameras monitor exoplanet transits, contributing to the search for habitable worlds. Although scheduled for retirement, its legacy data continue to drive research in cosmology and planetary science.",
+      "question": "The word 'unobstructed' in line 2 most nearly means:",
+      "options": [
+        "Blocked",
+        "Clear",
+        "Hidden",
+        "Reflected"
+      ],
+      "answer": 1,
+      "explanation": "unobstructed 表示不受阻碍，清楚，故选B。"
+    },
+    {
+      "id": "toefl-r-212",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "According to the passage, which two countries are the leading coffee producers?",
+      "options": [
+        "Ethiopia and Indonesia",
+        "Brazil and Vietnam",
+        "Colombia and Mexico",
+        "Uganda and Yemen"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 Brazil and Vietnam as the leading producers，故选B。"
+    },
+    {
+      "id": "toefl-r-213",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "The word 'stimulant' in line 3 most nearly means:",
+      "options": [
+        "Depressant",
+        "Activator",
+        "Inhibitor",
+        "Sedative"
+      ],
+      "answer": 1,
+      "explanation": "stimulant 表示兴奋剂，故选B。"
+    },
+    {
+      "id": "toefl-r-214",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "According to the passage, what distinguishes Coffea arabica from Coffea canephora?",
+      "options": [
+        "Arabica has higher caffeine content",
+        "Robusta has disease resistance",
+        "Arabica is grown at lower altitudes",
+        "Robusta is prized for smoother flavor"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 robusta has higher caffeine content and disease resistance，故选B。"
+    },
+    {
+      "id": "toefl-r-215",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "Which of the following is NOT mentioned as a requirement for coffee cultivation?",
+      "options": [
+        "Specific altitude",
+        "High rainfall",
+        "Temperature ranges",
+        "Soil pH level"
+      ],
+      "answer": 3,
+      "explanation": "文章提到了 altitude, rainfall, temperature, 但未提 Soil pH，故选D。"
+    },
+    {
+      "id": "toefl-r-216",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "According to the passage, what is 'bean belt'?",
+      "options": [
+        "A type of coffee machine",
+        "A region between the Tropics of Cancer and Capricorn",
+        "A coffee quality standard",
+        "A processing method"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 coffee growth is limited to the bean belt between the Tropics of Cancer and Capricorn，故选B。"
+    },
+    {
+      "id": "toefl-r-217",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "What does the passage suggest about shade-grown coffee methods?",
+      "options": [
+        "They reduce biodiversity",
+        "They improve bean quality",
+        "They are less profitable than sun-grown coffee",
+        "They are not suitable for commercial farming"
+      ],
+      "answer": 1,
+      "explanation": "文章提到 shade-grown methods to preserve biodiversity and improve bean quality，故选B。"
+    },
+    {
+      "id": "toefl-r-218",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Global coffee consumption exceeds 10 million metric tons annually, with Brazil and Vietnam as the leading producers. Coffee beans contain caffeine, a stimulant that blocks adenosine receptors, increasing alertness and reducing perceived fatigue. The two main commercial species are Coffea arabica, prized for smoother flavor, and Coffea canephora (robusta), which has higher caffeine content and disease resistance. Coffee cultivation requires specific altitude, rainfall, and temperature ranges, limiting growth to the bean belt between the Tropics of Cancer and Capricorn. Recent research explores shade-grown methods to preserve biodiversity and improve bean quality.",
+      "question": "The word 'prized' in line 4 most nearly means:",
+      "options": [
+        "Ignored",
+        "Valued",
+        "Disliked",
+        "Discarded"
+      ],
+      "answer": 1,
+      "explanation": "prized 表示 珍视、珍爱，故选B。"
+    }
+  ]
+}

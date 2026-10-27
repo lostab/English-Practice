@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg19" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg19)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// STRATEGIC POSITIONING · 战略定位对比</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">三家战略定位：高端隐私闭环 vs. 技术驱动成套 vs. 性价比生态链</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+
+<g transform="translate(96 210)">
+<rect x="0" y="0" width="350" height="360" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+<text x="20" y="36" font-family="Consolas, monospace" font-size="16" fill="#7DD3FC">APPLE</text>
+<text x="20" y="68" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">高端生态闭环</text>
+<text x="20" y="98" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">目标：深度苹果用户 · 高净值 · 隐私敏感人群</text>
+<text x="20" y="126" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">路径：A18 芯片 + Secure Exclaves 硬件隔离 + Matter 生态联盟 + Home Collection 配件认证</text>
+<text x="20" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">壁垒：系统级协同 + 隐私品牌溢价 + 高端定价权</text>
+<text x="20" y="190" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">挑战：价格高昂 · 中国大陆/EU 未覆盖 · Siri AI 仅英语起步</text>
+
+<rect x="370" y="0" width="350" height="360" rx="14" fill="#0E1830" stroke="#F59E0B"/>
+<text x="390" y="36" font-family="Consolas, monospace" font-size="16" fill="#FCD34D">HUAWEI</text>
+<text x="390" y="68" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">技术驱动全屋成套</text>
+<text x="390" y="98" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">目标：中高端业主 · 前装市场 · 政企客户</text>
+<text x="390" y="126" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">路径：全屋智能主机 + 中控屏 S2 + HarmonyOS Connect + 空间智能化</text>
+<text x="390" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">壁垒：通信技术积累 · 成套方案稳定 · 线下渠道专业服务</text>
+<text x="390" y="190" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">挑战：生态广度不及竞品 · 参数不透明 · 海外受限</text>
+
+<rect x="740" y="0" width="350" height="360" rx="14" fill="#0E1830" stroke="#10B981"/>
+<text x="760" y="36" font-family="Consolas, monospace" font-size="16" fill="#6EE7B7">XIAOMI</text>
+<text x="760" y="68" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#E2E8F0">性价比 + 开放生态链</text>
+<text x="760" y="98" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">目标：大众消费者 · DIY 用户 · 年轻群体</text>
+<text x="760" y="126" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">路径：米家生态链千余 SKU + Zigbee/Mesh 2.0 +</text>
+    <text x="760" y="146" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">小爱同学 + 人车家全生态</text>
+<text x="760" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">壁垒：生态链广度 · 价格带全覆盖 · 出货量与用户基数</text>
+<text x="760" y="190" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">挑战：高端感知弱 · 隐私安全口碑 · 硬件利润薄</text>
+</g>
+
+<rect x="96" y="600" width="1088" height="40" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="626" font-family="Consolas, monospace" font-size="14" fill="#94A3B8">// 分野：三家不在同一价格带正面竞争 —— 苹果做「隐私溢价」、华为做「成套确定性」、小米做「连接广度」</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">16 / 23</text>
+</svg>

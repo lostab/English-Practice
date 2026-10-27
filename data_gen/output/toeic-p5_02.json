@@ -1,0 +1,589 @@
+{
+ "questions": [
+  {
+   "id": "toeic-p5-500",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The quarterly report has been delayed ______ the server outage.",
+   "options": [
+    "during",
+    "despite",
+    "due to",
+    "unless"
+   ],
+   "answer": 2,
+   "explanation": "due to 表原因，后接名词短语，表示“由于”之意。"
+  },
+  {
+   "id": "toeic-p5-501",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ several attempts, the team could not resolve the network issue.",
+   "options": [
+    "Because",
+    "Instead",
+    "Unless",
+    "Despite"
+   ],
+   "answer": 3,
+   "explanation": "Despite 后接名词短语表“尽管”，让步关系符合句意。"
+  },
+  {
+   "id": "toeic-p5-502",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "All invoices ______ before the end of the month will receive a discount.",
+   "options": [
+    "received",
+    "receives",
+    "receive",
+    "receiving"
+   ],
+   "answer": 0,
+   "explanation": "received 为过去分词作后置定语，修饰 invoices，表被动“被收到的”。"
+  },
+  {
+   "id": "toeic-p5-503",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The new manager speaks ______ than her predecessor did.",
+   "options": [
+    "most confidently",
+    "more confidently",
+    "confidently",
+    "the most confident"
+   ],
+   "answer": 1,
+   "explanation": "句意为“比前任更自信”，需用比较级 more confidently 修饰动词 speaks。"
+  },
+  {
+   "id": "toeic-p5-504",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Neither the supervisor nor the trainees ______ aware of the policy change.",
+   "options": [
+    "was",
+    "were",
+    "is",
+    "has been"
+   ],
+   "answer": 1,
+   "explanation": "neither...nor 就近原则，trainees 为复数，故用 were。"
+  },
+  {
+   "id": "toeic-p5-505",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "We should ______ the meeting until our overseas partner confirms the schedule.",
+   "options": [
+    "postponing",
+    "postponed",
+    "postponement",
+    "postpone"
+   ],
+   "answer": 3,
+   "explanation": "should 后接动词原形，表“推迟”应用 postpone。"
+  },
+  {
+   "id": "toeic-p5-506",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The employee was praised for ______ the project ahead of schedule.",
+   "options": [
+    "complete",
+    "completes",
+    "completing",
+    "completed"
+   ],
+   "answer": 2,
+   "explanation": "介词 for 后接动名词 completing，表“因为完成……”。"
+  },
+  {
+   "id": "toeic-p5-507",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Not only ______ the deadline, but the team also stayed within budget.",
+   "options": [
+    "they met",
+    "they did meet",
+    "met they",
+    "did they meet"
+   ],
+   "answer": 3,
+   "explanation": "Not only 置于句首需部分倒装，助动词 did 提前，故用 did they meet。"
+  },
+  {
+   "id": "toeic-p5-508",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The shipment, ______ was scheduled for Monday, has been canceled.",
+   "options": [
+    "that",
+    "who",
+    "whose",
+    "which"
+   ],
+   "answer": 3,
+   "explanation": "非限定性定语从句修饰 shipment，用 which，且 which 作主语。"
+  },
+  {
+   "id": "toeic-p5-509",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Our firm has more clients ______ any of our local competitors.",
+   "options": [
+    "as",
+    "to",
+    "than",
+    "of"
+   ],
+   "answer": 2,
+   "explanation": "比较级 more...than 搭配，表示“比任何本地竞争者都多”。"
+  },
+  {
+   "id": "toeic-p5-510",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The receptionist asked the caller ______ he might contact our customer service.",
+   "options": [
+    "what",
+    "which",
+    "whether",
+    "who"
+   ],
+   "answer": 2,
+   "explanation": "宾语从句需连词表“是否”，用 whether，后接陈述语序。"
+  },
+  {
+   "id": "toeic-p5-511",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Each representative ______ expected to submit the form by Friday.",
+   "options": [
+    "are",
+    "were",
+    "is",
+    "have been"
+   ],
+   "answer": 2,
+   "explanation": "Each 作主语时用单数谓语 is，主谓一致。"
+  },
+  {
+   "id": "toeic-p5-512",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The contract was signed ______ the legal department had reviewed it twice.",
+   "options": [
+    "after",
+    "before",
+    "until",
+    "while"
+   ],
+   "answer": 1,
+   "explanation": "句子意为“法律部门审阅两次之后合同才签署”，用 before 表“在……之前”。"
+  },
+  {
+   "id": "toeic-p5-513",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "A well-written cover letter makes ______ easier for employers to assess your skills.",
+   "options": [
+    "it",
+    "them",
+    "this",
+    "that"
+   ],
+   "answer": 0,
+   "explanation": "make 后接形式宾语 it，指代后面的不定式 to assess your skills。"
+  },
+  {
+   "id": "toeic-p5-514",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The revised policy is ______ to the needs of part-time employees.",
+   "options": [
+    "specifically",
+    "generally",
+    "readily",
+    "selectively"
+   ],
+   "answer": 0,
+   "explanation": "specifically 表“专门地”，作副词修饰 is 的补语，符合句意。"
+  },
+  {
+   "id": "toeic-p5-515",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Please inform us in advance ______ you require a different delivery address.",
+   "options": [
+    "so that",
+    "even though",
+    "as if",
+    "in case"
+   ],
+   "answer": 3,
+   "explanation": "in case 表“以防、万一”，后接从句，符合商务邮件语境。"
+  },
+  {
+   "id": "toeic-p5-516",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The company ______ its warehouse to double storage capacity last year.",
+   "options": [
+    "expands",
+    "expand",
+    "had expanded",
+    "was expanding"
+   ],
+   "answer": 2,
+   "explanation": "last year 为过去时态标志，用过去完成 had expanded 表“已经扩建”。"
+  },
+  {
+   "id": "toeic-p5-517",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Hardly had the presentation ______ when questions flooded the room.",
+   "options": [
+    "began",
+    "beginning",
+    "begun",
+    "begins"
+   ],
+   "answer": 2,
+   "explanation": "Hardly had...when 结构，过去分词 begun 与 had 构成完成时，表“刚……就……”。"
+  },
+  {
+   "id": "toeic-p5-518",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The manager considers honesty ______ a key quality for every salesperson.",
+   "options": [
+    "for",
+    "to",
+    "as",
+    "by"
+   ],
+   "answer": 2,
+   "explanation": "consider...as 固定搭配，表“把……视为”。"
+  },
+  {
+   "id": "toeic-p5-519",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ the budget is confirmed, we will begin hiring new staff.",
+   "options": [
+    "Until",
+    "Whenever",
+    "Once",
+    "Although"
+   ],
+   "answer": 2,
+   "explanation": "Once 表“一旦”，条件状语从句，符合“预算确认后就招人”。"
+  },
+  {
+   "id": "toeic-p5-520",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The most effective way to improve service is ______ feedback from customers.",
+   "options": [
+    "collect",
+    "collected",
+    "collection",
+    "collecting"
+   ],
+   "answer": 3,
+   "explanation": "be 动词后作表语用动名词 collecting，与主语 to improve 呼应。"
+  },
+  {
+   "id": "toeic-p5-521",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Our team's productivity has increased substantially ______ the new software was installed.",
+   "options": [
+    "for",
+    "between",
+    "since",
+    "among"
+   ],
+   "answer": 2,
+   "explanation": "since 表“自从”，主句用现在完成时 has increased，符合搭配。"
+  },
+  {
+   "id": "toeic-p5-522",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ the quarterly targets, only two regions met their sales goals.",
+   "options": [
+    "Reduce",
+    "Regarding",
+    "Regards",
+    "Regarded"
+   ],
+   "answer": 1,
+   "explanation": "Regarding 作介词表“关于”，句首引出主题，符合商务报告语境。"
+  },
+  {
+   "id": "toeic-p5-523",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The auditors recommended that the firm ______ its accounting procedures.",
+   "options": [
+    "revises",
+    "revise",
+    "revised",
+    "revising"
+   ],
+   "answer": 1,
+   "explanation": "recommend 后接 that 从句用虚拟语气动词原形 revise。"
+  },
+  {
+   "id": "toeic-p5-524",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "A larger advertising budget would allow us ______ a wider market share.",
+   "options": [
+    "capture",
+    "capturing",
+    "captured",
+    "to capture"
+   ],
+   "answer": 3,
+   "explanation": "allow sb to do 固定搭配，不定式 to capture 作宾语补足语。"
+  },
+  {
+   "id": "toeic-p5-525",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Fewer than half of the applicants ______ the required qualifications.",
+   "options": [
+    "possesses",
+    "possessing",
+    "possessed",
+    "possess"
+   ],
+   "answer": 3,
+   "explanation": "主语 applicants 为复数，谓语用复数形式 possess（此处指现状）。"
+  },
+  {
+   "id": "toeic-p5-526",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The CEO decided to ______ the annual conference to next spring.",
+   "options": [
+    "reschedule",
+    "cancel",
+    "confirm",
+    "postpone"
+   ],
+   "answer": 0,
+   "explanation": "reschedule 表“重新安排时间”，符合“改期到明年春天”的语境。"
+  },
+  {
+   "id": "toeic-p5-527",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The software update, which fixed several errors, ______ released yesterday.",
+   "options": [
+    "was",
+    "were",
+    "are",
+    "have been"
+   ],
+   "answer": 0,
+   "explanation": "软件更新为单数主语，被动态过去时用 was released。"
+  },
+  {
+   "id": "toeic-p5-528",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Along with the contract, a confidentiality agreement ______ attached to the email.",
+   "options": [
+    "are",
+    "were",
+    "be",
+    "is"
+   ],
+   "answer": 3,
+   "explanation": "Along with 引出的短语不影响主谓一致，主语 agreement 单数用 is。"
+  },
+  {
+   "id": "toeic-p5-529",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Employees who arrive ______ than their scheduled shift may not be compensated.",
+   "options": [
+    "early",
+    "earlier",
+    "earliest",
+    "more early"
+   ],
+   "answer": 1,
+   "explanation": "than 提示用比较级 earlier，修饰 arrive 表“更早到”。"
+  },
+  {
+   "id": "toeic-p5-530",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The purchasing department must ensure that every order ______ accurately recorded.",
+   "options": [
+    "are",
+    "be",
+    "being",
+    "been"
+   ],
+   "answer": 1,
+   "explanation": "ensure 后 that 从句可用虚拟语气动词原形 be，表“必须是”。"
+  },
+  {
+   "id": "toeic-p5-531",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "______ to the office, the courier handed the package to the receptionist.",
+   "options": [
+    "On arriving",
+    "As arrive",
+    "Upon arrive",
+    "When arrived"
+   ],
+   "answer": 0,
+   "explanation": "On/Upon + 动名词表“一……就……”，On arriving 表“一到办公室就……”。"
+  },
+  {
+   "id": "toeic-p5-532",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The sales figures this quarter are significantly lower ______ the same period last year.",
+   "options": [
+    "than",
+    "with",
+    "from",
+    "as"
+   ],
+   "answer": 0,
+   "explanation": "比较级 lower 与 than 搭配，表“比去年同期低”。"
+  },
+  {
+   "id": "toeic-p5-533",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The engineer explained how the new system ______ in a matter of minutes.",
+   "options": [
+    "can be installed",
+    "can install",
+    "is installed it",
+    "can be installed it"
+   ],
+   "answer": 0,
+   "explanation": "can be installed 为被动语态，表述“系统可被安装”，后不接多余代词。"
+  },
+  {
+   "id": "toeic-p5-534",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "She has worked for this company ______ 2012.",
+   "options": [
+    "during",
+    "since",
+    "for",
+    "at"
+   ],
+   "answer": 1,
+   "explanation": "现在完成时与 since 连用表“自2012年以来”，has worked 是时态标志。"
+  },
+  {
+   "id": "toeic-p5-535",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The committee must decide which proposal ______ the most benefit to the firm.",
+   "options": [
+    "bring",
+    "brings",
+    "bringing",
+    "brought"
+   ],
+   "answer": 1,
+   "explanation": "宾语从句主语 which proposal 为单数，用 brings 保持主谓一致。"
+  },
+  {
+   "id": "toeic-p5-536",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Not until the report was verified ______ the announcement public.",
+   "options": [
+    "they made",
+    "did they make",
+    "they did make",
+    "made they"
+   ],
+   "answer": 1,
+   "explanation": "Not until 置于句首引起部分倒装，did they make 符合倒装结构。"
+  },
+  {
+   "id": "toeic-p5-537",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "Every applicant must ______ a detailed resume along with the application form.",
+   "options": [
+    "submit",
+    "submitting",
+    "submitted",
+    "submission"
+   ],
+   "answer": 0,
+   "explanation": "情态动词 must 后接动词原形，表“必须提交”，用 submit。"
+  },
+  {
+   "id": "toeic-p5-538",
+   "exam": "toeic",
+   "section": "reading",
+   "part": 5,
+   "question": "The training session will be held ______ the main conference room next Monday.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 0,
+   "explanation": "地点短语“in the conference room”表“在会议室里”，用介词 in。"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg11" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <filter id="glow11" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg11)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// INDUSTRY OUTLOOK &amp; EVOLUTION</text>
+  <text x="94" y="150" font-family="Helvetica Neue, Arial, sans-serif" font-size="40" font-weight="700" fill="#F8FAFC">产业思考与未来演进方向</text>
+  <rect x="96" y="172" width="260" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="200" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">基于三份官方发布材料的产业推演 · 预测部分明确标注为分析判断</text>
+  <g transform="translate(96 230)">
+    <rect x="0" y="0" width="530" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="36" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">01 · AI 是下一轮竞争主战场</text>
+    <text x="20" y="68" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">Siri AI / 小艺 / 小爱同学 全面接入大模型</text>
+    <text x="20" y="96" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">从「被动应答」转向「主动服务」（屏幕感知 · 个人语境）</text>
+    <text x="20" y="124" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">已发布口径：Apple Intelligence / Siri AI · 小米超级小爱 · 华为小艺</text>
+    <rect x="550" y="0" width="530" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="570" y="36" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">02 · 协议融合：Matter / Thread 成为共同底座</text>
+    <text x="570" y="68" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">三家的连接方式各有取舍：Wi-Fi 6E · PLC · Zigbee/Mesh</text>
+    <text x="570" y="96" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">但都在向统一标准靠拢 —— 生态开放是共同方向</text>
+    <text x="570" y="124" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">Matter 支持：Apple ✓ 小米 ✓ 华为（鸿蒙智联兼容）</text>
+    <rect x="0" y="164" width="530" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="200" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">03 · 从单品竞争到场景化解决方案</text>
+    <text x="20" y="232" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">Apple Home Collection 联合 LG / Schneider 进场配件</text>
+    <text x="20" y="260" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">华为全屋智能 4.0 · 小米人车家全生态 —— 都是场景化打法</text>
+    <rect x="550" y="164" width="530" height="150" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="570" y="200" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">04 · 隐私与安全成为高端差异化</text>
+    <text x="570" y="232" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">A18 Secure Exclaves + Private Cloud Compute（官方披露）</text>
+    <text x="570" y="260" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">小米安全芯片防护 —— 隐私是共同叙事，但实现路径不同</text>
+  </g>
+  <rect x="96" y="580" width="1088" height="92" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+  <text x="120" y="612" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 分析判断（非官方披露）：</text>
+  <text x="120" y="642" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">苹果将延续「硬件-系统-服务」三位一体，HomeView 只是入口 —— 后续可能围绕 HomeKit/Home 应用生态继续扩展，</text>
+  <text x="120" y="664" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">并以 Matter 兼容性吸收非苹果硬件；华为继续深耕前装工程渠道；小米依托设备数量优势推动 AI 普惠化。</text>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">19 / 23</text>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg24" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg24)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// APPENDIX · 数据来源与方法论</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">附录：本报告数据核实清单</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+
+<g transform="translate(96 220)">
+<rect x="0" y="0" width="540" height="340" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="20" y="34" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 官方数据源</text>
+<text x="20" y="70" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· Apple Newsroom（2026-10-13）Welcome Home 新闻稿</text>
+<text x="20" y="100" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· apple.com 产品规格页（HomeView / Apple TV 4K / HomePod mini 2）</text>
+<text x="20" y="130" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· consumer.huawei.com 智能中控屏 S2 产品页</text>
+<text x="20" y="160" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· mi.com 小米智能家庭屏 11 产品页</text>
+<text x="20" y="190" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 小米集团 2025 年度业绩公告（ir.mi.com）· AIoT 连接设备 10.79 亿台</text>
+<text x="20" y="226" font-family="Consolas, monospace" font-size="14" fill="#FCD34D">// 方法论</text>
+<text x="20" y="262" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 仅收录厂商官方披露参数；未披露项一律标注「官方未公布」</text>
+<text x="20" y="292" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 不采用第三方调研机构份额/价格/销量数据（无法独立核实）</text>
+<text x="20" y="322" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 所有图片均来自官方渠道（Apple Newsroom / 华为官网 / 小米官网）</text>
+
+<rect x="560" y="0" width="540" height="340" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="580" y="34" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 报告信息</text>
+<text x="580" y="70" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 报告主题：Apple Welcome Home 智能家居竞品洞察</text>
+<text x="580" y="100" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 版本：专业深度版 v4 · 21 页</text>
+<text x="580" y="130" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 日期：2026-10-16</text>
+<text x="580" y="160" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">· 适用对象：产品 / 战略 / 市场分析团队</text>
+<text x="580" y="196" font-family="Consolas, monospace" font-size="14" fill="#A3E635">// 免责声明</text>
+<text x="580" y="232" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">本报告基于发布日可核实的官方公开信息分析，不构成投资建议；</text>
+<text x="580" y="262" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">厂商未披露的参数与规划，属于合理推断而非事实陈述。</text>
+</g>
+
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">22 / 23</text>
+</svg>

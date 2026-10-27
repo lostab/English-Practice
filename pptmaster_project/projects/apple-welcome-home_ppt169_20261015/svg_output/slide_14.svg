@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs><linearGradient id="bg14" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/>
+  </linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#bg14)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// ECOSYSTEM LANDSCAPE · 三足鼎立</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">三大生态总览：入口、AI、协议与打法的分野</text>
+  <rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="190" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：Apple Newsroom / consumer.huawei.com / mi.com 官方口径整理（含未公布项标注）</text>
+
+  <g transform="translate(96 240)">
+    <rect x="0" y="0" width="350" height="390" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="20" y="36" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">APPLE · WELCOME HOME</text>
+    <text x="20" y="72" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">入口：HomeView 桌面屏 + Apple TV + HomePod 语音</text>
+    <text x="20" y="102" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">AI：Siri AI（英语起步 · beta）· 私有云计算</text>
+    <text x="20" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">协议：Matter / Thread / HomeKit Secure Video</text>
+    <text x="20" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">打法：高端硬件 + 隐私优先 + 配件认证（Home Collection）</text>
+    <text x="20" y="196" font-family="Consolas, monospace" font-size="13" fill="#A3E635">优势：生态协同 隐私隔离 品牌溢价</text>
+    <text x="20" y="222" font-family="Consolas, monospace" font-size="13" fill="#F87171">劣势：价格高 中国大陆/EU 未覆盖 Siri AI 起步</text>
+
+    <rect x="370" y="0" width="350" height="390" rx="14" fill="#0E1830" stroke="#F59E0B"/>
+    <text x="390" y="36" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">HUAWEI · 全屋智能</text>
+    <text x="390" y="72" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">入口：智能中控屏 S2 墙面面板 + 音箱 + 手机</text>
+    <text x="390" y="102" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">AI：小艺智慧语音（中文体系）· HarmonyOS 协同</text>
+    <text x="390" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">协议：HiLink / HarmonyOS Connect · PLC/无线</text>
+    <text x="390" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">打法：装修级全屋方案 + 面板入口 + 场景引擎</text>
+    <text x="390" y="196" font-family="Consolas, monospace" font-size="13" fill="#A3E635">优势：全屋成套 中文场景深 线下服务强</text>
+    <text x="390" y="222" font-family="Consolas, monospace" font-size="13" fill="#F87171">劣势：依赖华为生态 型号参数不透明</text>
+
+    <rect x="740" y="0" width="350" height="390" rx="14" fill="#0E1830" stroke="#10B981"/>
+    <text x="760" y="36" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">XIAOMI · 米家生态</text>
+    <text x="760" y="72" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">入口：智能家庭屏 11 大屏 + 小爱音箱 + 手机</text>
+    <text x="760" y="102" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">AI：小爱同学（中文体系）· 多轮对话</text>
+    <text x="760" y="132" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">协议：Zigbee / 米家 Mesh 2.0 / Matter / Wi-Fi 蓝牙</text>
+    <text x="760" y="162" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">打法：性价比大屏 + 千款生态链 + 高迭代</text>
+    <text x="760" y="196" font-family="Consolas, monospace" font-size="13" fill="#A3E635">优势：价格带广 生态链广度 出货量大</text>
+    <text x="760" y="222" font-family="Consolas, monospace" font-size="13" fill="#F87171">劣势：高端感知弱 隐私口碑待加强 软件深度有限</text>
+  </g>
+
+  <rect x="96" y="646" width="1088" height="44" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+  <text x="120" y="672" font-family="Consolas, monospace" font-size="14" fill="#94A3B8">// 核心分野：苹果「隐私+协同溢价」 · 华为「装修级成套」 · 小米「生态链性价比」 —— 三家不在同一价格带正面竞争</text>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">14 / 23</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg22" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg22)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// FUTURE TRENDS · 未来趋势预判</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">四大趋势与三家卡位</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+
+<g transform="translate(96 210)">
+<rect x="0" y="0" width="540" height="150" rx="14" fill="#0E1830" stroke="#22D3EE"/>
+<text x="20" y="34" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">01 · AI 成为核心竞争力</text>
+<text x="20" y="66" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">竞争焦点从「设备连接数量」转向「AI 体验深度」：谁能更主动、更懂用户，谁掌握主动权。苹果 Siri AI（beta 英语）、小艺/小爱大模型均已落地中文场景。</text>
+
+<rect x="560" y="0" width="540" height="150" rx="14" fill="#0E1830" stroke="#F59E0B"/>
+<text x="580" y="34" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">02 · 生态壁垒与互联互通并存</text>
+<text x="580" y="66" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">各厂继续筑自有壁垒，Matter 协议打破品牌连接界限，</text>
+    <text x="580" y="88" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">跨品牌互联成默认能力 —— 苹果/华为/小米均已在 Roadmap 之内</text>
+
+<rect x="0" y="170" width="540" height="150" rx="14" fill="#0E1830" stroke="#10B981"/>
+<text x="20" y="204" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">03 · 场景化解决方案成为主流</text>
+<text x="20" y="236" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">「家庭影院」「健康管理」「全屋节能」等一体化解法替代单品销售。华为前装成套已是最典型场景化打法；苹果 Home Collection 也在向场景组合演进。</text>
+
+<rect x="560" y="170" width="540" height="150" rx="14" fill="#0E1830" stroke="#A78BFA"/>
+<text x="580" y="204" font-family="Consolas, monospace" font-size="15" fill="#A5F3FC">04 · 前装市场潜力巨大</text>
+<text x="580" y="236" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">房地产存量时代，全屋前装爆发。稳定标准前装方案厂商占据</text>
+    <text x="580" y="258" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">新房+旧改优势 —— 华为 PLC 最受益，小米后装最灵活，苹果需补渠道</text>
+</g>
+
+<rect x="96" y="600" width="1088" height="44" rx="10" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="626" font-family="Consolas, monospace" font-size="14" fill="#94A3B8">// 结论：AI 重塑体验，生态决定壁垒 —— 前装决定存量，Matter 决定互通</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">20 / 23</text>
+</svg>

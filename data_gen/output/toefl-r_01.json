@@ -1,0 +1,532 @@
+{
+  "questions": [
+    {
+      "id": "toefl-r-153",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The monarch butterfly undertakes one of the longest insect migrations on Earth, traveling up to 4,800 kilometers from Canada and the United States to central Mexico each autumn. Unlike most migratory animals, no single butterfly completes the round trip; it takes three to four generations to finish the full cycle, with each generation passing the migration route to the next. Researchers discovered in 2021 that monarchs use a time-compensated sun compass located in their antennae to navigate, allowing them to maintain a steady heading even as the sun moves across the sky. During winter the butterflies cluster on oyamel fir trees in dense groups to conserve heat and reduce exposure to cold mountain temperatures. Deforestation in Mexico, which removes the forests where they overwinter, and the widespread use of herbicides that reduce milkweed—their sole food source—pose serious threats to the migration.",
+      "question": "What is the primary threat to the monarch butterfly migration?",
+      "options": [
+        "Deforestation and herbicide use that reduce their habitat and food source",
+        "Overcrowding on oyamel fir trees during winter",
+        "The inability of a single butterfly to complete the migration",
+        "The use of a time-compensated sun compass for navigation"
+      ],
+      "answer": 0,
+      "explanation": "文章末尾明确指出 deforestation in Mexico 和 herbicides that reduce milkweed pose serious threats to the migration，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-154",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The discovery of exoplanets orbiting distant stars has revolutionized our understanding of planetary systems. NASA's Kepler mission has identified thousands of potential exoplanets, many in the habitable zone where liquid water could exist. These planets vary in size and composition, with some being rocky like Earth while others are gas giants. The transit method, which measures the dimming of a star as a planet passes in front of it, has been instrumental in these discoveries. Recent advances in spectroscopy allow scientists to analyze the chemical composition of exoplanet atmospheres, searching for biosignatures that might indicate life. However, challenges remain in detecting Earth-like planets due to their small size relative to their host stars and the brightness of the stars themselves.",
+      "question": "According to the passage, how does the transit method help detect exoplanets?",
+      "options": [
+        "By analyzing the chemical composition of stellar atmospheres",
+        "By measuring the dimming of a star when a planet passes in front of it",
+        "By calculating the gravitational pull of planets on distant stars",
+        "By directly photographing planets in the habitable zone"
+      ],
+      "answer": 1,
+      "explanation": "文章第三句指出 transit method measures the dimming of a star as a planet passes in front of it，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-155",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Quantum computing represents a paradigm shift in computational capabilities, leveraging quantum mechanics to solve problems beyond the reach of classical computers. Unlike traditional bits that represent either 0 or 1, quantum bits or qubits can exist in superposition, representing multiple states simultaneously. This property, combined with entanglement, enables exponential speedup for certain algorithms. Quantum computers are particularly promising for factoring large numbers, simulating complex molecules, and optimizing complex systems. However, current quantum computers face challenges such as quantum decoherence and error rates, which limit their practical applications. Researchers are developing error-correcting codes and more stable qubit architectures to overcome these limitations. Moreover, quantum systems are extremely sensitive to environmental interference, which is why maintaining coherent states requires elaborate cryogenic cooling systems. Nevertheless, steady progress in hardware engineering and algorithm design continues to push quantum advantage closer to practical reality in fields ranging from cryptography to drug discovery.",
+      "question": "What is the main advantage of qubits over traditional bits?",
+      "options": [
+        "They eliminate the need for error-correcting codes entirely",
+        "They are completely immune to quantum decoherence and error rates",
+        "They can exist in superposition, representing multiple states simultaneously",
+        "They operate at much lower temperatures than classical bits"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 qubits can exist in superposition, representing multiple states simultaneously，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-156",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Memory formation in the human brain involves complex neural processes that transform short-term experiences into long-term stores. The hippocampus plays a crucial role in the initial consolidation of episodic memories, while the neocortex is responsible for long-term storage and retrieval. Sleep, particularly deep non-REM sleep, is essential for memory consolidation as the brain replays neural patterns from the day's experiences. Research suggests that emotional intensity enhances memory retention through the release of stress hormones like cortisol. Additionally, the process of reconsolidation allows memories to be updated or modified when recalled, contributing to the dynamic nature of human memory. Furthermore, research has shown that spaced repetition and meaningful association between new information and existing knowledge strengthen memory traces substantially. The dynamic interaction between the hippocampus and the neocortex during sleep is widely regarded as the fundamental mechanism by which memories are stabilized over time.",
+      "question": "Which brain structure is primarily responsible for the initial consolidation of episodic memories?",
+      "options": [
+        "The cerebellum",
+        "The neocortex",
+        "The amygdala",
+        "The hippocampus"
+      ],
+      "answer": 3,
+      "explanation": "文章第二句指出 The hippocampus plays a crucial role in the initial consolidation of episodic memories，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-157",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Behavioral economics examines how psychological, social, cognitive, and emotional factors influence economic decisions. Traditional economic models assume rational actors making optimal choices, but behavioral research reveals systematic biases such as loss aversion, where people fear losses more than they value equivalent gains. The endowment effect demonstrates that individuals place higher value on objects merely because they own them. Nudge theory, popularized by Thaler and Suntein, suggests that small changes in choice architecture can significantly influence behavior without restricting freedom of choice. These insights have important implications for policy-making in areas ranging from health choices to financial planning. In addition, framing effects show that the way a choice is presented alters decisions even when the underlying options are identical, and present bias leads people to favor immediate gratification over long-term rewards. These findings demonstrate that human economic behavior frequently deviates from the predictions of classical rational-choice models.",
+      "question": "What does loss aversion refer to in behavioral economics?",
+      "options": [
+        "People fearing losses more than they value equivalent gains",
+        "Individuals placing higher value on objects they own",
+        "The assumption that economic actors always make optimal choices",
+        "Small changes in choice architecture influencing behavior"
+      ],
+      "answer": 0,
+      "explanation": "文章解释 loss aversion 为 where people fear losses more than they value equivalent gains，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-158",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Plastic pollution has become a pervasive global environmental issue affecting ecosystems and wildlife. Each year, approximately 8 million tons of plastic enter the oceans, where it breaks down into microplastics that are ingested by marine organisms. These microplastics can accumulate up the food chain, potentially impacting human health. Marine animals such as sea turtles mistake plastic bags for jellyfish, their natural prey, leading to fatal internal blockages. Despite recycling efforts, plastic production continues to increase, driven by consumer demand for convenience. Solutions include reducing single-use plastics, improving waste management infrastructure, and developing biodegradable alternatives. International agreements like the Basel Convention aim to regulate the transboundary movement of hazardous waste, including plastic. Moreover, the durability of plastic means that debris persists in marine environments for centuries, continuously fragmenting into ever smaller particles. Addressing this crisis requires coordinated global action at every stage of the plastic life cycle, from production and consumption to disposal and recycling.",
+      "question": "Why do sea turtles frequently ingest plastic bags according to the passage?",
+      "options": [
+        "Plastics accumulate directly in their primary nesting sites",
+        "They mistake plastic bags for jellyfish, their natural prey",
+        "They are attracted to the bright colors of floating debris",
+        "Microplastics alter their sensory perception of food"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 sea turtles mistake plastic bags for jellyfish, their natural prey，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-159",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Silk Road, an extensive network of trade routes connecting Asia, Europe, and Africa, flourished between the 2nd century BCE and the 15th century CE. This ancient highway facilitated not only the exchange of goods like silk, spices, and precious metals but also the transmission of ideas, religions, and technologies across civilizations. Cities along the route, such as Samarkand and Kashgar, became melting pots of cultural diversity. The decline of the Silk Road was accelerated by the rise of maritime trade routes after the 15th century, which offered faster and safer transportation. Nevertheless, the legacy of these routes persists in the linguistic, artistic, and culinary influences that continue to shape modern societies across Eurasia. Moreover, the exchange of paper-making techniques from China to the Islamic world and eventually to Europe illustrates how trade facilitated the diffusion of transformative technologies. Even after the routes declined in commercial importance, the cultural and scientific connections they forged remained influential for centuries.",
+      "question": "What primarily accelerated the decline of the Silk Road?",
+      "options": [
+        "Severe climate changes along the overland pathways",
+        "The destruction of major trading cities like Samarkand",
+        "The rise of maritime trade routes after the 15th century",
+        "Political isolation policies enacted by Asian empires"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 decline was accelerated by the rise of maritime trade routes after the 15th century，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-160",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Postmodern novels often challenge traditional narrative structures and question the nature of reality and truth. Authors like Thomas Pynchon and Don DeLillo employ fragmented storytelling, metafictional elements, and intertextual references to create complex, layered narratives. These works frequently blur the lines between fiction and reality, reflecting the uncertainty of the postmodern condition. The use of irony, pastiche, and non-linear chronology are common techniques that critique contemporary society and media culture. Postmodern literature also engages with historical narratives, reinterpreting the past through a contemporary lens to question established truths and perspectives. Moreover, many postmodern writers deliberately incorporate historical documents and popular culture references into their texts, creating dialogues between past and present. These techniques challenge readers to actively participate in constructing meaning rather than passively receiving a single authoritative interpretation.",
+      "question": "Which of the following is a characteristic technique of postmodern novels?",
+      "options": [
+        "Exclusive focus on romanticism and idealism",
+        "Strict adherence to traditional linear narrative structures",
+        "Complete separation of fiction from real-world politics",
+        "Fragmented storytelling and non-linear chronology"
+      ],
+      "answer": 3,
+      "explanation": "文章提到 authors employ fragmented storytelling... and non-linear chronology，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-161",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The Renaissance period marked a revival of classical learning and artistic innovation in Europe, particularly in painting. Artists such as Leonardo da Vinci, Michelangelo, and Raphael pioneered techniques like linear perspective, chiaroscuro, and sfumato to create more realistic and emotionally resonant works. The patronage system, supported by wealthy families like the Medici, provided crucial funding for artistic production. Religious themes dominated early Renaissance paintings, but secular subjects became increasingly popular as humanism emphasized the value of individual experience. The period's emphasis on observation and anatomical accuracy laid the foundation for the scientific revolution that followed. In addition, the invention of oil painting allowed artists to achieve unprecedented subtlety in color blending and texture, while the study of human anatomy enabled more accurate depiction of the human form. This fusion of scientific inquiry and artistic expression defined the Renaissance spirit and transformed European visual culture permanently.",
+      "question": "What role did the patronage system play during the Renaissance?",
+      "options": [
+        "It provided crucial funding for artistic production",
+        "It restricted artists to painting strictly religious themes",
+        "It prohibited the use of linear perspective and chiaroscuro",
+        "It replaced humanism with classical scientific theories"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 patronage system... provided crucial funding for artistic production，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-162",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "The evolution of human language reflects both biological and cultural factors over thousands of years. Linguists identify two primary mechanisms driving language change: internal development and external influence. Internal factors include phonetic shifts, grammatical simplification, and semantic broadening, while external influences involve contact with other languages through trade, conquest, or migration. For example, English has incorporated numerous words from Latin, French, and Norse through historical events. The process of language change is continuous and dynamic, with new words emerging and existing terms evolving in meaning to adapt to new concepts and technologies. Moreover, the internet and global media have accelerated lexical borrowing, with English terms entering languages worldwide at an unprecedented rate. Linguists continue to study how technological, social, and demographic forces interact to shape the linguistic landscape of the modern world.",
+      "question": "According to the passage, what is an example of an external influence on language?",
+      "options": [
+        "Spontaneous phonetic shifts occurring within a single isolated community",
+        "Contact with other languages through trade, conquest, or migration",
+        "Grammatical simplification driven by younger speakers",
+        "Semantic broadening of ancient root words"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 external influences involve contact with other languages through trade, conquest, or migration，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-163",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Plate tectonics is the scientific theory that explains the large-scale motion of Earth's lithospheric plates. The lithosphere, composed of the crust and upper mantle, is divided into several major plates that float on the semi-fluid asthenosphere beneath. Movement occurs at plate boundaries, which are classified as divergent (where plates move apart), convergent (where plates collide), and transform (where plates slide past each other). Divergent boundaries create new oceanic crust through seafloor spreading, while convergent boundaries can form mountain ranges or subduction zones. Transform boundaries result in earthquakes but not significant crustal deformation. This theory revolutionized geology by providing a unifying framework for understanding earthquakes, volcanic activity, and mineral resources. Moreover, the theory also explains the distribution of earthquakes along narrow belts such as the Pacific Ring of Fire, where tectonic activity is concentrated. Because plate movements occur at rates of only a few centimeters per year, the associated geological changes accumulate gradually over millions of years, yet their consequences shape the planet's surface dramatically.",
+      "question": "What happens at divergent plate boundaries?",
+      "options": [
+        "Plates slide past each other without crustal deformation",
+        "Plates collide to form massive mountain ranges",
+        "New oceanic crust is created through seafloor spreading",
+        "Subduction zones pull the crust deep into the mantle"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 divergent boundaries create new oceanic crust through seafloor spreading，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-164",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Cultural practices vary widely across societies but often serve to maintain social cohesion and transmit values across generations. Rituals surrounding birth, marriage, and death provide frameworks for navigating life transitions. Festivals celebrate seasonal changes, religious holidays, or community achievements, reinforcing shared identity. Oral traditions, including storytelling, songs, and proverbs, preserve cultural knowledge and history. The globalization of media has introduced new influences, creating hybrid cultural forms that blend traditional practices with modern elements, sometimes challenging established norms and values. Moreover, the digital age has accelerated cultural exchange, enabling global audiences to engage with traditions from distant societies in real time. Anthropologists study these interactions to understand how communities negotiate the preservation of heritage with the pressures of modernization. today and tomorrow.",
+      "question": "What is one primary function of cultural practices such as rituals and festivals?",
+      "options": [
+        "To replace oral traditions with written legal codes",
+        "To completely eliminate the influence of global media",
+        "To prevent any future changes to traditional norms",
+        "To maintain social cohesion and transmit values across generations"
+      ],
+      "answer": 3,
+      "explanation": "文章首句指出 cultural practices often serve to maintain social cohesion and transmit values across generations，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-165",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Archaeological discoveries of ancient cities continue to reshape our understanding of early human civilizations. Recent excavations in the Indus Valley have uncovered sophisticated urban planning with grid layouts, advanced drainage systems, and standardized brick sizes. These features suggest a high degree of social organization and technological development. The decipherment of the Indus script remains a challenge, as no bilingual text has been found to provide a key for translation. Similarly, excavations in Mesopotamia have revealed cuneiform tablets detailing legal codes, trade records, and literary texts that illuminate the complexity of ancient bureaucratic systems. Such discoveries highlight the importance of interdisciplinary research combining archaeology, linguistics, and history to reconstruct the past. Moreover, recent geophysical surveys using ground-penetrating radar have identified buried structures that hint at even larger urban centers waiting to be explored. Each new excavation adds crucial evidence about how early states organized labor, managed resources, and developed writing systems independently across different regions of the ancient world.",
+      "question": "Why has the decipherment of the Indus script remained difficult?",
+      "options": [
+        "No bilingual text has been found to provide a translation key",
+        "The bricks and drainage systems lacked any written markings",
+        "Mesopotamian cuneiform tablets contradicted Indus records",
+        "Archaeologists have not yet excavated any urban centers"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 decipherment remains a challenge, as no bilingual text has been found to provide a key，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-166",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Graph theory, a branch of mathematics concerned with networks of objects, has found applications in diverse fields. In computer science, it models computer networks, social media connections, and transportation systems. The traveling salesman problem, which seeks the shortest route visiting all cities, is a classic optimization challenge. In epidemiology, graph theory helps track disease transmission through contact networks. Social network analysis uses graph metrics to identify influential individuals and understand community structures. Recent advances in big data analytics have enabled the visualization and analysis of massive graphs containing billions of nodes and edges, revealing patterns previously hidden from view. Furthermore, graph algorithms such as shortest path and centrality measures are widely applied to optimize navigation, logistics, and communication networks. The growing availability of open data continues to expand the scope of graph-based research across both the natural and social sciences.",
+      "question": "How is graph theory utilized in epidemiology?",
+      "options": [
+        "To solve the traveling salesman problem for transportation",
+        "To help track disease transmission through contact networks",
+        "To analyze massive financial transactions in big data",
+        "To design computer networks and social media platforms"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 in epidemiology, graph theory helps track disease transmission through contact networks，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-167",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "As machine learning systems become increasingly integrated into society, ethical considerations have gained prominence. Issues such as algorithmic bias, privacy invasion, and lack of transparency pose significant challenges. Training data often reflects historical biases, leading to discriminatory outcomes in hiring, lending, and law enforcement. The black box nature of deep learning models makes it difficult to explain decision-making processes to affected individuals. Researchers advocate for fairness-aware algorithms, explainable AI techniques, and robust data governance practices. Regulatory frameworks like the EU's AI Act aim to ensure accountability and protect fundamental rights. Ethical AI development requires interdisciplinary collaboration between computer scientists, ethicists, and social scientists to create systems that are both effective and socially responsible. Moreover, continuous auditing and impact assessments are essential to monitor deployed systems for unintended harms over time. As artificial intelligence becomes more pervasive, public engagement and inclusive governance will be crucial to ensuring that its benefits are distributed fairly across all segments of society.",
+      "question": "What causes discriminatory outcomes in machine learning systems according to the passage?",
+      "options": [
+        "Too much transparency in deep learning model decisions",
+        "The complete absence of regulatory frameworks like the AI Act",
+        "Training data often reflecting historical biases",
+        "An oversupply of interdisciplinary ethicists and scientists"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 training data often reflects historical biases, leading to discriminatory outcomes，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-168",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Telemedicine has experienced rapid growth, particularly accelerated by the COVID-19 pandemic, enabling remote healthcare delivery through video consultations, mobile apps, and remote monitoring devices. This approach expands access to specialized care in rural and underserved areas while reducing travel time and costs for patients. Electronic health records integrated with telehealth platforms allow for seamless information sharing between providers. However, limitations include the inability to perform physical examinations, potential technical issues, and concerns about data privacy and security. The future of telemedicine likely involves hybrid models combining virtual and in-person care to optimize patient outcomes and resource utilization. Moreover, reimbursement policies and regulatory standards for virtual care vary considerably across jurisdictions, complicating widespread adoption. Nonetheless, patient satisfaction surveys consistently report high acceptance of remote consultations, suggesting that digital health services will continue to expand alongside traditional medical practice.",
+      "question": "What is considered a major limitation of telemedicine?",
+      "options": [
+        "A lack of interest from rural and underserved areas",
+        "Increased travel time and costs for patients",
+        "Complete incompatibility with electronic health records",
+        "The inability to perform physical examinations"
+      ],
+      "answer": 3,
+      "explanation": "文章指出 limitations include the inability to perform physical examinations，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-169",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Green chemistry focuses on designing chemical processes and products that reduce or eliminate the use and generation of hazardous substances. The 12 principles of green chemistry provide a framework for sustainable chemical synthesis, emphasizing waste prevention, atom economy, and safer solvents. Catalysis plays a crucial role in enabling reactions that proceed under milder conditions with higher selectivity, minimizing energy consumption and byproduct formation. Biodegradable materials derived from renewable resources offer alternatives to traditional petroleum-based plastics. Industrial adoption of green chemistry principles requires innovation in process design, supply chain management, and regulatory compliance to achieve economic viability alongside environmental benefits. Moreover, life-cycle assessment tools allow chemists to quantify the environmental footprint of alternative processes from raw material extraction through final disposal. By integrating sustainability considerations into the earliest stages of molecular design, green chemistry shifts the responsibility for environmental protection from end-of-pipe treatment to preventive innovation.",
+      "question": "What role does catalysis play in green chemistry?",
+      "options": [
+        "Enabling reactions to proceed under milder conditions with higher selectivity",
+        "Replacing renewable resources with petroleum-based plastics",
+        "Maximizing the generation of hazardous chemical byproducts",
+        "Increasing energy consumption during chemical synthesis"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 catalysis plays a crucial role in enabling reactions that proceed under milder conditions... minimizing energy consumption，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-170",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Urbanization represents a significant global trend where populations shift from rural to urban areas, driven by economic opportunities, educational access, and improved infrastructure. Currently, over half of the world's population resides in urban areas, a proportion expected to rise to 68% by 2050 according to United Nations projections. This rapid growth presents challenges such as housing shortages, strain on public services, and increased pollution. However, well-planned urban environments can enhance quality of life through efficient public transportation, green spaces, and mixed-use development. Addressing urbanization requires integrated policies that balance economic development with social equity and environmental sustainability. Moreover, megacities in developing regions are expanding most rapidly, often outpacing the construction of adequate housing and sanitation systems. Planners therefore emphasize compact growth, transit-oriented design, and participatory governance as essential tools for creating resilient cities capable of accommodating future population increases.",
+      "question": "What drives the shift of populations from rural to urban areas?",
+      "options": [
+        "Severe housing shortages and strain on public services",
+        "Economic opportunities, educational access, and improved infrastructure",
+        "Strict government policies limiting rural development",
+        "An increase in pollution and traffic congestion"
+      ],
+      "answer": 1,
+      "explanation": "文章首句指出 populations shift... driven by economic opportunities, educational access, and improved infrastructure，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-171",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Existentialism is a philosophical movement that emphasizes individual freedom, choice, and the search for meaning in an apparently indifferent universe. Central to existentialist thought is the concept of existence precedes essence, which asserts that individuals create their own meaning rather than inheriting predefined purposes. Key figures such as Jean-Paul Sartre and Albert Camus explored themes of absurdity, authenticity, and responsibility. Existentialist literature often portrays characters confronting the void and making authentic choices despite life's inherent uncertainty. This philosophical perspective has influenced literature, psychology, and political theory, encouraging individuals to take responsibility for their actions and values. Moreover, existentialist ideas emerged partly as a response to the upheavals of the twentieth century, including two world wars and the collapse of traditional certainties. By insisting that meaning must be created through committed engagement with the world, existentialism remains a powerful framework for understanding modern anxieties about identity and purpose.",
+      "question": "What does the existentialist concept 'existence precedes essence' imply?",
+      "options": [
+        "The universe provides clear moral guidance for every individual",
+        "Human beings are born with a fixed and immutable purpose in life",
+        "Individuals create their own meaning rather than inheriting predefined purposes",
+        "Essence must be studied before any human action can occur"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 existence precedes essence asserts that individuals create their own meaning rather than inheriting predefined purposes，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-172",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Online learning has transformed education by providing flexible access to courses and resources beyond traditional classroom settings. Massive Open Online Courses (MOOCs) and learning management systems enable learners to progress at their own pace, access diverse instructional materials, and engage in virtual discussions. Educational technology has evolved to support interactive experiences through video lectures, virtual labs, and adaptive assessments that adjust difficulty based on learner performance. However, challenges such as digital divide, reduced face-to-face interaction, and concerns about credential recognition persist. The effectiveness of online learning depends on instructional design, learner motivation, and institutional support structures. Moreover, institutional investments in faculty training and technological infrastructure are increasingly recognized as decisive factors in the success of digital programs. As hybrid and fully online models mature, educators continue to develop pedagogical strategies that foster engagement, community, and academic integrity in virtual environments.",
+      "question": "What is one persistent challenge of online learning mentioned in the text?",
+      "options": [
+        "A complete lack of flexible course access",
+        "An excess of face-to-face classroom interactions",
+        "The inability to use video lectures or virtual labs",
+        "The digital divide and reduced face-to-face interaction"
+      ],
+      "answer": 3,
+      "explanation": "文章指出 challenges such as digital divide, reduced face-to-face interaction... persist，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-173",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Coral reefs, often called the rainforests of the sea, support immense biodiversity and provide critical ecosystem services including coastal protection and fisheries. However, they face severe threats from climate change, ocean acidification, and destructive fishing practices. Coral reef restoration initiatives employ techniques such as coral gardening, where broken coral fragments are grown in nurseries before being transplanted to damaged reefs. Other innovative approaches include micro-fragmentation and assisted gene flow to enhance thermal tolerance in warming waters. While these methods show promise for local recovery, scaling them globally remains a major challenge requiring urgent reductions in greenhouse gas emissions. Moreover, engaging local communities in reef monitoring and restoration generates both ecological and economic benefits, creating stewardship incentives that support long-term conservation. Scientists caution, however, that restoration cannot substitute for the fundamental action of curbing carbon emissions that drive ocean warming worldwide.",
+      "question": "What is coral gardening in the context of reef restoration?",
+      "options": [
+        "Growing broken coral fragments in nurseries before transplanting them to damaged reefs",
+        "Building artificial coastlines to protect reefs from destructive fishing",
+        "Genetically modifying fish species to increase ocean biodiversity",
+        "Eliminating greenhouse gas emissions through local marine policies"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 coral gardening is where broken coral fragments are grown in nurseries before being transplanted to damaged reefs，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-174",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "CRISPR-Cas9 technology has revolutionized genetic engineering by offering a precise, efficient, and cost-effective method for editing DNA. Derived from the natural defense mechanisms of bacteria against phages, the system uses a guide RNA to target specific nucleotide sequences, allowing the Cas9 enzyme to cut the DNA strand at the desired location. Scientists can then disable genes, correct mutations, or insert new genetic material. This breakthrough has immense applications in agriculture, such as developing crop varieties resistant to pests and extreme weather, and in medicine, offering potential cures for genetic disorders like sickle cell anemia. However, ethical concerns regarding germline editing and off-target mutations remain subjects of intense debate among researchers and policymakers. Moreover, the technology continues to advance rapidly, with base editing and prime editing offering even more precise modifications that minimize unintended changes. As the field matures, balancing scientific innovation with responsible oversight will determine the extent to which these powerful tools are translated into clinical practice.",
+      "question": "What is the primary function of the guide RNA in the CRISPR-Cas9 system?",
+      "options": [
+        "To physically repair broken DNA strands after editing occurs",
+        "To target specific nucleotide sequences for the Cas9 enzyme to cut",
+        "To generate natural bacterial defenses against viral phages",
+        "To replace diseased genes with artificial agricultural crops"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 system uses a guide RNA to target specific nucleotide sequences, allowing the Cas9 enzyme to cut the DNA，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-175",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections throughout life, especially in response to learning, experience, or brain injury. Historically, scientists believed that the adult brain was a fixed organ incapable of generating new neurons. However, modern neuroimaging studies have demonstrated that neural pathways can adapt, strengthen, or weaken based on mental activity and environmental demands. This adaptability is crucial for recovering lost functions after strokes or trauma, as undamaged areas can take over tasks previously handled by damaged regions. Educational strategies that promote active learning and cognitive training leverage neuroplasticity to enhance memory and problem-solving skills in learners of all ages. Moreover, research on neuroplasticity has important implications for treating conditions such as depression, anxiety, and chronic pain, where maladaptive neural circuits can be reshaped through targeted therapies. Understanding the brain's remarkable flexibility also underscores the importance of lifelong learning for maintaining cognitive health into old age.",
+      "question": "What did historical scientific views maintain about the adult brain?",
+      "options": [
+        "It relied entirely on neuroplasticity for daily learning",
+        "It could easily reorganize itself after any brain injury",
+        "It was a fixed organ incapable of generating new neurons",
+        "It was more adaptable than the brains of children"
+      ],
+      "answer": 2,
+      "explanation": "文章第二句指出 historically, scientists believed that the adult brain was a fixed organ incapable of generating new neurons，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-176",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Modern aerospace engineering has been profoundly transformed by the deployment of satellite constellations in low Earth orbit. Unlike traditional geostationary satellites that orbit at high altitudes, mega-constellations consist of hundreds or thousands of smaller satellites working in coordination. This configuration provides global broadband internet coverage with significantly lower latency, bridging digital divides in remote regions. However, this proliferation of space hardware raises serious concerns among astronomers and environmentalists regarding orbital debris, light pollution, and potential collision risks. Regulatory bodies face the challenge of establishing international guidelines for sustainable space traffic management. Moreover, the decreasing cost of satellite manufacturing and launch services has accelerated the pace of constellation deployment, making global connectivity increasingly affordable. Nonetheless, astronomers continue to collaborate with operators to develop mitigation strategies, including satellite darkening coatings and precise orbital coordination, to preserve the scientific utility of ground-based observatories.",
+      "question": "What is a major advantage of low Earth orbit satellite mega-constellations over traditional geostationary satellites?",
+      "options": [
+        "They require fewer individual satellites to achieve global coverage",
+        "They orbit at much higher altitudes to avoid space debris collisions",
+        "They eliminate all forms of light pollution for optical astronomy",
+        "They provide global broadband internet coverage with significantly lower latency"
+      ],
+      "answer": 3,
+      "explanation": "文章指出 mega-constellations provides global broadband internet coverage with significantly lower latency，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-177",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Nanotechnology involves the manipulation of matter on an atomic and molecular scale, typically between 1 and 100 nanometers. At this scale, materials exhibit novel physical, chemical, and biological properties that differ significantly from their macroscopic counterparts due to increased surface area-to-volume ratios and quantum effects. Nanomaterials are currently utilized in diverse fields, including targeted drug delivery systems in medicine, lightweight composite materials in aerospace, and more efficient catalysts in energy conversion. Despite these promising advancements, potential toxicity and environmental accumulation of engineered nanoparticles pose risks that require rigorous toxicological evaluation and safety regulation before widespread commercial deployment. Moreover, regulatory agencies are developing standardized frameworks for assessing nanomaterial safety, drawing on advances in computational modeling and high-throughput screening. As research progresses, the responsible development of nanotechnology will depend on transparent communication of both benefits and risks to the public and to policymakers alike.",
+      "question": "Why do nanomaterials exhibit novel properties compared to macroscopic materials?",
+      "options": [
+        "Due to increased surface area-to-volume ratios and quantum effects",
+        "Because they are composed exclusively of biological molecules",
+        "Due to their lower surface area-to-volume ratios in medicine",
+        "Because they operate at scales larger than 100 nanometers"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 materials exhibit novel properties... due to increased surface area-to-volume ratios and quantum effects，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-178",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Vertical farming is an innovative agricultural practice that involves growing crops in vertically stacked layers, often within controlled indoor environments such as warehouses or skyscrapers. By utilizing advanced hydroponic or aeroponic nutrient systems and artificial LED lighting that simulates optimal solar spectrums, vertical farms can achieve significantly higher crop yields per square foot than traditional agriculture. Furthermore, this method eliminates weather-related crop failures, reduces water usage by up to ninety percent, and removes the need for synthetic pesticides. However, high initial capital costs, substantial energy consumption for lighting and climate control, and limited crop variety remain economic hurdles for commercial scalability. Moreover, vertical farms located near urban markets can supply fresh produce year-round, reducing the carbon footprint associated with long-distance food transportation and cold-chain storage. As renewable energy costs decline, the energy intensity of indoor agriculture is expected to diminish, improving the environmental performance of this emerging sector.",
+      "question": "What is one major environmental benefit of vertical farming?",
+      "options": [
+        "It relies entirely on natural sunlight without any artificial LED lighting",
+        "It reduces water usage by up to ninety percent and removes pesticide needs",
+        "It lowers initial capital costs for commercial agricultural facilities",
+        "It eliminates energy consumption for climate control systems"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 reduces water usage by up to ninety percent, and removes the need for synthetic pesticides，故选A，故选B。"
+    },
+    {
+      "id": "toefl-r-179",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Deep-sea exploration has revealed remarkable ecosystems thriving in extreme conditions previously thought uninhabitable. Hydrothermal vents, discovered along tectonic spreading centers, spew mineral-rich water heated to over 400 degrees Celsius into the pitch-black ocean abyss. Instead of relying on photosynthesis, organisms such as giant tube worms and vent clams survive through chemosynthesis, utilizing hydrogen sulfide from the vent fluid. Bacteria form the base of this unique food web, converting chemical energy into organic matter. Exploring these remote environments expands our understanding of life's biochemical limits and offers clues about the potential for life on icy moons in our solar system. Moreover, deep-sea organisms produce unique biochemical compounds with potential applications in medicine and biotechnology, from novel antibiotics to heat-stable enzymes. Continued exploration of these extreme habitats also informs debates about planetary protection, reminding scientists to prevent contamination of pristine environments beyond Earth.",
+      "question": "How do organisms near hydrothermal vents sustain themselves without sunlight?",
+      "options": [
+        "By migrating to upper ocean layers during seasonal feeding cycles",
+        "By performing specialized forms of deep-water photosynthesis",
+        "Through chemosynthesis, utilizing hydrogen sulfide from vent fluid",
+        "Through direct consumption of mineral-rich water heated to 400 degrees"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 organisms survive through chemosynthesis, utilizing hydrogen sulfide from the vent fluid，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-180",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Paleontological discoveries of feathered dinosaurs have fundamentally transformed our understanding of avian evolution. Fossils unearthed in Liaoning, China, preserve exquisite details of feathers, ranging from simple filamentous structures to complex vaned plumes on dinosaurs like Sinosauropteryx and Velociraptor. These findings confirm that feathers originally evolved for insulation or display rather than powered flight, with aerodynamic functions developing later in small theropod lineages. Furthermore, sophisticated analyses of melanosomes preserved in fossil feathers have even allowed scientists to reconstruct the actual coloration and patterning of prehistoric animals, bridging the gap between imagination and empirical science in paleontology. Moreover, the discovery of feather color has refined evolutionary narratives, demonstrating that display and communication played important roles in the lives of early dinosaurs. These insights have also prompted revisions in museum exhibits and educational materials, presenting a more dynamic and scientifically grounded picture of prehistoric life to the public.",
+      "question": "According to the passage, why did feathers originally evolve in dinosaurs?",
+      "options": [
+        "To camouflage theropods against dense forest canopies",
+        "For immediate aerodynamic lift and powered flight",
+        "To help aquatic dinosaurs swim in deep prehistoric lakes",
+        "For insulation or display rather than powered flight"
+      ],
+      "answer": 3,
+      "explanation": "文章指出 feathers originally evolved for insulation or display rather than powered flight，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-181",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Climate change is driving significant geographic shifts in species distributions as ecosystems respond to rising global temperatures. Many terrestrial and marine organisms are migrating toward higher latitudes or higher elevations to remain within their preferred thermal envelopes. However, the rate of climate change often outpaces the dispersal capabilities of many plants and animals, leading to ecological mismatches and increased extinction risks. For example, migratory birds arriving earlier in spring may find that their insect food sources have already peaked. Conservation strategies now emphasize establishing climate corridors and protected migratory pathways to facilitate natural adaptation and biodiversity preservation. Moreover, conservation scientists are increasingly using genetic monitoring and predictive modeling to identify vulnerable populations before declines become irreversible. Adaptive management frameworks that incorporate regular reassessment of ecological conditions are now considered essential tools for safeguarding biodiversity in an era of rapid environmental change.",
+      "question": "What is one consequence when climate change outpaces a species' dispersal capabilities?",
+      "options": [
+        "Ecological mismatches and increased extinction risks",
+        "Successful migration toward equatorial regions",
+        "Instantaneous evolution of thermal tolerance traits",
+        "A complete halt to global temperature increases"
+      ],
+      "answer": 2,
+      "explanation": "文章指出 rate of climate change often outpaces dispersal... leading to ecological mismatches and increased extinction risks，故选A，故选C。"
+    },
+    {
+      "id": "toefl-r-182",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Social media platforms have profoundly altered public discourse by reshaping how information is disseminated, consumed, and debated. Algorithms designed to maximize user engagement frequently create echo chambers, where individuals are exposed predominantly to viewpoints that align with their existing beliefs. This selective exposure can polarize societal debates and accelerate the spread of misinformation and sensationalized content. At the same time, social media empowers grassroots social movements by enabling rapid mobilization and direct communication without traditional media gatekeepers. Researchers study these dynamics to develop interventions that promote digital literacy and constructive civic engagement online. Moreover, platform design choices, such as the prominence of share buttons and the structure of recommendation feeds, directly influence how rapidly content spreads across networks. Understanding these mechanisms allows researchers, educators, and policymakers to design more responsible digital environments that support informed public deliberation.",
+      "question": "What role do engagement-maximizing algorithms play on social media platforms?",
+      "options": [
+        "They frequently create echo chambers that expose users to aligned viewpoints",
+        "They prevent the spread of misinformation and sensationalized content",
+        "They act as traditional media gatekeepers for grassroots movements",
+        "They eliminate all forms of societal polarization and debate"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 algorithms designed to maximize user engagement frequently create echo chambers，故选A。"
+    },
+    {
+      "id": "toefl-r-183",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Cryptocurrency markets have introduced decentralized digital assets enabled by blockchain technology, challenging traditional fiat monetary systems. Cryptocurrencies like Bitcoin operate on distributed ledgers maintained by a network of computers, eliminating the need for central banking authorities. While this decentralization offers financial inclusion and transparency, high price volatility, regulatory uncertainty, and environmental concerns regarding energy-intensive mining processes present significant challenges. Central banks worldwide are currently exploring central bank digital currencies (CBDCs) as a regulated alternative that combines the efficiency of digital transactions with monetary stability and government oversight. Moreover, distributed ledger technology itself continues to evolve, with newer consensus mechanisms such as proof of stake consuming a fraction of the energy required by traditional proof of work systems. These technical innovations, alongside evolving regulatory clarity, will shape the long-term viability of digital currencies as instruments of global finance.",
+      "question": "What is a major challenge associated with cryptocurrencies like Bitcoin?",
+      "options": [
+        "High price volatility and energy-intensive mining processes",
+        "A lack of transparency in distributed computer networks",
+        "Complete elimination of blockchain and distributed ledger technology",
+        "Total dependence on central banking authorities for transactions"
+      ],
+      "answer": 3,
+      "explanation": "文章指出 high price volatility... and environmental concerns regarding energy-intensive mining present challenges，故选A，故选D。"
+    },
+    {
+      "id": "toefl-r-184",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Human decision making is frequently influenced by cognitive biases and heuristics, which are mental shortcuts that simplify complex choices but can lead to systematic errors. Daniel Kahneman and Amos Tversky identified key heuristics such as availability heuristic, where people judge the frequency of an event by how easily examples come to mind, and anchoring effect, where initial information disproportionately influences subsequent estimates. Understanding these cognitive limitations is crucial in fields such as public policy, finance, and medicine, where flawed judgment can have severe consequences. Debiasing techniques and structured analytical frameworks are often implemented to help professionals make more objective and rational decisions. Moreover, heuristics are generally efficient under conditions of uncertainty and limited information, and they often produce satisfactory outcomes despite occasional systematic errors. By understanding when mental shortcuts are reliable and when they fail, decision researchers can design environments that help people make better choices without eliminating human judgment entirely.",
+      "question": "What does the availability heuristic involve in human decision making?",
+      "options": [
+        "Allowing initial information to disproportionately influence estimates",
+        "Judging the frequency of an event by how easily examples come to mind",
+        "Completely eliminating all mental shortcuts and cognitive biases",
+        "Making complex choices without relying on any memory recall"
+      ],
+      "answer": 0,
+      "explanation": "文章指出 availability heuristic is where people judge the frequency of an event by how easily examples come to mind，故选A，故选A。"
+    },
+    {
+      "id": "toefl-r-185",
+      "exam": "toefl",
+      "section": "reading",
+      "part": 1,
+      "passage": "Invasive species represent a major threat to global biodiversity and ecosystem stability when introduced to new environments outside their native ranges. Lacking natural predators or diseases in their introduced habitats, invasive species can multiply rapidly and outcompete native flora and fauna for vital resources such as food, water, and space. For example, the introduction of the brown tree snake to Guam decimated native forest bird populations, while zebra mussels in North American waterways clog industrial infrastructure and disrupt aquatic food webs. Management strategies involve early detection, rapid eradication, and biological control using specialized natural enemies, though prevention remains the most cost-effective approach. Moreover, climate change is expanding the ranges of many invasive species, allowing them to establish populations in regions that were previously too cold for their survival. Effective biosecurity therefore requires international cooperation, robust border controls, and public awareness campaigns to limit the accidental transportation of organisms across continents.",
+      "question": "Why do invasive species often multiply rapidly in newly introduced environments?",
+      "options": [
+        "They lack natural predators or diseases in their new habitats",
+        "They instantly adapt to become native flora and fauna",
+        "They rely exclusively on industrial infrastructure for survival",
+        "They intentionally cooperate with native species for shared resources"
+      ],
+      "answer": 1,
+      "explanation": "文章指出 lacking natural predators or diseases in their introduced habitats, invasive species can multiply rapidly，故选A。"
+    }
+  ]
+}

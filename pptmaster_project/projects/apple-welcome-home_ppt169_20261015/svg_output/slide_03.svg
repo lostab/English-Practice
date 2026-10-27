@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs><linearGradient id="bg03" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/>
+  </linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#bg03)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// EXECUTIVE SUMMARY · 核心洞察</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">执行摘要：四条核心判断</text>
+  <rect x="96" y="158" width="300" height="3" rx="1.5" fill="#22D3EE"/>
+
+  <g transform="translate(96 210)">
+    <rect x="0" y="0" width="524" height="108" rx="12" fill="#0E1830" stroke="#22D3EE"/>
+    <text x="20" y="32" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">01 · 苹果战略：软硬一体 + AI 优先</text>
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">HomeView 中枢 + Apple TV 4K + HomePod mini 2 + Home Collection 四线齐发，</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">A18 芯片 + Siri AI 落地家庭场景，从「平台」转向「智能终端」</text>
+
+    <rect x="544" y="0" width="524" height="108" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="564" y="32" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">02 · 市场格局：三足鼎立</text>
+    <text x="564" y="58" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">苹果 = 生态闭环 + 高端定价（$299）；华为 = 全屋工程 + 前装渠道；</text>
+    <text x="564" y="80" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">小米 = 设备广度 + 性价比。三者定价带与目标用户差异显著</text>
+
+    <rect x="0" y="124" width="524" height="108" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="156" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">03 · 技术路线：端侧隐私 vs 生态开放</text>
+    <text x="20" y="182" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">苹果押注 Secure Exclaves + Private Cloud Compute 端侧隐私；</text>
+    <text x="20" y="204" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">华为鸿蒙分布式 + 小米全生态兼容 —— 隐私与开放两条路线并存</text>
+
+    <rect x="544" y="124" width="524" height="108" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="564" y="156" font-family="Consolas, monospace" font-size="14" fill="#7DD3FC">04 · 未来趋势：AI 重塑体验</text>
+    <text x="564" y="182" font-family="Arial, sans-serif" font-size="14" fill="#E2E8F0">Siri AI / 小艺 / 小爱同学 全面大模型化，主动智能替代被动响应；</text>
+    <text x="564" y="204" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">Matter 协议打破品牌壁垒，跨生态互联互通成共同方向</text>
+
+    <rect x="0" y="250" width="1068" height="150" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+    <text x="24" y="282" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 一句话结论</text>
+    <text x="24" y="316" font-family="Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="700" fill="#A5F3FC">智能家居竞争已从「卖硬件」升级为「卖系统与体验」</text>
+    <text x="24" y="352" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">苹果以 HomeView + A18 + 隐私架构切入家庭中枢新品类；华为靠前装工程渠道稳守高端；小米以设备规模与价格带覆盖大众。</text>
+    <text x="24" y="380" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">本页全部判断基于三家官方发布材料（Apple Newsroom / consumer.huawei.com / mi.com），无第三方猜测数据</text>
+  </g>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">03 / 23</text>
+</svg>

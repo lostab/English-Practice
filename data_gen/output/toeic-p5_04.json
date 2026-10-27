@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p5-578",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "All participants ______ submit their feedback forms before leaving the workshop venue.",
+      "options": [
+        "could",
+        "might",
+        "ought",
+        "must"
+      ],
+      "answer": 3,
+      "explanation": "must 表强制性要求，符合“必须提交”的语义。"
+    },
+    {
+      "id": "toeic-p5-579",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The interim financial report showed revenue ______ than analysts had projected.",
+      "options": [
+        "highly",
+        "higher",
+        "highest",
+        "high"
+      ],
+      "answer": 1,
+      "explanation": "than 提示比较级，用 higher。"
+    },
+    {
+      "id": "toeic-p5-580",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Should the server overload during peak hours, please ______ the traffic to the backup site.",
+      "options": [
+        "redirects",
+        "redirecting",
+        "redirect",
+        "redirected"
+      ],
+      "answer": 2,
+      "explanation": "please 后接动词原形；should 引导虚拟条件句。"
+    },
+    {
+      "id": "toeic-p5-581",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Ms. Garcia is the coordinator ______ presentation received the highest ratings from attendees.",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "whom"
+      ],
+      "answer": 1,
+      "explanation": "whose 表所属关系，修饰 presentation。"
+    },
+    {
+      "id": "toeic-p5-582",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Of the three software vendors evaluated, the committee selected the one that was ______ to integrate.",
+      "options": [
+        "easily",
+        "easy",
+        "easier",
+        "easiest"
+      ],
+      "answer": 3,
+      "explanation": "of the three 表范围，用最高级 easiest。"
+    },
+    {
+      "id": "toeic-p5-583",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Neither the marketing team nor the product developers ______ informed about the launch delay.",
+      "options": [
+        "is",
+        "were",
+        "was",
+        "have been"
+      ],
+      "answer": 1,
+      "explanation": "neither...nor 就近原则，developers 为复数用 were。"
+    },
+    {
+      "id": "toeic-p5-584",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Only after the compliance officer signed off ______ could the new feature be released.",
+      "options": [
+        "would",
+        "does",
+        "had",
+        "was"
+      ],
+      "answer": 0,
+      "explanation": "only 置于句首，主句部分倒装，过去时用 would。"
+    },
+    {
+      "id": "toeic-p5-585",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The audit committee eventually agreed ______ the scope of the upcoming internal review.",
+      "options": [
+        "about",
+        "on",
+        "to",
+        "with"
+      ],
+      "answer": 1,
+      "explanation": "agree on 表“就……达成一致”。"
+    },
+    {
+      "id": "toeic-p5-586",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The updated travel policy, ______ begins next quarter, was approved by the CFO last week.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whom"
+      ],
+      "answer": 0,
+      "explanation": "先行词指物，非限定性定语从句缺主语，用 which。"
+    },
+    {
+      "id": "toeic-p5-587",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Field agents now spend significantly ______ on mileage reimbursements than they did last year.",
+      "options": [
+        "least",
+        "little",
+        "fewer",
+        "less"
+      ],
+      "answer": 3,
+      "explanation": "spend 后接不可数金额，用 less 表“更少”。"
+    },
+    {
+      "id": "toeic-p5-588",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "We will activate the disaster recovery plan once the IT director ______ the system integrity.",
+      "options": [
+        "has verified",
+        "would verify",
+        "will verify",
+        "verified"
+      ],
+      "answer": 0,
+      "explanation": "once 引导时间状语从句，用现在完成时表将来。"
+    },
+    {
+      "id": "toeic-p5-589",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The facilities department is responsible for ______ all safety equipment on a monthly basis.",
+      "options": [
+        "inspect",
+        "inspected",
+        "to inspect",
+        "inspecting"
+      ],
+      "answer": 3,
+      "explanation": "be responsible for 后接动名词 inspecting。"
+    },
+    {
+      "id": "toeic-p5-590",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Please store the master keys ______ the locked cabinet in the security office.",
+      "options": [
+        "with",
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": 3,
+      "explanation": "表示“在柜子里”用介词 in。"
+    },
+    {
+      "id": "toeic-p5-591",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ the shipment clears customs by Friday, we will not meet the client's delivery window.",
+      "options": [
+        "Unless",
+        "Although",
+        "If",
+        "Because"
+      ],
+      "answer": 0,
+      "explanation": "unless 表“除非”，后接肯定句表否定条件。"
+    },
+    {
+      "id": "toeic-p5-592",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ of the night-shift staff are permitted to take breaks in the designated lounge.",
+      "options": [
+        "Some",
+        "All",
+        "None",
+        "Most"
+      ],
+      "answer": 2,
+      "explanation": "后接否定逻辑，只有 none 与句意一致。"
+    },
+    {
+      "id": "toeic-p5-593",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The upgraded firewall is expected ______ unauthorized access attempts by a substantial percentage.",
+      "options": [
+        "block",
+        "blocked",
+        "blocking",
+        "to block"
+      ],
+      "answer": 3,
+      "explanation": "be expected to do sth. 为固定搭配。"
+    },
+    {
+      "id": "toeic-p5-594",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ the sudden power outage, the data center maintained full operational capacity.",
+      "options": [
+        "Despite",
+        "Due to",
+        "Because of",
+        "Thanks to"
+      ],
+      "answer": 0,
+      "explanation": "despite 表让步“尽管”，后接名词短语。"
+    },
+    {
+      "id": "toeic-p5-595",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The client inquired ______ the service-level agreement includes weekend support coverage.",
+      "options": [
+        "whether",
+        "because",
+        "unless",
+        "that"
+      ],
+      "answer": 0,
+      "explanation": "whether 引导宾语从句，表“是否”。"
+    },
+    {
+      "id": "toeic-p5-596",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The interns were divided into teams; ______ team was assigned a different market segment.",
+      "options": [
+        "every",
+        "most",
+        "each",
+        "all"
+      ],
+      "answer": 2,
+      "explanation": "each 作主语指“每个小组”，谓语用单数。"
+    },
+    {
+      "id": "toeic-p5-597",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The cargo was delayed ______ adverse weather conditions at the departure airport.",
+      "options": [
+        "by",
+        "on",
+        "for",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "be delayed by 表“被……延迟”，被动语态引导者用 by。"
+    },
+    {
+      "id": "toeic-p5-598",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Applicants who pass the language proficiency test ______ be scheduled for a second interview.",
+      "options": [
+        "had",
+        "were",
+        "will",
+        "would"
+      ],
+      "answer": 2,
+      "explanation": "表将来将被安排，用一般将来时 will。"
+    },
+    {
+      "id": "toeic-p5-599",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ completing the mandatory ethics training, employees receive a certificate of completion.",
+      "options": [
+        "Before",
+        "Unless",
+        "Upon",
+        "Despite"
+      ],
+      "answer": 2,
+      "explanation": "upon doing sth. 表“在完成……之后/之时”。"
+    },
+    {
+      "id": "toeic-p5-600",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The negotiation team reached consensus ______ the royalty rates for the licensed technology.",
+      "options": [
+        "about",
+        "on",
+        "with",
+        "to"
+      ],
+      "answer": 1,
+      "explanation": "reach consensus on 表“就……达成共识”。"
+    },
+    {
+      "id": "toeic-p5-601",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The analysts are reviewing the variances that ______ in the quarterly budget comparison.",
+      "options": [
+        "appear",
+        "appeared",
+        "have been appearing",
+        "will appear"
+      ],
+      "answer": 1,
+      "explanation": "描述季度预算对比中已出现的问题，用过去时 appeared。"
+    },
+    {
+      "id": "toeic-p5-602",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Visitors must present a government-issued ID ______ entering the research and development wing.",
+      "options": [
+        "before",
+        "until",
+        "after",
+        "during"
+      ],
+      "answer": 0,
+      "explanation": "before entering 意为“进入之前”。"
+    },
+    {
+      "id": "toeic-p5-603",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The survey results were tabulated ______ so that the product manager could identify trends immediately.",
+      "options": [
+        "electronics",
+        "electronically",
+        "electrified",
+        "electronic"
+      ],
+      "answer": 1,
+      "explanation": "修饰动词 tabulated 用副词 electronically“以电子方式”。"
+    },
+    {
+      "id": "toeic-p5-604",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Had the logistics coordinator received the warehouse schedule earlier, they ______ the inbound shipments accordingly.",
+      "options": [
+        "will adjust",
+        "adjust",
+        "would have adjusted",
+        "had adjusted"
+      ],
+      "answer": 2,
+      "explanation": "had 引导的虚拟条件句，主句用 would have + 过去分词。"
+    },
+    {
+      "id": "toeic-p5-605",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "______ feedback is resolved more efficiently when it is submitted via the online portal.",
+      "options": [
+        "Customers'",
+        "Customer",
+        "The customers",
+        "Customer's"
+      ],
+      "answer": 1,
+      "explanation": "名词作定语修饰 feedback，不加所有格。"
+    },
+    {
+      "id": "toeic-p5-606",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The procurement specialist compared the estimated lead times ______ the actual delivery dates.",
+      "options": [
+        "for",
+        "at",
+        "against",
+        "of"
+      ],
+      "answer": 2,
+      "explanation": "compare sth. against sth. 表“把……与……对照”。"
+    },
+    {
+      "id": "toeic-p5-607",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The revised dividend policy will be communicated to every shareholder ______ the annual general meeting.",
+      "options": [
+        "at",
+        "toward",
+        "within",
+        "from"
+      ],
+      "answer": 0,
+      "explanation": "at the meeting 表“在会议上”。"
+    },
+    {
+      "id": "toeic-p5-608",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The exhibit signage was fabricated ______ clearly that passersby could grasp the brand message within seconds.",
+      "options": [
+        "too",
+        "as",
+        "such",
+        "so"
+      ],
+      "answer": 3,
+      "explanation": "so + that 引导结果状语从句，表“如此……以至于”。"
+    },
+    {
+      "id": "toeic-p5-609",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The quarterly webinar attracted registrants ______ than the previous session due to improved topic relevance.",
+      "options": [
+        "much",
+        "most",
+        "more",
+        "many"
+      ],
+      "answer": 2,
+      "explanation": "than 提示比较级，用 more 修饰可数名词复数。"
+    },
+    {
+      "id": "toeic-p5-610",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Should the main database experience latency, please ______ the read requests to the replica node.",
+      "options": [
+        "route",
+        "routed",
+        "routing",
+        "routes"
+      ],
+      "answer": 0,
+      "explanation": "please 后接动词原形；should 引导虚拟条件句。"
+    },
+    {
+      "id": "toeic-p5-611",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Mr. Epstein is the supervisor ______ feedback consistently received the highest satisfaction scores.",
+      "options": [
+        "who",
+        "whose",
+        "which",
+        "whom"
+      ],
+      "answer": 1,
+      "explanation": "whose 表所属关系，修饰 feedback。"
+    },
+    {
+      "id": "toeic-p5-612",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Of the four office layouts tested, employees preferred the one that was ______ for collaborative work.",
+      "options": [
+        "better suited",
+        "good suited",
+        "best suited",
+        "well suited"
+      ],
+      "answer": 2,
+      "explanation": "of the four 表范围，用最高级 best suited。"
+    },
+    {
+      "id": "toeic-p5-613",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Neither the HR department nor the payroll team ______ notified of the changes to the tax withholding tables.",
+      "options": [
+        "were",
+        "is",
+        "have been",
+        "was"
+      ],
+      "answer": 3,
+      "explanation": "neither...nor 就近原则，team 为单数用 was。"
+    },
+    {
+      "id": "toeic-p5-614",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "Only after the legal department completed its review ______ could the partnership agreement be executed.",
+      "options": [
+        "had",
+        "was",
+        "does",
+        "did"
+      ],
+      "answer": 3,
+      "explanation": "only 置于句首，主句部分倒装，过去时用 did。"
+    },
+    {
+      "id": "toeic-p5-615",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The building management committee eventually agreed ______ the proposed renovation timeline for the lobby.",
+      "options": [
+        "with",
+        "to",
+        "on",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "agree to sth. 表“同意某项安排”。"
+    },
+    {
+      "id": "toeic-p5-616",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 5,
+      "question": "The updated remote-work policy, ______ takes effect on the first of next month, was reviewed by IT security.",
+      "options": [
+        "who",
+        "where",
+        "which",
+        "whom"
+      ],
+      "answer": 2,
+      "explanation": "先行词指物，非限定性定语从句缺主语，用 which。"
+    }
+  ]
+}

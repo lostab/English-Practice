@@ -663,30 +663,30 @@ export default function App() {
   }
 
   return (
-    <div className="app-viewport bg-slate-950 text-slate-100 flex flex-col items-center justify-center p-4 sm:p-6 relative overflow-hidden cursor-pointer md:cursor-default">
-      {/* 背景装饰光晕 */}
-      <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-indigo-600/15 rounded-full blur-3xl pointer-events-none"></div>
-      <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-purple-600/15 rounded-full blur-3xl pointer-events-none"></div>
+      <div className="app-viewport bg-slate-950 text-slate-100 flex flex-col items-center p-4 sm:p-6 relative overflow-hidden cursor-pointer md:cursor-default">
+        {/* 背景装饰光晕 */}
+        <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-indigo-600/15 rounded-full blur-3xl pointer-events-none"></div>
+        <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-purple-600/15 rounded-full blur-3xl pointer-events-none"></div>
 
-      {/* 桌面端：横向双栏 */}
-      <div className="w-full max-w-md lg:max-w-6xl z-10 flex flex-col lg:flex-row lg:items-center gap-8">
-        {/* 左栏：标题 + 统计 */}
-        <div className="text-center lg:text-center lg:flex-1">
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-indigo-500/10 to-purple-500/10 border border-indigo-500/30 text-indigo-300 text-xs font-bold mb-5 tracking-wide shadow-sm">
-            🔥 真题突击
-          </div>
-          <h1 className="text-4xl sm:text-5xl xl:text-6xl font-black tracking-tight mb-3 text-white">
-            TOEIC & TOEFL <br/>
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-300 to-amber-300">
-              高分直通车
-            </span>
-          </h1>
-          <p className="text-slate-400 text-sm sm:text-base mb-6">
-            碎片微练 ∙ 全真模考 ∙ 权威解析，随时随地高效备考。
-          </p>
+        {/* 桌面端：横向双栏 */}
+        <div className="w-full max-w-md lg:max-w-6xl z-10 flex flex-col lg:flex-row lg:items-center gap-8">
+          {/* 左栏：标题 + 统计 */}
+          <div className="text-center lg:text-center lg:flex-1">
+            <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-gradient-to-r from-indigo-500/10 to-purple-500/10 border border-indigo-500/30 text-indigo-300 text-xs font-bold mb-5 tracking-wide shadow-sm">
+              🔥 真题突击
+            </div>
+            <h1 className="text-4xl sm:text-5xl xl:text-6xl font-black tracking-tight mb-3 text-white">
+              TOEIC & TOEFL <br/>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-300 to-amber-300">
+                高分直通车
+              </span>
+            </h1>
+            <p className="text-slate-400 text-sm sm:text-base mb-4">
+              碎片微练 ∙ 全真模考 ∙ 权威解析，随时随地高效备考。
+            </p>
 
-          {/* 统计卡片（全端显示，移动端两列、桌面四列） */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3">
+            {/* 统计卡片（全端显示，移动端两列、桌面四列） */}
+            <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-3 mb-6">
             <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-2.5 sm:p-3 text-center">
               <div className="text-lg sm:text-xl font-black text-indigo-400">{QUESTIONS.length}</div>
               <div className="text-[10px] text-slate-500 font-semibold uppercase mt-0.5">总题库</div>

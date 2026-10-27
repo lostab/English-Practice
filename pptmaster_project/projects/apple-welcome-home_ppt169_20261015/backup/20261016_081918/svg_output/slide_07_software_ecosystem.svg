@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs>
+    <linearGradient id="bg7" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#070B16"/>
+      <stop offset="1" stop-color="#0A1120"/>
+    </linearGradient>
+    <filter id="glow7" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg7)"/>
+  <g stroke="#16324D" stroke-width="1" opacity="0.35">
+    <path d="M0 180H1280M0 360H1280M0 540H1280M160 0V720M400 0V720M640 0V720M880 0V720M1120 0V720"/>
+  </g>
+
+  <!-- Header -->
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// HOMEVIEW EXPERIENCE · 功能矩阵（全部官方确认）</text>
+  <text x="94" y="145" font-family="Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="700" fill="#F8FAFC">HomeView 功能全景：娱乐 · 连接 · 智能家居 · 隐私</text>
+  <rect x="96" y="165" width="540" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="192" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：Apple 官方产品页 + 新闻稿（2026-10-13）· 所有功能点均有官方文字依据</text>
+
+  <!-- 2x3 feature grid -->
+  <g transform="translate(96 220)">
+    <!-- F1 Entertainment -->
+    <rect x="0" y="0" width="350" height="108" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="32" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">ENTERTAINMENT · 娱乐</text>
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">Apple Music 歌词/专辑动画 · Podcasts ·</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">News 有声故事 · 兼容第三方音视频 App</text>
+    <text x="20" y="102" font-family="Arial, sans-serif" font-size="13" fill="#64748B">Handoff 无缝续播 · 多房间 AirPlay</text>
+
+    <!-- F2 FaceTime & Calling -->
+    <rect x="364" y="0" width="350" height="108" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="32" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">CONNECT · 连接</text>
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">FaceTime + Center Stage 智能构图</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">Intercom 家庭广播 · 语音收发消息</text>
+    <text x="20" y="102" font-family="Arial, sans-serif" font-size="13" fill="#64748B">Find My · 实时活动 Live Activities</text>
+
+    <!-- F3 Camera -->
+    <rect x="728" y="0" width="360" height="108" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="32" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">HOME CAMERA FACE · 安防</text>
+    <text x="20" y="58" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">最多 9 路视频同屏直播</text>
+    <text x="20" y="80" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">HomeKit Secure Video 端到端加密</text>
+    <text x="20" y="102" font-family="Arial, sans-serif" font-size="13" fill="#64748B">人物/宠物/包裹/车辆识别（iCloud+）</text>
+
+    <!-- F4 Sensores -->
+    <rect x="0" y="122" width="350" height="108" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="154" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">SOUND RECOGNITION · 感知</text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">识别烟雾/一氧化碳报警音</text>
+    <text x="20" y="202" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">报警推送至 iPhone/iPad/Watch</text>
+    <text x="20" y="224" font-family="Arial, sans-serif" font-size="13" fill="#64748B">温湿度传感器内置 · 环境光自适应</text>
+
+    <!-- F5 Faces -->
+    <rect x="364" y="122" width="350" height="108" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="154" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">FACES · 表盘生态</text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">Photos 人像景深 · Flow 动态互动艺术</text>
+    <text x="20" y="202" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">Snoopy 动画 · Home Modular 面板</text>
+    <text x="20" y="224" font-family="Arial, sans-serif" font-size="13" fill="#64748B">距离感应：远观概要 / 近看细节</text>
+
+    <!-- F6 Kitchen -->
+    <rect x="728" y="122" width="360" height="108" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="154" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">COOKING · 场景</text>
+    <text x="20" y="180" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">网页食谱一键转分步引导</text>
+    <text x="20" y="202" font-family="Arial, sans-serif" font-size="14.5" fill="#E2E8F0">免提计时 · 食材追踪</text>
+    <text x="20" y="224" font-family="Arial, sans-serif" font-size="13" fill="#64748B">多计时器 · 语音控制</text>
+  </g>
+
+  <!-- Bottom: Home Collection -->
+  <rect x="96" y="600" width="1088" height="92" rx="14" fill="#0E1830" stroke="#0EA5E9"/>
+  <text x="124" y="632" font-family="Consolas, monospace" font-size="13" fill="#7DD3FC">APPLE HOME COLLECTION · 生态破圈第一役</text>
+  <text x="124" y="658" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">与 <tspan font-weight="700" fill="#F8FAFC">LG Electronics</tspan> + <tspan font-weight="700" fill="#F8FAFC">Schneider Electric</tspan> 联合设计智能摄像头/温控器/门锁（12月起发售，部分 2027 初）</text>
+  <text x="124" y="682" font-family="Arial, sans-serif" font-size="14" fill="#94A3B8">端到端加密 · NFC 配对 · 兼容 Works with Apple Home 与 Matter · ADT 专业安装服务</text>
+
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">07 / 12</text>
+</svg>

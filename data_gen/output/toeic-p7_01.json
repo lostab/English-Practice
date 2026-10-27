@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-304",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team\nFROM: Sarah Johnson, Marketing Manager\nDATE: October 10\nSUBJECT: New Product Launch\n\nDear Team,\nWe are launching a new line of insulated water bottles next month. Please submit your proposed marketing timeline by Friday so the media schedule can be finalized. We need social media teasers ready one week before launch. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What is the deadline for submitting the marketing timeline?",
+      "options": [
+        "Friday",
+        "Monday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "answer": 0,
+      "explanation": "邮件明确要求 submit your proposed marketing timeline by Friday，故选A。"
+    },
+    {
+      "id": "toeic-p7-305",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Facilities Department\nDATE: October 12\nSUBJECT: Breakroom Closure\n\nPlease be advised that the third-floor breakroom will be closed this Saturday morning for equipment upgrades. The refurbished room will reopen at 2:00 PM. A temporary coffee station has been set up in the second-floor lobby for the meantime. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "Until what time will the breakroom remain closed on Saturday?",
+      "options": [
+        "11:00 AM",
+        "2:00 PM",
+        "1:00 PM",
+        "5:00 PM"
+      ],
+      "answer": 1,
+      "explanation": "通知指出 breakroom will be closed ... until 2:00 PM，故选B。"
+    },
+    {
+      "id": "toeic-p7-306",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sarah Miller\nFROM: David Chen\nDATE: November 3\nSUBJECT: Meeting Room Reservation\n\nHi Sarah,\nI received your request to reserve Meeting Room 4B for November 10. Unfortunately, that room is booked by the legal department for an all-day seminar. However, Room 2A is available and offers a larger capacity and video conferencing. Please confirm if this works. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "Why is Meeting Room 4B unavailable for November 10?",
+      "options": [
+        "It is being renovated.",
+        "It is too small.",
+        "It is booked by the legal department.",
+        "It lacks a projector."
+      ],
+      "answer": 2,
+      "explanation": "邮件说明 that room is booked by the legal department，故选C。"
+    },
+    {
+      "id": "toeic-p7-307",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "MEMORANDUM\nTO: Department Heads\nFROM: Human Resources\nDATE: September 15\nSUBJECT: Annual Reviews\n\nAnnual performance reviews must be completed and one-on-one feedback sessions scheduled by October 15. Submit all evaluation forms through the employee portal before the deadline. Late submissions may delay salary adjustments scheduled for November. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What deadline must department heads meet for performance reviews?",
+      "options": [
+        "September 15",
+        "November 1",
+        "December 31",
+        "October 15"
+      ],
+      "answer": 3,
+      "explanation": "备忘录要求 complete reviews ... by October 15，故选D。"
+    },
+    {
+      "id": "toeic-p7-308",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "NOTICE\nScheduled System Maintenance\nDate: August 20\nTime: 11:00 PM - 3:00 AM\n\nOur enterprise resource planning system will undergo maintenance this Friday night. Access to payroll and inventory tracking will be temporarily unavailable. We ask all employees to save their work before leaving the office on Friday. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "How long does the maintenance window last in total?",
+      "options": [
+        "Four hours",
+        "Two hours",
+        "Three hours",
+        "Five hours"
+      ],
+      "answer": 0,
+      "explanation": "公告维护时段为 11:00 PM 至 3:00 AM，共 4 小时，故选A。"
+    },
+    {
+      "id": "toeic-p7-309",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "Apex Commercial Cleaning Solutions\n\nAre you looking for reliable and eco-friendly office cleaning? Apex provides professional janitorial services for businesses of all sizes. Sign up for a yearly contract before the end of this month and receive a 20 percent discount on your first three months. Contact our sales team for a free quote today. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What discount does Apex offer for customers who sign yearly contracts?",
+      "options": [
+        "10 percent off the first year",
+        "20 percent off the first three months",
+        "30 percent off the first month",
+        "Free cleaning supplies for a year"
+      ],
+      "answer": 1,
+      "explanation": "广告指出 receive a 20 percent discount on your first three months，故选B。"
+    },
+    {
+      "id": "toeic-p7-310",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Customer Service Team\nFROM: James Wilson, Customer Relations Manager\nDATE: October 5\nSUBJECT: Return Policy Update\n\nEffective October 15, our return policy changes. Customers will have 30 days to return items for a full refund, reduced from the previous 45 days. Exchanges now require a receipt. We appreciate your cooperation in implementing this update. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What is the new period for customers to return items for a full refund?",
+      "options": [
+        "15 days",
+        "45 days",
+        "30 days",
+        "60 days"
+      ],
+      "answer": 2,
+      "explanation": "邮件说明 customers will have 30 days to return items，故选C。"
+    },
+    {
+      "id": "toeic-p7-311",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Procurement Department\nFROM: Lisa Nguyen\nDATE: September 30\nSUBJECT: Vendor Contract Terms\n\nStarting November 1, all new vendor contracts must include a 30-day payment term. Late payments will incur a 2 percent monthly penalty. Please review the updated contract template and make sure all new agreements comply with these terms. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What payment term is required in new vendor contracts?",
+      "options": [
+        "15 days",
+        "45 days",
+        "60 days",
+        "30 days"
+      ],
+      "answer": 3,
+      "explanation": "通知指出 new vendor contracts must include a 30-day payment term，故选D。"
+    },
+    {
+      "id": "toeic-p7-312",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Facilities Department\nDATE: October 10\nSUBJECT: Fire Drill\n\nA mandatory fire drill is scheduled for Tuesday, October 15, at 10:00 AM. All staff must evacuate immediately upon hearing the alarm and gather at the designated assembly point in the parking lot. Do not re-enter the building until the all-clear signal is given. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When will the mandatory fire drill take place?",
+      "options": [
+        "Tuesday, October 15",
+        "Monday, October 14",
+        "Wednesday, October 16",
+        "Thursday, October 17"
+      ],
+      "answer": 0,
+      "explanation": "邮件明确 drill is scheduled for Tuesday, October 15，故选A。"
+    },
+    {
+      "id": "toeic-p7-313",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team\nFROM: Marketing Director\nDATE: October 11\nSUBJECT: Quarterly Targets\n\nThe quarterly sales target for Q4 is set at $2.5 million. All regional managers must submit their revised forecasts by November 1. Team performance evaluations will be based on these projections. Thank you for your continued dedication. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What is the quarterly sales target for Q4?",
+      "options": [
+        "$2.0 million",
+        "$2.5 million",
+        "$3.0 million",
+        "$3.5 million"
+      ],
+      "answer": 1,
+      "explanation": "邮件明确 The quarterly sales target for Q4 is set at $2.5 million，故选B。"
+    },
+    {
+      "id": "toeic-p7-314",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Shipping Department\nFROM: Tom Rodriguez, Logistics Manager\nDATE: October 3\nSUBJECT: Holiday Shipping Schedule\n\nHoliday shipments will begin slowing down starting December 15. To avoid delays, please submit all outbound orders by Friday, December 6. Packages sent after that date will not be processed until after the New Year break, so we strongly encourage early submission. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "By what date must outbound orders be submitted to avoid New Year delays?",
+      "options": [
+        "December 8",
+        "December 15",
+        "December 6",
+        "December 20"
+      ],
+      "answer": 2,
+      "explanation": "通知要求 submit all outbound orders by Friday, December 6，故选C。"
+    },
+    {
+      "id": "toeic-p7-315",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Training Coordinator\nDATE: October 9\nSUBJECT: Cybersecurity Training\n\nAll employees must complete the mandatory cybersecurity training module before the end of the quarter. The course takes approximately 90 minutes. Employees who have not finished by December 31 will be temporarily locked out of the internal network. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What happens to employees who fail to complete the training by December 31?",
+      "options": [
+        "They receive a warning email.",
+        "Their pay is reduced.",
+        "They are fired.",
+        "They will be locked out of the internal network."
+      ],
+      "answer": 3,
+      "explanation": "通知说明 who have not finished by December 31 will be temporarily locked out，故选D。"
+    },
+    {
+      "id": "toeic-p7-316",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Human Resources\nDATE: September 20\nSUBJECT: Health Insurance Enrollment\n\nThe open enrollment period for next year's health insurance plan runs from November 1 through November 30. During this time, employees may add dependents or change coverage levels. Enrollment outside this window is not permitted except for qualifying life events. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What is the enrollment window for the health insurance plan?",
+      "options": [
+        "November 1-30",
+        "October 1-31",
+        "December 1-31",
+        "January 1-15"
+      ],
+      "answer": 0,
+      "explanation": "通知说明 enrollment runs from November 1 through November 30，故选A。"
+    },
+    {
+      "id": "toeic-p7-317",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Department\nFROM: System Administrator\nDATE: October 14\nSUBJECT: Software Patch Notice\n\nA critical security patch will be deployed across all corporate laptops this Saturday, October 19, beginning at 1:00 AM. Affected employees must save their work before 12:30 AM, as their machines will restart automatically and will be offline for roughly 40 minutes. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "How long will affected laptops be offline?",
+      "options": [
+        "20 minutes",
+        "40 minutes",
+        "30 minutes",
+        "60 minutes"
+      ],
+      "answer": 1,
+      "explanation": "通知说明 machines will be offline for roughly 40 minutes，故选B。"
+    },
+    {
+      "id": "toeic-p7-318",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Facilities\nDATE: October 7\nSUBJECT: Building Security\n\nAll employees are required to display their employee identification badges visibly at all times while in the office building. Security teams will check credentials at the main entrance each morning. Visitor badges must be picked up at reception. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What must employees display visibly inside the building?",
+      "options": [
+        "Visitor badges",
+        "Parking permits",
+        "Employee identification badges",
+        "Lanyards"
+      ],
+      "answer": 2,
+      "explanation": "通知要求 employees are required to display their employee identification badges visibly，故选C。"
+    },
+    {
+      "id": "toeic-p7-319",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team\nFROM: Brand Manager\nDATE: October 8\nSUBJECT: Event Sponsorship\n\nWe are seeking sponsors for the upcoming industry conference. A corporate sponsorship package costs $5,000 and includes two admission passes plus a branded booth. Companies that commit before Friday, October 12 will also receive complimentary tickets to the gala dinner. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "How much does the corporate sponsorship package cost?",
+      "options": [
+        "$2,500",
+        "$7,500",
+        "$10,000",
+        "$5,000"
+      ],
+      "answer": 3,
+      "explanation": "邮件指出 sponsorship package costs $5,000，故选D。"
+    },
+    {
+      "id": "toeic-p7-320",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Warehouse Team\nFROM: Operations Manager\nDATE: October 11\nSUBJECT: New Receiving Hours\n\nEffective November 5, inbound shipments will be accepted only between 7:00 AM and 3:00 PM on weekdays. Deliveries arriving after 3:00 PM will be held at the loading dock and processed the following morning. Please notify frequent carriers of this schedule change. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When will inbound shipments be accepted starting November 5?",
+      "options": [
+        "7:00 AM - 3:00 PM",
+        "8:00 AM - 4:00 PM",
+        "9:00 AM - 5:00 PM",
+        "6:00 AM - 2:00 PM"
+      ],
+      "answer": 0,
+      "explanation": "通知说明 shipments will be accepted between 7:00 AM and 3:00 PM，故选A。"
+    },
+    {
+      "id": "toeic-p7-321",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Finance Team\nFROM: Controller\nDATE: October 6\nSUBJECT: Expense Report Deadline\n\nAll expense reports for September must be submitted through the expense portal by October 31. Reimbursable receipts older than 90 days will not be processed, so please attach receipts for any recent client meals or travel before the due date. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When is the deadline for September expense reports?",
+      "options": [
+        "October 15",
+        "October 31",
+        "November 15",
+        "November 30"
+      ],
+      "answer": 1,
+      "explanation": "邮件说明 expense reports for September must be submitted ... by October 31，故选B。"
+    },
+    {
+      "id": "toeic-p7-322",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Conference Team\nFROM: Event Coordinator\nDATE: October 4\nSUBJECT: Annual Conference Registration\n\nEarly-bird registration for the annual technology conference ends on Friday, September 20. Registrants who pay before that date receive a 25 percent discount and a free workshop voucher. Regular registration resumes on September 21. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When does early-bird registration end?",
+      "options": [
+        "September 15",
+        "September 25",
+        "September 20",
+        "September 30"
+      ],
+      "answer": 2,
+      "explanation": "通知指出 early-bird registration ends on Friday, September 20，故选C。"
+    },
+    {
+      "id": "toeic-p7-323",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Warehouse Supervisor\nFROM: Logistics Coordinator\nDATE: October 2\nSUBJECT: Equipment Inspection\n\nAll forklifts and pallet jacks must undergo their required annual safety inspection by October 24. Equipment that fails inspection will be removed from service until repairs are completed. Schedule your inspection through the facilities booking portal. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When must the annual safety inspections be completed?",
+      "options": [
+        "October 10",
+        "October 31",
+        "November 14",
+        "October 24"
+      ],
+      "answer": 3,
+      "explanation": "通知说明 all forklifts must undergo inspection by October 24，故选D。"
+    },
+    {
+      "id": "toeic-p7-324",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Representatives\nFROM: Sales Director\nDATE: October 13\nSUBJECT: Client Visit Itinerary\n\nOur key client from Singapore arrives next Tuesday for a two-day site visit. A welcome dinner is scheduled for 6:30 PM at the Grand Hotel. Please confirm your attendance by Friday so we can finalize the reservation. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When is the welcome dinner scheduled?",
+      "options": [
+        "Tuesday at 6:30 PM",
+        "Monday at 6:00 PM",
+        "Wednesday at 7:00 PM",
+        "Thursday at 6:00 PM"
+      ],
+      "answer": 0,
+      "explanation": "邮件说明 welcome dinner is scheduled for 6:30 PM on Tuesday，故选A。"
+    },
+    {
+      "id": "toeic-p7-325",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Customer Support Team\nFROM: Support Manager\nDATE: October 1\nSUBJECT: New Ticketing System\n\nStarting October 20, we are migrating to a new cloud-based ticketing system. All open tickets must be resolved or transferred by October 18. Training sessions for the new platform will be held next week on Tuesday and Thursday at 2:00 PM. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "By what date must all open tickets be resolved or transferred?",
+      "options": [
+        "October 15",
+        "October 18",
+        "October 20",
+        "October 22"
+      ],
+      "answer": 1,
+      "explanation": "通知要求 all open tickets must be resolved or transferred by October 18，故选B。"
+    },
+    {
+      "id": "toeic-p7-326",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: HR Team\nFROM: Benefits Coordinator\nDATE: September 28\nSUBJECT: Wellness Program Launch\n\nThe company wellness program launches on November 1. Participants can earn up to $200 in quarterly incentives by completing health assessments and attending fitness classes. Registration opens on October 15 and closes on October 31. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When does registration for the wellness program close?",
+      "options": [
+        "October 15",
+        "November 1",
+        "October 31",
+        "November 15"
+      ],
+      "answer": 2,
+      "explanation": "通知说明 Registration opens on October 15 and closes on October 31，故选C。"
+    },
+    {
+      "id": "toeic-p7-327",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Support\nFROM: Network Engineer\nDATE: October 10\nSUBJECT: Wi-Fi Upgrade\n\nOffice Wi-Fi will be upgraded this weekend. All access points will be replaced with Wi-Fi 6E models. The network will be intermittently unavailable on Saturday from 8:00 AM to 4:00 PM. Plan any critical tasks accordingly. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When will the Wi-Fi network be intermittently unavailable?",
+      "options": [
+        "Friday evening",
+        "Sunday morning",
+        "Monday afternoon",
+        "Saturday 8:00 AM to 4:00 PM"
+      ],
+      "answer": 3,
+      "explanation": "邮件指出 The network will be intermittently ...able on Saturday from 8:00 AM to 4:00 PM，故选D。"
+    },
+    {
+      "id": "toeic-p7-328",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Facilities\nDATE: October 8\nSUBJECT: Parking Lot Repaving\n\nThe main employee parking lot will be repaved starting Monday, October 14. Employee parking will temporarily shift to the North Annex lot for approximately two weeks. A shuttle will run every 15 minutes between the annex and the main entrance. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "Where should employees park during the repaving work?",
+      "options": [
+        "North Annex lot",
+        "Main lot",
+        "Street parking",
+        "Visitor garage"
+      ],
+      "answer": 0,
+      "explanation": "通知说明 Employee parking will temporarily shift to the North Annex lot，故选A。"
+    },
+    {
+      "id": "toeic-p7-329",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Product Team\nFROM: Product Manager\nDATE: October 9\nSUBJECT: Beta Release Timeline\n\nThe beta version of our new project management app will be released to internal testers on October 25. Feedback forms are due by November 8. Please ensure your team has completed feature testing by then. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When are feedback forms due for the beta release?",
+      "options": [
+        "October 25",
+        "November 8",
+        "November 1",
+        "November 15"
+      ],
+      "answer": 1,
+      "explanation": "邮件说明 Feedback forms are due by November 8，故选B。"
+    },
+    {
+      "id": "toeic-p7-330",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounting Department\nFROM: Payroll Supervisor\nDATE: October 5\nSUBJECT: Payroll Schedule Change\n\nDue to the upcoming holiday, the October payroll will be processed on Thursday, October 24, instead of the usual Friday. Direct deposits will arrive in accounts by end of business on Friday, October 25. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When will the October payroll be processed?",
+      "options": [
+        "Wednesday, October 23",
+        "Friday, October 25",
+        "Thursday, October 24",
+        "Monday, October 28"
+      ],
+      "answer": 2,
+      "explanation": "邮件说明 payroll will be processed on Thursday, October 24，故选C。"
+    },
+    {
+      "id": "toeic-p7-331",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team\nFROM: Creative Director\nDATE: October 11\nSUBJECT: Campaign Asset Review\n\nAll campaign assets for the holiday promotion must be uploaded to the shared drive by 5:00 PM on Friday, October 18. The review meeting with the client is scheduled for Monday morning, October 21. Late submissions will not be included. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What is the deadline for uploading campaign assets?",
+      "options": [
+        "October 15",
+        "October 21",
+        "October 25",
+        "October 18"
+      ],
+      "answer": 3,
+      "explanation": "邮件要求 uploaded by 5:00 PM on Friday, October 18，故选D。"
+    },
+    {
+      "id": "toeic-p7-332",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Customer Service\nFROM: Training Lead\nDATE: October 7\nSUBJECT: New Product Training\n\nAll customer service agents must attend the new product training session on Wednesday, October 16, at 9:00 AM in Conference Room A. The session covers the features, pricing, and troubleshooting steps for the upcoming smartwatch launch. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When is the new product training session scheduled?",
+      "options": [
+        "Wednesday, October 16",
+        "Tuesday, October 15",
+        "Thursday, October 17",
+        "Friday, October 18"
+      ],
+      "answer": 0,
+      "explanation": "邮件说明 training session on Wednesday, October 16, at 9:00 AM，故选A。"
+    },
+    {
+      "id": "toeic-p7-333",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Project Managers\nFROM: PMO Director\nDATE: October 3\nSUBJECT: Status Report Deadline\n\nMonthly project status reports are due by 3:00 PM on the last business day of each month. For October, the deadline is Thursday, October 31. Reports submitted after 3:00 PM will not be included in the executive summary. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When is the October status report deadline?",
+      "options": [
+        "October 25",
+        "October 31",
+        "November 1",
+        "November 5"
+      ],
+      "answer": 1,
+      "explanation": "通知说明 deadline is Thursday, October 31，故选B。"
+    },
+    {
+      "id": "toeic-p7-334",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Administration\nDATE: October 6\nSUBJECT: Holiday Office Closure\n\nThe office will be closed on Monday, November 25, and Tuesday, November 26, for the company-wide inventory count. All employees are expected to participate in the inventory process on Monday morning, starting at 8:00 AM sharp. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "Why will the office be closed at the end of November?",
+      "options": [
+        "Building renovation",
+        "National holiday",
+        "Company-wide inventory count",
+        "System upgrade"
+      ],
+      "answer": 2,
+      "explanation": "通知说明 office will be closed ... for the company-wide inventory count，故选C。"
+    },
+    {
+      "id": "toeic-p7-335",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Recruitment Team\nFROM: Hiring Manager\nDATE: October 10\nSUBJECT: Interview Schedule\n\nThe final round of interviews for the senior analyst position will be held on October 22 and 23. All candidates have been invited to the office for 45-minute interviews. Reference checks should be completed by October 28. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When will the final round of interviews be held?",
+      "options": [
+        "October 15 and 16",
+        "October 28 and 29",
+        "November 5 and 6",
+        "October 22 and 23"
+      ],
+      "answer": 3,
+      "explanation": "邮件说明 interviews will be held on October 22 and 23，故选D。"
+    },
+    {
+      "id": "toeic-p7-336",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Wellness Committee\nDATE: October 9\nSUBJECT: Annual Health Fair\n\nThe annual health fair will take place on Thursday, November 7, in the main atrium from 10:00 AM to 3:00 PM. Free health screenings, flu shots, and nutrition consultations will be offered. Please register for the screenings by October 30. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When is the annual health fair scheduled?",
+      "options": [
+        "November 7",
+        "October 30",
+        "November 14",
+        "November 21"
+      ],
+      "answer": 0,
+      "explanation": "通知说明 health fair will take place on Thursday, November 7，故选A。"
+    },
+    {
+      "id": "toeic-p7-337",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team\nFROM: Regional Manager\nDATE: October 12\nSUBJECT: New Pricing Structure\n\nStarting December 1, our product pricing will be restructured. All annual contracts will receive a 5 percent discount, while quarterly plans remain unchanged. Clients on month-to-month plans must be migrated before the end of November. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What changes to pricing takes effect on December 1?",
+      "options": [
+        "Quarterly plans get a 5 percent discount",
+        "Annual contracts receive a 5 percent discount",
+        "All prices increase 10 percent",
+        "Monthly plans are eliminated"
+      ],
+      "answer": 1,
+      "explanation": "邮件说明 annual contracts will receive a 5 percent discount，故选B。"
+    },
+    {
+      "id": "toeic-p7-338",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Engineering Team\nFROM: Tech Lead\nDATE: October 4\nSUBJECT: Code Freeze\n\nA code freeze will begin on Friday, November 1, to prepare for the stable release. No new features may be merged during this period. Hotfixes for critical bugs will still be allowed with manager approval. The freeze lifts on November 15. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "When does the code freeze begin?",
+      "options": [
+        "October 25",
+        "November 15",
+        "November 1",
+        "November 20"
+      ],
+      "answer": 2,
+      "explanation": "邮件说明 A code freeze will begin on Friday, November 1，故选C。"
+    },
+    {
+      "id": "toeic-p7-339",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Department Managers\nFROM: CFO\nDATE: October 2\nSUBJECT: Budget Review Meetings\n\nThe Q1 budget review meetings will be held the week of November 4. Each department has 30 minutes to present its proposed spending plan. Meeting slots can be booked through the shared calendar starting tomorrow morning. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "How long does each department have to present its budget plan?",
+      "options": [
+        "15 minutes",
+        "45 minutes",
+        "60 minutes",
+        "30 minutes"
+      ],
+      "answer": 3,
+      "explanation": "邮件说明 Each department has 30 minutes to present，故选D。"
+    },
+    {
+      "id": "toeic-p7-340",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Store Managers\nFROM: Retail Operations\nDATE: October 5\nSUBJECT: Holiday Staffing\n\nHoliday staffing plans must be submitted by October 18. Stores should plan for extended hours starting November 22 through December 24. Please account for peak shopping weekends when creating schedules. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor. Should you need additional information, do not hesitate to consult the attached documents or visit the internal portal.",
+      "question": "What is the deadline for submitting holiday staffing plans?",
+      "options": [
+        "October 18",
+        "October 12",
+        "November 1",
+        "November 22"
+      ],
+      "answer": 0,
+      "explanation": "邮件要求 staffing plans must be submitted by October 18，故选A。"
+    },
+    {
+      "id": "toeic-p7-341",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: IT Support\nFROM: Security Officer\nDATE: October 8\nSUBJECT: Password Policy Update\n\nEffective November 1, all employees must use a 12-character password with at least one number and one special character. Passwords must be changed every 90 days. A password strength checker will be added to the login page. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What is the new minimum password length?",
+      "options": [
+        "8 characters",
+        "12 characters",
+        "10 characters",
+        "14 characters"
+      ],
+      "answer": 1,
+      "explanation": "通知说明 must use a 12-character password，故选B。"
+    },
+    {
+      "id": "toeic-p7-342",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounts Payable\nFROM: Finance Manager\nDATE: October 7\nSUBJECT: Payment Processing Times\n\nDue to increased invoice volume, payment processing times will extend to 10 business days starting January 1. Previously, payments were processed within 5 business days. Please inform vendors of this change to manage their expectations. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What will the new payment processing time be?",
+      "options": [
+        "3 business days",
+        "5 business days",
+        "10 business days",
+        "15 business days"
+      ],
+      "answer": 2,
+      "explanation": "邮件说明 processing times will extend to 10 business days，故选C。"
+    },
+    {
+      "id": "toeic-p7-343",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Communications Team\nDATE: October 10\nSUBJECT: Town Hall Meeting\n\nA town hall meeting will be held on Friday, October 18, at 3:00 PM in the main auditorium. The CEO will present the company's third-quarter results and answer employee questions. Attendance is optional but encouraged. The meeting will also be streamed online. Please contact the administration office if you have any questions or require further clarification regarding this matter. For any inquiries, feel free to reach out to the respective department head or your immediate supervisor.",
+      "question": "What will be presented at the town hall meeting?",
+      "options": [
+        "New product launch plans",
+        "Annual budget",
+        "Employee awards",
+        "Third-quarter results"
+      ],
+      "answer": 3,
+      "explanation": "通知说明 CEO will present the company's third-quarter results，故选D。"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <defs><linearGradient id="bg07" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/>
+  </linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#bg07)"/>
+  <text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// HOMEVIEW · AI FEATURES &amp; PRIVACY</text>
+  <text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">HomeView 软件能力与隐私架构拆解</text>
+  <rect x="96" y="160" width="560" height="3" rx="1.5" fill="#22D3EE"/>
+  <text x="96" y="190" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：Apple Newsroom / apple.com/apple-homeview · 未经官方披露的指标一律不出现</text>
+
+  <g transform="translate(96 220)">
+    <rect x="0" y="0" width="628" height="340" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <text x="20" y="32" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// AI 能力（官方已发布口径）</text>
+    <text x="20" y="66" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Siri AI：广博世界知识 · 屏幕感知 · 跨应用行动</text>
+    <text x="20" y="94" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 个人语境：配对 AI 版 iPhone/iPad 后，可调用日历/信息/备忘录</text>
+    <text x="20" y="122" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 多用户：面部识别最多 6 人，自动切换专属主屏</text>
+    <text x="20" y="150" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 烹饪模式：网页食谱转分步指导 · 免提计时器</text>
+    <text x="20" y="178" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Home 摄像头页：最多 9 路实时视频同屏（HomeKit Secure Video）</text>
+    <text x="20" y="206" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 声音侦测：烟雾/一氧化碳报警识别 → 推送到 iPhone/iPad/Watch</text>
+    <text x="20" y="234" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· Intercom / FaceTime + Center Stage / Handoff 接力</text>
+    <text x="20" y="262" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 多款表盘：Photos / Flow / Snoopy · Home Modular 家居模组</text>
+    <text x="20" y="298" font-family="Consolas, monospace" font-size="13" fill="#64748B">软件版本：HomeView software 27.2（Siri AI beta · 英语起步）</text>
+
+    <rect x="648" y="0" width="440" height="340" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+    <image href="../images/hv_atv_home.jpg" x="12" y="12" width="416" height="150" preserveAspectRatio="xMidYMid slice"/>
+    <text x="668" y="196" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 隐私三层架构（官方）</text>
+    <text x="668" y="228" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">1 · Secure Exclaves：A18 芯片内隔离区，摄像头/麦克风数据</text>
+    <text x="668" y="248" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">在隔离区处理，OS/应用/用户/Apple 均不可访问</text>
+    <text x="668" y="262" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">2 · 端侧优先：人脸/声纹识别在设备本地完成</text>
+    <text x="668" y="290" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">3 · Private Cloud Compute：云端请求不存储、不可被 Apple 访问</text>
+    <text x="668" y="318" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">个人内容仅当本人被识别 + 配对设备同 Wi-Fi 且最近解锁时显示</text>
+  </g>
+
+  <rect x="96" y="590" width="1088" height="84" rx="14" fill="#0E2440" stroke="#22D3EE"/>
+  <text x="120" y="620" font-family="Consolas, monospace" font-size="15" fill="#7DD3FC">// 对比视角</text>
+  <text x="120" y="650" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">苹果把「家庭共享场景下的个人隐私」做成了硬件级隔离 —— 这是 HomeView 与绝大多数智能屏（包括竞品）在设计哲学上的最大差异。</text>
+  <text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">07 / 23</text>
+</svg>

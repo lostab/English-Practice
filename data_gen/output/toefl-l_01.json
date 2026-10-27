@@ -1,0 +1,468 @@
+{
+ "questions": [
+  {
+   "id": "toefl-l-172",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Today we discuss eusociality in insects like ants and termites. Student: Does it mean they divide labor? Professor: Exactly. In eusocial colonies, a single queen does all the reproducing while the workers remain sterile. Student: How does this benefit the colony? Professor: The sterile workers sacrifice their own reproduction to help the queen, so shared genes are passed on through her offspring. This is what we call kin selection. Student: Are all insects eusocial? Professor: No, only a small number of groups, including ants, termites, and some bees and wasps, have reached this level of social organization. Student: So the colony acts almost like a single organism? Professor: In a sense, yes. The division of labor makes the whole colony highly efficient at gathering food, building nests, and defending territory.",
+   "question": "What is the main topic of the lecture?",
+   "options": [
+    "Social organization in insects",
+    "Economic impact of insects",
+    "Insect defense mechanisms",
+    "History of insect research"
+   ],
+   "answer": 0,
+   "explanation": "教授讲解了昆虫的社会性组织，包括分工、亲缘选择及社会性昆虫的类别。"
+  },
+  {
+   "id": "toefl-l-173",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Dark matter accounts for roughly 27% of the universe's mass energy. Student: But we cannot see it directly, right? Professor: Correct. It does not emit or absorb light, so we infer its presence through gravitational effects on galaxies and galaxy clusters. Student: What is the leading theory about its composition? Professor: Many physicists suggest it consists of exotic particles that interact only weakly with ordinary matter, which is why it is so hard to detect. Student: How do we know it exists at all? Professor: Astronomers observed that galaxies rotate faster than their visible mass can explain, and that light from distant galaxies is bent by gravity in ways that require extra mass. Student: Could there be another explanation? Professor: Some researchers have proposed modifying our theory of gravity instead, but most evidence currently supports the existence of dark matter.",
+   "question": "What does the professor explain about dark matter?",
+   "options": [
+    "Its composition and how we detect it",
+    "Its effects on planetary orbits",
+    "The history of telescope technology",
+    "Methods to observe it directly"
+   ],
+   "answer": 0,
+   "explanation": "教授说明暗物质由弱相互作用粒子构成，并通过引力效应推断其存在。"
+  },
+  {
+   "id": "toefl-l-174",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Cognitive load theory suggests our working memory has limited capacity. Student: So multitasking is bad for learning? Professor: Exactly. When we switch between tasks, we lose time in mental reloading, and the effort of juggling reduces what we actually retain. Student: What should we do instead? Professor: Focus on one task at a time, and chunk information into meaningful units to reduce cognitive strain. Student: Does this apply to all subjects? Professor: Yes, whether you are studying vocabulary, mathematics, or history, breaking material into smaller groups makes it easier for working memory to process. Student: I often review with my phone nearby. Professor: Then you should put it away. Even a silent phone in your pocket can compete for your attention and increase your cognitive load.",
+   "question": "According to the professor, what reduces cognitive strain during study?",
+   "options": [
+    "Multitasking between several subjects",
+    "Chunking information into meaningful units",
+    "Relying on external memory aids",
+    "Reviewing with a phone nearby"
+   ],
+   "answer": 1,
+   "explanation": "教授建议将信息分块处理并专注单一任务，以降低认知负荷。"
+  },
+  {
+   "id": "toefl-l-175",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Librarian: Good morning! I see you are looking for economics resources. Student: Yes, I need materials on behavioral economics for my research paper. Librarian: We have several journals, and the library has an online subscription to the Journal of Economic Behavior. Student: Are there any books on the psychology of decision making? Librarian: Definitely. Check the psychology section on the second floor. We stock works by Kahneman and Tversky, which are classic in this field. Student: Great. Can I borrow them for the weekend? Librarian: Yes, but they are popular, so I suggest placing a hold online first. Student: I will do that. Do you also have recent articles on loss aversion? Librarian: We do, and the reference librarian can help you search the database if you need more specific results.",
+   "question": "Where should the student look for books on decision making?",
+   "options": [
+    "The computer science database",
+    "The psychology section",
+    "The economics section",
+    "The business archives"
+   ],
+   "answer": 1,
+   "explanation": "图书馆员建议学生到心理学区域查找卡尼曼等决策心理学著作。"
+  },
+  {
+   "id": "toefl-l-176",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: The Renaissance marked a revival of classical learning in Europe. Student: Was it mainly an Italian phenomenon? Professor: Initially, yes. Florence and Rome were the centers of art patronage, where wealthy families like the Medici supported artists. Student: How did humanism influence art during this period? Professor: Humanists promoted individual achievement and secular themes, which led artists to study anatomy and perspective in order to portray the human figure realistically. Student: Did that change the role of the artist? Professor: Very much so. Artists were no longer seen as mere craftsmen but as intellectuals and geniuses whose work expressed personal vision. Student: So art became a form of self expression? Professor: Exactly, and that shift in attitude laid the foundation for the modern idea of the artist.",
+   "question": "What role did humanism play according to the professor?",
+   "options": [
+    "It discouraged artistic production",
+    "It promoted secular themes in art",
+    "It banned classical influences",
+    "It focused on religious iconography only"
+   ],
+   "answer": 1,
+   "explanation": "人文主义鼓励个人成就与世俗主题，促使艺术家研究解剖与透视。"
+  },
+  {
+   "id": "toefl-l-177",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Plate tectonics explains how Earth's lithosphere moves in large plates. Student: What evidence supports this theory? Professor: Seismic data shows different rock formations, and magnetic stripes on the ocean floor record reversals of Earth's magnetic field. Student: How does this affect continents? Professor: Continents drift apart or collide, and through this process mountain ranges and oceanic trenches are created. Student: Is that why the Himalayas are so high? Professor: Yes, the Himalayas formed when the Indian plate collided with the Eurasian plate over millions of years. Student: Are earthquakes related to plate movement? Professor: Directly. Most earthquakes and volcanoes occur along plate boundaries, where stress builds up and is suddenly released.",
+   "question": "What creates mountain ranges according to the professor?",
+   "options": [
+    "Continental collisions",
+    "Volcanic eruptions only",
+    "Tectonic plate erosion",
+    "Solar radiation patterns"
+   ],
+   "answer": 0,
+   "explanation": "教授指出大陆板块碰撞形成山脉，如印度板块与欧亚板块碰撞形成喜马拉雅山。"
+  },
+  {
+   "id": "toefl-l-178",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Quantum entanglement occurs when particles become linked regardless of distance. Student: Can this be used for communication? Professor: Not for transmitting information faster than light, but it enables quantum cryptography. Student: What is the practical implication? Professor: We can detect potential eavesdropping by observing changes in the entangled state, because any measurement disturbs the system. Student: That sounds like a security breakthrough. Professor: It is. Quantum key distribution lets two parties share a secret key with the guarantee that any interception will be noticed. Student: Is this technology available now? Professor: It is already used in some banking and government networks, and the field is developing rapidly around the world.",
+   "question": "What practical use does the professor mention for entanglement?",
+   "options": [
+    "Instant messaging",
+    "Teleportation devices",
+    "Faster than light travel",
+    "Quantum cryptography"
+   ],
+   "answer": 3,
+   "explanation": "量子纠缠可用于量子密码学，通过观察纠缠态变化来检测窃听。"
+  },
+  {
+   "id": "toefl-l-179",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Photosynthesis converts light energy into chemical energy in plants. Student: Why is chlorophyll green? Professor: Chlorophyll absorbs blue and red light for energy but reflects green wavelengths, which is why leaves look green to us. Student: What happens at night? Professor: Plants transition to cellular respiration, consuming oxygen and releasing carbon dioxide, the opposite of what they do during the day. Student: Does photosynthesis happen in all green parts? Professor: Mostly in leaves, but stems and even some roots can carry it out if they contain chloroplasts. Student: Why do leaves change color in autumn? Professor: As chlorophyll breaks down, other pigments like carotenoids become visible, giving leaves their orange and yellow hues.",
+   "question": "Why does chlorophyll appear green to us?",
+   "options": [
+    "It emits green light",
+    "It reflects green light",
+    "It absorbs all light equally",
+    "Green light destroys it"
+   ],
+   "answer": 1,
+   "explanation": "叶绿素吸收蓝光和红光而反射绿光，所以植物呈现绿色。"
+  },
+  {
+   "id": "toefl-l-180",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Existentialism asserts that individuals create their own meaning. Student: Is this a religious view? Professor: Not necessarily. It emerged from secular thinkers like Sartre and Camus, though some religious thinkers also adopted it. Student: What is our responsibility then? Professor: We must authentically choose our own values and accept the consequences of those choices, because there is no pre given purpose to fall back on. Student: That sounds liberating but also heavy. Professor: It is both. Sartre called this the burden of freedom, since we cannot blame fate or society for the lives we build. Student: So meaning is something we make, not find? Professor: Exactly, and that is the core claim of existentialist thought.",
+   "question": "What responsibility does existentialism place on individuals?",
+   "options": [
+    "Accept a predetermined fate",
+    "Create their own meaning and values",
+    "Follow cultural traditions",
+    "Defer to religious authority"
+   ],
+   "answer": 1,
+   "explanation": "存在主义认为个人必须自主选择价值观并承担后果，没有预设的意义。"
+  },
+  {
+   "id": "toefl-l-181",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Librarian: We are digitizing our rare book collection. Student: Will these be accessible online? Librarian: Partially. High use items get full digital copies, while fragile originals remain protected in climate controlled storage. Student: How can researchers access them? Librarian: They submit requests through our digital portal, and we provide scanned excerpts within forty eight hours. Student: What if a researcher needs the whole book? Librarian: Then they can arrange full access after a review of the request, which usually takes a few more days. Student: That sounds reasonable. Are the scans good quality? Librarian: Very high. We use professional scanners that capture every detail without touching the fragile pages.",
+   "question": "What is the primary reason for digitizing rare books?",
+   "options": [
+    "To protect originals and increase access",
+    "To sell digital copies",
+    "To replace all physical books",
+    "To reduce staff employment"
+   ],
+   "answer": 0,
+   "explanation": "数字化既保护珍贵的原版书籍，又方便研究者远程获取内容。"
+  },
+  {
+   "id": "toefl-l-182",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: The Enlightenment emphasized reason over tradition. Student: How did this change society? Professor: It promoted scientific thinking, religious tolerance, and separation of church and state. Student: What lasting impact does this have? Professor: Modern democratic institutions and human rights concepts trace back directly to Enlightenment ideals. Student: Were all thinkers in agreement? Professor: No, they disagreed on many points, but they shared confidence in human reason and in the possibility of progress. Student: Did these ideas spread beyond Europe? Professor: Yes, they influenced the American and French revolutions and later movements for democracy around the world. Student: So the Enlightenment shaped the modern world quite deeply? Professor: I would say it laid the intellectual foundation for the political world we live in today.",
+   "question": "What lasting influence did the Enlightenment have?",
+   "options": [
+    "It inspired modern democratic institutions",
+    "It preserved feudal monarchy",
+    "It strengthened religious hierarchies",
+    "It encouraged military dictatorships"
+   ],
+   "answer": 0,
+   "explanation": "启蒙思想推动了现代民主制度与人权观念的形成，奠定现代政治基础。"
+  },
+  {
+   "id": "toefl-l-183",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Climate feedback loops amplify or dampen climate changes. Student: What is an example of amplifying? Professor: Ice albedo feedback. Melting ice reduces reflectivity, so the darker ocean absorbs more heat and melts even more ice. Student: And a dampening one? Professor: Increased plant growth from carbon dioxide fertilization can absorb more carbon, reducing atmospheric concentrations. Student: So plants help slow global warming? Professor: To a degree, but the effect is limited, because warming itself can stress plants and release carbon from the soil. Student: That sounds complicated. Professor: It is, and that is why climate scientists build complex computer models to estimate how these loops will interact in the future.",
+   "question": "What acts as a dampening climate feedback?",
+   "options": [
+    "Melting sea ice",
+    "Temperature inversion",
+    "Ocean current shifts",
+    "Carbon dioxide fertilization of plants"
+   ],
+   "answer": 3,
+   "explanation": "二氧化碳施肥促使植物生长并吸收更多碳，从而部分减缓气候变暖。"
+  },
+  {
+   "id": "toefl-l-184",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Student: I need primary sources for my history paper on the Industrial Revolution. Professor: The British Library online archive has factory records and worker accounts. Student: Are there non British perspectives? Professor: Yes, we have European labor union documents and American industrialist correspondence in our digital collections. Student: That would give me a broader view. Professor: Exactly, and comparing accounts from workers, owners, and governments will make your argument much stronger. Student: How do I access those collections? Professor: All are linked through the university library portal, and most are open to enrolled students without special permission. Student: Should I focus on one country? Professor: I would encourage you to compare at least two, since the industrial experience differed greatly between nations.",
+   "question": "Where should the student look for diverse perspectives?",
+   "options": [
+    "Modern newspaper articles",
+    "European and American documents",
+    "Theoretical monographs only",
+    "British archives only"
+   ],
+   "answer": 1,
+   "explanation": "教授建议查阅欧洲工会文件与美国工业家书信，以获得多元视角。"
+  },
+  {
+   "id": "toefl-l-185",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Stereoisomerism refers to molecules with the same formula but different shapes. Student: Why does this matter? Professor: Shape determines biological activity, so two stereoisomers can have completely different effects in the body. Student: How do we distinguish them? Professor: Techniques like X ray crystallography reveal molecular geometry by analyzing diffraction patterns. Student: Are both forms always present together? Professor: Often they are produced in equal amounts, but only one form may be medically useful while the other is inert or even harmful. Student: That sounds dangerous. Professor: It can be, which is why drug companies must carefully separate and test each form before a medicine reaches the market.",
+   "question": "What technique can determine molecular geometry?",
+   "options": [
+    "X ray crystallography",
+    "NMR spectroscopy",
+    "Infrared spectroscopy",
+    "Electrocardiogram"
+   ],
+   "answer": 0,
+   "explanation": "X射线晶体学通过分析衍射图样揭示分子的空间结构。"
+  },
+  {
+   "id": "toefl-l-186",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Librarian: The thesis database has been updated with new submissions. Student: How do I access it? Librarian: Log in with your student ID through the library website, then click Theses and Dissertations in the research tools menu. Student: What is the embargo policy? Librarian: Recent works have a twelve month embargo, but you can request earlier access for research purposes. Student: How long does such a request take? Librarian: Usually about two weeks, because the author must approve the release. Student: Are older theses free to read? Librarian: Yes, anything published before the embargo window is available immediately to all students and faculty.",
+   "question": "What is the embargo policy for recent theses?",
+   "options": [
+    "Permanent restriction",
+    "Immediately available",
+    "Twelve month embargo",
+    "Faculty access only"
+   ],
+   "answer": 2,
+   "explanation": "新提交的学位论文有十二个月的禁运期，可申请提前访问。"
+  },
+  {
+   "id": "toefl-l-187",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: The French Revolution began with Enlightenment ideals but ended in a radical phase. Student: What caused the radical turn? Professor: Economic crisis and food shortages led people to demand more drastic change. Student: How did this affect the revolution's goals? Professor: The National Assembly evolved from protecting privileges to overthrowing the entire system. Student: Was violence unavoidable? Professor: Many historians argue it was not, and that fear, foreign war, and internal conflict pushed events toward terror. Student: So the outcome was not fixed from the start? Professor: Right. The revolution took many turns, and its course was shaped by decisions made under extreme pressure.",
+   "question": "What major change occurred during the French Revolution?",
+   "options": [
+    "Peaceful transition of power",
+    "Immediate restoration of monarchy",
+    "Radical escalation of goals",
+    "Complete abandonment of ideals"
+   ],
+   "answer": 2,
+   "explanation": "经济危机与粮荒使革命目标从温和走向激进，直至推翻整个制度。"
+  },
+  {
+   "id": "toefl-l-188",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Neuroplasticity refers to the brain's ability to reorganize neural pathways. Student: Can this help stroke patients recover? Professor: Yes, rehabilitation leverages neuroplasticity to strengthen undamaged areas of the brain. Student: What activities promote this? Professor: Physical therapy, learning new skills, and mental exercises all stimulate neural rewiring. Student: Does age matter? Professor: Plasticity is highest in childhood, but the adult brain remains capable of significant change throughout life. Student: So it is never too late to learn a new language? Professor: Certainly not. The process may be slower, but consistent daily practice matters more than intensity, and the brain keeps adapting as long as we keep challenging it.",
+   "question": "What promotes neuroplasticity according to the professor?",
+   "options": [
+    "Avoiding cognitive tasks",
+    "Passive rest only",
+    "Physical therapy and mental exercises",
+    "Medication alone"
+   ],
+   "answer": 2,
+   "explanation": "教授指出物理治疗、学习新技能和脑力练习都能促进神经重塑。"
+  },
+  {
+   "id": "toefl-l-189",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Student: I am taking art history and need to understand Renaissance perspective. Professor: Linear perspective creates the illusion of depth using converging lines that meet at a vanishing point. Student: How did artists learn this technique? Professor: They studied geometry and mathematics, often collaborating with architects and engineers. Student: What was the visual effect? Professor: It made paintings appear three dimensional and realistic, and it transformed Western art. Student: Was it used only in Italy? Professor: No, the technique spread quickly across Europe, though each region developed its own variations. Student: Is it still used today? Professor: Yes, digital artists and photographers rely on the same principles whenever they construct a realistic scene.",
+   "question": "What mathematical field did artists study for perspective?",
+   "options": [
+    "Algebra and calculus",
+    "Physics and optics",
+    "Literature and rhetoric",
+    "Geometry and mathematics"
+   ],
+   "answer": 3,
+   "explanation": "艺术家为掌握透视法而学习几何学与数学，常与建筑师合作。"
+  },
+  {
+   "id": "toefl-l-190",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: The Enlightenment promoted secular governance and scientific methodology. Student: Did this face resistance? Professor: Yes, traditional religious authorities often opposed it, and the debates could be fierce. Student: What was the lasting outcome? Professor: Separation of church and state became a foundational principle in modern democracies. Student: Was that accepted everywhere? Professor: No, the process was gradual and contested, and different nations reached different arrangements. Student: How does science fit into this? Professor: The Enlightenment insisted that knowledge should be tested by evidence and reason rather than accepted on authority, and that attitude remains central to scientific practice today.",
+   "question": "What principle became foundational in modern democracies?",
+   "options": [
+    "Hereditary rule",
+    "Separation of church and state",
+    "Military governance",
+    "Religious nationalism"
+   ],
+   "answer": 1,
+   "explanation": "政教分离成为现代民主国家的根本原则，是启蒙运动的持久成果。"
+  },
+  {
+   "id": "toefl-l-191",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Librarian: We have added new databases in environmental science. Student: Are these accessible remotely? Librarian: Yes, with your university credentials you can log in from anywhere. Student: What kind of data is available? Librarian: Climate journals, ecological studies, and sustainability reports from major publishers. Student: Are there also raw datasets? Librarian: Some databases include downloadable data on temperature, rainfall, and species populations that you can analyze yourself. Student: That would be perfect for my project. Librarian: I can also set up a short training session if you want help using the search tools. Student: I would appreciate that. Librarian: Then stop by the reference desk and we will arrange a time.",
+   "question": "What can students access through the new databases?",
+   "options": [
+    "Literary criticism",
+    "Sports statistics",
+    "Stock market reports",
+    "Climate and ecological studies"
+   ],
+   "answer": 3,
+   "explanation": "新数据库提供气候期刊、生态研究及可持续发展报告等资料。"
+  },
+  {
+   "id": "toefl-l-192",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Economic globalization increased interdependence among nations. Student: What are the benefits? Professor: Greater market access, technology transfer, and investment opportunities. Student: What concerns exist? Professor: A race to the bottom in labor standards and environmental regulations in some countries. Student: What does race to the bottom mean? Professor: It means nations compete by lowering wages and environmental protections to attract foreign investment. Student: That sounds harmful for workers. Professor: It can be, which is why some economists argue for international labor agreements to prevent such competition. Student: Do all countries support this? Professor: No, developing nations sometimes resist, arguing that strict rules slow their growth and that wealthier countries already benefited from looser rules in their own past.",
+   "question": "What concern about globalization does the professor mention?",
+   "options": [
+    "Reduced trade opportunities",
+    "Cultural homogeneity",
+    "A race to the bottom in regulations",
+    "Isolation of economies"
+   ],
+   "answer": 2,
+   "explanation": "教授担心部分国家为竞争而降低劳工标准与环保法规，形成竞次。"
+  },
+  {
+   "id": "toefl-l-193",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Student: I need help with APA citation for my psychology paper. Professor: Use the APA manual's seventh edition guidelines. Student: What about electronic sources? Professor: Include the DOI when available and provide retrieval dates for content that may change. Student: When should I use retrieval dates? Professor: Only for sources like wikis or live websites that can be updated, not for stable PDFs. Student: How many authors can I cite? Professor: Up to twenty authors in the reference list, with et al. for more. Student: And what about the title of the paper? Professor: Use sentence case for article titles, but capitalize the first word of the title and subtitle. Student: Thanks, that clears things up. Professor: You are welcome. Check the APA website for more examples if you run into unusual cases.",
+   "question": "When should retrieval dates be included in APA citations?",
+   "options": [
+    "For printed books only",
+    "For personal interviews only",
+    "For ancient documents",
+    "For electronic sources that may change"
+   ],
+   "answer": 3,
+   "explanation": "APA规定仅对可能更新内容的电子来源（如维基、实时网页）提供检索日期。"
+  },
+  {
+   "id": "toefl-l-194",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Magical realism blends realistic narrative with fantastical elements. Student: How is this different from fantasy? Professor: Fantasy creates entirely fictional worlds, while magical realism presents extraordinary events within ordinary settings. Student: Can you give an example? Professor: Marquez's One Hundred Years of Solitude uses magical events to explore real Colombian history. Student: So the magic is treated as normal? Professor: Exactly. In magical realism, strange things happen without surprise, and that makes the fantastic feel like part of everyday life. Student: Is it limited to Latin America? Professor: No, writers from Africa, Asia, and Europe also use the style, though the term was popularized through Latin American literature.",
+   "question": "What characterizes magical realism in literature?",
+   "options": [
+    "Completely invented worlds",
+    "Detailed scientific explanations",
+    "Extraordinary events in ordinary settings",
+    "Historical accuracy only"
+   ],
+   "answer": 2,
+   "explanation": "魔幻现实主义在平凡的现实场景中融入非凡的超自然事件，且不显惊讶。"
+  },
+  {
+   "id": "toefl-l-195",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: In reader response theory, meaning emerges from the reader. Student: So there is no fixed interpretation? Professor: Not exactly. The text provides possibilities, but readers actively construct meaning. Student: How does this differ from traditional criticism? Professor: Traditional approaches focus on author intent and text structure, while reader response emphasizes the reading experience. Student: Does every reader get a different meaning? Professor: To some degree, yes, because each reader brings different experiences and expectations to the text. Student: Is there any limit to interpretation? Professor: Yes, the text still constrains meaning, so not every reading is equally valid, but the reader's role becomes central.",
+   "question": "What is the key difference between reader response and traditional criticism?",
+   "options": [
+    "Emphasis on the reading experience",
+    "Focus on historical context",
+    "Rejection of textual analysis",
+    "Priority on author biography"
+   ],
+   "answer": 0,
+   "explanation": "读者反应批评强调读者的阅读体验，传统批评则关注作者意图与文本结构。"
+  },
+  {
+   "id": "toefl-l-196",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: Opportunity cost represents the value of forgone alternatives. Student: Can you give an example? Professor: If you spend an hour studying, the opportunity cost might be the wages you could have earned working instead. Student: How is this used in policy decisions? Professor: Governments weigh opportunity costs when allocating budgets, choosing between infrastructure and education funding. Student: Is there a way to measure this? Professor: Yes, by comparing the benefits and costs of each alternative, often using cost benefit analysis. Student: Does this mean you cannot do both? Professor: You can do both, but resources are limited, so each choice means giving up something else. Student: So opportunity cost is like a budget constraint? Professor: Exactly. It is the economic way of thinking that helps individuals and societies make better choices.",
+   "question": "What should governments weigh when allocating budgets?",
+   "options": [
+    "Historical spending patterns only",
+    "Political popularity only",
+    "The opportunity costs of choices",
+    "Personal opinions equally"
+   ],
+   "answer": 2,
+   "explanation": "政府分配预算时应权衡机会成本，即放弃的替代方案的价值。"
+  },
+  {
+   "id": "toefl-l-197",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: In ecology, keystone species have a disproportionately large effect on their ecosystem. Student: Can you name an example? Professor: Sea otters control sea urchin populations, protecting kelp forests. Student: What happens if they disappear? Professor: Urchins overgraze the kelp, and the entire ecosystem collapses, including the fish that depend on the forest for shelter and food. Student: Are keystone species always predators? Professor: No, they can be herbivores, pollinators, or even ecosystem engineers like beavers that reshape the landscape. Student: Why are they called keystone? Professor: Just as a keystone holds an arch together, removing these species causes the whole structure to fall apart.",
+   "question": "What happens when sea otters disappear from an ecosystem?",
+   "options": [
+    "Kelp forests grow larger",
+    "Fish populations increase",
+    "The ecosystem stabilizes",
+    "Urchins overgraze the kelp"
+   ],
+   "answer": 3,
+   "explanation": "海獭消失后，海胆过度啃食海藻，导致整个生态系统崩溃。"
+  },
+  {
+   "id": "toefl-l-198",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: The Great Depression was triggered by the stock market crash of nineteen twenty nine. Student: Was that the only cause? Professor: No, bank failures and reduced consumer spending deepened the crisis. Student: How did governments respond? Professor: Many adopted New Deal programs that expanded the role of government in the economy. Student: Did this help? Professor: It created jobs through public works projects, but critics argued it increased debt. Student: How did the depression end? Professor: World War Two brought massive government spending and full employment, effectively ending the economic downturn. Student: So the war was good for the economy? Professor: For the United States, it pulled the country out of the Depression and transformed it into a superpower. Student: What lessons can we learn? Professor: That unchecked speculation can cause severe damage, and government intervention can stabilize economies during severe crises.",
+   "question": "What deepened the Depression according to the professor?",
+   "options": [
+    "Bank failures and reduced spending",
+    "Agricultural overproduction",
+    "Falling oil prices",
+    "Rising immigration"
+   ],
+   "answer": 0,
+   "explanation": "教授指出银行倒闭与消费支出减少使大萧条进一步恶化。"
+  },
+  {
+   "id": "toefl-l-199",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: In linguistics, pragmatics studies how context shapes meaning. Student: Can you give an example? Professor: If someone asks Can you open the window, the intended meaning is a request, not a question about ability. Student: So the same sentence can mean different things? Professor: Exactly, depending on the speaker's intent, tone, and the situation. Student: How is pragmatics different from semantics? Professor: Semantics studies literal word meaning, while pragmatics looks at what speakers actually mean in context. Student: Are there rules? Professor: There are conversational principles, like being informative and relevant, that listeners assume speakers follow, and these assumptions guide interpretation.",
+   "question": "What does pragmatics study?",
+   "options": [
+    "The sound systems of languages",
+    "The history of word origins",
+    "The structure of grammar",
+    "How context shapes meaning"
+   ],
+   "answer": 3,
+   "explanation": "语用学研究语境如何影响意义，例如同一句话在不同情境下有不同含义。"
+  },
+  {
+   "id": "toefl-l-200",
+   "exam": "toefl",
+   "section": "listening",
+   "part": 2,
+   "audio": "Professor: The theory of evolution by natural selection explains adaptation. Student: How does variation arise? Professor: Through random mutations in genes, which provide raw material for selection. Student: Why do some traits spread? Professor: Individuals with advantageous traits survive and reproduce more, passing those traits to the next generation. Student: Is evolution always slow? Professor: Not necessarily. When selection is strong, change can be observed within a few generations, as with antibiotic resistance in bacteria. Student: Do humans still evolve? Professor: Yes, evidence shows ongoing selection on some human traits, though cultural change now plays a much larger role in our lives.",
+   "question": "According to the professor, what provides the raw material for natural selection?",
+   "options": [
+    "Learned behaviors",
+    "Environmental changes",
+    "Random mutations in genes",
+    "Artificial breeding"
+   ],
+   "answer": 2,
+   "explanation": "基因随机突变为自然选择提供原材料，有利性状得以传播。"
+  }
+ ]
+}

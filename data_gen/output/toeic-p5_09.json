@@ -1,0 +1,472 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p5-773",
+      "question": "The quarterly report has been delayed ______ the server outage.",
+      "options": [
+        "due to",
+        "during",
+        "despite",
+        "unless"
+      ],
+      "answer": 0,
+      "explanation": "due to 表原因，后接名词短语，表示“由于”之意。"
+    },
+    {
+      "id": "toeic-p5-774",
+      "question": "Please ______ the attendance sheet before submitting it to HR.",
+      "options": [
+        "to fill out",
+        "fill out",
+        "filled out",
+        "filling out"
+      ],
+      "answer": 1,
+      "explanation": "祈使句用动词原形 fill out，表示“填写”。"
+    },
+    {
+      "id": "toeic-p5-775",
+      "question": "The new project manager is ______ experienced in handling large teams.",
+      "options": [
+        "so",
+        "such",
+        "very",
+        "too"
+      ],
+      "answer": 2,
+      "explanation": "副词 very 修饰形容词 experienced，表示“非常有经验”。"
+    },
+    {
+      "id": "toeic-p5-776",
+      "question": "The company ______ to expand its operations in Asia next year.",
+      "options": [
+        "planning",
+        "plan",
+        "planned",
+        "plans"
+      ],
+      "answer": 3,
+      "explanation": "主语为第三人称单数，一般现在时 plans to do 表计划。"
+    },
+    {
+      "id": "toeic-p5-777",
+      "question": "The team remains ______ on schedule despite the recent setbacks.",
+      "options": [
+        "behind",
+        "ahead",
+        "aside",
+        "below"
+      ],
+      "answer": 0,
+      "explanation": "ahead of schedule 固定搭配，表示“提前于计划”。"
+    },
+    {
+      "id": "toeic-p5-778",
+      "question": "The manager asked us to review the proposal ______ before the board meeting.",
+      "options": [
+        "careful",
+        "carefully",
+        "carefulness",
+        "care"
+      ],
+      "answer": 1,
+      "explanation": "副词 carefully 修饰动词 review，表示“仔细地”。"
+    },
+    {
+      "id": "toeic-p5-779",
+      "question": "They arrived ______ than we had expected, so we saved time.",
+      "options": [
+        "more early",
+        "earliest",
+        "earlier",
+        "most early"
+      ],
+      "answer": 2,
+      "explanation": "句中有 than，需用比较级 earlier。"
+    },
+    {
+      "id": "toeic-p5-780",
+      "question": "The minutes will be distributed ______ the meeting ends.",
+      "options": [
+        "unless",
+        "before",
+        "although",
+        "after"
+      ],
+      "answer": 3,
+      "explanation": "after 引导时间状语从句，表示“会议结束后分发”。"
+    },
+    {
+      "id": "toeic-p5-781",
+      "question": "The presentation will start ______ the CEO arrives.",
+      "options": [
+        "when",
+        "while",
+        "until",
+        "whereas"
+      ],
+      "answer": 0,
+      "explanation": "when 引导时间状语从句，表示“当总裁到达时”。"
+    },
+    {
+      "id": "toeic-p5-782",
+      "question": "I will send you the documents ______ I finish proofreading them.",
+      "options": [
+        "in spite of",
+        "as soon as",
+        "in case of",
+        "instead of"
+      ],
+      "answer": 1,
+      "explanation": "as soon as 引导时间状语从句，表示“一……就……”。"
+    },
+    {
+      "id": "toeic-p5-783",
+      "question": "The new project manager was ______ from our main competitor.",
+      "options": [
+        "to recruit",
+        "recruiting",
+        "recruited",
+        "will recruit"
+      ],
+      "answer": 2,
+      "explanation": "was recruited 为被动语态，表示“被招聘”。"
+    },
+    {
+      "id": "toeic-p5-784",
+      "question": "The quarterly report ______ to be completed by next Friday.",
+      "options": [
+        "will expect",
+        "expects",
+        "expecting",
+        "is expected"
+      ],
+      "answer": 3,
+      "explanation": "be expected to do 固定搭配，表示“预计要做”。"
+    },
+    {
+      "id": "toeic-p5-785",
+      "question": "The server room is located ______ the third floor of the building.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "on the third floor 表示“在三楼”，楼层前用 on。"
+    },
+    {
+      "id": "toeic-p5-786",
+      "question": "Our office is ______ the main conference center, so it is easy to find.",
+      "options": [
+        "across",
+        "next to",
+        "nearby",
+        "farther"
+      ],
+      "answer": 1,
+      "explanation": "next to 表示“紧邻”，位置关系最贴切。"
+    },
+    {
+      "id": "toeic-p5-787",
+      "question": "Please confirm your attendance ______ this Friday.",
+      "options": [
+        "at",
+        "on",
+        "by",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "by this Friday 表示“最迟本周五前”，固定时间表达。"
+    },
+    {
+      "id": "toeic-p5-788",
+      "question": "Thank you for your cooperation ______ our company guidelines.",
+      "options": [
+        "for following",
+        "to follow",
+        "with following",
+        "in following"
+      ],
+      "answer": 3,
+      "explanation": "cooperation in doing sth 固定搭配，表示“在某事上的配合”。"
+    },
+    {
+      "id": "toeic-p5-789",
+      "question": "The audit is scheduled to be completed ______ the end of the fiscal year.",
+      "options": [
+        "by",
+        "at",
+        "on",
+        "from"
+      ],
+      "answer": 0,
+      "explanation": "by the end of 表示“到……结束时为止”。"
+    },
+    {
+      "id": "toeic-p5-790",
+      "question": "The investment portfolio has ______ steadily since we began managing it.",
+      "options": [
+        "grow",
+        "grown",
+        "growing",
+        "grew"
+      ],
+      "answer": 1,
+      "explanation": "has grown 为现在完成时，与 since 搭配。"
+    },
+    {
+      "id": "toeic-p5-791",
+      "question": "All participants must ______ for the event at least one week in advance.",
+      "options": [
+        "registered",
+        "registers",
+        "register",
+        "registering"
+      ],
+      "answer": 2,
+      "explanation": "情态动词 must 后接动词原形 register。"
+    },
+    {
+      "id": "toeic-p5-792",
+      "question": "Full-time employees are entitled ______ to use the company car.",
+      "options": [
+        "by",
+        "for",
+        "of",
+        "to"
+      ],
+      "answer": 3,
+      "explanation": "be entitled to do 固定搭配，表示“有权做某事”。"
+    },
+    {
+      "id": "toeic-p5-793",
+      "question": "The venue provides ______ for all conference attendees.",
+      "options": [
+        "accommodations",
+        "accommodating",
+        "accommodated",
+        "accommodate"
+      ],
+      "answer": 0,
+      "explanation": "provide 后接名词，accommodations 表“住宿设施”。"
+    },
+    {
+      "id": "toeic-p5-794",
+      "question": "The sales team achieved ______ quarterly targets ahead of schedule.",
+      "options": [
+        "its",
+        "their",
+        "itself",
+        "they"
+      ],
+      "answer": 1,
+      "explanation": "team 指成员整体可用复数代词 their。"
+    },
+    {
+      "id": "toeic-p5-795",
+      "question": "The financial statement shows ______ growth compared with last quarter.",
+      "options": [
+        "significance",
+        "significantly",
+        "significant",
+        "signify"
+      ],
+      "answer": 2,
+      "explanation": "形容词 significant 修饰名词 growth，表示“显著的”。"
+    },
+    {
+      "id": "toeic-p5-796",
+      "question": "Customer feedback indicates a ______ level of satisfaction with our service.",
+      "options": [
+        "height",
+        "highly",
+        "higher",
+        "high"
+      ],
+      "answer": 3,
+      "explanation": "形容词 high 修饰名词 level，high level of 表“高水平的”。"
+    },
+    {
+      "id": "toeic-p5-797",
+      "question": "The product launch was ______ the market research data.",
+      "options": [
+        "based on",
+        "based in",
+        "basing on",
+        "base on"
+      ],
+      "answer": 0,
+      "explanation": "be based on 固定搭配，表示“基于……”。"
+    },
+    {
+      "id": "toeic-p5-798",
+      "question": "We will ______ whether to renew the contract after evaluating the results.",
+      "options": [
+        "decides",
+        "decide",
+        "decided",
+        "deciding"
+      ],
+      "answer": 1,
+      "explanation": "will 后接动词原形 decide。"
+    },
+    {
+      "id": "toeic-p5-799",
+      "question": "The exhibition schedule includes ______ networking sessions for attendees.",
+      "options": [
+        "little",
+        "much",
+        "several",
+        "plenty"
+      ],
+      "answer": 2,
+      "explanation": "several 修饰可数名词复数 sessions，表示“几个”。"
+    },
+    {
+      "id": "toeic-p5-800",
+      "question": "The conference venue is conveniently located ______ the city center.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "near"
+      ],
+      "answer": 3,
+      "explanation": "near 表示“靠近”，与 conveniently located 搭配自然。"
+    },
+    {
+      "id": "toeic-p5-801",
+      "question": "The system requires ______ updates to function properly.",
+      "options": [
+        "regular",
+        "regularly",
+        "regularity",
+        "regulate"
+      ],
+      "answer": 0,
+      "explanation": "形容词 regular 修饰名词 updates，表“定期的更新”。"
+    },
+    {
+      "id": "toeic-p5-802",
+      "question": "The shipment was ______ due to unexpected customs delays.",
+      "options": [
+        "delay",
+        "delayed",
+        "delaying",
+        "delays"
+      ],
+      "answer": 1,
+      "explanation": "was delayed 为被动语态，表示“被延误”。"
+    },
+    {
+      "id": "toeic-p5-803",
+      "question": "Our bank agrees to ______ competitive interest rates for overseas accounts.",
+      "options": [
+        "offered",
+        "offers",
+        "offer",
+        "offering"
+      ],
+      "answer": 2,
+      "explanation": "agree to do sth 固定搭配，to 后接动词原形 offer。"
+    },
+    {
+      "id": "toeic-p5-804",
+      "question": "The training session will be ______ in the main auditorium next Monday.",
+      "options": [
+        "holds",
+        "hold",
+        "holding",
+        "held"
+      ],
+      "answer": 3,
+      "explanation": "will be held 为被动语态将来时，表示“将被举行”。"
+    },
+    {
+      "id": "toeic-p5-805",
+      "question": "The logistics budget has been ______ managed this year.",
+      "options": [
+        "well",
+        "good",
+        "better",
+        "best"
+      ],
+      "answer": 0,
+      "explanation": "副词 well 修饰动词 managed，be well managed 表“管理良好”。"
+    },
+    {
+      "id": "toeic-p5-806",
+      "question": "The recruitment process has been ______ because of budget constraints.",
+      "options": [
+        "suspending",
+        "suspended",
+        "suspend",
+        "suspends"
+      ],
+      "answer": 1,
+      "explanation": "has been suspended 为现在完成被动，表示“已被暂停”。"
+    },
+    {
+      "id": "toeic-p5-807",
+      "question": "The marketing campaign should be ______ to the needs of younger consumers.",
+      "options": [
+        "tailor",
+        "tailoring",
+        "tailored",
+        "tailoredly"
+      ],
+      "answer": 2,
+      "explanation": "be tailored to 固定搭配，表示“为……量身定制”。"
+    },
+    {
+      "id": "toeic-p5-808",
+      "question": "The quarterly figures show ______ improvement over the same period last year.",
+      "options": [
+        "signify",
+        "significantly",
+        "significance",
+        "significant"
+      ],
+      "answer": 3,
+      "explanation": "形容词 significant 修饰名词 improvement。"
+    },
+    {
+      "id": "toeic-p5-809",
+      "question": "We should ______ the meeting agenda to all staff members in advance.",
+      "options": [
+        "circulate",
+        "circulating",
+        "circulated",
+        "to circulate"
+      ],
+      "answer": 0,
+      "explanation": "情态动词 should 后接动词原形 circulate，表示“传阅”。"
+    },
+    {
+      "id": "toeic-p5-810",
+      "question": "The client requested ______ presentation materials by tomorrow morning.",
+      "options": [
+        "a",
+        "the",
+        "an",
+        "these"
+      ],
+      "answer": 1,
+      "explanation": "the 表示特指双方已知的具体材料。"
+    },
+    {
+      "id": "toeic-p5-811",
+      "question": "After the meeting, the manager will ______ the action items to each department.",
+      "options": [
+        "distributed",
+        "distributing",
+        "distribute",
+        "to distribute"
+      ],
+      "answer": 2,
+      "explanation": "will 后接动词原形 distribute，表示“分发”。"
+    }
+  ]
+}

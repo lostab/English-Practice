@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg12" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg12)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#F59E0B">// HUAWEI · SMART CONTROL PANEL S2</text>
+<text x="94" y="140" font-family="Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#F8FAFC">华为智能中控屏 S2 深度拆解：前装成套与全屋智能入口</text>
+<rect x="96" y="160" width="560" height="3" rx="1.5" fill="#F59E0B"/>
+<text x="96" y="190" font-family="Arial, sans-serif" font-size="13" fill="#94A3B8">来源：consumer.huawei.com 官方全屋智能商用产品页（含工程专供官方标价）</text>
+
+<g transform="translate(96 220)">
+<rect x="0" y="0" width="540" height="380" rx="14" fill="#0E1830" stroke="#F59E0B"/>
+<text x="20" y="34" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">// 官方规格与价格（consumer.huawei.com）</text>
+<text x="20" y="70" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 10.4" 超高清触控屏 · 1670万色 · 自然色彩调节</text>
+<text x="20" y="100" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 中控屏 S2 官方标价：¥7,399（工程专供参考）</text>
+<text x="20" y="130" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 墙面 Dock（电源 + PLC 通信模块）：¥749</text>
+<text x="20" y="160" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 核心通信：PLC 电力线载波通信 + Wi-Fi 7 / 星闪双模</text>
+<text x="20" y="190" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 搭配主机：智能主机 SE（¥5,999）/ 主机 X2 Pro（¥24,999）</text>
+<text x="20" y="220" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 配套安防：AI 超感传感器（毫米波雷达 ¥1,199）· 门锁 E220（¥799）</text>
+<text x="20" y="256" font-family="Consolas, monospace" font-size="13" fill="#64748B">注：芯片/内存等底层参数未在全屋智能专区披露，以系统分布式流转为核心。</text>
+
+<rect x="560" y="0" width="528" height="380" rx="14" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="580" y="34" font-family="Consolas, monospace" font-size="15" fill="#FCD34D">// 产品定位与核心体验（官方口径）</text>
+<text x="580" y="70" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 墙面控制中心：取代传统开关面板，玄关/客厅/卧室多空间部署</text>
+<text x="580" y="100" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 小艺智慧语音：免提唤醒 · 连续对话 · 房间全能掌控</text>
+<text x="580" y="130" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 可视对讲：转接 Dock 联动智能门锁/门铃，门口画面一屏直达</text>
+<text x="580" y="160" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 场景引擎：离家/回家/睡眠/观影一键场景联动，毫米波雷达有人自动亮屏</text>
+<text x="580" y="190" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· HarmonyOS 分布式协同：设备间算力与能力无缝流转</text>
+<text x="580" y="220" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">· 前装成套优势：PLC 有线抗干扰极强，无惧墙体阻挡</text>
+</g>
+
+<rect x="96" y="620" width="1088" height="56" rx="12" fill="#0E1830" stroke="#1E3A5F"/>
+<text x="120" y="648" font-family="Arial, sans-serif" font-size="15" fill="#E2E8F0">华为定位：通过「PLC有线主机 + 墙面S2中控屏 + 星闪网关 + 专业一站式服务」，主打高端前装与整屋确定性体验</text>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">12 / 23</text>
+</svg>

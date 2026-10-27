@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "filename": "hv_color.jpg",
+      "source": "https://www.apple.com/newsroom/",
+      "license_tier": "no-attribution",
+      "attribution_text": "© Apple Newsroom（2026-10-13）",
+      "author": "Apple"
+    },
+    {
+      "filename": "hv_lineup.jpg",
+      "source": "https://www.apple.com/newsroom/",
+      "license_tier": "no-attribution",
+      "attribution_text": "© Apple Newsroom（2026-10-13）",
+      "author": "Apple"
+    },
+    {
+      "filename": "hw_s2_product.jpg",
+      "source": "https://consumer.huawei.com/cn/smart-home/",
+      "license_tier": "no-attribution",
+      "attribution_text": "© Huawei 官方产品页",
+      "author": "Huawei"
+    },
+    {
+      "filename": "hv_atv4k.jpg",
+      "source": "https://www.apple.com/newsroom/",
+      "license_tier": "no-attribution",
+      "attribution_text": "© Apple Newsroom（2026-10-13）",
+      "author": "Apple"
+    },
+    {
+      "filename": "hv_atv_home.jpg",
+      "source": "https://www.apple.com/newsroom/",
+      "license_tier": "no-attribution",
+      "attribution_text": "© Apple Newsroom（2026-10-13）",
+      "author": "Apple"
+    },
+    {
+      "filename": "hv_hpm2.jpg",
+      "source": "https://www.apple.com/newsroom/",
+      "license_tier": "no-attribution",
+      "attribution_text": "© Apple Newsroom（2026-10-13）",
+      "author": "Apple"
+    }
+  ]
+}

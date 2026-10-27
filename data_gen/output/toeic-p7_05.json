@@ -1,0 +1,644 @@
+{
+  "questions": [
+    {
+      "id": "toeic-p7-464",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Team\nFROM: Robert Chen, Sales Director\nDATE: October 12\nSUBJ: End-of-Quarter Review Meeting\n\nAll sales representatives are required to attend the quarterly review meeting on Friday at 2:00 p.m. in Conference Room B on the fourth floor. Please prepare your sales reports for the last three months and be ready to discuss your territory performance with the leadership team. Attendance will be taken, and latecomers will be marked as absent. If you cannot attend for an emergency, contact my assistant immediately to reschedule your session.",
+      "question": "When is the quarterly review meeting?",
+      "options": [
+        "Friday at 2:00 p.m.",
+        "Thursday morning",
+        "Monday at 9:00 a.m.",
+        "Wednesday afternoon"
+      ],
+      "answer": 0,
+      "explanation": "邮件中明确指出会议时间为周五下午两点（Friday at 2:00 p.m.）。"
+    },
+    {
+      "id": "toeic-p7-465",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Linda Martinez, HR Director\nDATE: November 5\nSUBJ: Benefits Open Enrollment\n\nThe annual benefits open enrollment period begins Monday, November 11 and ends Friday, November 22. All full-time employees must review the new plan options and make their selections online through the secure HR portal. Paper forms are available at the reception desk for those who need assistance. Employees who fail to enroll during this window will remain on their current plan automatically, and any changes will take effect on January 1.",
+      "question": "When does the benefits open enrollment period end?",
+      "options": [
+        "November 22",
+        "November 11",
+        "November 18",
+        "December 1"
+      ],
+      "answer": 0,
+      "explanation": "通知写明注册期为11月11日至22日，结束日期是Friday, November 22。"
+    },
+    {
+      "id": "toeic-p7-466",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Managers\nFROM: Karen White, Purchasing Director\nDATE: September 28\nSUBJ: Office Furniture Orders\n\nPlease submit your requests for new office furniture by Friday, October 6. All orders must be placed through our approved vendor, Metro Office Solutions, using the standard purchase order form. The vendor requires a minimum order of $2,500 to qualify for free delivery within the metropolitan area. Contact Janet Lee in the Purchasing department for product specifications and pricing before submitting your requests for approval.",
+      "question": "What is the deadline for submitting office furniture requests?",
+      "options": [
+        "October 1",
+        "October 13",
+        "October 20",
+        "October 6"
+      ],
+      "answer": 3,
+      "explanation": "邮件第一句即说明家具申请须于10月6日（Friday）前提交。"
+    },
+    {
+      "id": "toeic-p7-467",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Warehouse Staff\nFROM: Michael Torres, Logistics Manager\nDATE: October 18\nSUBJ: Holiday Shipping Schedule\n\nDue to the upcoming Thanksgiving holiday, shipping operations will be reduced from Tuesday, November 22 through Monday, November 28. Overnight and expedited shipments will be upgraded to next-day delivery at no additional charge for domestic orders. All regular ground deliveries will be delayed by one full day during the shutdown period. Please adjust your schedules accordingly and notify customers of the changes in advance of the holiday week.",
+      "question": "Until what date will shipping operations be reduced?",
+      "options": [
+        "November 28",
+        "November 21",
+        "November 22",
+        "December 1"
+      ],
+      "answer": 0,
+      "explanation": "文中说明发货业务缩减期从11月22日持续到Monday, November 28。"
+    },
+    {
+      "id": "toeic-p7-468",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Accounting Department\nFROM: David Park, Finance Manager\nDATE: October 3\nSUBJ: Q3 Expense Report Submission\n\nAll expense reports for the third quarter must be submitted by Friday, October 13 at 5:00 p.m. to the Finance Department office. Reports submitted after this deadline will not be processed until the next quarter, which may delay your reimbursement. Please ensure all original receipts are attached and that the total expenditure matches your approved budget for each project line item before you submit.",
+      "question": "What is the deadline for submitting Q3 expense reports?",
+      "options": [
+        "October 10 at 5:00 p.m.",
+        "October 15 at noon",
+        "October 13 at 3:00 p.m.",
+        "October 13 at 5:00 p.m."
+      ],
+      "answer": 3,
+      "explanation": "通知明确要求报销报告须于10月13日下午5点前提交。"
+    },
+    {
+      "id": "toeic-p7-469",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Team\nFROM: Sarah Johnson, Marketing Director\nDATE: November 20\nSUBJ: New Product Launch Strategy\n\nThe marketing campaign for our new software product will launch on Monday, December 5 across all major advertising channels. All promotional materials, including the website banner, email template, and social media graphics, have been approved by the legal team and are ready for deployment. The campaign budget is $45,000, with 60 percent of that amount allocated to digital advertising platforms. Please review your channel assignments before the launch date.",
+      "question": "What is the total budget for the marketing campaign?",
+      "options": [
+        "$45,000",
+        "$35,000",
+        "$40,000",
+        "$50,000"
+      ],
+      "answer": 0,
+      "explanation": "邮件末尾写明活动总预算为45,000美元（The campaign budget is $45,000）。"
+    },
+    {
+      "id": "toeic-p7-470",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Sales Representatives\nFROM: Emily Chang, Events Coordinator\nDATE: October 25\nSUBJ: Annual Conference Registration\n\nThe annual sales conference will be held on Tuesday, January 15, 2024 at the Downtown Convention Center in the main ballroom. Registration fees are $299 per person, with an early bird discount of $50 if payment is received by December 1. Cancellations must be received in writing at least two weeks prior to the event date for a full refund. Hotel reservations can be made through the conference booking portal.",
+      "question": "What is the early bird registration fee?",
+      "options": [
+        "$249",
+        "$259",
+        "$269",
+        "$279"
+      ],
+      "answer": 0,
+      "explanation": "注册费299美元，早鸟优惠50美元，即299-50=249美元。"
+    },
+    {
+      "id": "toeic-p7-471",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Customer Service Representatives\nFROM: James Liu, Customer Service Manager\nDATE: November 2\nSUBJ: System Maintenance Notification\n\nOur customer service system will be offline for scheduled maintenance on Saturday, November 10 from 2:00 a.m. to 8:00 a.m. local time. During this maintenance period, customers may reach our support team by phone at our temporary number: 1-800-555-0199. We apologize for any inconvenience this scheduled maintenance may cause to your workflow. Please update the customer contact information in your queue accordingly and inform your team members of the temporary number.",
+      "question": "How can customers contact the company during the system maintenance?",
+      "options": [
+        "By email to support@company.com",
+        "Through the live chat on our website",
+        "By visiting the downtown service center",
+        "By phone at 1-800-555-0199"
+      ],
+      "answer": 3,
+      "explanation": "通知说明维护期间客户可拨打临时电话1-800-555-0199联系。"
+    },
+    {
+      "id": "toeic-p7-472",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: HR Recruiters\nFROM: Patricia Green, Recruitment Manager\nDATE: October 15\nSUBJ: On-Site Interview Schedule\n\nInterviews for the Marketing Analyst position will be conducted on-site at our New York office on Friday, November 3. The interview panel consists of Sarah Johnson, Marketing Director; Michael Chen, Product Manager; and Robert Chen, Sales Director, who will each spend fifteen minutes with every candidate. Please bring two copies of each candidate's resume and their reference letters to the interview room. Candidate parking permits are available at the security desk.",
+      "question": "Where will the interviews for the Marketing Analyst position be held?",
+      "options": [
+        "At the New York office",
+        "At the Chicago branch",
+        "In Conference Room B",
+        "Online via video call"
+      ],
+      "answer": 0,
+      "explanation": "通知写明面试地点为公司纽约办公室（our New York office）。"
+    },
+    {
+      "id": "toeic-p7-473",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Staff\nFROM: Kevin Zhang, IT Director\nDATE: October 20\nSUBJ: Mandatory Password Reset\n\nAs part of our security upgrade initiative, all employees must reset their network passwords by Friday, October 27. The new password must be at least 10 characters long and include one uppercase letter, one lowercase letter, one number, and one special character from the approved list. Contact the IT Help Desk at extension 2345 if you need assistance with the reset process. Failure to comply may result in temporary account lockout.",
+      "question": "What are the requirements for the new network password?",
+      "options": [
+        "At least 8 characters with a number",
+        "At least 12 characters, letters only",
+        "9 characters with two special characters",
+        "10 characters with upper and lower case letters, a number and a special character"
+      ],
+      "answer": 3,
+      "explanation": "通知要求新密码至少10个字符，须含大小写字母、数字和特殊字符。"
+    },
+    {
+      "id": "toeic-p7-474",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Executive Team\nFROM: Lisa Wong, Office Manager\nDATE: November 1\nSUBJ: Travel Policy Update\n\nEffective December 1, the company travel policy will change to reflect current industry standards and cost savings goals. Business class airfare is now approved for trips exceeding three hours of flight time. Hotel reimbursement is capped at $200 per night for major cities and $150 for smaller markets. All travel expenses must be pre-approved by your department head before any booking is made. Detailed policy changes will be posted on the intranet.",
+      "question": "What is the new hotel reimbursement limit?",
+      "options": [
+        "$200 per night",
+        "$150 per night",
+        "$175 per night",
+        "$225 per night"
+      ],
+      "answer": 0,
+      "explanation": "通知指出酒店报销上限为每晚200美元（capped at $200 per night）。"
+    },
+    {
+      "id": "toeic-p7-475",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Robert Kim, HR Manager\nDATE: October 28\nSUBJ: Flexible Work Arrangement Applications\n\nApplications for flexible work arrangements must be submitted by Friday, November 10 for consideration during the next budget cycle. Eligible employees with a tenure of one year or more may work from home up to two days per week on approved schedules. Submit your application using form HR-101, which is available on the company intranet under the employee resources section. Your direct supervisor must approve the schedule before HR processes the request.",
+      "question": "How many days per week may eligible employees work from home?",
+      "options": [
+        "One day",
+        "Three days",
+        "Five days",
+        "Two days"
+      ],
+      "answer": 3,
+      "explanation": "通知说明符合条件的员工每周最多可在家工作两天（up to two days per week）。"
+    },
+    {
+      "id": "toeic-p7-476",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Heads\nFROM: Amanda Foster, Procurement Specialist\nDATE: November 3\nSUBJ: Vendor Information Request\n\nPlease provide details about vendors supplying office supplies to your department, including their names, contact persons, and annual purchase volume. Submit this information to purchasing@company.com by Monday, November 13 so that we can consolidate our purchasing volume. Late submissions will be combined into next quarter's vendor review report. Please include at least two alternative vendors for each category if you use multiple suppliers in your department.",
+      "question": "When is the deadline for submitting vendor information?",
+      "options": [
+        "November 10",
+        "November 13",
+        "November 15",
+        "November 17"
+      ],
+      "answer": 1,
+      "explanation": "通知要求供应商信息于11月13日（Monday）前发送至采购部邮箱。"
+    },
+    {
+      "id": "toeic-p7-477",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Project Managers\nFROM: Carlos Ramirez, Financial Controller\nDATE: October 10\nSUBJ: Q4 Budget Allocation\n\nThe total budget for Q4 projects across all departments is $500,000 for this fiscal quarter. Marketing initiatives receive 40 percent of the total funds, IT projects 35 percent, and other departments share the remaining 25 percent. All budget requests must be submitted through the financial portal by October 20 for review by the finance committee. Please reference your project codes when making your submission to the portal.",
+      "question": "What percentage of the Q4 budget is allocated to IT projects?",
+      "options": [
+        "35 percent",
+        "25 percent",
+        "30 percent",
+        "40 percent"
+      ],
+      "answer": 0,
+      "explanation": "邮件写明IT项目获得总预算的35%（IT projects 35 percent）。"
+    },
+    {
+      "id": "toeic-p7-478",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Marketing Staff\nFROM: Rachel Adams, Digital Marketing Manager\nDATE: November 12\nSUBJ: Holiday Contest Guidelines\n\nFor the upcoming holiday contest, all social media posts must use the official hashtag WinterSale2024 to be eligible for consideration. The best post wins a $500 gift card of their choice, and the winner will be announced on December 1. Submit your entries by December 10 through the contest portal. Winners will be notified by email within three business days. Entries must comply with all brand usage guidelines.",
+      "question": "What is the prize for the best social media contest post?",
+      "options": [
+        "A $250 gift card",
+        "A $500 gift card",
+        "A free company product",
+        "An extra vacation day"
+      ],
+      "answer": 1,
+      "explanation": "通知说明最佳帖子可获500美元礼品卡（wins a $500 gift card）。"
+    },
+    {
+      "id": "toeic-p7-479",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Distribution Center Staff\nFROM: Thomas Wu, Operations Manager\nDATE: October 5\nSUBJ: Inventory Count Schedule\n\nA full inventory count will occur on December 15 and 16 at the main distribution facility. All items must be verified against the system records by the inventory control team. Overnight shifts are available for additional overtime pay for those who volunteer. Report any discrepancies to the warehouse supervisor immediately after the count so that adjustments can be made before the quarterly financial audit. Please arrive fifteen minutes before your scheduled shift.",
+      "question": "When will the full inventory count take place?",
+      "options": [
+        "December 14 and 15",
+        "December 15 and 16",
+        "December 17 and 18",
+        "December 20 and 21"
+      ],
+      "answer": 1,
+      "explanation": "通知说明全面库存盘点定于12月15日和16日进行。"
+    },
+    {
+      "id": "toeic-p7-480",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Support Team\nFROM: Maria Lopez, Customer Experience Manager\nDATE: November 8\nSUBJ: New Ticketing System Training\n\nThe new ticketing system goes live on Monday, November 13 at 6:00 a.m. system time. Mandatory training sessions are scheduled for Friday, November 10 at 9:00 a.m. and 2:00 p.m. to accommodate all shifts. Attendance is required for all customer service representatives before they can access the live system. You must sign in at the training room located on the third floor. Additional make-up sessions will be offered the following week.",
+      "question": "When does the new ticketing system go live?",
+      "options": [
+        "November 13",
+        "November 8",
+        "November 10",
+        "November 15"
+      ],
+      "answer": 0,
+      "explanation": "通知第一句即说明新工单系统于11月13日（Monday）上线。"
+    },
+    {
+      "id": "toeic-p7-481",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Heads\nFROM: David Chen, CTO\nDATE: October 22\nSUBJ: Network Security Update\n\nNetwork firewalls will be upgraded on Saturday, October 28, during the low-traffic weekend window. Internet access may be intermittent from 8:00 a.m. to 4:00 p.m. during the upgrade process, so please plan your work accordingly. Please inform your teams and have offline work prepared in case connectivity is lost completely. Contact the IT department immediately if you experience connectivity issues after 4:00 p.m. so that technicians can investigate the problem.",
+      "question": "During what time period may internet access be interrupted?",
+      "options": [
+        "October 27, 8 a.m. to 4 p.m.",
+        "October 28, 8 a.m. to 4 p.m.",
+        "October 29, 9 a.m. to 3 p.m.",
+        "October 28, 9 a.m. to 5 p.m."
+      ],
+      "answer": 1,
+      "explanation": "通知说明10月28日当天上午8点至下午4点网络可能不稳定。"
+    },
+    {
+      "id": "toeic-p7-482",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Event Committee\nFROM: Jennifer Park, Events Manager\nDATE: November 1\nSUBJ: Holiday Party Vendor Contracts\n\nAll catering contracts for the company holiday party must be finalized by Friday, November 17 with our preferred catering vendor. The entertainment budget is $3,000 for music and an emcee for the evening event. The venue rental includes decorations and cleanup services as part of the standard package. Please confirm your vendor choices with me by November 20 so that contracts can be signed and deposits made. A venue tour is available on request.",
+      "question": "What is the entertainment budget for the holiday party?",
+      "options": [
+        "$2,000",
+        "$2,500",
+        "$3,500",
+        "$3,000"
+      ],
+      "answer": 3,
+      "explanation": "通知写明娱乐项目预算为3,000美元（entertainment budget is $3,000）。"
+    },
+    {
+      "id": "toeic-p7-483",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Managers\nFROM: Susan Miller, HR Business Partner\nDATE: October 18\nSUBJ: Performance Review Schedule\n\nQ4 performance reviews for all employees will be conducted from January 8 through January 19 during the first quarter of the new year. Direct reports must complete their self-assessments by December 15 so that reviewers have sufficient time to prepare. Please schedule your team's review meetings in December and send the calendar invitations as soon as possible. Review materials can be accessed through the HR portal under the employee performance section.",
+      "question": "By what date must employees complete their self-assessments?",
+      "options": [
+        "December 1",
+        "December 10",
+        "December 20",
+        "December 15"
+      ],
+      "answer": 3,
+      "explanation": "通知要求员工在12月15日前完成自我评估表。"
+    },
+    {
+      "id": "toeic-p7-484",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Buyers\nFROM: Michael Brown, Purchasing Manager\nDATE: October 29\nSUBJ: Supplier Evaluation Submission\n\nSubmit your quarterly supplier evaluations by Friday, November 10 using the standardized evaluation template. Use template EVAL-2024, which is available on the SharePoint site under the purchasing documents folder. Your evaluations should include quality ratings, delivery performance metrics, and cost comparison data for each supplier you worked with this quarter. Evaluations are used to determine future vendor contracts and pricing negotiations. Please complete all rating scales even if a supplier underperformed.",
+      "question": "When must the quarterly supplier evaluations be submitted?",
+      "options": [
+        "November 8",
+        "November 10",
+        "November 12",
+        "November 15"
+      ],
+      "answer": 1,
+      "explanation": "通知要求供应商评估报告于11月10日（Friday）前提交。"
+    },
+    {
+      "id": "toeic-p7-485",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Controllers\nFROM: Linda Chen, CFO\nDATE: November 5\nSUBJ: Expense Approval Process\n\nAll travel expenses over $1,000 require CFO approval before reimbursement is processed. Submit your requests through the secure expense portal with a detailed justification attached for each transaction. Flight upgrades such as business class must be pre-approved before booking and cannot be retroactively authorized. Non-compliance with this policy will result in the expenses being paid personally by the employee without reimbursement. Please direct any questions to the finance help desk.",
+      "question": "What is the approval threshold for CFO review of travel expenses?",
+      "options": [
+        "$500",
+        "$750",
+        "$1,500",
+        "$1,000"
+      ],
+      "answer": 3,
+      "explanation": "通知规定超过1,000美元的差旅费用须经CFO批准。"
+    },
+    {
+      "id": "toeic-p7-486",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Creative Team\nFROM: Alex Turner, Creative Director\nDATE: October 17\nSUBJ: New Brand Guidelines\n\nThe updated brand guidelines will be distributed on Monday, October 23 to all marketing and creative staff. All marketing materials, including brochures, digital ads, and social posts, must comply with the new guidelines by January 1, 2024. Logo files are available in the shared drive under the Brand Assets folder, organized by file type. Questions about specific applications can be sent to the design team for review before publication. A training webinar will be held next month.",
+      "question": "By what date must all marketing materials comply with the new brand guidelines?",
+      "options": [
+        "December 1, 2023",
+        "January 1, 2024",
+        "February 1, 2024",
+        "March 1, 2024"
+      ],
+      "answer": 1,
+      "explanation": "通知要求所有营销材料须在2024年1月1日前符合新品牌规范。"
+    },
+    {
+      "id": "toeic-p7-487",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Facilities Staff\nFROM: Robert Clark, Facilities Manager\nDATE: October 24\nSUBJ: Parking Restriction Notice\n\nParking in Garage Level 2 will be restricted from November 15 through November 17 for emergency construction work on the HVAC system. Alternative parking is available on Level 1 of the same garage during the restriction period. Please display your employee pass at all times when using the assigned parking spaces during this period. Shuttles will run from the north lot if the garage is completely full. Please park accordingly and report any issues to the facilities desk.",
+      "question": "When will the parking restriction in Garage Level 2 begin?",
+      "options": [
+        "November 10",
+        "November 14",
+        "November 16",
+        "November 15"
+      ],
+      "answer": 3,
+      "explanation": "通知说明2层车库自11月15日起因施工限制停车。"
+    },
+    {
+      "id": "toeic-p7-488",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Support Representatives\nFROM: Emily White, Customer Support Manager\nDATE: November 6\nSUBJ: Quarterly SLA Review\n\nQuarterly SLA review meetings are scheduled for November 20 at 3:00 p.m. in Conference Room A. Please bring your performance metrics and customer feedback summaries for the past three months. Action items will be documented during the meeting and distributed to all attendees afterward. These reviews help us identify areas for improvement in our service delivery. Attendance is mandatory for all tier 1 and tier 2 support staff.",
+      "question": "When is the quarterly SLA review meeting scheduled?",
+      "options": [
+        "November 18 at 3:00 p.m.",
+        "November 19 at 2:00 p.m.",
+        "November 20 at 3:00 p.m.",
+        "November 21 at 4:00 p.m."
+      ],
+      "answer": 2,
+      "explanation": "通知明确SLA季度评审会于11月20日下午3点举行。"
+    },
+    {
+      "id": "toeic-p7-489",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Users\nFROM: Alex Kumar, IT Security Lead\nDATE: October 12\nSUBJ: Security Awareness Training\n\nMandatory security training modules must be completed by Friday, October 27 by every employee with a network account. Access the training through the employee portal under the security education section, and each module takes about 20 minutes to complete. A certificate of completion will be recorded in your personnel file once all modules are finished successfully. Reports will be sent to department heads weekly to track compliance progress.",
+      "question": "What is the deadline for completing the mandatory security training?",
+      "options": [
+        "October 20",
+        "October 23",
+        "October 25",
+        "October 27"
+      ],
+      "answer": 3,
+      "explanation": "通知要求安全培训须在10月27日（Friday）前完成。"
+    },
+    {
+      "id": "toeic-p7-490",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Shipping Team\nFROM: David Lee, Logistics Coordinator\nDATE: November 4\nSUBJ: Carrier Contract Update\n\nCarrier contract negotiations will conclude on November 17 with our preferred shipping partner. The updated terms offer a five percent cost reduction with improved delivery windows for all domestic shipments. All purchase orders must reference the new contract number CO-2024-001 starting December 1. Contact me directly with any questions about the transition process. Updated shipping labels and tracking numbers will be provided by the vendor by November 25.",
+      "question": "When do purchase orders need to start referencing the new contract number?",
+      "options": [
+        "November 17",
+        "December 1",
+        "January 1",
+        "February 1"
+      ],
+      "answer": 1,
+      "explanation": "通知规定自12月1日起采购订单须引用新合同号CO-2024-001。"
+    },
+    {
+      "id": "toeic-p7-491",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Heads\nFROM: Karen Taylor, HR Director\nDATE: November 9\nSUBJ: Training Budget Requests\n\nSubmit your FY24 training budget requests by Friday, November 17 through the learning management portal. Individual employee training costs will be reimbursed up to $500 per person annually for approved courses. Leadership development programs require separate approval from the executive committee before any funding is allocated. Requests submitted after the deadline will be carried over to the next fiscal year. Please justify each training expense with business justification.",
+      "question": "What is the annual training reimbursement limit per employee?",
+      "options": [
+        "$250",
+        "$400",
+        "$500",
+        "$600"
+      ],
+      "answer": 2,
+      "explanation": "通知规定每位员工年度培训报销上限为500美元。"
+    },
+    {
+      "id": "toeic-p7-492",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Managers\nFROM: Sarah Connor, Procurement Manager\nDATE: October 26\nSUBJ: Equipment Maintenance Contract\n\nThe maintenance contract for all office equipment expires on November 30 and must be renewed or replaced before that date. Renewal negotiations are currently in progress, and new terms will be shared with you next week. Please review your equipment inventory and identify priority items for service coverage in the coming year. Contact my office if you need the current contract details for any specific equipment. A decision on renewal will be announced by December 5.",
+      "question": "When does the current office equipment maintenance contract expire?",
+      "options": [
+        "October 30",
+        "November 20",
+        "November 30",
+        "December 5"
+      ],
+      "answer": 2,
+      "explanation": "通知写明办公设备维修合同于11月30日到期。"
+    },
+    {
+      "id": "toeic-p7-493",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Project Teams\nFROM: James Wilson, Controller\nDATE: November 1\nSUBJ: Invoice Processing Schedule\n\nWeekly invoice processing occurs every Friday by 5:00 p.m. at the accounting department office. Invoices submitted after this time will be processed the following week, so please plan accordingly. Purchase orders must be attached for verification before any payment is released. Payment is typically issued within 30 days of approval by the accounting department. Please use the correct invoice number format to avoid any processing delays in your payment cycle.",
+      "question": "When are invoices processed each week?",
+      "options": [
+        "Monday at 9:00 a.m.",
+        "Wednesday at noon",
+        "Friday at 5:00 p.m.",
+        "Saturday at 10:00 a.m."
+      ],
+      "answer": 2,
+      "explanation": "通知说明发票每周五下午5点统一处理。"
+    },
+    {
+      "id": "toeic-p7-494",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Regional Managers\nFROM: Lisa Adams, Marketing VP\nDATE: October 21\nSUBJ: Campaign Budget Reallocation\n\nQ4 campaign budgets have been reallocated across all regional teams to reflect current market opportunities. Digital advertising has increased to 45 percent of total spending, while print media has been reduced to 15 percent of the budget. Regional teams must adjust their proposals accordingly starting October 23. Please confirm the new allocations in the shared budget file by October 30. Email me with any questions about your specific regional allocation.",
+      "question": "What percentage of the total spend is now allocated to digital advertising?",
+      "options": [
+        "35 percent",
+        "40 percent",
+        "45 percent",
+        "50 percent"
+      ],
+      "answer": 2,
+      "explanation": "邮件写明数字广告占总支出比例已提高至45%。"
+    },
+    {
+      "id": "toeic-p7-495",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: All Employees\nFROM: Michael Davis, Operations Director\nDATE: November 10\nSUBJ: Cafeteria Menu Update\n\nThe cafeteria will offer healthy vegetarian specials every Tuesday and Thursday starting November 15. The lunch special costs $8 and includes a beverage, while the dinner special costs $10 and is served until 7:00 p.m. Allergy information for all menu items is available online at the employee portal. Staff should check it before ordering to avoid any dietary issues. A full nutrition guide will be posted next week.",
+      "question": "What is the price of the cafeteria dinner special?",
+      "options": [
+        "$8",
+        "$9",
+        "$10",
+        "$11"
+      ],
+      "answer": 2,
+      "explanation": "通知写明晚餐特价为10美元（dinner special costs $10）。"
+    },
+    {
+      "id": "toeic-p7-496",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Tier 2 Support Staff\nFROM: Jennifer Brooks, Support Manager\nDATE: October 14\nSUBJ: Knowledge Base Update\n\nCustomer service knowledge base articles will be reviewed monthly starting November 1 by the support content team. Articles must be updated to reflect current policies and procedures. Submit update requests to kb-team@company.com with the subject line KB-Update so that the team can prioritize them correctly. Each request should include the article number and a description of the changes needed. Approved updates will be published within five business days.",
+      "question": "What subject line must be used when submitting knowledge base update requests?",
+      "options": [
+        "KB-Update",
+        "Knowledge Base",
+        "Article Update",
+        "Documentation"
+      ],
+      "answer": 0,
+      "explanation": "通知要求更新请求的邮件主题须为KB-Update。"
+    },
+    {
+      "id": "toeic-p7-497",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Developers\nFROM: Robert Kim, Engineering Manager\nDATE: November 3\nSUBJ: Code Review Process\n\nMandatory code reviews will be conducted for all merge requests submitted to the main development branch. Each review must be completed within 24 hours of submission to keep the development pipeline moving. At least one senior developer must approve before the merge takes place and the code is deployed. Documentation updates are required for any API changes included in the request. Unreviewed code will not be merged into production.",
+      "question": "Within how many hours must each code review be completed?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "48 hours",
+        "72 hours"
+      ],
+      "answer": 1,
+      "explanation": "通知要求代码审查须在提交后24小时内完成。"
+    },
+    {
+      "id": "toeic-p7-498",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Distribution Manager\nFROM: Ana Garcia, Logistics Director\nDATE: October 30\nSUBJ: Warehouse Expansion\n\nThe warehouse expansion project begins on November 15 at the main distribution facility. Loading dock operations will be relocated to the east side during construction to keep the workflow active. Temporary cross-docking is available at Facility B for overflow inventory. Please update the inventory system for the new storage locations before the project starts. A project manager will visit your team next week to discuss the transition plan.",
+      "question": "When does the warehouse expansion project begin?",
+      "options": [
+        "November 10",
+        "November 13",
+        "November 15",
+        "November 18"
+      ],
+      "answer": 2,
+      "explanation": "通知写明仓库扩建项目于11月15日启动。"
+    },
+    {
+      "id": "toeic-p7-499",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Recruitment Team\nFROM: David Lee, Talent Acquisition Manager\nDATE: November 11\nSUBJ: Interview Panel Training\n\nAll interviewers must complete the bias awareness training by Friday, November 17 before participating in any candidate interviews. The main training session is on November 14 at 10:00 a.m. in the training room, and an afternoon session is available on November 15 for those who cannot attend the morning. Attendance is mandatory for everyone on the interview panel. Certificates will be provided upon completion.",
+      "question": "What is the deadline for completing the bias awareness training?",
+      "options": [
+        "November 14",
+        "November 15",
+        "November 17",
+        "November 20"
+      ],
+      "answer": 2,
+      "explanation": "通知要求所有面试官须在11月17日前完成偏见意识培训。"
+    },
+    {
+      "id": "toeic-p7-500",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Heads\nFROM: Maria Garcia, Category Manager\nDATE: October 19\nSUBJ: Product Specification Update\n\nProduct specifications for office phones have been revised to include newer VoIP integration capabilities. The new models support VoIP integration and come in two colors: black and silver. The minimum order quantity is 50 units, with a one-time setup fee of $25 per order. Please contact the vendor to request sample units before placing your departmental order. Replacement part lead times have been reduced for the new models.",
+      "question": "What is the minimum order quantity for the new office phones?",
+      "options": [
+        "25 units",
+        "50 units",
+        "100 units",
+        "There is no minimum"
+      ],
+      "answer": 1,
+      "explanation": "通知说明新办公电话最小起订量为50台。"
+    },
+    {
+      "id": "toeic-p7-501",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Department Finance Staff\nFROM: Thomas Brown, Financial Analyst\nDATE: November 7\nSUBJ: Capital Expenditure Requests\n\nSubmit capital expenditure requests for equipment and infrastructure by Monday, November 13 through the finance portal. Each request must include an ROI analysis, vendor quotes, and an implementation timeline for the proposed purchase. CFO approval is required by November 20, and requests that miss this date will be reviewed in the next quarter's budget cycle. Please include a detailed cost breakdown with your submission. Questions can be directed to the capital projects team.",
+      "question": "By what date must capital expenditure requests receive CFO approval?",
+      "options": [
+        "November 13",
+        "November 18",
+        "November 20",
+        "November 24"
+      ],
+      "answer": 2,
+      "explanation": "通知规定资本支出申请须于11月20日前获得CFO批准。"
+    },
+    {
+      "id": "toeic-p7-502",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Content Team\nFROM: Jessica White, Content Manager\nDATE: October 23\nSUBJ: Newsletter Template Update\n\nThe quarterly newsletter template has been refreshed with a new layout and brand colors. The updated template is available on the shared drive under the Templates folder, listed as Q4-Newsletter. Submit the final newsletter versions by Friday, November 3, and include photos from our media library where appropriate. Copy edits must be completed before the layout is finalized. The newsletter will be published on the first Monday of December.",
+      "question": "What is the deadline for submitting the final newsletter versions?",
+      "options": [
+        "October 31",
+        "November 1",
+        "November 3",
+        "November 6"
+      ],
+      "answer": 2,
+      "explanation": "通知要求最终版新闻稿于11月3日（Friday）前提交。"
+    },
+    {
+      "id": "toeic-p7-503",
+      "exam": "toeic",
+      "section": "reading",
+      "part": 7,
+      "passage": "TO: Executive Support Staff\nFROM: Amanda Taylor, Executive Assistant\nDATE: November 13\nSUBJ: Conference Room Booking Procedure\n\nConference room bookings now require online submission through the scheduling portal on the company intranet. When booking, include your attendee list and equipment needs such as projectors and video conferencing. You will receive a confirmation within two business hours after your submission. Bookings made late on Friday may experience delays until the following Monday morning. Please cancel unused reservations at least 24 hours in advance.",
+      "question": "How soon should a booking confirmation be received?",
+      "options": [
+        "Within one hour",
+        "Within two business hours",
+        "Within one business day",
+        "On the same day only"
+      ],
+      "answer": 1,
+      "explanation": "通知说明预订确认会在两个工作小时内发出。"
+    }
+  ]
+}

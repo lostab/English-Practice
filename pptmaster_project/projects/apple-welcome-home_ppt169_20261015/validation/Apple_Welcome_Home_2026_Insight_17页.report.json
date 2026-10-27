@@ -1,0 +1,598 @@
+{
+  "schema": "ppt-master.pptx-postflight-report.v1",
+  "status": "passed-with-warnings",
+  "output": {
+    "path": "D:\\Work\\Hermes\\testprep-app\\pptmaster_project\\projects\\apple-welcome-home_ppt169_20261015\\exports\\Apple_Welcome_Home_2026_Insight_17页.pptx",
+    "bytes": 425592
+  },
+  "source": {
+    "svg_slide_count": 17,
+    "layout_definition_count": 0,
+    "fingerprint": {
+      "algorithm": "sha256",
+      "digest": "578b65a66af108196c36d4703aca974e615aae04d28b50471f4246145b0b149c",
+      "file_count": 17,
+      "files": [
+        {
+          "file": "slide_01_cover.svg",
+          "sha256": "51dd70c7bed3cbe99ed54b64f0884f7f88736b93d23c9a58dcbd5da7e0061460"
+        },
+        {
+          "file": "slide_02_agenda.svg",
+          "sha256": "fcb93e583b39fb5224388b21bed11382ce70114c84c1d4511900ba0adeb449c6"
+        },
+        {
+          "file": "slide_03_exec_summary.svg",
+          "sha256": "38c33b0944f28600d40f7879e7d68e5682b45ff26d3a25860ced4e9586fbb955"
+        },
+        {
+          "file": "slide_04_strategy.svg",
+          "sha256": "65a0d562f5b63dab05c23faf14bcc812bb2d0d0ffb64ad788b79470f9fbd8823"
+        },
+        {
+          "file": "slide_05_event.svg",
+          "sha256": "734e951616d8267f74d369a0d8fc82290f976cb0a17589ff5de578135343e087"
+        },
+        {
+          "file": "slide_06_homeview.svg",
+          "sha256": "5424d7123fa2d1e23d1e77248c3072aa80b1b31b9b56eb528136f895219cdeaa"
+        },
+        {
+          "file": "slide_07_homeview_ai.svg",
+          "sha256": "15df58954808e71ab6086cec28e41cb617aae03b9d77ef8bdead50f773860632"
+        },
+        {
+          "file": "slide_08_atv_hpm.svg",
+          "sha256": "b5a2268648518acf484887c1c26fb7dc0342d1da33e12be569ad852c7696b0f0"
+        },
+        {
+          "file": "slide_09_hw_specs.svg",
+          "sha256": "7c9bcc0e53041cd19c60fdc84953ff835db0be8087be8591cd68297ee3ec2362"
+        },
+        {
+          "file": "slide_10_voice_assistants.svg",
+          "sha256": "7c055193ceb9a0b3bed6558ac60399b406c6a1c6f3ab87ba28f58a7e3565ad5c"
+        },
+        {
+          "file": "slide_11_protocols.svg",
+          "sha256": "9a8e70b043bd728658fb6e41891e71d9c221f4dedc628300f8a8181e8e6d4183"
+        },
+        {
+          "file": "slide_12_hw_s2.svg",
+          "sha256": "d359f77fb33b1d6b98c8ac3a60bff6e2c3140110c9403dc6fa900ddf84dcb5da"
+        },
+        {
+          "file": "slide_13_xiaomi_11.svg",
+          "sha256": "bfe84ed1b054d0b0e4fa88918dd270b6923b49e1dd5737786b877970024057f4"
+        },
+        {
+          "file": "slide_14_ecosystem.svg",
+          "sha256": "7e535879507218e90b2095d5742a08b85e5b50e16f263625f42c3515880047c1"
+        },
+        {
+          "file": "slide_15_swot.svg",
+          "sha256": "352bbe619f3b99fd3fb6ecdda58002bcee64a943ac9a788b831a95825e0fe3ea"
+        },
+        {
+          "file": "slide_16_trends.svg",
+          "sha256": "f8cc701bb506755fcd32b3a2fa4e761dcae0fce0feea8ad9fe8d8b96d472e913"
+        },
+        {
+          "file": "slide_17_conclusion.svg",
+          "sha256": "34134d53707b83b52ddb6908568b2c77fd962509c53b147d7f75e8018db2737f"
+        }
+      ]
+    },
+    "authoring_roundtrip": null
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "slides": 17,
+    "notes": 0,
+    "masters": 1,
+    "layouts": 1
+  },
+  "checks": {
+    "zip_integrity": "passed",
+    "slide_count": "passed",
+    "internal_relationships": "enforced-at-build",
+    "structured_package": "not-applicable",
+    "transitions": "enforced-at-build",
+    "animations": "enforced-at-build",
+    "project_svg_contract": "enforced-at-build",
+    "compatibility_normalization": "not-applicable",
+    "authoring_roundtrip": "not-applicable",
+    "quality_gate": "passed",
+    "quality_warnings": "warning",
+    "template_tokens": "passed",
+    "external_images": "passed",
+    "font_portability": "passed"
+  },
+  "quality": {
+    "status": "loaded",
+    "path": "validation\\svg_quality_report.json",
+    "schema": "ppt-master.svg-quality-report.v1",
+    "stage": "final",
+    "source_match": "passed",
+    "source_fingerprint": {
+      "algorithm": "sha256",
+      "digest": "578b65a66af108196c36d4703aca974e615aae04d28b50471f4246145b0b149c",
+      "file_count": 17,
+      "files": [
+        {
+          "file": "slide_01_cover.svg",
+          "sha256": "51dd70c7bed3cbe99ed54b64f0884f7f88736b93d23c9a58dcbd5da7e0061460"
+        },
+        {
+          "file": "slide_02_agenda.svg",
+          "sha256": "fcb93e583b39fb5224388b21bed11382ce70114c84c1d4511900ba0adeb449c6"
+        },
+        {
+          "file": "slide_03_exec_summary.svg",
+          "sha256": "38c33b0944f28600d40f7879e7d68e5682b45ff26d3a25860ced4e9586fbb955"
+        },
+        {
+          "file": "slide_04_strategy.svg",
+          "sha256": "65a0d562f5b63dab05c23faf14bcc812bb2d0d0ffb64ad788b79470f9fbd8823"
+        },
+        {
+          "file": "slide_05_event.svg",
+          "sha256": "734e951616d8267f74d369a0d8fc82290f976cb0a17589ff5de578135343e087"
+        },
+        {
+          "file": "slide_06_homeview.svg",
+          "sha256": "5424d7123fa2d1e23d1e77248c3072aa80b1b31b9b56eb528136f895219cdeaa"
+        },
+        {
+          "file": "slide_07_homeview_ai.svg",
+          "sha256": "15df58954808e71ab6086cec28e41cb617aae03b9d77ef8bdead50f773860632"
+        },
+        {
+          "file": "slide_08_atv_hpm.svg",
+          "sha256": "b5a2268648518acf484887c1c26fb7dc0342d1da33e12be569ad852c7696b0f0"
+        },
+        {
+          "file": "slide_09_hw_specs.svg",
+          "sha256": "7c9bcc0e53041cd19c60fdc84953ff835db0be8087be8591cd68297ee3ec2362"
+        },
+        {
+          "file": "slide_10_voice_assistants.svg",
+          "sha256": "7c055193ceb9a0b3bed6558ac60399b406c6a1c6f3ab87ba28f58a7e3565ad5c"
+        },
+        {
+          "file": "slide_11_protocols.svg",
+          "sha256": "9a8e70b043bd728658fb6e41891e71d9c221f4dedc628300f8a8181e8e6d4183"
+        },
+        {
+          "file": "slide_12_hw_s2.svg",
+          "sha256": "d359f77fb33b1d6b98c8ac3a60bff6e2c3140110c9403dc6fa900ddf84dcb5da"
+        },
+        {
+          "file": "slide_13_xiaomi_11.svg",
+          "sha256": "bfe84ed1b054d0b0e4fa88918dd270b6923b49e1dd5737786b877970024057f4"
+        },
+        {
+          "file": "slide_14_ecosystem.svg",
+          "sha256": "7e535879507218e90b2095d5742a08b85e5b50e16f263625f42c3515880047c1"
+        },
+        {
+          "file": "slide_15_swot.svg",
+          "sha256": "352bbe619f3b99fd3fb6ecdda58002bcee64a943ac9a788b831a95825e0fe3ea"
+        },
+        {
+          "file": "slide_16_trends.svg",
+          "sha256": "f8cc701bb506755fcd32b3a2fa4e761dcae0fce0feea8ad9fe8d8b96d472e913"
+        },
+        {
+          "file": "slide_17_conclusion.svg",
+          "sha256": "34134d53707b83b52ddb6908568b2c77fd962509c53b147d7f75e8018db2737f"
+        }
+      ]
+    },
+    "summary": {
+      "total": 17,
+      "passed": 0,
+      "warnings": 17,
+      "errors": 0
+    },
+    "categories": {
+      "blocking": {
+        "count": 0,
+        "issues": []
+      },
+      "introduced": {
+        "count": 81,
+        "issues": [
+          {
+            "file": "slide_01_cover.svg",
+            "message": "Reference SVG: detected 3 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_01_cover.svg",
+            "message": "Top-level visible <g> #9 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_01_cover.svg",
+            "message": "Top-level visible <g> #10 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_01_cover.svg",
+            "message": "Top-level visible <g> #11 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_01_cover.svg",
+            "message": "8 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <text> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_01_cover.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_02_agenda.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_02_agenda.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_02_agenda.svg",
+            "message": "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_02_agenda.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_03_exec_summary.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_03_exec_summary.svg",
+            "message": "Top-level visible <g> #5 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_03_exec_summary.svg",
+            "message": "4 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_03_exec_summary.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_04_strategy.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_04_strategy.svg",
+            "message": "Detected 7 paragraph-like line run(s) split across sibling <text> elements (<g> x=20.0, y=94.0..120.0, 2 lines; <g> x=20.0, y=152.0..176.0, 2 lines; <g> x=20.0, y=94.0..120.0, 2 lines; +4 more). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+          },
+          {
+            "file": "slide_04_strategy.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_04_strategy.svg",
+            "message": "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_04_strategy.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_05_event.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_05_event.svg",
+            "message": "Detected 4 paragraph-like line run(s) split across sibling <text> elements (<g> x=16.0, y=84.0..132.0, 3 lines; <g> x=16.0, y=84.0..132.0, 3 lines; <g> x=16.0, y=84.0..132.0, 3 lines; +1 more). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+          },
+          {
+            "file": "slide_05_event.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_05_event.svg",
+            "message": "5 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_05_event.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_06_homeview.svg",
+            "message": "Reference SVG: detected 2 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_06_homeview.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_06_homeview.svg",
+            "message": "Top-level visible <g> #7 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_06_homeview.svg",
+            "message": "8 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_06_homeview.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_07_homeview_ai.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_07_homeview_ai.svg",
+            "message": "Detected 1 paragraph-like line run(s) split across sibling <text> elements (<g> x=20.0, y=262.0..290.0, 2 lines). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+          },
+          {
+            "file": "slide_07_homeview_ai.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_07_homeview_ai.svg",
+            "message": "8 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_07_homeview_ai.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_08_atv_hpm.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_08_atv_hpm.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_08_atv_hpm.svg",
+            "message": "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_08_atv_hpm.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_09_hw_specs.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_09_hw_specs.svg",
+            "message": "Top-level visible <g> #7 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_09_hw_specs.svg",
+            "message": "8 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_09_hw_specs.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_10_voice_assistants.svg",
+            "message": "Reference SVG: detected 3 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_10_voice_assistants.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_10_voice_assistants.svg",
+            "message": "Top-level visible <g> #7 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_10_voice_assistants.svg",
+            "message": "Top-level visible <g> #8 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_10_voice_assistants.svg",
+            "message": "8 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_10_voice_assistants.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_11_protocols.svg",
+            "message": "Reference SVG: detected 2 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_11_protocols.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_11_protocols.svg",
+            "message": "Top-level visible <g> #7 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_11_protocols.svg",
+            "message": "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_11_protocols.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_12_hw_s2.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_12_hw_s2.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_12_hw_s2.svg",
+            "message": "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_12_hw_s2.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_13_xiaomi_11.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_13_xiaomi_11.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_13_xiaomi_11.svg",
+            "message": "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_13_xiaomi_11.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_14_ecosystem.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_14_ecosystem.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_14_ecosystem.svg",
+            "message": "7 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_14_ecosystem.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_15_swot.svg",
+            "message": "Reference SVG: detected 3 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_15_swot.svg",
+            "message": "Top-level visible <g> #5 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_15_swot.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_15_swot.svg",
+            "message": "Top-level visible <g> #7 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_15_swot.svg",
+            "message": "6 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_15_swot.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_16_trends.svg",
+            "message": "Reference SVG: detected 1 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_16_trends.svg",
+            "message": "Detected 4 paragraph-like line run(s) split across sibling <text> elements (<g> x=20.0, y=68.0..96.0, 2 lines; <g> x=20.0, y=68.0..96.0, 2 lines; <g> x=20.0, y=232.0..260.0, 2 lines; +1 more). If each run is one prose paragraph, combine it into one <text>: keep its first line as direct text and use direct <tspan> children with the parent x and positive relative dy values for later lines. An all-<tspan> form may start with dy=\"0\". Keep semantically independent text frames separate."
+          },
+          {
+            "file": "slide_16_trends.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_16_trends.svg",
+            "message": "9 ungrouped top-level Slide-local element(s) in svg_output (<text> #2, <text> #3, <rect> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_16_trends.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          },
+          {
+            "file": "slide_17_conclusion.svg",
+            "message": "Reference SVG: detected 2 visible root-level <g> module(s) without explicit data-pptx-bounds (<g>; <g>); every final-page/template root <g> other than a compact authored-preset atom declares its root-coordinate layout subcanvas even when it also carries native coordinates"
+          },
+          {
+            "file": "slide_17_conclusion.svg",
+            "message": "Top-level visible <g> #6 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_17_conclusion.svg",
+            "message": "Top-level visible <g> #7 has no id; object-level animation config cannot reference it"
+          },
+          {
+            "file": "slide_17_conclusion.svg",
+            "message": "6 ungrouped top-level Slide-local element(s) in svg_output (<rect> #2, <text> #3, <text> #4, ...); group only logical content units in a top-level <g id=\"...\">. Keep genuine static page framing as a root primitive and declare a supported data-pptx-role such as \"background\" or \"decoration\""
+          },
+          {
+            "file": "slide_17_conclusion.svg",
+            "message": "page SVG is missing root data-pptx-page-role"
+          }
+        ]
+      },
+      "inherited": {
+        "count": 0,
+        "issues": []
+      },
+      "source-import": {
+        "count": 0,
+        "summary": {
+          "warning_count": 0,
+          "by_code": {}
+        }
+      }
+    }
+  },
+  "resources": {
+    "unresolved_template_tokens": [],
+    "fonts": {
+      "stacks": [
+        "Arial, sans-serif",
+        "Consolas, monospace",
+        "Helvetica Neue, Arial, sans-serif",
+        "Helvetica Neue, sans-serif"
+      ],
+      "generic_only_stacks": [],
+      "unsafe_exported_faces": []
+    },
+    "images": {
+      "data_uri": 0,
+      "local": 7,
+      "external": 0,
+      "external_references": []
+    }
+  },
+  "export_policy": {
+    "project_svg_contract": "strict",
+    "dangerous_normalization_count": 0
+  },
+  "deck_motion": {
+    "transition": {
+      "effect": "fade",
+      "effect_options": {},
+      "duration": 0.4,
+      "auto_advance": null,
+      "sound": null
+    },
+    "animation": {
+      "effect": "none",
+      "effect_request": null,
+      "duration": 0.4,
+      "stagger": 0.5,
+      "trigger": "after-previous"
+    },
+    "cli_overrides": {
+      "transition": false,
+      "transition_duration": false,
+      "auto_advance": false,
+      "transition_sound": false,
+      "animation": false,
+      "animation_duration": false,
+      "animation_stagger": false,
+      "animation_trigger": false
+    },
+    "narration_timings": false
+  },
+  "backup_path": null,
+  "conversion_trace_path": null
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<defs><linearGradient id="bg25" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070F"/><stop offset="1" stop-color="#0A1120"/></linearGradient></defs>
+<rect width="1280" height="720" fill="url(#bg25)"/>
+<text x="96" y="80" font-family="Consolas, monospace" font-size="20" letter-spacing="4" fill="#22D3EE">// THANKS · 致谢</text>
+<text x="94" y="300" font-family="Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#F8FAFC">感谢阅读</text>
+<text x="96" y="356" font-family="Arial, sans-serif" font-size="18" fill="#94A3B8">探索智能家居新生态 · 共创美好智慧生活</text>
+<text x="96" y="400" font-family="Arial, sans-serif" font-size="14" fill="#64748B">Apple Welcome Home 2026 · 智能家居竞品洞察报告</text>
+<rect x="96" y="436" width="200" height="3" rx="1.5" fill="#22D3EE"/>
+<text x="1210" y="690" font-family="Consolas, monospace" font-size="15" fill="#475569">23 / 23</text>
+</svg>

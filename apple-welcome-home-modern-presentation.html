@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple 'Welcome Home' 2026 智能家居竞品洞察报告</title>
+    <style>
+        :root {
+            --bg: #09090b;
+            --surface: #121216;
+            --surface-border: rgba(255, 255, 255, 0.08);
+            --text-primary: #f4f4f5;
+            --text-secondary: #a1a1aa;
+            --accent: #3b82f6;
+            --accent-glow: rgba(59, 130, 246, 0.2);
+            --success: #10b981;
+            --danger: #ef4444;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            background-color: var(--bg);
+            color: var(--text-primary);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            overflow: hidden;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* Presentation Container (16:9 Aspect Ratio Container) */
+        .deck-container {
+            width: 100vw;
+            height: 100vh;
+            max-width: 1920px;
+            max-height: 1080px;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 4rem 6rem;
+        }
+
+        /* Slides Wrapper */
+        .slide {
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%;
+            animation: fadeIn 0.4s ease-out forwards;
+        }
+
+        .slide.active {
+            display: flex;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Typography */
+        .badge {
+            display: inline-block;
+            padding: 0.375rem 0.75rem;
+            background: rgba(59, 130, 246, 0.1);
+            color: var(--accent);
+            border: 1px solid rgba(59, 130, 246, 0.2);
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+            width: fit-content;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            line-height: 1.1;
+            letter-spacing: -0.02em;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(to right, #ffffff, #a1a1aa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+            margin-bottom: 2rem;
+            color: #fff;
+        }
+
+        p, li {
+            font-size: 1.25rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        /* Layout Grids */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem;
+            align-items: center;
+        }
+
+        .grid-3 {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.5rem;
+        }
+
+        /* Cards & Glassmorphism */
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--surface-border);
+            border-radius: 16px;
+            padding: 2rem;
+            position: relative;
+            overflow: hidden;
+            transition: border-color 0.2s;
+        }
+
+        .card:hover {
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .card h3 {
+            font-size: 1.5rem;
+            color: #fff;
+            margin-bottom: 0.75rem;
+        }
+
+        .card .highlight {
+            font-size: 2.25rem;
+            font-weight: 700;
+            color: var(--accent);
+            margin-bottom: 0.5rem;
+        }
+
+        /* Timeline / Steps */
+        .timeline-container {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .timeline-step {
+            background: var(--surface);
+            border: 1px solid var(--surface-border);
+            border-radius: 12px;
+            padding: 1.5rem;
+            position: relative;
+        }
+
+        .timeline-step .year {
+            font-size: 0.875rem;
+            font-weight: 700;
+            color: var(--accent);
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+        }
+
+        /* Comparison Table */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: var(--surface);
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid var(--surface-border);
+        }
+
+        th, td {
+            padding: 1.25rem 1.5rem;
+            text-align: left;
+            border-bottom: 1px solid var(--surface-border);
+            font-size: 1.1rem;
+        }
+
+        th {
+            background: rgba(255, 255, 255, 0.02);
+            color: #fff;
+            font-weight: 600;
+        }
+
+        td { color: var(--text-secondary); }
+        td:first-child { color: #fff; font-weight: 600; }
+
+        .tag-win { color: var(--success); font-weight: 600; }
+        .tag-lose { color: var(--danger); font-weight: 600; }
+
+        /* Navigation Footer */
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid var(--surface-border);
+            padding-top: 1.5rem;
+        }
+
+        .nav-controls {
+            display: flex;
+            gap: 1rem;
+        }
+
+        button {
+            background: var(--surface);
+            color: #fff;
+            border: 1px solid var(--surface-border);
+            padding: 0.75rem 1.25rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        button:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-color: rgba(255, 255, 255, 0.3);
+        }
+
+        .slide-counter {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+        }
+    </style>
+</head>
+<body>
+
+<div class="deck-container">
+
+    <!-- Slide 1: Title -->
+    <div class="slide active">
+        <div class="badge">Insight Report & Analysis</div>
+        <h1>Apple 'Welcome Home' 2026<br>智能家居竞品深度洞察报告</h1>
+        <p style="font-size: 1.5rem; margin-top: 1rem;">Apple vs Huawei vs Xiaomi: 战略复盘与硬核规格对标</p>
+        <p style="color: var(--text-secondary); margin-top: 2rem;">2026.10.13 特别发布会实录</p>
+    </div>
+
+    <!-- Slide 2: Historical Overview -->
+    <div class="slide">
+        <div class="badge">Evolution</div>
+        <h2>历代苹果智能家居演进脉络</h2>
+        <div class="timeline-container">
+            <div class="timeline-step">
+                <div class="year">2014 - 2016</div>
+                <h3>标准奠定</h3>
+                <p style="font-size: 1rem; margin-top: 0.5rem;">发布 HomeKit 架构与 Home app，确立严苛安全标准与认证体系。</p>
+            </div>
+            <div class="timeline-step">
+                <div class="year">2020</div>
+                <h3>硬件切入</h3>
+                <p style="font-size: 1rem; margin-top: 0.5rem;">推出首款 HomePod mini ($99)，以极高性价比切入入口级智能音箱市场。</p>
+            </div>
+            <div class="timeline-step">
+                <div class="year">2022 - 2025</div>
+                <h3>生态破壁</h3>
+                <p style="font-size: 1rem; margin-top: 0.5rem;">全面拥抱 Matter 1.0 跨品牌互联，并于 2025 年预览独立操作系统 homeOS。</p>
+            </div>
+            <div class="timeline-step" style="border-color: var(--accent);">
+                <div class="year">2026.10.13</div>
+                <h3>核心叙事</h3>
+                <p style="font-size: 1rem; margin-top: 0.5rem;">举行 'Welcome home' 专场，智能家居由配角正式升格为核心战略。</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 3: Event Overview -->
+    <div class="slide">
+        <div class="badge">Event Overview</div>
+        <h2>本次发布会核心亮点概要</h2>
+        <div class="grid-3">
+            <div class="card">
+                <div class="highlight">HomeView</div>
+                <h3>首款带屏中枢</h3>
+                <p style="font-size: 1rem;">搭载 7 寸 Liquid Retina 屏幕与 A18 芯片，深度集成 Apple Intelligence 与 Siri AI。</p>
+            </div>
+            <div class="card">
+                <div class="highlight">Home Collection</div>
+                <h3>生态联盟赋能</h3>
+                <p style="font-size: 1rem;">联合 LG 与 Schneider Electric 推出高端定制配件矩阵，并引入 ADT 专业上门安装。</p>
+            </div>
+            <div class="card">
+                <div class="highlight">$299</div>
+                <h3>极具侵略性定价</h3>
+                <p style="font-size: 1rem;">HomeView 桌面/壁挂统一售价 $299，标志着苹果主动下探智能家居生态门槛。</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 4: HomeView Details -->
+    <div class="slide">
+        <div class="badge">Hardware Deep Dive</div>
+        <h2>HomeView: 苹果的家庭计算核心</h2>
+        <div class="grid-2">
+            <div>
+                <ul style="list-style: none; display: flex; flex-direction: column; gap: 1rem;">
+                    <li>✨ <strong>显示与光学</strong>: 7 英寸 Liquid Retina 方形屏 (1088x1088)，支持 True Tone，峰值 500 nits / 夜间下探 0.3 nits。</li>
+                    <li>✨ <strong>算力与 AI</strong>: 搭载 A18 芯片，支持 Apple Intelligence 与个人上下文理解的 Siri AI。</li>
+                    <li>✨ <strong>视讯与音频</strong>: 12MP Center Stage 摄像头（支持动态人物居中），四阵列远场麦克风 + 杜比全景声球形扬声器。</li>
+                    <li>✨ <strong>连接协议</strong>: Wi-Fi 6E、Bluetooth 6.0、Thread 协议，全面原生支持 Matter 联动。</li>
+                </ul>
+            </div>
+            <div class="card" style="background: rgba(59, 130, 246, 0.05); border-color: rgba(59, 130, 246, 0.2);">
+                <h3>发售与局限</h3>
+                <p style="font-size: 1.1rem; margin-bottom: 1rem;"><strong>定价</strong>: $299 (桌面版/壁挂版同价，壁挂需另配 Schneider 专用支架 $59-$129)。</p>
+                <p style="font-size: 1.1rem; color: var(--danger);"><strong>欧盟监管阻碍</strong>: 因 Siri AI 监管合规问题，首发暂不登陆欧盟市场，苹果正积极协商。</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 5: Competitor Comparison Matrix -->
+    <div class="slide">
+        <div class="badge">Competitive Analysis</div>
+        <h2>三方核心规格与定位深度对标</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>对比维度</th>
+                    <th>Apple HomeView</th>
+                    <th>华为全屋智能 S2</th>
+                    <th>小米智能家庭屏 Pro 8</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>屏幕与形态</td>
+                    <td>7寸正方 (1088x1088), 桌/壁挂</td>
+                    <td>10.4寸 FHD+ (1920x1200), 墙/桌/手持</td>
+                    <td>8寸 (触控+电池便携)</td>
+                </tr>
+                <tr>
+                    <td>核心处理器</td>
+                    <td>A18 + Apple Intelligence</td>
+                    <td>未公开 (主机X2Pro搭载麒麟9020)</td>
+                    <td>超级小爱 AI 大模型</td>
+                </tr>
+                <tr>
+                    <td>摄像头视讯</td>
+                    <td class="tag-win">12MP Center Stage 居中</td>
+                    <td class="tag-lose">无 (主打纯控制与语音)</td>
+                    <td>部分型号支持远程看护</td>
+                </tr>
+                <tr>
+                    <td>生态与协议</td>
+                    <td>Matter, Thread, HomeKit</td>
+                    <td>鸿蒙 HarmonyOS Home, PLC</td>
+                    <td>米家 IoT, 蓝牙 Mesh, Zigbee</td>
+                </tr>
+                <tr>
+                    <td>国内售价</td>
+                    <td>$299 (约¥2150+支架)</td>
+                    <td>¥3999 ~ ¥7399 (中控+主机组合)</td>
+                    <td class="tag-win">¥699 (极致性价比)</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Slide 6: Strategic Conclusion -->
+    <div class="slide">
+        <div class="badge">Strategic Conclusion</div>
+        <h2>苹果智能家居战略思考与未来演进</h2>
+        <div class="grid-3">
+            <div class="card">
+                <h3>战略转型</h3>
+                <p style="font-size: 1rem;">将智能家居从附属配件提升为核心叙事，homeOS 独立化标志着苹果对家庭场景的长期下注。</p>
+            </div>
+            <div class="card">
+                <h3>隐私护城河</h3>
+                <p style="font-size: 1rem;">坚持端侧计算与 iCloud+ 隐私加密，多用户面部识别隔离个人数据，差异化于国产厂商。</p>
+            </div>
+            <div class="card">
+                <h3>未来演进</h3>
+                <p style="font-size: 1rem;">短期深化 Matter 生态；中长期向车载、可穿戴延伸，最终与 Apple Vision Pro 深度融合打造 AR 空间交互。</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation Footer -->
+    <div class="footer">
+        <div class="slide-counter">Slide <span id="current-slide">1</span> / 6</div>
+        <div class="nav-controls">
+            <button onclick="prevSlide()">← 上一页 (Left)</button>
+            <button onclick="nextSlide()">下一页 (Right) →</button>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.slide');
+    const counter = document.getElementById('current-slide');
+
+    function showSlide(index) {
+        if (index < 0) index = slides.length - 1;
+        if (index >= slides.length) index = 0;
+        
+        slides.forEach(s => s.classList.remove('active'));
+        slides[index].classList.add('active');
+        currentSlide = index;
+        counter.textContent = currentSlide + 1;
+    }
+
+    function nextSlide() { showSlide(currentSlide + 1); }
+    function prevSlide() { showSlide(currentSlide - 1); }
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight' || e.key === 'Space') nextSlide();
+        if (e.key === 'ArrowLeft') prevSlide();
+    });
+</script>
+
+</body>
+</html>
